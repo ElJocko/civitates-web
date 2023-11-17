@@ -1,12 +1,14 @@
 {
   "main": "/index.js",
-  "devDependencies": {},
   "name": "civitates-web",
   "description": null,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "homepage": "https://eljocko.github.io",
   "scripts": {
     "start": "BROWSER=none PORT=2000 react-scripts start",
-    "build": "BUILD_PATH='./docs' react-scripts build",
+    "build": "react-scripts build",
+    "redeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
@@ -29,5 +31,8 @@
     "react-scripts": "^5.0.0",
     "react-slider": "^2.0.6",
     "serve": "^14.2.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
