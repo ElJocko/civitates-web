@@ -12747,6 +12747,327 @@
                     98573235.1799377
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.6278",
+                    "43.6767"
+                ]
+            },
+            "properties": {
+                "identifier": "Arles",
+                "latitude": "43.6767",
+                "longitude": "4.6278",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-123",
+                        "endDate": "299",
+                        "preferredName": "Arelate",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "300",
+                        "endDate": "734",
+                        "preferredName": "Arelate",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "735",
+                        "endDate": "932",
+                        "preferredName": "Arles",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "933",
+                        "endDate": "2100",
+                        "preferredName": "Arles",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Arles",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Arelate",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Ariate civitas",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Arle",
+                        "language": "EarlyFrench"
+                    }
+                ],
+                "mapPoint": [
+                    137668465.78688002,
+                    97942642.77876475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.14569",
+                    "46.20222"
+                ]
+            },
+            "properties": {
+                "identifier": "Geneva",
+                "latitude": "46.20222",
+                "longitude": "6.14569",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-121",
+                        "endDate": "-59",
+                        "preferredName": "Geneva",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-58",
+                        "endDate": "2100",
+                        "preferredName": "Geneva",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Geneva",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Gen\u00e8ve",
+                        "language": "French"
+                    }
+                ],
+                "mapPoint": [
+                    138800286.6044018,
+                    95281611.36522791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "5.38107",
+                    "43.29695"
+                ]
+            },
+            "properties": {
+                "identifier": "Marseille",
+                "latitude": "43.29695",
+                "longitude": "5.38107",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "-401",
+                        "preferredName": "Massalia",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-400",
+                        "endDate": "-50",
+                        "preferredName": "Massalia",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-49",
+                        "endDate": "738",
+                        "preferredName": "Massilia",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "739",
+                        "endDate": "1449",
+                        "preferredName": "Marseille",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1450",
+                        "endDate": "2100",
+                        "preferredName": "Marseille",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Marseille",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Massalia",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Massilia",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    138230144.60893866,
+                    98332926.49567157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "3",
+                    "43.18333"
+                ]
+            },
+            "properties": {
+                "identifier": "Narbonne",
+                "latitude": "43.18333",
+                "longitude": "3",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-118",
+                        "endDate": "719",
+                        "preferredName": "Narbo",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "720",
+                        "endDate": "758",
+                        "preferredName": "Narbo",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "759",
+                        "endDate": "2100",
+                        "preferredName": "Narbonne",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Narbonne",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Colonia Narbo Martius",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Narbo",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Narbona",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    136454690.13333333,
+                    98449223.74362528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "1.44367",
+                    "43.60426"
+                ]
+            },
+            "properties": {
+                "identifier": "Toulouse",
+                "latitude": "43.60426",
+                "longitude": "1.44367",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-150",
+                        "endDate": "-51",
+                        "preferredName": "Tolosa",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-50",
+                        "endDate": "780",
+                        "preferredName": "Tolosa",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "781",
+                        "endDate": "2100",
+                        "preferredName": "Toulouse",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Toulouse",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Tolosa",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    135294206.37434313,
+                    98017281.92364852
+                ]
+            }
         }
     ]
 }
