@@ -1,4 +1,5 @@
 import './App.css';
+import cityData from './data/city.json';
 
 // react
 import React, { useState, useEffect } from 'react';
@@ -29,26 +30,21 @@ function App() {
     const [ features, setFeatures ] = useState([]);
 
     useEffect( () => {
-        fetch('/city.json')
-            .then(response => response.json())
-            .then( (fetchedFeatures) => {
-                console.log(`fetchedFeatures.type = ${ fetchedFeatures.type }`);
-                // parse fetched geojson into OpenLayers features
-                // use options to convert feature from EPSG:4326 to EPSG:3857
-                const wktOptions = {
-                    dataProjection: 'EPSG:4326',
-                    featureProjection: 'EPSG:3857'
-                };
-                const parsedFeatures = new GeoJSON().readFeatures(fetchedFeatures, wktOptions);
-                const featuresForYear = parsedFeatures.filter((feature) => filterByYear(feature, initialYear));
+        // parse fetched geojson into OpenLayers features
+        // use options to convert feature from EPSG:4326 to EPSG:3857
+        const wktOptions = {
+            dataProjection: 'EPSG:4326',
+            featureProjection: 'EPSG:3857'
+        };
+        const parsedFeatures = new GeoJSON().readFeatures(cityData, wktOptions);
+        const featuresForYear = parsedFeatures.filter((feature) => filterByYear(feature, initialYear));
 
-                console.log(`started with ${ parsedFeatures.length } features, filtered to ${ featuresForYear.length } features for year ${ initialYear }`);
+        console.log(`started with ${ parsedFeatures.length } features, filtered to ${ featuresForYear.length } features for year ${ initialYear }`);
 
-                // set features into state (which will be passed into OpenLayers map component as props)
-                setAllFeatures(parsedFeatures);
-                setFeatures(featuresForYear);
-            });
-    },[]);
+        // set features into state (which will be passed into OpenLayers map component as props)
+        setAllFeatures(parsedFeatures);
+        setFeatures(featuresForYear);
+    }, []);
 
     function yearSliderChangeHandler(year) {
         const featuresForYear = allFeatures.filter((feature) => filterByYear(feature, year));

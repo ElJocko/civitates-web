@@ -3,7 +3,7 @@
   "name": "civitates-web",
   "description": null,
   "version": "1.0.0",
-  "homepage": "https://eljocko.github.io",
+  "homepage": "https://eljocko.github.io/civitates-web",
   "scripts": {
     "start": "BROWSER=none PORT=2000 react-scripts start",
     "build": "react-scripts build",
