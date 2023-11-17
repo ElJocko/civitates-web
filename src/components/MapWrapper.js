@@ -103,7 +103,8 @@ function MapWrapper({ features }) {
                 center: romeCoordinates3857,
                 zoom: 6,
                 minZoom: 1,
-                maxZoom: 11
+                maxZoom: 11,
+                enableRotation: false
             }),
             controls: []
         });
