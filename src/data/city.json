@@ -10410,6 +10410,100 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "35.32889",
+                    "37.00167"
+                ]
+            },
+            "properties": {
+                "identifier": "Adana",
+                "latitude": "37.00167",
+                "longitude": "35.32889",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-1600",
+                        "endDate": "620",
+                        "preferredName": "Adana",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "758",
+                        "endDate": "2100",
+                        "preferredName": "Adana",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Adana",
+                        "language": "Hittite"
+                    }
+                ],
+                "mapPoint": [
+                    160560857.7142329,
+                    104481592.1385896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "32.85427",
+                    "39.91987"
+                ]
+            },
+            "properties": {
+                "identifier": "Ankara",
+                "latitude": "39.91987",
+                "longitude": "32.85427",
+                "elevation": "850",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-1000",
+                        "endDate": "1073",
+                        "preferredName": "\u00c1nkyra",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1074",
+                        "endDate": "2100",
+                        "preferredName": "Ankara",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ankara",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "\u00c1nkyra",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    158715647.30276978,
+                    101702020.2540487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "27.141667",
                     "38.108889"
                 ]
@@ -10635,6 +10729,43 @@
                 "mapPoint": [
                     154104940.2581902,
                     101223501.52515101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.62021474",
+                    "40.01824972"
+                ]
+            },
+            "properties": {
+                "identifier": "Hattusa",
+                "latitude": "40.01824972",
+                "longitude": "34.62021474",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2000",
+                        "endDate": "-1200",
+                        "preferredName": "Hattusa",
+                        "size": "1",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Hattusa",
+                        "language": "Hittite"
+                    }
+                ],
+                "mapPoint": [
+                    160032431.14041618,
+                    101606302.5126725
                 ]
             }
         },
@@ -10875,6 +11006,96 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "34.61792",
+                    "36.79526"
+                ]
+            },
+            "properties": {
+                "identifier": "Mersin",
+                "latitude": "36.79526",
+                "longitude": "34.61792",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-1300",
+                        "endDate": "620",
+                        "preferredName": "Mersin",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "787",
+                        "endDate": "2100",
+                        "preferredName": "Mersin",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Mersin",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Zephyrion",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Zephyrium",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    160030720.0582542,
+                    104674052.41768274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.42",
+                    "41.207"
+                ]
+            },
+            "properties": {
+                "identifier": "Nerik",
+                "latitude": "41.207",
+                "longitude": "35.42",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2000",
+                        "endDate": "-1200",
+                        "preferredName": "Nerik",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Nerik",
+                        "language": "Hittite"
+                    }
+                ],
+                "mapPoint": [
+                    160628794.25422224,
+                    100438599.75454916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "27.184167",
                     "39.1325"
                 ]
@@ -11014,6 +11235,43 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "35.25",
+                    "40.266667"
+                ]
+            },
+            "properties": {
+                "identifier": "Sapinuwa",
+                "latitude": "40.266667",
+                "longitude": "35.25",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2000",
+                        "endDate": "-1200",
+                        "preferredName": "Sapinuwa",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Sapinuwa",
+                        "language": "Hittite"
+                    }
+                ],
+                "mapPoint": [
+                    160502033.06666666,
+                    101363990.80333745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "28.040278",
                     "38.488333"
                 ]
@@ -11104,6 +11362,197 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "35.16252",
+                    "42.02683"
+                ]
+            },
+            "properties": {
+                "identifier": "Sinop",
+                "latitude": "42.02683",
+                "longitude": "35.16252",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "-184",
+                        "preferredName": "Sinope",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-183",
+                        "endDate": "-69",
+                        "preferredName": "Sinope",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-70",
+                        "endDate": "1213",
+                        "preferredName": "Sinope",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1214",
+                        "endDate": "2100",
+                        "preferredName": "Sinop",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Sinop",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Sinope",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    160436803.25085866,
+                    99620887.97796166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.81573",
+                    "37.45517"
+                ]
+            },
+            "properties": {
+                "identifier": "Sis",
+                "latitude": "37.45517",
+                "longitude": "35.81573",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "450",
+                        "endDate": "1149",
+                        "preferredName": "Sis",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1150",
+                        "endDate": "1375",
+                        "preferredName": "Sis",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1376",
+                        "endDate": "1515",
+                        "preferredName": "Sis",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1516",
+                        "endDate": "2100",
+                        "preferredName": "Kozan",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Sis",
+                        "language": "Hittite"
+                    },
+                    {
+                        "name": "Kozan",
+                        "language": "Turkish"
+                    }
+                ],
+                "mapPoint": [
+                    160923871.92923024,
+                    104056895.70307983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "37.01611",
+                    "39.74833"
+                ]
+            },
+            "properties": {
+                "identifier": "Sivas",
+                "latitude": "39.74833",
+                "longitude": "37.01611",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-64",
+                        "endDate": "-11",
+                        "preferredName": "Megalopolis",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-10",
+                        "endDate": "1073",
+                        "preferredName": "Sebasteia",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1074",
+                        "endDate": "2100",
+                        "preferredName": "Sivas",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Sivas",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Sebasteia",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Megalopolis",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    161818940.13110045,
+                    101868590.3877572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "27.139167",
                     "38.418611"
                 ]
@@ -11169,6 +11618,67 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "34.8784",
+                    "36.91876"
+                ]
+            },
+            "properties": {
+                "identifier": "Tarsus",
+                "latitude": "36.91876",
+                "longitude": "34.8784",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-1300",
+                        "endDate": "620",
+                        "preferredName": "Tarsus",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "621",
+                        "endDate": "786",
+                        "preferredName": "Tarsus",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "787",
+                        "endDate": "2100",
+                        "preferredName": "Tarsus",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tarsus",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Tarsa",
+                        "language": "Hittite"
+                    },
+                    {
+                        "name": "Tarsos",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    160224948.0237511,
+                    104558961.44005023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "27.84006",
                     "38.91852"
                 ]
@@ -11222,6 +11732,79 @@
                 "mapPoint": [
                     154976781.336576,
                     102668574.0856334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.72694",
+                    "41.005"
+                ]
+            },
+            "properties": {
+                "identifier": "Trabzon",
+                "latitude": "41.005",
+                "longitude": "39.72694",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-500",
+                        "endDate": "-26",
+                        "preferredName": "Trapezous",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-25",
+                        "endDate": "1203",
+                        "preferredName": "Trapezus",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1204",
+                        "endDate": "1460",
+                        "preferredName": "Trebizond",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1461",
+                        "endDate": "2100",
+                        "preferredName": "Trabzon",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Trabzon",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Trapezus",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Trebizond",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Trapezous",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    163840281.4844018,
+                    100638498.10041538
                 ]
             }
         },
