@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/civitates-web/static/css/main.1a07686a.css",
-    "main.js": "/civitates-web/static/js/main.c05483bf.js",
+    "main.js": "/civitates-web/static/js/main.5d6acf37.js",
     "index.html": "/civitates-web/index.html",
     "main.1a07686a.css.map": "/civitates-web/static/css/main.1a07686a.css.map",
-    "main.c05483bf.js.map": "/civitates-web/static/js/main.c05483bf.js.map"
+    "main.5d6acf37.js.map": "/civitates-web/static/js/main.5d6acf37.js.map"
   },
   "entrypoints": [
     "static/css/main.1a07686a.css",
-    "static/js/main.c05483bf.js"
+    "static/js/main.5d6acf37.js"
   ]
 }
