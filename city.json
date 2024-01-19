@@ -10688,6 +10688,43 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "34.62021474",
+                    "40.01824972"
+                ]
+            },
+            "properties": {
+                "identifier": "Hattusa",
+                "latitude": "40.01824972",
+                "longitude": "34.62021474",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2000",
+                        "endDate": "-1200",
+                        "preferredName": "Hattusa",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Hattusa",
+                        "language": "Hittite"
+                    }
+                ],
+                "mapPoint": [
+                    160032431.14041618,
+                    101606302.5126725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "29.72111",
                     "40.42861"
                 ]
@@ -10973,6 +11010,43 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "35.42",
+                    "41.207"
+                ]
+            },
+            "properties": {
+                "identifier": "Nerik",
+                "latitude": "41.207",
+                "longitude": "35.42",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2000",
+                        "endDate": "-1200",
+                        "preferredName": "Nerik",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Nerik",
+                        "language": "Hittite"
+                    }
+                ],
+                "mapPoint": [
+                    160628794.25422224,
+                    100438599.75454916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "27.184167",
                     "39.1325"
                 ]
@@ -11104,6 +11178,43 @@
                 "mapPoint": [
                     153828429.3688889,
                     101615145.24641398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.25",
+                    "40.266667"
+                ]
+            },
+            "properties": {
+                "identifier": "Sapinuwa",
+                "latitude": "40.266667",
+                "longitude": "35.25",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2000",
+                        "endDate": "-1200",
+                        "preferredName": "Sapinuwa",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Sapinuwa",
+                        "language": "Hittite"
+                    }
+                ],
+                "mapPoint": [
+                    160502033.06666666,
+                    101363990.80333745
                 ]
             }
         },
