@@ -13651,6 +13651,418 @@
                     98017281.92364852
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "43.570558",
+                    "40.506295"
+                ]
+            },
+            "properties": {
+                "identifier": "Ani",
+                "latitude": "40.506295",
+                "longitude": "43.570558",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "500",
+                        "endDate": "960",
+                        "preferredName": "Ani",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "961",
+                        "endDate": "1063",
+                        "preferredName": "Ani",
+                        "size": "2",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1064",
+                        "endDate": "1236",
+                        "preferredName": "Ani",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1237",
+                        "endDate": "1735",
+                        "preferredName": "Ani",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ani",
+                        "language": "Armenian"
+                    }
+                ],
+                "mapPoint": [
+                    166706290.79140127,
+                    101129407.67635047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "41.63593",
+                    "41.64159"
+                ]
+            },
+            "properties": {
+                "identifier": "Batumi",
+                "latitude": "41.64159",
+                "longitude": "41.63593",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "780",
+                        "endDate": "2100",
+                        "preferredName": "Batumi",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Batumi",
+                        "language": "Georgian"
+                    }
+                ],
+                "mapPoint": [
+                    165263727.5987058,
+                    100006427.76397061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "44.11578",
+                    "41.98422"
+                ]
+            },
+            "properties": {
+                "identifier": "Gori",
+                "latitude": "41.98422",
+                "longitude": "44.11578",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1000",
+                        "endDate": "2100",
+                        "preferredName": "Gori",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Gori",
+                        "language": "Georgian"
+                    }
+                ],
+                "mapPoint": [
+                    167112837.78082135,
+                    99663645.56530918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "43.09495",
+                    "40.60199"
+                ]
+            },
+            "properties": {
+                "identifier": "Kars",
+                "latitude": "40.60199",
+                "longitude": "43.09495",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "800",
+                        "endDate": "927",
+                        "preferredName": "Kars",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "928",
+                        "endDate": "963",
+                        "preferredName": "Kars",
+                        "size": "2",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "964",
+                        "endDate": "1387",
+                        "preferredName": "Kars",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1388",
+                        "endDate": "2100",
+                        "preferredName": "Kars",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kars",
+                        "language": "Armenian"
+                    }
+                ],
+                "mapPoint": [
+                    166351651.76263112,
+                    101035493.30020352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "42.69459",
+                    "42.26791"
+                ]
+            },
+            "properties": {
+                "identifier": "Kutaisi",
+                "latitude": "42.26791",
+                "longitude": "42.69459",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "780",
+                        "endDate": "1122",
+                        "preferredName": "Kutaisi",
+                        "size": "2",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1123",
+                        "endDate": "2100",
+                        "preferredName": "Kutaisi",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kutaisi",
+                        "language": "Georgian"
+                    }
+                ],
+                "mapPoint": [
+                    166053121.70939735,
+                    99378431.19131449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "40.9893",
+                    "43.00697"
+                ]
+            },
+            "properties": {
+                "identifier": "Sukhumi",
+                "latitude": "43.00697",
+                "longitude": "40.9893",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-500",
+                        "endDate": "49",
+                        "preferredName": "Dioscurias",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "50",
+                        "endDate": "564",
+                        "preferredName": "Sebastopolis",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "565",
+                        "endDate": "736",
+                        "preferredName": "Sebastopolis",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "737",
+                        "endDate": "2100",
+                        "preferredName": "Tskhumi",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Sukhumi",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Sokhumi",
+                        "language": "Georgian"
+                    },
+                    {
+                        "name": "Tskhumi",
+                        "language": "Georgian"
+                    },
+                    {
+                        "name": "Dioscurias",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Sebastopolis",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    164781565.32394668,
+                    98629311.48416501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "44.83368",
+                    "41.69411"
+                ]
+            },
+            "properties": {
+                "identifier": "Tbilisi",
+                "latitude": "41.69411",
+                "longitude": "44.83368",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "458",
+                        "endDate": "2100",
+                        "preferredName": "Tbilisi",
+                        "size": "2",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tbilisi",
+                        "language": "Georgian"
+                    },
+                    {
+                        "name": "Tiflis",
+                        "language": "English"
+                    }
+                ],
+                "mapPoint": [
+                    167648142.819328,
+                    99954003.18644798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "43.38311",
+                    "38.49239"
+                ]
+            },
+            "properties": {
+                "identifier": "Van",
+                "latitude": "38.49239",
+                "longitude": "43.38311",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-900",
+                        "endDate": "-100",
+                        "preferredName": "Tushpa",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-99",
+                        "endDate": "2100",
+                        "preferredName": "Van",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Van",
+                        "language": "Armenian"
+                    },
+                    {
+                        "name": "Tushpa",
+                        "language": "Akkadian"
+                    },
+                    {
+                        "name": "Tosp",
+                        "language": "Armenian"
+                    }
+                ],
+                "mapPoint": [
+                    166566519.4320782,
+                    103075748.72602203
+                ]
+            }
         }
     ]
 }
