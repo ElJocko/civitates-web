@@ -13718,6 +13718,55 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "44.550556",
+                    "39.953889"
+                ]
+            },
+            "properties": {
+                "identifier": "Artashat",
+                "latitude": "39.953889",
+                "longitude": "44.550556",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-176",
+                        "endDate": "120",
+                        "preferredName": "Artashat",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "121",
+                        "endDate": "600",
+                        "preferredName": "Artashat",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Artashat",
+                        "language": "Armenian"
+                    },
+                    {
+                        "name": "Artaxata",
+                        "language": "Armenian"
+                    }
+                ],
+                "mapPoint": [
+                    167437030.26364872,
+                    101668937.3248462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "41.63593",
                     "41.64159"
                 ]
@@ -13747,6 +13796,51 @@
                 "mapPoint": [
                     165263727.5987058,
                     100006427.76397061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "44.585258",
+                    "40.02001"
+                ]
+            },
+            "properties": {
+                "identifier": "Dvin",
+                "latitude": "40.02001",
+                "longitude": "44.585258",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "335",
+                        "endDate": "428",
+                        "preferredName": "Dvin",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "429",
+                        "endDate": "1236",
+                        "preferredName": "Dvin",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Dvin",
+                        "language": "Armenian"
+                    }
+                ],
+                "mapPoint": [
+                    167462905.95029902,
+                    101604588.60714993
                 ]
             }
         },
@@ -14016,6 +14110,124 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "46.435279",
+                    "40.338788"
+                ]
+            },
+            "properties": {
+                "identifier": "Tigranakert",
+                "latitude": "40.338788",
+                "longitude": "46.435279",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-100",
+                        "endDate": "-69",
+                        "preferredName": "Tigranakert",
+                        "size": "2",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-68",
+                        "endDate": "700",
+                        "preferredName": "Tigranakert",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tigranakert",
+                        "language": "Armenian"
+                    }
+                ],
+                "mapPoint": [
+                    168842381.5912562,
+                    101293475.88473296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "44.29462",
+                    "40.16557"
+                ]
+            },
+            "properties": {
+                "identifier": "Vagharshapat",
+                "latitude": "40.16557",
+                "longitude": "44.29462",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-700",
+                        "endDate": "-571",
+                        "preferredName": "Kuarlini",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-570",
+                        "endDate": "99",
+                        "preferredName": "Vardgesavan",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "100",
+                        "endDate": "451",
+                        "preferredName": "Vagharshapat",
+                        "size": "2",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "452",
+                        "endDate": "2100",
+                        "preferredName": "Vagharshapat",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Vagharshapat",
+                        "language": "Armenian"
+                    },
+                    {
+                        "name": "Vardgesavan",
+                        "language": "Armenian"
+                    },
+                    {
+                        "name": "Ejmiatsin",
+                        "language": "Armenian"
+                    },
+                    {
+                        "name": "Kuarlini",
+                        "language": "Urartian"
+                    }
+                ],
+                "mapPoint": [
+                    167246190.5501298,
+                    101462710.01155053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "43.38311",
                     "38.49239"
                 ]
@@ -14051,7 +14263,7 @@
                     },
                     {
                         "name": "Tushpa",
-                        "language": "Akkadian"
+                        "language": "Urartian"
                     },
                     {
                         "name": "Tosp",
