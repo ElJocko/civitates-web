@@ -10737,6 +10737,75 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "31.988313",
+                    "39.651996"
+                ]
+            },
+            "properties": {
+                "identifier": "Gordion",
+                "latitude": "39.651996",
+                "longitude": "31.988313",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-900",
+                        "endDate": "-751",
+                        "preferredName": "Gordion",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-750",
+                        "endDate": "-547",
+                        "preferredName": "Gordion",
+                        "size": "2",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-546",
+                        "endDate": "300",
+                        "preferredName": "Gordion",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "301",
+                        "endDate": "2100",
+                        "preferredName": "Gordion",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Gordion",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Gordium",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Gordum",
+                        "language": "Phrygian"
+                    }
+                ],
+                "mapPoint": [
+                    158069942.9634048,
+                    101961951.5367587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "34.62021474",
                     "40.01824972"
                 ]
@@ -10766,6 +10835,63 @@
                 "mapPoint": [
                     160032431.14041618,
                     101606302.5126725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "31.414722",
+                    "41.284722"
+                ]
+            },
+            "properties": {
+                "identifier": "Heraclea Pontica",
+                "latitude": "41.284722",
+                "longitude": "31.414722",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-560",
+                        "endDate": "-64",
+                        "preferredName": "Heraclea Pontica",
+                        "size": "2",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-63",
+                        "endDate": "1260",
+                        "preferredName": "Heraclea Pontica",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1261",
+                        "endDate": "1500",
+                        "preferredName": "Heraclea Pontica",
+                        "size": "4",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Heraclea Pontica",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Pontoheraclea",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    157642242.5143979,
+                    100361522.08023968
                 ]
             }
         },
@@ -14273,6 +14399,1109 @@
                 "mapPoint": [
                     166566519.4320782,
                     103075748.72602203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-6.05601",
+                    "42.45879"
+                ]
+            },
+            "properties": {
+                "identifier": "Astorga",
+                "latitude": "42.45879",
+                "longitude": "-6.05601",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-14",
+                        "endDate": "500",
+                        "preferredName": "Asturica",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "501",
+                        "endDate": "750",
+                        "preferredName": "Asturica",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "751",
+                        "endDate": "850",
+                        "preferredName": "Asturica",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "851",
+                        "endDate": "1000",
+                        "preferredName": "Asturica",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1001",
+                        "endDate": "2100",
+                        "preferredName": "Astorga",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Astorga",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Asturica",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Estorga",
+                        "language": "Leonese"
+                    }
+                ],
+                "mapPoint": [
+                    129702039.65030402,
+                    99185802.66685513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-5.774422",
+                    "36.08988"
+                ]
+            },
+            "properties": {
+                "identifier": "Baelo Claudia",
+                "latitude": "36.08988",
+                "longitude": "-5.774422",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-100",
+                        "endDate": "150",
+                        "preferredName": "Baelo Claudia",
+                        "size": "2",
+                        "tagPosition": "6",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "151",
+                        "endDate": "600",
+                        "preferredName": "Baelo Claudia",
+                        "size": "4",
+                        "tagPosition": "6",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Baelo Claudia",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    129912006.88137104,
+                    105327883.78851306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-6.37224",
+                    "39.47649"
+                ]
+            },
+            "properties": {
+                "identifier": "C\u00e1ceres",
+                "latitude": "39.47649",
+                "longitude": "-6.37224",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-75",
+                        "endDate": "500",
+                        "preferredName": "Norba Caesarina",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "501",
+                        "endDate": "700",
+                        "preferredName": "Norba Caesarina",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "701",
+                        "endDate": "1250",
+                        "preferredName": "Norba Caesarina",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1251",
+                        "endDate": "2100",
+                        "preferredName": "C\u00e1ceres",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "C\u00e1ceres",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Norba Caesarina",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    129466241.47182934,
+                    102131707.70528205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-6.29465",
+                    "36.52978"
+                ]
+            },
+            "properties": {
+                "identifier": "C\u00e1diz",
+                "latitude": "36.52978",
+                "longitude": "-6.29465",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-800",
+                        "endDate": "-500",
+                        "preferredName": "Gadir",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-499",
+                        "endDate": "-246",
+                        "preferredName": "Gadir",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-245",
+                        "endDate": "-206",
+                        "preferredName": "Gadir",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-205",
+                        "endDate": "500",
+                        "preferredName": "Gades",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "501",
+                        "endDate": "710",
+                        "preferredName": "Gades",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "711",
+                        "endDate": "1262",
+                        "preferredName": "Q\u0101dis",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1263",
+                        "endDate": "2100",
+                        "preferredName": "C\u00e1diz",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "C\u00e1diz",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Gades",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Gadir",
+                        "language": "Phoenician"
+                    },
+                    {
+                        "name": "Q\u0101dis",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    129524096.76913778,
+                    104920829.90283228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.98623",
+                    "37.60512"
+                ]
+            },
+            "properties": {
+                "identifier": "Cartagena",
+                "latitude": "37.60512",
+                "longitude": "-0.98623",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-228",
+                        "endDate": "-210",
+                        "preferredName": "Qart Hadasht",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-209",
+                        "endDate": "400",
+                        "preferredName": "Carthago Nova",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "400",
+                        "endDate": "713",
+                        "preferredName": "Carthago Nova",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "714",
+                        "endDate": "1244",
+                        "preferredName": "Qartayannat-al-Halfa",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1245",
+                        "endDate": "2100",
+                        "preferredName": "Cartagena",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Cartagena",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Mastia",
+                        "language": "Tartessian"
+                    },
+                    {
+                        "name": "Qart Hadasht",
+                        "language": "Punic"
+                    },
+                    {
+                        "name": "Carthago Nova",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Cartago Spartaria",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Qartayannat-al-Halfa",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    133482341.61174756,
+                    103915904.21653767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-5.410359",
+                    "36.183163"
+                ]
+            },
+            "properties": {
+                "identifier": "Carteia",
+                "latitude": "36.183163",
+                "longitude": "-5.410359",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-500",
+                        "endDate": "-191",
+                        "preferredName": "K'rt",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-190",
+                        "endDate": "409",
+                        "preferredName": "Carteia",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "491",
+                        "endDate": "700",
+                        "preferredName": "Carteia",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "701",
+                        "endDate": "1000",
+                        "preferredName": "Qartayanna",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "K'rt",
+                        "language": "Punic"
+                    },
+                    {
+                        "name": "Carteia",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Qartayanna",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    130183471.9297536,
+                    105241757.43503256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4.77275",
+                    "37.89155"
+                ]
+            },
+            "properties": {
+                "identifier": "C\u00f3rdoba",
+                "latitude": "37.89155",
+                "longitude": "-4.77275",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "-46",
+                        "preferredName": "Corduba",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-45",
+                        "endDate": "711",
+                        "preferredName": "Colonia Patricia",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "712",
+                        "endDate": "1235",
+                        "preferredName": "Qur\u1e6dubah",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1236",
+                        "endDate": "2100",
+                        "preferredName": "C\u00f3rdoba",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "C\u00f3rdoba",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Corduba",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Colonia Patricia",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Qur\u1e6dubah",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    130658907.65937778,
+                    103645793.94991547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-5.0826",
+                    "37.5422"
+                ]
+            },
+            "properties": {
+                "identifier": "\u00c9cija",
+                "latitude": "37.5422",
+                "longitude": "-5.0826",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-200",
+                        "endDate": "-46",
+                        "preferredName": "Astigi",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-45",
+                        "endDate": "710",
+                        "preferredName": "Astigi",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "711",
+                        "endDate": "1239",
+                        "preferredName": "Isti\u01e7\u01e7a",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1240",
+                        "endDate": "2100",
+                        "preferredName": "\u00c9cija",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "\u00c9cija",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Astigi",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Isti\u01e7\u01e7a",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    130427866.75370666,
+                    103975099.68740585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.55602",
+                    "43.00992"
+                ]
+            },
+            "properties": {
+                "identifier": "Lugo",
+                "latitude": "43.00992",
+                "longitude": "-7.55602",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "600",
+                        "preferredName": "Lucus",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "601",
+                        "endDate": "1800",
+                        "preferredName": "Lugo",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Lugo",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Lucus",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    128583551.1270969,
+                    98626303.3885882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4.42034",
+                    "36.72016"
+                ]
+            },
+            "properties": {
+                "identifier": "M\u00e1laga",
+                "latitude": "36.72016",
+                "longitude": "-4.42034",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "-150",
+                        "preferredName": "Malake",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-149",
+                        "endDate": "711",
+                        "preferredName": "Malaca",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "712",
+                        "endDate": "1486",
+                        "preferredName": "M\u0101laqah",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1487",
+                        "endDate": "2100",
+                        "preferredName": "M\u00e1laga",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "M\u00e1laga",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Malaca",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Malake",
+                        "language": "Punic"
+                    },
+                    {
+                        "name": "M\u0101laqah",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    130921683.60118045,
+                    104743948.1915207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-6.34366",
+                    "38.91611"
+                ]
+            },
+            "properties": {
+                "identifier": "M\u00e9rida",
+                "latitude": "38.91611",
+                "longitude": "-6.34366",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-25",
+                        "endDate": "712",
+                        "preferredName": "Augusta Emerita",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "713",
+                        "endDate": "900",
+                        "preferredName": "M\u00e9rida",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "901",
+                        "endDate": "1229",
+                        "preferredName": "M\u00e9rida",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1230",
+                        "endDate": "2100",
+                        "preferredName": "M\u00e9rida",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "M\u00e9rida",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Augusta Emerita",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    129487552.26441956,
+                    102670883.72965726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-1.64323",
+                    "42.81687"
+                ]
+            },
+            "properties": {
+                "identifier": "Pamplona",
+                "latitude": "42.81687",
+                "longitude": "-1.64323",
+                "elevation": "460",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "600",
+                        "preferredName": "Pompaelo",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Pamplona",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Pompaelo",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    132992446.90454757,
+                    98822851.58069468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.26667",
+                    "39.68333"
+                ]
+            },
+            "properties": {
+                "identifier": "Sagunto",
+                "latitude": "39.68333",
+                "longitude": "-0.26667",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "600",
+                        "preferredName": "Saguntum",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Sagunto",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Saguntum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    134018884.435968,
+                    101931598.79539104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-5.66388",
+                    "40.96882"
+                ]
+            },
+            "properties": {
+                "identifier": "Salamanca",
+                "latitude": "40.96882",
+                "longitude": "-5.66388",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "600",
+                        "preferredName": "Salamantica",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Salamanca",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Salamantica",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    129994432.970752,
+                    100674236.89204237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-5.97613",
+                    "37.38241"
+                ]
+            },
+            "properties": {
+                "identifier": "Seville",
+                "latitude": "37.38241",
+                "longitude": "-5.97613",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "600",
+                        "preferredName": "Hispalis",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Sevilla",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Seville",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Hispalis",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    129761602.49537422,
+                    104125206.89024034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "1.25",
+                    "41.11667"
+                ]
+            },
+            "properties": {
+                "identifier": "Tarragona",
+                "latitude": "41.11667",
+                "longitude": "1.25",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "600",
+                        "preferredName": "Tarraco",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tarragona",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Tarraco",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    135149795.55555555,
+                    100528065.96229371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4.02263",
+                    "39.8581"
+                ]
+            },
+            "properties": {
+                "identifier": "Toledo",
+                "latitude": "39.8581",
+                "longitude": "-4.02263",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "600",
+                        "preferredName": "Toletum",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Toledo",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Toletum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    131218237.67119646,
+                    101762048.5984982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.37739",
+                    "39.46975"
+                ]
+            },
+            "properties": {
+                "identifier": "Valencia",
+                "latitude": "39.46975",
+                "longitude": "-0.37739",
+                "elevation": "15",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "600",
+                        "preferredName": "Valentia",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Valencia",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Valentia",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    133936325.62016712,
+                    102138218.34020993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.87734",
+                    "41.65606"
+                ]
+            },
+            "properties": {
+                "identifier": "Zaragoza",
+                "latitude": "41.65606",
+                "longitude": "-0.87734",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "600",
+                        "preferredName": "Caesaraugusta",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Zaragoza",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Caesaraugusta",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    133563535.88064711,
+                    99991988.32162896
                 ]
             }
         }
