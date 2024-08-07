@@ -14407,6 +14407,116 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "-2.45974",
+                    "36.83814"
+                ]
+            },
+            "properties": {
+                "identifier": "Almer\u00eda",
+                "latitude": "36.83814",
+                "longitude": "-2.45974",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "850",
+                        "endDate": "1488",
+                        "preferredName": "Almer\u00eda",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1489",
+                        "endDate": "2100",
+                        "preferredName": "Almer\u00eda",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Almer\u00eda",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Mad\u012bnat al-Mariyya",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    132383612.92071822,
+                    104634113.15363184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4.56123",
+                    "37.01938"
+                ]
+            },
+            "properties": {
+                "identifier": "Antequera",
+                "latitude": "37.01938",
+                "longitude": "-4.56123",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-201",
+                        "endDate": "715",
+                        "preferredName": "Anticaria",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "716",
+                        "endDate": "1409",
+                        "preferredName": "Antaquira",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1410",
+                        "endDate": "2100",
+                        "preferredName": "Antequera",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Antequera",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Anticaria",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Antaquira",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    130816628.40285867,
+                    104465054.73006919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "-6.05601",
                     "42.45879"
                 ]
@@ -14529,6 +14639,71 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "2.15899",
+                    "41.38879"
+                ]
+            },
+            "properties": {
+                "identifier": "Barcelona",
+                "latitude": "41.38879",
+                "longitude": "2.15899",
+                "elevation": "15",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-250",
+                        "endDate": "-16",
+                        "preferredName": "Barcino",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-15",
+                        "endDate": "449",
+                        "preferredName": "Barcino",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "450",
+                        "endDate": "720",
+                        "preferredName": "Barcino",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "721",
+                        "endDate": "2100",
+                        "preferredName": "Barcelona",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Barcelona",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Barcino",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    135827587.62541512,
+                    100258172.90808958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "-6.37224",
                     "39.47649"
                 ]
@@ -14544,7 +14719,7 @@
                         "startDate": "-75",
                         "endDate": "500",
                         "preferredName": "Norba Caesarina",
-                        "size": "2",
+                        "size": "3",
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     },
@@ -14560,7 +14735,7 @@
                         "startDate": "701",
                         "endDate": "1250",
                         "preferredName": "Norba Caesarina",
-                        "size": "2",
+                        "size": "3",
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     },
@@ -14568,7 +14743,7 @@
                         "startDate": "1251",
                         "endDate": "2100",
                         "preferredName": "C\u00e1ceres",
-                        "size": "2",
+                        "size": "3",
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     }
@@ -14991,6 +15166,161 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "-5.35257",
+                    "36.14474"
+                ]
+            },
+            "properties": {
+                "identifier": "Gibraltar",
+                "latitude": "36.14474",
+                "longitude": "-5.35257",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1160",
+                        "endDate": "2100",
+                        "preferredName": "Gibraltar",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Gibraltar",
+                        "language": "English"
+                    }
+                ],
+                "mapPoint": [
+                    130226562.531328,
+                    105277245.03574407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.60667",
+                    "37.18817"
+                ]
+            },
+            "properties": {
+                "identifier": "Granada",
+                "latitude": "37.18817",
+                "longitude": "-3.60667",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "711",
+                        "endDate": "1491",
+                        "preferredName": "\u0120arn\u0101\u1e6da",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1492",
+                        "endDate": "2100",
+                        "preferredName": "Granada",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Granada",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "\u0120arn\u0101\u1e6da",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    131528399.92752355,
+                    104307246.49038528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.79028",
+                    "37.76922"
+                ]
+            },
+            "properties": {
+                "identifier": "Ja\u00e9n",
+                "latitude": "37.76922",
+                "longitude": "-3.79028",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "-208",
+                        "preferredName": "Aurgi",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-207",
+                        "endDate": "720",
+                        "preferredName": "Aurgi",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "721",
+                        "endDate": "1245",
+                        "preferredName": "\u0176a\u012byy\u0101n",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1246",
+                        "endDate": "2100",
+                        "preferredName": "Ja\u00e9n",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ja\u00e9n",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Aurgi",
+                        "language": "Punic"
+                    },
+                    {
+                        "name": "\u0176a\u012byy\u0101n",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    131391490.38842312,
+                    103761281.98280151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "-7.55602",
                     "43.00992"
                 ]
@@ -15003,16 +15333,16 @@
                 "prefix": "modern",
                 "periods": [
                     {
-                        "startDate": "-300",
-                        "endDate": "600",
+                        "startDate": "-13",
+                        "endDate": "700",
                         "preferredName": "Lucus",
                         "size": "3",
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     },
                     {
-                        "startDate": "601",
-                        "endDate": "1800",
+                        "startDate": "701",
+                        "endDate": "2100",
                         "preferredName": "Lugo",
                         "size": "4",
                         "tagPosition": "1",
@@ -15032,6 +15362,63 @@
                 "mapPoint": [
                     128583551.1270969,
                     98626303.3885882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.70256",
+                    "40.4165"
+                ]
+            },
+            "properties": {
+                "identifier": "Madrid",
+                "latitude": "40.4165",
+                "longitude": "-3.70256",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "850",
+                        "endDate": "1082",
+                        "preferredName": "Majr\u012b\u1e6d",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1083",
+                        "endDate": "1560",
+                        "preferredName": "Madrid",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1561",
+                        "endDate": "2100",
+                        "preferredName": "Madrid",
+                        "size": "1",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Majr\u012b\u1e6d",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Madrid",
+                        "language": "Spanish"
+                    }
+                ],
+                "mapPoint": [
+                    131456899.16120178,
+                    101217410.05097292
                 ]
             }
         },
@@ -15178,6 +15565,55 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "-1.13004",
+                    "37.98704"
+                ]
+            },
+            "properties": {
+                "identifier": "Murcia",
+                "latitude": "37.98704",
+                "longitude": "-1.13004",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "825",
+                        "endDate": "1242",
+                        "preferredName": "Mursiyah",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1243",
+                        "endDate": "2100",
+                        "preferredName": "Murcia",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Murcia",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Mursiyah",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    133375109.103616,
+                    103555511.33421397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "-1.64323",
                     "42.81687"
                 ]
@@ -15190,9 +15626,25 @@
                 "prefix": "modern",
                 "periods": [
                     {
-                        "startDate": "-300",
-                        "endDate": "600",
-                        "preferredName": "Pompaelo",
+                        "startDate": "-200",
+                        "endDate": "-75",
+                        "preferredName": "Iru\u00f1a",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-74",
+                        "endDate": "900",
+                        "preferredName": "Pompelo",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "901",
+                        "endDate": "2100",
+                        "preferredName": "Pamplona",
                         "size": "3",
                         "tagPosition": "1",
                         "calcTagPosition": 0
@@ -15204,8 +15656,12 @@
                         "language": "Spanish"
                     },
                     {
-                        "name": "Pompaelo",
+                        "name": "Pompelo",
                         "language": "Latin"
+                    },
+                    {
+                        "name": "Iru\u00f1a",
+                        "language": "Vascone"
                     }
                 ],
                 "mapPoint": [
@@ -15232,8 +15688,24 @@
                 "periods": [
                     {
                         "startDate": "-300",
-                        "endDate": "600",
+                        "endDate": "720",
                         "preferredName": "Saguntum",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "721",
+                        "endDate": "1237",
+                        "preferredName": "Morvedre",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1238",
+                        "endDate": "2100",
+                        "preferredName": "Sagunto",
                         "size": "3",
                         "tagPosition": "1",
                         "calcTagPosition": 0
@@ -15247,6 +15719,10 @@
                     {
                         "name": "Saguntum",
                         "language": "Latin"
+                    },
+                    {
+                        "name": "Morvedre",
+                        "language": "Arabic"
                     }
                 ],
                 "mapPoint": [
@@ -15273,8 +15749,24 @@
                 "periods": [
                     {
                         "startDate": "-300",
-                        "endDate": "600",
+                        "endDate": "754",
                         "preferredName": "Salamantica",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "755",
+                        "endDate": "938",
+                        "preferredName": "Salamantica",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "939",
+                        "endDate": "2100",
+                        "preferredName": "Salamanca",
                         "size": "3",
                         "tagPosition": "1",
                         "calcTagPosition": 0
@@ -15313,10 +15805,42 @@
                 "prefix": "modern",
                 "periods": [
                     {
-                        "startDate": "-300",
-                        "endDate": "600",
+                        "startDate": "-400",
+                        "endDate": "-150",
+                        "preferredName": "Hisbaal",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-149",
+                        "endDate": "711",
                         "preferredName": "Hispalis",
                         "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "712",
+                        "endDate": "1023",
+                        "preferredName": "Ishbiliyah",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1024",
+                        "endDate": "1247",
+                        "preferredName": "Ishbiliyah",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1248",
+                        "endDate": "2100",
+                        "preferredName": "Sevilla",
+                        "size": "2",
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     }
@@ -15333,6 +15857,14 @@
                     {
                         "name": "Hispalis",
                         "language": "Latin"
+                    },
+                    {
+                        "name": "Hisbaal",
+                        "language": "Punic"
+                    },
+                    {
+                        "name": "Ishbiliyah",
+                        "language": "Arabic"
                     }
                 ],
                 "mapPoint": [
@@ -15358,9 +15890,33 @@
                 "prefix": "modern",
                 "periods": [
                     {
-                        "startDate": "-300",
-                        "endDate": "600",
+                        "startDate": "-200",
+                        "endDate": "-25",
                         "preferredName": "Tarraco",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-24",
+                        "endDate": "200",
+                        "preferredName": "Tarraco",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "201",
+                        "endDate": "1116",
+                        "preferredName": "Tarraco",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1117",
+                        "endDate": "2100",
+                        "preferredName": "Tarragona",
                         "size": "3",
                         "tagPosition": "1",
                         "calcTagPosition": 0
@@ -15399,10 +15955,42 @@
                 "prefix": "modern",
                 "periods": [
                     {
-                        "startDate": "-300",
-                        "endDate": "600",
+                        "startDate": "-200",
+                        "endDate": "300",
                         "preferredName": "Toletum",
                         "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "301",
+                        "endDate": "540",
+                        "preferredName": "Toletum",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "541",
+                        "endDate": "710",
+                        "preferredName": "Toletum",
+                        "size": "1",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "711",
+                        "endDate": "1084",
+                        "preferredName": "\u1e6culay\u1e6dulah",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1085",
+                        "endDate": "2100",
+                        "preferredName": "Toledo",
+                        "size": "2",
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     }
@@ -15415,6 +16003,10 @@
                     {
                         "name": "Toletum",
                         "language": "Latin"
+                    },
+                    {
+                        "name": "\u1e6culay\u1e6dulah",
+                        "language": "Arabic"
                     }
                 ],
                 "mapPoint": [
@@ -15440,9 +16032,25 @@
                 "prefix": "modern",
                 "periods": [
                     {
-                        "startDate": "-300",
-                        "endDate": "600",
+                        "startDate": "-138",
+                        "endDate": "713",
                         "preferredName": "Valentia",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "714",
+                        "endDate": "1237",
+                        "preferredName": "Balansiya",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1238",
+                        "endDate": "2100",
+                        "preferredName": "Valencia",
                         "size": "3",
                         "tagPosition": "1",
                         "calcTagPosition": 0
@@ -15456,6 +16064,10 @@
                     {
                         "name": "Valentia",
                         "language": "Latin"
+                    },
+                    {
+                        "name": "Balansiya",
+                        "language": "Arabic"
                     }
                 ],
                 "mapPoint": [
@@ -15481,9 +16093,25 @@
                 "prefix": "modern",
                 "periods": [
                     {
-                        "startDate": "-300",
-                        "endDate": "600",
+                        "startDate": "-25",
+                        "endDate": "713",
                         "preferredName": "Caesaraugusta",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "714",
+                        "endDate": "1117",
+                        "preferredName": "Saraqusta",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1118",
+                        "endDate": "2100",
+                        "preferredName": "Zaragoza",
                         "size": "3",
                         "tagPosition": "1",
                         "calcTagPosition": 0
@@ -15497,6 +16125,10 @@
                     {
                         "name": "Caesaraugusta",
                         "language": "Latin"
+                    },
+                    {
+                        "name": "Saraqusta",
+                        "language": "Arabic"
                     }
                 ],
                 "mapPoint": [
