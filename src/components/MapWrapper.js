@@ -92,7 +92,7 @@ function MapWrapper({ features }) {
             layers: [
                 // CAWM Map Tiles
                 new TileLayer({
-                    source: new XYZ({ url: 'https://cawm.lib.uiowa.edu/tiles/{z}/{x}/{y}.png' }),
+                    source: new XYZ({ url: 'http://cawm.lib.uiowa.edu/tiles/{z}/{x}/{y}.png' }),
                     extent: mapExtent3857
                 }),
                 featuresLayer

@@ -1156,6 +1156,67 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "9.13462",
+                    "39.20738"
+                ]
+            },
+            "properties": {
+                "identifier": "Cagliari",
+                "latitude": "39.20738",
+                "longitude": "9.13462",
+                "elevation": "6",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-700",
+                        "endDate": "-238",
+                        "preferredName": "Karely",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-237",
+                        "endDate": "1019",
+                        "preferredName": "Caralis",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1020",
+                        "endDate": "2100",
+                        "preferredName": "Cagliari",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Cagliari",
+                        "language": "Italian"
+                    },
+                    {
+                        "name": "Karely",
+                        "language": "Punic"
+                    },
+                    {
+                        "name": "Caralis",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    141028994.34746313,
+                    102391171.77063645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "13.06917",
                     "43.13985"
                 ]
@@ -5765,6 +5826,55 @@
                 "mapPoint": [
                     144091134.5290809,
                     100356611.99343458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.440249",
+                    "39.879432"
+                ]
+            },
+            "properties": {
+                "identifier": "Tharros",
+                "latitude": "39.879432",
+                "longitude": "8.440249",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-700",
+                        "endDate": "-238",
+                        "preferredName": "Tharros",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-237",
+                        "endDate": "1070",
+                        "preferredName": "Tarras",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tharros",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Tarrhas",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    140511233.80296817,
+                    101741324.18503551
                 ]
             }
         },
@@ -12798,6 +12908,38 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "16.483426",
+                    "43.539561"
+                ]
+            },
+            "properties": {
+                "identifier": "Salona",
+                "latitude": "43.539561",
+                "longitude": "16.483426",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "625",
+                        "preferredName": "Salona",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [],
+                "mapPoint": [
+                    146508661.26320073,
+                    98083869.11682145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "21.391437",
                     "42.016885"
                 ]
@@ -13079,7 +13221,7 @@
                         "endDate": "304",
                         "preferredName": "Asp\u00e1lathos",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "3",
                         "calcTagPosition": 0
                     },
                     {
@@ -13087,7 +13229,7 @@
                         "endDate": "649",
                         "preferredName": "Aspalatum",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "3",
                         "calcTagPosition": 0
                     },
                     {
@@ -13095,7 +13237,7 @@
                         "endDate": "925",
                         "preferredName": "Aspalatum",
                         "size": "2",
-                        "tagPosition": "0",
+                        "tagPosition": "3",
                         "calcTagPosition": 0
                     },
                     {
@@ -13103,7 +13245,7 @@
                         "endDate": "2100",
                         "preferredName": "Split",
                         "size": "2",
-                        "tagPosition": "0",
+                        "tagPosition": "3",
                         "calcTagPosition": 0
                     }
                 ],
@@ -13718,6 +13860,67 @@
                 "mapPoint": [
                     136454690.13333333,
                     98449223.74362528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "7.26608",
+                    "43.70313"
+                ]
+            },
+            "properties": {
+                "identifier": "Nice",
+                "latitude": "43.70313",
+                "longitude": "7.26608",
+                "elevation": "25",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-350",
+                        "endDate": "62",
+                        "preferredName": "N\u00edkaia",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "63",
+                        "endDate": "640",
+                        "preferredName": "Nicaea",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "641",
+                        "endDate": "2100",
+                        "preferredName": "Nice",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Nice",
+                        "language": "French"
+                    },
+                    {
+                        "name": "N\u00edkaia",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Nicaea",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    139635709.93925688,
+                    97915387.98172472
                 ]
             }
         },
@@ -14407,6 +14610,51 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "-3.199994",
+                    "37.351903"
+                ]
+            },
+            "properties": {
+                "identifier": "Acci",
+                "latitude": "37.351903",
+                "longitude": "-3.199994",
+                "elevation": "972",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-10",
+                        "endDate": "300",
+                        "preferredName": "Acci",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "301",
+                        "endDate": "600",
+                        "preferredName": "Acci",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Acci",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    131831639.53170204,
+                    104153828.85478693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "-2.45974",
                     "36.83814"
                 ]
@@ -14594,6 +14842,55 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "-6.97061",
+                    "38.87789"
+                ]
+            },
+            "properties": {
+                "identifier": "Badajoz",
+                "latitude": "38.87789",
+                "longitude": "-6.97061",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "750",
+                        "endDate": "1200",
+                        "preferredName": "Ba\u1e6dalyaws",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1201",
+                        "endDate": "2100",
+                        "preferredName": "Badajoz",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Badajoz",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Ba\u1e6dalyaws",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    129020064.46125512,
+                    102707501.71323498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "-5.774422",
                     "36.08988"
                 ]
@@ -14696,6 +14993,108 @@
                 "mapPoint": [
                     135827587.62541512,
                     100258172.90808958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.42005",
+                    "41.55032"
+                ]
+            },
+            "properties": {
+                "identifier": "Braga",
+                "latitude": "41.55032",
+                "longitude": "-8.42005",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-16",
+                        "endDate": "200",
+                        "preferredName": "Bracara Augusta",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "201",
+                        "endDate": "700",
+                        "preferredName": "Bracara Augusta",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "701",
+                        "endDate": "2100",
+                        "preferredName": "Braga",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Braga",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "name": "Bracara Augusta",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    127939283.66307555,
+                    100097430.40052399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.67527",
+                    "42.35022"
+                ]
+            },
+            "properties": {
+                "identifier": "Burgos",
+                "latitude": "42.35022",
+                "longitude": "-3.67527",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "884",
+                        "endDate": "1500",
+                        "preferredName": "Burgos",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1501",
+                        "endDate": "2100",
+                        "preferredName": "Burgos",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Burgos",
+                        "language": "Spanish"
+                    }
+                ],
+                "mapPoint": [
+                    131477248.06007466,
+                    99295438.9582616
                 ]
             }
         },
@@ -15024,6 +15423,104 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "-0.03945",
+                    "41.23402"
+                ]
+            },
+            "properties": {
+                "identifier": "Caspe",
+                "latitude": "41.23402",
+                "longitude": "-0.03945",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "701",
+                        "endDate": "2100",
+                        "preferredName": "Caspe",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Caspe",
+                        "language": "Spanish"
+                    }
+                ],
+                "mapPoint": [
+                    134188311.94794668,
+                    100411814.14788273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.41955",
+                    "40.20564"
+                ]
+            },
+            "properties": {
+                "identifier": "Coimbra",
+                "latitude": "40.20564",
+                "longitude": "-8.41955",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "464",
+                        "preferredName": "Aeminium",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "465",
+                        "endDate": "1063",
+                        "preferredName": "Conimbriga",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1064",
+                        "endDate": "2100",
+                        "preferredName": "Coimbra",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Aeminium",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Coimbra",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Conimbriga",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    127939656.49009779,
+                    101423600.0704112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "-4.77275",
                     "37.89155"
                 ]
@@ -15040,7 +15537,7 @@
                         "endDate": "-46",
                         "preferredName": "Corduba",
                         "size": "3",
-                        "tagPosition": "1",
+                        "tagPosition": "0",
                         "calcTagPosition": 0
                     },
                     {
@@ -15048,7 +15545,7 @@
                         "endDate": "711",
                         "preferredName": "Colonia Patricia",
                         "size": "2",
-                        "tagPosition": "1",
+                        "tagPosition": "0",
                         "calcTagPosition": 0
                     },
                     {
@@ -15056,7 +15553,7 @@
                         "endDate": "1235",
                         "preferredName": "Qur\u1e6dubah",
                         "size": "2",
-                        "tagPosition": "1",
+                        "tagPosition": "0",
                         "calcTagPosition": 0
                     },
                     {
@@ -15064,15 +15561,11 @@
                         "endDate": "2100",
                         "preferredName": "C\u00f3rdoba",
                         "size": "2",
-                        "tagPosition": "1",
+                        "tagPosition": "0",
                         "calcTagPosition": 0
                     }
                 ],
                 "altNames": [
-                    {
-                        "name": "C\u00f3rdoba",
-                        "language": "Spanish"
-                    },
                     {
                         "name": "Corduba",
                         "language": "Latin"
@@ -15089,6 +15582,67 @@
                 "mapPoint": [
                     130658907.65937778,
                     103645793.94991547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "0.10574",
+                    "38.84078"
+                ]
+            },
+            "properties": {
+                "identifier": "D\u00e9nia",
+                "latitude": "38.84078",
+                "longitude": "0.10574",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-350",
+                        "endDate": "719",
+                        "preferredName": "Dianium",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "720",
+                        "endDate": "1243",
+                        "preferredName": "D\u0101niyya",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1244",
+                        "endDate": "2100",
+                        "preferredName": "D\u00e9nia",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Dianium",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "D\u0101niyya",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "D\u00e9nia",
+                        "language": "Spanish"
+                    }
+                ],
+                "mapPoint": [
+                    134296573.45865956,
+                    102743037.38335428
                 ]
             }
         },
@@ -15158,6 +15712,55 @@
                 "mapPoint": [
                     130427866.75370666,
                     103975099.68740585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "3.120596",
+                    "42.134729"
+                ]
+            },
+            "properties": {
+                "identifier": "Emporiae",
+                "latitude": "42.134729",
+                "longitude": "3.120596",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-575",
+                        "endDate": "-218",
+                        "preferredName": "Emp\u00faries",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-217",
+                        "endDate": "400",
+                        "preferredName": "Emporiae",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Emp\u00faries",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Emporiae",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    136544613.02847716,
+                    99512486.8987316
                 ]
             }
         },
@@ -15252,6 +15855,132 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "-0.4087",
+                    "42.13615"
+                ]
+            },
+            "properties": {
+                "identifier": "Huesca",
+                "latitude": "42.13615",
+                "longitude": "-0.4087",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-500",
+                        "endDate": "-300",
+                        "preferredName": "Bolskan",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-299",
+                        "endDate": "790",
+                        "preferredName": "Osca",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "791",
+                        "endDate": "1095",
+                        "preferredName": "Washqah",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1096",
+                        "endDate": "1187",
+                        "preferredName": "Huesca",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1188",
+                        "endDate": "2100",
+                        "preferredName": "Huesca",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Huesca",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Osca",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Washqah",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    133912979.19203556,
+                    99511058.05555588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.654768",
+                    "42.746697"
+                ]
+            },
+            "properties": {
+                "identifier": "Iria Flavia",
+                "latitude": "42.746697",
+                "longitude": "-8.654768",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "69",
+                        "endDate": "1150",
+                        "preferredName": "Iria Flavia",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1151",
+                        "endDate": "2100",
+                        "preferredName": "Padr\u00f3n",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Iria Flavia",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Padr\u00f3n",
+                        "language": "Spanish"
+                    }
+                ],
+                "mapPoint": [
+                    127764265.23707166,
+                    98894144.02046612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "-3.79028",
                     "37.76922"
                 ]
@@ -15313,6 +16042,169 @@
                 "mapPoint": [
                     131391490.38842312,
                     103761281.98280151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-5.57032",
+                    "42.60003"
+                ]
+            },
+            "properties": {
+                "identifier": "Le\u00f3n",
+                "latitude": "42.60003",
+                "longitude": "-5.57032",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "74",
+                        "endDate": "855",
+                        "preferredName": "Legio",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "856",
+                        "endDate": "1500",
+                        "preferredName": "Le\u00f3n",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1501",
+                        "endDate": "2100",
+                        "preferredName": "Le\u00f3n",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Le\u00f3n",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Legio",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    130064196.36315022,
+                    99042890.60835116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-9.13333",
+                    "38.71667"
+                ]
+            },
+            "properties": {
+                "identifier": "Lisbon",
+                "latitude": "38.71667",
+                "longitude": "-9.13333",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-150",
+                        "endDate": "1146",
+                        "preferredName": "Olissipo",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1147",
+                        "endDate": "2100",
+                        "preferredName": "Lisbon",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Lisbon",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "name": "Ulyssippo",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Olissipo",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    127407423.54625423,
+                    102861747.82107939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "0.62218",
+                    "41.61674"
+                ]
+            },
+            "properties": {
+                "identifier": "Lleida",
+                "latitude": "41.61674",
+                "longitude": "0.62218",
+                "elevation": "155",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-200",
+                        "endDate": "700",
+                        "preferredName": "Llerda",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "701",
+                        "endDate": "2100",
+                        "preferredName": "L\u00e9rida",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Lleida",
+                        "language": "Catalan"
+                    },
+                    {
+                        "name": "L\u00e9rida",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Llerda",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    134681659.03337243,
+                    100031217.72253285
                 ]
             }
         },
@@ -15614,6 +16506,108 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "-5.84476",
+                    "43.36029"
+                ]
+            },
+            "properties": {
+                "identifier": "Oviedo",
+                "latitude": "43.36029",
+                "longitude": "-5.84476",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "761",
+                        "endDate": "2100",
+                        "preferredName": "Oviedo",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Oviedo",
+                        "language": "Spanish"
+                    }
+                ],
+                "mapPoint": [
+                    129859559.06719288,
+                    98267999.66021386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "2.65024",
+                    "39.56939"
+                ]
+            },
+            "properties": {
+                "identifier": "Palma",
+                "latitude": "39.56939",
+                "longitude": "2.65024",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-123",
+                        "endDate": "2100",
+                        "preferredName": "Palma",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "902",
+                        "endDate": "1229",
+                        "preferredName": "Medina Mayurqa",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1230",
+                        "endDate": "2100",
+                        "preferredName": "Palma",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Palma",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Medina Mayurqa",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Palma",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Palma",
+                        "language": "Spanish"
+                    }
+                ],
+                "mapPoint": [
+                    136193890.17474845,
+                    102041904.76744023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "-1.64323",
                     "42.81687"
                 ]
@@ -15667,6 +16661,59 @@
                 "mapPoint": [
                     132992446.90454757,
                     98822851.58069468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.61099",
+                    "41.14961"
+                ]
+            },
+            "properties": {
+                "identifier": "Porto",
+                "latitude": "41.14961",
+                "longitude": "-8.61099",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-400",
+                        "endDate": "1092",
+                        "preferredName": "Portus Cale",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1093",
+                        "endDate": "2100",
+                        "preferredName": "Porto",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Porto",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "name": "Oporto",
+                        "language": "Portuguese"
+                    },
+                    {
+                        "name": "Portus Cale",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    127796908.47982934,
+                    100495455.23713765
                 ]
             }
         },
@@ -15793,6 +16840,116 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "-8.68333",
+                    "39.23333"
+                ]
+            },
+            "properties": {
+                "identifier": "Santar\u00e9m",
+                "latitude": "39.23333",
+                "longitude": "-8.68333",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-138",
+                        "endDate": "750",
+                        "preferredName": "Scalabis",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "751",
+                        "endDate": "1146",
+                        "preferredName": "Shantarin",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1147",
+                        "endDate": "2100",
+                        "preferredName": "Santar\u00e9m",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Santar\u00e9m",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Scalabis",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Shantarin",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    127742967.86625423,
+                    102366195.35949714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.54569",
+                    "42.88052"
+                ]
+            },
+            "properties": {
+                "identifier": "Santiago de Compostela",
+                "latitude": "42.88052",
+                "longitude": "-8.54569",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "865",
+                        "endDate": "1150",
+                        "preferredName": "Compostela",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1151",
+                        "endDate": "2100",
+                        "preferredName": "Santiago de Compostela",
+                        "size": "2",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Santiago de Compostela",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Compostela",
+                        "language": "Spanish"
+                    }
+                ],
+                "mapPoint": [
+                    127845599.68893155,
+                    98758116.19591053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "-5.97613",
                     "37.38241"
                 ]
@@ -15870,6 +17027,43 @@
                 "mapPoint": [
                     129761602.49537422,
                     104125206.89024034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-1.73333",
+                    "41.9"
+                ]
+            },
+            "properties": {
+                "identifier": "Tarazona",
+                "latitude": "41.9",
+                "longitude": "-1.73333",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "100",
+                        "endDate": "2100",
+                        "preferredName": "Tarazona",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tarazona",
+                        "language": "Spanish"
+                    }
+                ],
+                "mapPoint": [
+                    132925263.47514312,
+                    99748073.18868446
                 ]
             }
         },
@@ -16012,6 +17206,112 @@
                 "mapPoint": [
                     131218237.67119646,
                     101762048.5984982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "0.5216",
+                    "40.81249"
+                ]
+            },
+            "properties": {
+                "identifier": "Tortosa",
+                "latitude": "40.81249",
+                "longitude": "0.5216",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-200",
+                        "endDate": "713",
+                        "preferredName": "Dertosa",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "714",
+                        "endDate": "2100",
+                        "preferredName": "Tortosa",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tortosa",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Dertosa",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    134606661.14958224,
+                    100828435.72387335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.64435",
+                    "42.04713"
+                ]
+            },
+            "properties": {
+                "identifier": "Tui",
+                "latitude": "42.04713",
+                "longitude": "-8.64435",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "740",
+                        "preferredName": "Tude",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "741",
+                        "endDate": "860",
+                        "preferredName": "Tude",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "861",
+                        "endDate": "2100",
+                        "preferredName": "Tui",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tude",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Tui",
+                        "language": "Spanish"
+                    }
+                ],
+                "mapPoint": [
+                    127772033.46090667,
+                    99600507.58686212
                 ]
             }
         },
