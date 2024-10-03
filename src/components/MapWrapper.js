@@ -10,7 +10,10 @@ import VectorSource from 'ol/source/Vector';
 import XYZ from 'ol/source/XYZ';
 import { transform, transformExtent } from 'ol/proj';
 import { toStringXY } from 'ol/coordinate';
-import { Circle as CircleStyle, Style, Stroke, Fill, Text } from "ol/style"
+import { Circle as CircleStyle, Style, Stroke, Fill, Text } from "ol/style";
+
+// components
+import CityPopup from "./CityPopup";
 
 const romeCoordinates4326 = [12.4839, 41.89474];
 const mapExtent4326 = [-180, -85.051129, 180, 85.051129];
@@ -42,7 +45,7 @@ const circleImage0 = new CircleStyle({ radius: 7, fill: new Fill({ color: 'white
 const circleImage1 = new CircleStyle({ radius: 6.5, fill: new Fill({ color: 'white' }), stroke: new Stroke({ color: 'black', width: 2 })});
 const circleImage2 = new CircleStyle({ radius: 6, fill: new Fill({ color: 'white' }), stroke: new Stroke({ color: 'black', width: 2 })});
 const circleImage3 = new CircleStyle({ radius: 4, fill: new Fill({ color: 'white' }), stroke: new Stroke({ color: 'black', width: 2 })});
-const circleImage4 = new CircleStyle({ radius: 4, fill: new Fill({ color: 'black' })});
+const circleImage4 = new CircleStyle({ radius: 3, fill: new Fill({ color: 'white' }), stroke: new Stroke({ color: 'black', width: 1 })});
 const circleImages = [circleImage0, circleImage1, circleImage2, circleImage3, circleImage4];
 const createImageStyle = function(feature) {
     return circleImages[feature.get('size')];
@@ -50,7 +53,6 @@ const createImageStyle = function(feature) {
 
 const featureResolutionThreshold = [20000, 8000, 4000, 2000, 1500];
 function getFeatureStyle(feature, resolution) {
-    // console.log(resolution);
     if (resolution < featureResolutionThreshold[feature.get('size')]) {
         return new Style({image: createImageStyle(feature), text: createTextStyle(feature)});
     }
@@ -59,12 +61,28 @@ function getFeatureStyle(feature, resolution) {
     }
 }
 
+function isFeatureVisibleAtResolution(feature, resolution) {
+    return resolution < featureResolutionThreshold[feature.get('size')];
+}
+
+function getLayerByName(map, name) {
+    let result;
+    map.getLayers().forEach(layer => {
+        if (layer.get('name') === name) {
+            result = layer;
+        }
+    });
+
+    return result;
+}
+
 function MapWrapper({ features }) {
     // console.log('MapWrapper()');
 
     // set initial state
     const [ map, setMap ] = useState();
     const [ selectedCoord , setSelectedCoord ] = useState();
+    const [ selectedFeature, setSelectedFeature ] = useState();
 
     // pull refs
     const mapElement = useRef();
@@ -108,7 +126,6 @@ function MapWrapper({ features }) {
             }),
             controls: []
         });
-        console.log(initialMap.ol_uid);
 
         // set map onclick handler
         initialMap.on('click', handleMapClick);
@@ -117,13 +134,25 @@ function MapWrapper({ features }) {
         // save map reference to state
         setMap(initialMap);
 
-        return () => initialMap.setTarget(null)
+        return () => initialMap.setTarget(null);
 
     }, []);
 
     // update map if features prop changes - logic formerly put into componentDidUpdate
     useEffect( () => {
         if (features.length) { // may be null on first render
+            if (selectedFeature) {
+                // These tests trigger when the year slider changes
+                const feature = features.find(feature => feature.getProperties()['identifier'] === selectedFeature.getProperties()['identifier']);
+                if (!feature) {
+                    // selectedFeature is no longer included in the set of features
+                    setSelectedFeature(undefined);
+                }
+                else if (!isFeatureVisibleAtResolution(feature, map.getView().getResolution())) {
+                    // selectedFeature is no longer visible at this resolution
+                    setSelectedFeature(undefined);
+                }
+            }
             const featuresSource = new VectorSource({ features: features });
             const newFeaturesLayer = new VectorLayer({ source: featuresSource, style: getFeatureStyle });
             newFeaturesLayer.set('name', 'features-layer', true);
@@ -141,28 +170,54 @@ function MapWrapper({ features }) {
     const handleMapMoveEnd = (event) => {
         const newZoom = event.map.getView().getZoom();
         console.log(`new zoom is ${ newZoom }`);
+
+        // These tests trigger when the zoom changes
+        const mapSelectedFeature = event.map.get('selectedFeature');
+        if (mapSelectedFeature) {
+            const layer = getLayerByName(event.map, 'features-layer');
+            const foundFeature = layer.getSource().forEachFeature(layerFeature => {
+                if (layerFeature.getProperties()['identifier'] === mapSelectedFeature.getProperties()['identifier']) {
+                    return layerFeature;
+                }
+            });
+
+            if (!foundFeature) {
+                // selectedFeature is no longer included in the set of features
+                setSelectedFeature(undefined);
+                event.map.set('selectedFeature', undefined);
+            }
+            else if (!isFeatureVisibleAtResolution(foundFeature, event.map.getView().getResolution())) {
+                // selectedFeature is no longer visible at this resolution
+                setSelectedFeature(undefined);
+                event.map.set('selectedFeature', undefined);
+            }
+        }
     }
 
     // map click handler
     const handleMapClick = (event) => {
-        const clickedCoord = event.map.getCoordinateFromPixel(event.pixel);
-        console.log(clickedCoord);
+        const clickedFeatures = event.map.getFeaturesAtPixel(event.pixel, { hitTolerance: 5 });
+        if (clickedFeatures.length > 0) {
+            setSelectedFeature(clickedFeatures[0]);
+            event.map.set('selectedFeature', clickedFeatures[0]);
+        }
+        else {
+            setSelectedFeature(undefined);
+            event.map.set('selectedFeature', undefined);
+        }
 
-        // transform coord to EPSG 4326 standard Lat Long
         const transformedCoord = transform(event.coordinate, 'EPSG:3857', 'EPSG:4326');
-        console.log(transformedCoord);
-
-        // set React state
         setSelectedCoord(transformedCoord);
     }
 
     // render component
     return (
         <div>
-            <div ref={ mapElement } className="map-container"></div>
+            <div ref={mapElement} className="map-container"></div>
             <div className="clicked-coord-label">
-                <p>{ (selectedCoord) ? toStringXY(selectedCoord, 5) : '' }</p>
+                <p>{(selectedCoord) ? toStringXY(selectedCoord, 5) : ''}</p>
             </div>
+            <CityPopup map={ map } feature={ selectedFeature } />
         </div>
     );
 }

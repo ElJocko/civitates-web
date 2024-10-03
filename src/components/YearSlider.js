@@ -8,7 +8,7 @@ const Slider = ({ onChange, initialYear }) => {
     const [displayYear, setDisplayYear] = useState(initialYear);
     const [displayYearPostfix, setDisplayYearPostfix] = useState('AD');
 
-    const yearChangeHandler = (year) => {
+    function updateYear(year) {
         if (year === 0) {
             setCurrentYear(1);
             setDisplayYear(1);
@@ -24,6 +24,17 @@ const Slider = ({ onChange, initialYear }) => {
             setDisplayYear(year * -1);
             setDisplayYearPostfix('BC');
         }
+    }
+
+    const yearChangeHandler = (year) => {
+        updateYear(year);
+        onChange(currentYear);
+    }
+
+    const afterYearChangeHandler = (year) => {
+        // We need this handler because onChange only fires for some positions of the slider--and usually
+        // misses the final position
+        updateYear(year);
         onChange(currentYear);
     }
 
@@ -33,6 +44,7 @@ const Slider = ({ onChange, initialYear }) => {
             <ReactSlider
                 value={ currentYear }
                 onChange={ yearChangeHandler }
+                onAfterChange={ afterYearChangeHandler }
                 trackClassName="year-slider-track"
                 thumbClassName="year-slider-thumb"
                 min={ -1600 }
