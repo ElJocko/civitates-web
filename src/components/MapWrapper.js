@@ -25,7 +25,7 @@ const tagTextAlign = ['left', 'left', 'right', 'right', 'center', 'left', 'right
 const tagTextBaseline = ['bottom', 'top', 'bottom', 'top', 'bottom', 'middle', 'middle', 'top'];
 const tagOffsetX = [10, 10, -10, -10, 0, 10, -10, 0];
 const tagOffsetY = [0, 0, 0, 0, -7, 0, 0, 7];
-const tagFont = ['15px sans-serif', '14px sans-serif', '13px sans-serif', '12px sans-serif', '10px sans-serif'];
+const tagFont = ['17px sans-serif', '15px sans-serif', '14px sans-serif', '13px sans-serif', '11px sans-serif'];
 const createTextStyle = function(feature) {
     const tagPosition = feature.get('tagPosition');
     return new Text({

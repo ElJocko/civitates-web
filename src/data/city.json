@@ -7434,6 +7434,55 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "26.75081",
+                    "40.548232"
+                ]
+            },
+            "properties": {
+                "identifier": "Kardia",
+                "latitude": "40.548232",
+                "longitude": "26.75081",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "-310",
+                        "preferredName": "Kardia",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-309",
+                        "endDate": "-197",
+                        "preferredName": "Lysimacheia",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kardia",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Lysimacheia",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    154164577.6686649,
+                    101088267.53022271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "23.34556",
                     "38"
                 ]
@@ -10614,6 +10663,104 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "28.68267175",
+                    "40.1723935"
+                ]
+            },
+            "properties": {
+                "identifier": "Apollonia ad Rhyndacum",
+                "latitude": "40.1723935",
+                "longitude": "28.68267175",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-200",
+                        "endDate": "1084",
+                        "preferredName": "Apollonia",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Apollonia ad Rhyndacum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Apollonia",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    155605078.1958599,
+                    101456051.63119194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "29.025789",
+                    "40.983393"
+                ]
+            },
+            "properties": {
+                "identifier": "Chalcedon",
+                "latitude": "40.983393",
+                "longitude": "29.025789",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-685",
+                        "endDate": "1202",
+                        "preferredName": "Chalcedon",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1203",
+                        "endDate": "1350",
+                        "preferredName": "Chalcedon",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1351",
+                        "endDate": "2100",
+                        "preferredName": "Kad\u0131k\u00f6y",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kad\u0131k\u00f6y",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Chalcedon",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    155860924.96104106,
+                    100659843.96536812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "27.141667",
                     "38.108889"
                 ]
@@ -10651,6 +10798,59 @@
                 "mapPoint": [
                     154456021.77151433,
                     103440136.34376173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "27.874127",
+                    "40.389806"
+                ]
+            },
+            "properties": {
+                "identifier": "Cyzicus",
+                "latitude": "40.389806",
+                "longitude": "27.874127",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "-431",
+                        "preferredName": "Cyzicus",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-430",
+                        "endDate": "443",
+                        "preferredName": "Cyzicus",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "444",
+                        "endDate": "1084",
+                        "preferredName": "Cyzicus",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Cyzicus",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    155002183.53290808,
+                    101243548.48891471
                 ]
             }
         },
@@ -10769,7 +10969,7 @@
                         "endDate": "200",
                         "preferredName": "Elaeus",
                         "size": "4",
-                        "tagPosition": "1",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     }
                 ],
@@ -10867,7 +11067,7 @@
                         "endDate": "1354",
                         "preferredName": "Callipolis",
                         "size": "4",
-                        "tagPosition": "1",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     },
                     {
@@ -10875,7 +11075,7 @@
                         "endDate": "2100",
                         "preferredName": "Gelibolu",
                         "size": "4",
-                        "tagPosition": "1",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     }
                 ],
@@ -11006,6 +11206,47 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "29.502087",
+                    "40.721717"
+                ]
+            },
+            "properties": {
+                "identifier": "Helenopolis",
+                "latitude": "40.721717",
+                "longitude": "29.502087",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "1084",
+                        "preferredName": "Helenopolis",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Helenopolis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Drepanon",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    156216078.49110186,
+                    100917804.54466043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "31.414722",
                     "41.284722"
                 ]
@@ -11055,6 +11296,91 @@
                 "mapPoint": [
                     157642242.5143979,
                     100361522.08023968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "29.91694",
+                    "40.76694"
+                ]
+            },
+            "properties": {
+                "identifier": "\u0130zmit",
+                "latitude": "40.76694",
+                "longitude": "29.91694",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-712",
+                        "endDate": "-265",
+                        "preferredName": "Astacus",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-264",
+                        "endDate": "-74",
+                        "preferredName": "Nicomedia",
+                        "size": "1",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-73",
+                        "endDate": "292",
+                        "preferredName": "Nicomedia",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "293",
+                        "endDate": "330",
+                        "preferredName": "Nicomedia",
+                        "size": "1",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "331",
+                        "endDate": "1337",
+                        "preferredName": "Nicomedia",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1338",
+                        "endDate": "2100",
+                        "preferredName": "\u0130zmit",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "\u0130zmit",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Nicomedia",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "\u00d3lbia",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    156525415.3084018,
+                    100873296.36381586
                 ]
             }
         },
@@ -11214,6 +11540,47 @@
                 "mapPoint": [
                     158440031.1983218,
                     103664877.36274536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "26.699162",
+                    "40.346685"
+                ]
+            },
+            "properties": {
+                "identifier": "Lampsacus",
+                "latitude": "40.346685",
+                "longitude": "26.699162",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "1084",
+                        "preferredName": "Lampsacus",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Lampsacus",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Pityoussa",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    154126066.12857744,
+                    101285750.1688863
                 ]
             }
         },
@@ -11736,7 +12103,7 @@
                         "endDate": "-300",
                         "preferredName": "Sestos",
                         "size": "4",
-                        "tagPosition": "1",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     }
                 ],
