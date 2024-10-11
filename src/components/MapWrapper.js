@@ -14,6 +14,7 @@ import { Circle as CircleStyle, Style, Stroke, Fill, Text } from "ol/style";
 
 // components
 import CityPopup from "./CityPopup";
+import OSM from "ol/source/OSM";
 
 const romeCoordinates4326 = [12.4839, 41.89474];
 const mapExtent4326 = [-180, -85.051129, 180, 85.051129];
@@ -51,7 +52,7 @@ const createImageStyle = function(feature) {
     return circleImages[feature.get('size')];
 }
 
-const featureResolutionThreshold = [20000, 8000, 4000, 2000, 1500];
+const featureResolutionThreshold = [20000, 8000, 4000, 2000, 1200];
 function getFeatureStyle(feature, resolution) {
     if (resolution < featureResolutionThreshold[feature.get('size')]) {
         return new Style({image: createImageStyle(feature), text: createTextStyle(feature)});
@@ -110,7 +111,11 @@ function MapWrapper({ features }) {
             layers: [
                 // CAWM Map Tiles
                 new TileLayer({
-                    source: new XYZ({ url: 'http://cawm.lib.uiowa.edu/tiles/{z}/{x}/{y}.png' }),
+                    // source: new OSM(),
+                    source: new XYZ({
+                        attributions: 'Map tiles created by Consortium of Ancient World Mappers and hosted by University of Iowa, copyright 2022',
+                        url: 'http://cawm.lib.uiowa.edu/tiles/{z}/{x}/{y}.png'
+                    }),
                     extent: mapExtent3857
                 }),
                 featuresLayer

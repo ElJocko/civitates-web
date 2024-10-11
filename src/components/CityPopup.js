@@ -4,6 +4,8 @@ import Overlay from "ol/Overlay";
 const CityPopup = ({ map, feature }) => {
 
     const [displayName, setDisplayName] = useState();
+    const [identifier, setIdentifier] = useState();
+    const [alternateNames, setAlternateNames] = useState([]);
 
     const cityPopupOverlayId = 'city-popup-overlay';
 
@@ -27,6 +29,8 @@ const CityPopup = ({ map, feature }) => {
                 map.addOverlay(cityPopupOverlay);
             }
         }
+
+        setAlternateNames([]);
     }, [ map ]);
 
     useEffect( () => {
@@ -39,17 +43,34 @@ const CityPopup = ({ map, feature }) => {
             return;
         }
 
+        const altNames = [];
         if (feature) {
             const featureCoord = feature.getGeometry().getCoordinates();
             cityPopupOverlay.setPosition(featureCoord);
 
+            // display name
             const values = feature.getProperties();
-            let displayName = values['preferredName'];
-            if (values['preferredName'] !== values['identifier']) {
-                displayName = `${values['preferredName']} (${values['prefix']} ${values['identifier']})`;
-            }
-            setDisplayName(displayName);
+            setDisplayName(values['preferredName']);
 
+            // identifier
+            if (values['preferredName'] !== values['identifier']) {
+                setIdentifier(`${values['prefix']} ${values['identifier']}`);
+            }
+            else {
+                setIdentifier(null);
+            }
+
+            // alternate names
+            for (const altName of values['altNames']) {
+                if (altName.name !== values['preferredName'] && altName.name !== values['identifier']) {
+                    console.log(altName)
+                    altNames.push(altName);
+                }
+            }
+            console.log(altNames);
+            setAlternateNames(altNames);
+
+            // close button
             const closeButton = document.getElementById('city-popup-overlay-close-button');
             closeButton.onclick = function () {
                 cityPopupOverlay.setPosition(undefined);
@@ -66,7 +87,21 @@ const CityPopup = ({ map, feature }) => {
         <div id="city-popup-overlay-element" className="ol-popup">
             <a href="#" id="city-popup-overlay-close-button" className="ol-popup-close-button"></a>
             <div id="city-popup-display-name" className="city-popup-display-name">
-                <p>{ displayName }</p>
+                { displayName }
+            </div>
+            { identifier ?
+            <div id="city-popup-identifier-name" className="city-popup-identifier-name">
+                { identifier }
+            </div>
+                : null
+            }
+            { alternateNames.length > 0 ? <div className="city-popup-alternate-name-header">Also called:</div> : null }
+            <div>
+                {
+                    alternateNames.map(an => (
+                        <div className="city-popup-alternate-name" key={ an.id }>{ an.name }</div>
+                    ))
+                }
             </div>
         </div>
     );

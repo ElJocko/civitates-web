@@ -1536,7 +1536,7 @@
                         "endDate": "600",
                         "preferredName": "Caere",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     },
                     {
@@ -1544,7 +1544,7 @@
                         "endDate": "2100",
                         "preferredName": "Cerveteri",
                         "size": "4",
-                        "tagPosition": "0",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     }
                 ],
@@ -10663,6 +10663,51 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "28.88274275",
+                    "40.37557275"
+                ]
+            },
+            "properties": {
+                "identifier": "Apamea Myrlea",
+                "latitude": "40.37557275",
+                "longitude": "28.88274275",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-400",
+                        "endDate": "-203",
+                        "preferredName": "Myrlea",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-202",
+                        "endDate": "1084",
+                        "preferredName": "Apamea",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Apamea Myrlea",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    155754261.94618598,
+                    101257481.27814944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "28.68267175",
                     "40.1723935"
                 ]
@@ -10753,6 +10798,47 @@
                 "mapPoint": [
                     155860924.96104106,
                     100659843.96536812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "29.156389",
+                    "40.432468"
+                ]
+            },
+            "properties": {
+                "identifier": "Cius",
+                "latitude": "40.432468",
+                "longitude": "29.156389",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "1084",
+                        "preferredName": "Cius",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Cius",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Prusias ad Mare",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    155958307.37924552,
+                    101201769.4237658
                 ]
             }
         },
@@ -11222,7 +11308,7 @@
                         "endDate": "1084",
                         "preferredName": "Helenopolis",
                         "size": "4",
-                        "tagPosition": "1",
+                        "tagPosition": "3",
                         "calcTagPosition": 0
                     }
                 ],
@@ -14139,7 +14225,7 @@
                 "latitude": "43.6767",
                 "longitude": "4.6278",
                 "elevation": "0",
-                "prefix": "ancient",
+                "prefix": "modern",
                 "periods": [
                     {
                         "startDate": "-123",

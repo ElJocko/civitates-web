@@ -65,4 +65,22 @@
 
 .city-popup-display-name {
     text-align: left;
+    font-weight: bold;
+    padding: 8px 4px;
 }
+
+.city-popup-identifier-name {
+    text-align: left;
+    padding: 8px 4px;
+}
+
+.city-popup-alternate-name-header {
+    font-style: italic;
+    text-align: left;
+    padding: 4px;
+}
+
+.city-popup-alternate-name {
+     text-align: left;
+     padding: 4px;
+ }
