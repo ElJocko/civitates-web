@@ -450,8 +450,22 @@
                 "longitude": "16.30674",
                 "elevation": "151",
                 "prefix": "modern",
-                "periods": [],
-                "altNames": [],
+                "periods": [
+                    {
+                        "startDate": "1000",
+                        "endDate": "2100",
+                        "preferredName": "Andria",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Andria",
+                        "language": "Italian"
+                    }
+                ],
                 "mapPoint": [
                     146376914.632704,
                     100415958.6108529
@@ -689,8 +703,22 @@
                 "longitude": "14.21681",
                 "elevation": "39",
                 "prefix": "modern",
-                "periods": [],
-                "altNames": [],
+                "periods": [
+                    {
+                        "startDate": "1030",
+                        "endDate": "2100",
+                        "preferredName": "Aversa",
+                        "size": "4",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Aversa",
+                        "language": "Italian"
+                    }
+                ],
                 "mapPoint": [
                     144818549.87559822,
                     100679776.72386667
@@ -830,8 +858,22 @@
                 "longitude": "16.27719",
                 "elevation": "350",
                 "prefix": "modern",
-                "periods": [],
-                "altNames": [],
+                "periods": [
+                    {
+                        "startDate": "1054",
+                        "endDate": "2100",
+                        "preferredName": "Bisignano",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Bisignano",
+                        "language": "Italian"
+                    }
+                ],
                 "mapPoint": [
                     146354880.55569068,
                     102103291.15528485
@@ -10614,6 +10656,55 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "32.38633",
+                    "41.74633"
+                ]
+            },
+            "properties": {
+                "identifier": "Amasra",
+                "latitude": "41.74633",
+                "longitude": "32.38633",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "830",
+                        "preferredName": "Amastris",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "831",
+                        "endDate": "2100",
+                        "preferredName": "Amasra",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Amasra",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Amastris",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    158366725.94921243,
+                    99901835.60637456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "32.85427",
                     "39.91987"
                 ]
@@ -10741,6 +10832,79 @@
                 "mapPoint": [
                     155605078.1958599,
                     101456051.63119194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "33.6153",
+                    "40.59995"
+                ]
+            },
+            "properties": {
+                "identifier": "\u00c7ank\u0131r\u0131",
+                "latitude": "40.59995",
+                "longitude": "33.6153",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-400",
+                        "endDate": "-50",
+                        "preferredName": "Gangra",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-49",
+                        "endDate": "600",
+                        "preferredName": "Germanicopolis",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "601",
+                        "endDate": "1350",
+                        "preferredName": "Germanicopolis",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1351",
+                        "endDate": "2100",
+                        "preferredName": "\u00c7ank\u0131r\u0131",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "\u00c7ank\u0131r\u0131",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Gangra",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Germanicopolis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Khanjarah",
+                        "language": "Turkish"
+                    }
+                ],
+                "mapPoint": [
+                    159283112.40021333,
+                    101037496.7425951
                 ]
             }
         },
@@ -11977,6 +12141,63 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "34.190154",
+                    "41.514877"
+                ]
+            },
+            "properties": {
+                "identifier": "Pompeiopolis",
+                "latitude": "41.514877",
+                "longitude": "34.190154",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-64",
+                        "endDate": "450",
+                        "preferredName": "Pompeiopolis",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "451",
+                        "endDate": "1250",
+                        "preferredName": "Pompeiopolis",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1251",
+                        "endDate": "1400",
+                        "preferredName": "Ta\u015fk\u00f6pr\u00fc",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Pompeiopolis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Ta\u015fk\u00f6pr\u00fc",
+                        "language": "Turkish"
+                    }
+                ],
+                "mapPoint": [
+                    159711754.6102784,
+                    100132734.93279266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "26.3",
                     "40.009167"
                 ]
@@ -12075,6 +12296,63 @@
                 "mapPoint": [
                     161567282.63675448,
                     104386347.89543207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "36.33",
+                    "41.28667"
+                ]
+            },
+            "properties": {
+                "identifier": "Samsun",
+                "latitude": "41.28667",
+                "longitude": "36.33",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-760",
+                        "endDate": "1349",
+                        "preferredName": "Amisos",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1350",
+                        "endDate": "2100",
+                        "preferredName": "Samsun",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Samsun",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Amisos",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Sampsounta",
+                        "language": "ModernGreek"
+                    },
+                    {
+                        "name": "Simisso",
+                        "language": "Italian"
+                    }
+                ],
+                "mapPoint": [
+                    161307339.43466666,
+                    100359589.05089262
                 ]
             }
         },

@@ -1,13 +1,31 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Overlay from "ol/Overlay";
 
+import { requestPagePreview } from "../lib/api";
+
+const buildWikipediaUrl = ( lang, title, touch, analytics = true ) => {
+    return `https://${ lang }${ touch ? '.m' : '' }.wikipedia.org/wiki/${ encodeURIComponent( title ) }`
+}
+
 const CityPopup = ({ map, feature }) => {
 
     const [displayName, setDisplayName] = useState();
     const [identifier, setIdentifier] = useState();
     const [alternateNames, setAlternateNames] = useState([]);
+    const [wikipediaText, setWikipediaText] = useState();
+    const [wikipediaThumbnailUrl, setWikipediaThumbnailUrl] = useState();
+    const [wikipediaLink, setWikipediaLink] = useState();
 
     const cityPopupOverlayId = 'city-popup-overlay';
+
+    function clearPopupOverlay() {
+        setDisplayName(null);
+        setIdentifier(null);
+        setAlternateNames(null);
+        setWikipediaText(null);
+        setWikipediaThumbnailUrl(null);
+        setWikipediaLink(null);
+    }
 
     useEffect( () => {
         if (map) {
@@ -31,6 +49,7 @@ const CityPopup = ({ map, feature }) => {
         }
 
         setAlternateNames([]);
+        setWikipediaText(null);
     }, [ map ]);
 
     useEffect( () => {
@@ -45,8 +64,7 @@ const CityPopup = ({ map, feature }) => {
 
         const altNames = [];
         if (feature) {
-            const featureCoord = feature.getGeometry().getCoordinates();
-            cityPopupOverlay.setPosition(featureCoord);
+            clearPopupOverlay();
 
             // display name
             const values = feature.getProperties();
@@ -77,6 +95,21 @@ const CityPopup = ({ map, feature }) => {
                 closeButton.blur();
                 return false;
             };
+
+            //
+            let results = {};
+            requestPagePreview('en', values['identifier'], (previewData) => {
+                    console.log(previewData);
+                    setWikipediaText(previewData.extractHtml);
+                setWikipediaThumbnailUrl(previewData.imgUrl);
+                // setWikipediaThumbnailUrl(previewData.thumbnail.source);
+                const wikipediaArticleUrl = buildWikipediaUrl('en', previewData.title);
+                setWikipediaLink(wikipediaArticleUrl);
+                }
+            );
+
+            const featureCoord = feature.getGeometry().getCoordinates();
+            cityPopupOverlay.setPosition(featureCoord);
         }
         else {
             cityPopupOverlay?.setPosition(undefined);
@@ -87,21 +120,48 @@ const CityPopup = ({ map, feature }) => {
         <div id="city-popup-overlay-element" className="ol-popup">
             <a href="#" id="city-popup-overlay-close-button" className="ol-popup-close-button"></a>
             <div id="city-popup-display-name" className="city-popup-display-name">
-                { displayName }
+                {displayName}
             </div>
-            { identifier ?
-            <div id="city-popup-identifier-name" className="city-popup-identifier-name">
-                { identifier }
-            </div>
+            {identifier ?
+                <div id="city-popup-identifier-name" className="city-popup-identifier-name">
+                    {identifier}
+                </div>
                 : null
             }
-            { alternateNames.length > 0 ? <div className="city-popup-alternate-name-header">Also called:</div> : null }
-            <div>
-                {
-                    alternateNames.map(an => (
-                        <div className="city-popup-alternate-name" key={ an.id }>{ an.name }</div>
-                    ))
-                }
+            <div className="city-popup-alternate-name-box">
+                {alternateNames.length > 0 ? <div className="city-popup-alternate-name-header">Also called:</div> : null}
+                <div>
+                    {
+                        alternateNames.map(an => (
+                            <div className="city-popup-alternate-name" key={an.id}>{an.name}</div>
+                        ))
+                    }
+                </div>
+            </div>
+            <div className="wikipediapreview">
+                <div className="wikipediapreview-header">
+                    <div className="wikipediapreview-header-image" style={{ backgroundImage: `url(${ wikipediaThumbnailUrl })` }}></div>
+                    <div className="wikipediapreview-header-wordmark wikipediapreview-header-wordmark-en"></div>
+                </div>
+                <div className="wikipediapreview-body">
+                    {/*{wikipediaText ? <div>Wikipedia</div> : null}*/}
+                    {wikipediaText ? <div dangerouslySetInnerHTML={{ __html: wikipediaText }}/> : null}
+                    <div className="wikipediapreview-footer">
+                        <div className="wikipediapreview-footer-link">
+                            <a href={ wikipediaLink }
+                               className="wikipediapreview-footer-link-cta" target="_blank"
+                            >
+                                Read full article on Wikipedia&nbsp;
+                                <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+                                    <path fill="#36C" fill-rule="evenodd"
+                                          d="M11 1H6l2.148 2.144-4.15 4.15.707.708 4.15-4.15L11 6V1ZM4 3H2a1 1 0 0 0-1 1v6a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V8H8v2H2V4h2V3Z"
+                                          clip-rule="evenodd"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                    <div className="wikipediapreview-scroll-cue"></div>
+                </div>
             </div>
         </div>
     );

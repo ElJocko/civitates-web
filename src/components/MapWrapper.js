@@ -29,14 +29,20 @@ const tagOffsetY = [0, 0, 0, 0, -7, 0, 0, 7];
 const tagFont = ['17px sans-serif', '15px sans-serif', '14px sans-serif', '13px sans-serif', '11px sans-serif'];
 const createTextStyle = function(feature) {
     const tagPosition = feature.get('tagPosition');
+    const size = feature.get('size');
+
+    let offsetX = tagOffsetX[tagPosition];
+    if (size === '4') {
+        offsetX = offsetX / 2;
+    }
     return new Text({
         textAlign: tagTextAlign[tagPosition],
         textBaseline: tagTextBaseline[tagPosition],
-        font: tagFont[feature.get('size')],
+        font: tagFont[size],
         text: feature.get('preferredName'),
         fill: new Fill({ color: 'black' }),
         stroke: new Stroke({ color: 'white', width: 2 }),
-        offsetX: tagOffsetX[tagPosition],
+        offsetX: offsetX,
         offsetY: tagOffsetY[tagPosition],
         placement: 'point',
     });
