@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/civitates-web/static/css/main.b6f2a0a7.css",
-    "main.js": "/civitates-web/static/js/main.f05abc5c.js",
+    "main.js": "/civitates-web/static/js/main.2ad3a043.js",
     "static/media/wikipedia-wordmark-en.svg": "/civitates-web/static/media/wikipedia-wordmark-en.3e4c601022e014f0a8f3.svg",
     "index.html": "/civitates-web/index.html",
     "main.b6f2a0a7.css.map": "/civitates-web/static/css/main.b6f2a0a7.css.map",
-    "main.f05abc5c.js.map": "/civitates-web/static/js/main.f05abc5c.js.map"
+    "main.2ad3a043.js.map": "/civitates-web/static/js/main.2ad3a043.js.map"
   },
   "entrypoints": [
     "static/css/main.b6f2a0a7.css",
-    "static/js/main.f05abc5c.js"
+    "static/js/main.2ad3a043.js"
   ]
 }
