@@ -98,7 +98,7 @@ const CityPopup = ({ map, feature }) => {
 
             //
             let results = {};
-            requestPagePreview('en', values['identifier'], (previewData) => {
+            requestPagePreview('en', values['wikipediaArticleName'], (previewData) => {
                     console.log(previewData);
                     setWikipediaText(previewData.extractHtml);
                 setWikipediaThumbnailUrl(previewData.imgUrl);
