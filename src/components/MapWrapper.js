@@ -141,6 +141,7 @@ function MapWrapper({ features }) {
         // set map onclick handler
         initialMap.on('click', handleMapClick);
         initialMap.on('moveend', handleMapMoveEnd);
+        initialMap.on('pointermove', handlePointerMove);
 
         // save map reference to state
         setMap(initialMap);
@@ -221,12 +222,25 @@ function MapWrapper({ features }) {
         setSelectedCoord(transformedCoord);
     }
 
+    const handlePointerMove = (event) => {
+        if (event.dragging) {
+            return;
+        }
+        const hoveredFeatures = event.map.getFeaturesAtPixel(event.pixel, { hitTolerance: 5 });
+        if (hoveredFeatures.length > 0) {
+            event.map.getTargetElement().style.cursor = 'pointer';
+        }
+        else {
+            event.map.getTargetElement().style.cursor = '';
+        }
+    }
+
     // render component
     return (
         <div>
-            <div ref={mapElement} className="map-container"></div>
+            <div ref={ mapElement } className="map-container"></div>
             <div className="clicked-coord-label">
-                <p>{(selectedCoord) ? toStringXY(selectedCoord, 5) : ''}</p>
+                <p>{ (selectedCoord) ? toStringXY(selectedCoord, 5) : '' }</p>
             </div>
             <CityPopup map={ map } feature={ selectedFeature } />
         </div>

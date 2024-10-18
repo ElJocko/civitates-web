@@ -27,6 +27,7 @@ const CityPopup = ({ map, feature }) => {
         setWikipediaLink(null);
     }
 
+    const panOptions = { duration: 250 };
     useEffect( () => {
         if (map) {
             let cityPopupOverlay = map.getOverlayById(cityPopupOverlayId);
@@ -37,11 +38,7 @@ const CityPopup = ({ map, feature }) => {
                     id: cityPopupOverlayId,
                     element: overlayElement,
                     position: undefined,
-                    autoPan: {
-                        animation: {
-                            duration: 250,
-                        },
-                    },
+                    autoPan: { animation: panOptions },
                 });
 
                 map.addOverlay(cityPopupOverlay);
@@ -81,11 +78,9 @@ const CityPopup = ({ map, feature }) => {
             // alternate names
             for (const altName of values['altNames']) {
                 if (altName.name !== values['preferredName'] && altName.name !== values['identifier']) {
-                    console.log(altName)
                     altNames.push(altName);
                 }
             }
-            console.log(altNames);
             setAlternateNames(altNames);
 
             // close button
@@ -96,15 +91,17 @@ const CityPopup = ({ map, feature }) => {
                 return false;
             };
 
-            //
-            let results = {};
             requestPagePreview('en', values['wikipediaArticleName'], (previewData) => {
-                    console.log(previewData);
                     setWikipediaText(previewData.extractHtml);
-                setWikipediaThumbnailUrl(previewData.imgUrl);
-                // setWikipediaThumbnailUrl(previewData.thumbnail.source);
-                const wikipediaArticleUrl = buildWikipediaUrl('en', previewData.title);
-                setWikipediaLink(wikipediaArticleUrl);
+                    setWikipediaThumbnailUrl(previewData.imgUrl);
+                    const wikipediaArticleUrl = buildWikipediaUrl('en', previewData.title);
+                    setWikipediaLink(wikipediaArticleUrl);
+
+                    // Timeout to allow the original animation time to complete
+                    // This avoids a jerky motion when this pan starts
+                    setTimeout(() => {
+                        cityPopupOverlay.panIntoView(panOptions);
+                    }, 300);
                 }
             );
 
@@ -140,15 +137,15 @@ const CityPopup = ({ map, feature }) => {
             </div>
             <div className="wikipediapreview">
                 <div className="wikipediapreview-header">
-                    <div className="wikipediapreview-header-image" style={{ backgroundImage: `url(${ wikipediaThumbnailUrl })` }}></div>
+                    <div className="wikipediapreview-header-image"
+                         style={{ backgroundImage: `url(${wikipediaThumbnailUrl})` }}></div>
                     <div className="wikipediapreview-header-wordmark wikipediapreview-header-wordmark-en"></div>
                 </div>
                 <div className="wikipediapreview-body">
-                    {/*{wikipediaText ? <div>Wikipedia</div> : null}*/}
                     {wikipediaText ? <div dangerouslySetInnerHTML={{ __html: wikipediaText }}/> : null}
                     <div className="wikipediapreview-footer">
                         <div className="wikipediapreview-footer-link">
-                            <a href={ wikipediaLink }
+                            <a href={wikipediaLink}
                                className="wikipediapreview-footer-link-cta" target="_blank"
                             >
                                 Read full article on Wikipedia&nbsp;
@@ -160,8 +157,8 @@ const CityPopup = ({ map, feature }) => {
                             </a>
                         </div>
                     </div>
-                    <div className="wikipediapreview-scroll-cue"></div>
                 </div>
+                <div className="wikipediapreview-scroll-cue"></div>
             </div>
         </div>
     );

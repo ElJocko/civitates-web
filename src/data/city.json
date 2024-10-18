@@ -8512,7 +8512,7 @@
                     153660201.61426774,
                     100780153.74282426
                 ],
-                "wikipediaArticleName": "Traianopolis"
+                "wikipediaArticleName": "Traianoupoli"
             }
         },
         {
@@ -12158,6 +12158,44 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "35.48528",
+                    "38.73222"
+                ]
+            },
+            "properties": {
+                "identifier": "Kayseri",
+                "latitude": "38.73222",
+                "longitude": "35.48528",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1074",
+                        "endDate": "2100",
+                        "preferredName": "Kayseri",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kayseri",
+                        "language": "Turkish"
+                    }
+                ],
+                "mapPoint": [
+                    160677470.55024356,
+                    102846885.65527014
+                ],
+                "wikipediaArticleName": "Kayseri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "36.6283611",
                     "40.3735938"
                 ]
@@ -12347,6 +12385,134 @@
                     103698418.42149386
                 ],
                 "wikipediaArticleName": "Laodicea_on_the_Lycus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "38.361152",
+                    "38.382217"
+                ]
+            },
+            "properties": {
+                "identifier": "Malatya",
+                "latitude": "38.382217",
+                "longitude": "38.361152",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-1500",
+                        "endDate": "-712",
+                        "preferredName": "Malidiya",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-711",
+                        "endDate": "1100",
+                        "preferredName": "Melitene",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1101",
+                        "endDate": "2100",
+                        "preferredName": "Malatya",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Malatya",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Malidiya",
+                        "language": "Hittite"
+                    },
+                    {
+                        "name": "Melitene",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    162821876.1383481,
+                    103180628.25847158
+                ],
+                "wikipediaArticleName": "Malatya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.484989",
+                    "38.728033"
+                ]
+            },
+            "properties": {
+                "identifier": "Mazaka",
+                "latitude": "38.728033",
+                "longitude": "35.484989",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-500",
+                        "endDate": "-332",
+                        "preferredName": "Mazaka",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-331",
+                        "endDate": "-96",
+                        "preferredName": "Mazaka",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-95",
+                        "endDate": "16",
+                        "preferredName": "Mazaka",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "17",
+                        "endDate": "1073",
+                        "preferredName": "Caesarea",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Mazaka",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Caesarea",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    160677253.5649166,
+                    102850887.76693717
+                ],
+                "wikipediaArticleName": "Caesarea_(Mazaca)"
             }
         },
         {
@@ -13675,6 +13841,80 @@
                     101665424.71975613
                 ],
                 "wikipediaArticleName": "Troy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.572513",
+                    "37.82365"
+                ]
+            },
+            "properties": {
+                "identifier": "Tyana",
+                "latitude": "37.82365",
+                "longitude": "34.572513",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1500",
+                        "endDate": "-1200",
+                        "preferredName": "T\u016bwanuwa",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1199",
+                        "endDate": "-600",
+                        "preferredName": "Tuwana",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-599",
+                        "endDate": "-100",
+                        "preferredName": "Tuana",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-99",
+                        "endDate": "950",
+                        "preferredName": "Tyana",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tyana",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "T\u016bwanuwa",
+                        "language": "Hittite"
+                    },
+                    {
+                        "name": "Tuwana",
+                        "language": "Luwian"
+                    },
+                    {
+                        "name": "Tuana",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    159996862.14505816,
+                    103709919.91622376
+                ],
+                "wikipediaArticleName": "Tyana"
             }
         },
         {
@@ -19280,6 +19520,72 @@
                     105225055.4416689
                 ],
                 "wikipediaArticleName": "Aleppo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "36.165318",
+                    "36.200663"
+                ]
+            },
+            "properties": {
+                "identifier": "Antioch",
+                "latitude": "36.200663",
+                "longitude": "36.165318",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-301",
+                        "endDate": "-241",
+                        "preferredName": "Antioch",
+                        "size": "2",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-240",
+                        "endDate": "539",
+                        "preferredName": "Antioch",
+                        "size": "1",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "540",
+                        "endDate": "1268",
+                        "preferredName": "Antioch",
+                        "size": "2",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1269",
+                        "endDate": "2100",
+                        "preferredName": "Antakya",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Antioch",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Theoupolis",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    161184543.63531947,
+                    105225588.61239192
+                ],
+                "wikipediaArticleName": "Antioch"
             }
         },
         {
