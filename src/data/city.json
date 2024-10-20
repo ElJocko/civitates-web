@@ -11052,6 +11052,60 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "35.898345",
+                    "37.255638"
+                ]
+            },
+            "properties": {
+                "identifier": "Anazarbus",
+                "latitude": "37.255638",
+                "longitude": "35.898345",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-100",
+                        "endDate": "1374",
+                        "preferredName": "Anazarbus",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Anazarbus",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Ain Zarba",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Anavarza",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Caesarea ad Anazarbum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Justinopolis",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    160985474.138112,
+                    104244069.45411678
+                ],
+                "wikipediaArticleName": "Anazarbus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "32.85427",
                     "39.91987"
                 ]
@@ -11699,6 +11753,56 @@
                     103598950.31634371
                 ],
                 "wikipediaArticleName": "Ephesus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.04672",
+                    "37.51333"
+                ]
+            },
+            "properties": {
+                "identifier": "Ere\u011fli",
+                "latitude": "37.51333",
+                "longitude": "34.04672",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "500",
+                        "endDate": "1249",
+                        "preferredName": "Heraclea Cybistra",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1250",
+                        "endDate": "2100",
+                        "preferredName": "Ere\u011fli",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ere\u011fli",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Heraclea Cybistra",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    159604802.46806756,
+                    104002244.01487456
+                ],
+                "wikipediaArticleName": "Ere\u011fli"
             }
         },
         {
@@ -13312,6 +13416,56 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "33.93444",
+                    "36.37778"
+                ]
+            },
+            "properties": {
+                "identifier": "Silifke",
+                "latitude": "36.37778",
+                "longitude": "33.93444",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-290",
+                        "endDate": "1350",
+                        "preferredName": "Seleucia",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1351",
+                        "endDate": "2100",
+                        "preferredName": "Silifke",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Silifke",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Seleucia",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    159521080.43195733,
+                    105061740.44599421
+                ],
+                "wikipediaArticleName": "Silifke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "35.16252",
                     "42.02683"
                 ]
@@ -13436,7 +13590,7 @@
                     160923871.92923024,
                     104056895.70307983
                 ],
-                "wikipediaArticleName": "Sis"
+                "wikipediaArticleName": "Sis_(ancient_city)"
             }
         },
         {
@@ -15931,6 +16085,68 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "41.5736185",
+                    "41.5662815"
+                ]
+            },
+            "properties": {
+                "identifier": "Apsaros",
+                "latitude": "41.5662815",
+                "longitude": "41.5736185",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "50",
+                        "endDate": "300",
+                        "preferredName": "Apsaros",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "301",
+                        "endDate": "1300",
+                        "preferredName": "Apsaros",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1301",
+                        "endDate": "2100",
+                        "preferredName": "Gonio",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Apsaros",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Gonio",
+                        "language": "Georgian"
+                    },
+                    {
+                        "name": "Apsyrtus",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    165217264.7767154,
+                    100081524.9376216
+                ],
+                "wikipediaArticleName": "Gonio_(fortress)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "44.550556",
                     "39.953889"
                 ]
@@ -15997,7 +16213,7 @@
                         "endDate": "2100",
                         "preferredName": "Batumi",
                         "size": "3",
-                        "tagPosition": "3",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     }
                 ],
@@ -16057,7 +16273,7 @@
                     167462905.95029902,
                     101604588.60714993
                 ],
-                "wikipediaArticleName": "Dvin"
+                "wikipediaArticleName": "Dvin_(ancient_city)"
             }
         },
         {
@@ -16081,7 +16297,7 @@
                         "endDate": "2100",
                         "preferredName": "Gori",
                         "size": "3",
-                        "tagPosition": "3",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     }
                 ],
@@ -16177,6 +16393,14 @@
                 "prefix": "modern",
                 "periods": [
                     {
+                        "startDate": "-500",
+                        "endDate": "779",
+                        "preferredName": "Kutaisi",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
                         "startDate": "780",
                         "endDate": "1122",
                         "preferredName": "Kutaisi",
@@ -16197,6 +16421,10 @@
                     {
                         "name": "Kutaisi",
                         "language": "Georgian"
+                    },
+                    {
+                        "name": "Aia",
+                        "language": "Georgian"
                     }
                 ],
                 "mapPoint": [
@@ -16204,6 +16432,64 @@
                     99378431.19131449
                 ],
                 "wikipediaArticleName": "Kutaisi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "44.706",
+                    "41.839298"
+                ]
+            },
+            "properties": {
+                "identifier": "Mtskheta",
+                "latitude": "41.839298",
+                "longitude": "44.706",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "520",
+                        "preferredName": "Mtskheta",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "521",
+                        "endDate": "736",
+                        "preferredName": "Mtskheta",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "737",
+                        "endDate": "2100",
+                        "preferredName": "Mtskheta",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Mtskheta",
+                        "language": "Georgian"
+                    },
+                    {
+                        "name": "Meschistha",
+                        "language": "Georgian"
+                    }
+                ],
+                "mapPoint": [
+                    167552937.71093336,
+                    99808855.80180806
+                ],
+                "wikipediaArticleName": "Mtskheta"
             }
         },
         {
@@ -16242,6 +16528,118 @@
                     99511342.62012431
                 ],
                 "wikipediaArticleName": "Phasis_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "40.34102",
+                    "43.16198"
+                ]
+            },
+            "properties": {
+                "identifier": "Pitsunda",
+                "latitude": "43.16198",
+                "longitude": "40.34102",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-450",
+                        "endDate": "799",
+                        "preferredName": "Pityus",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "800",
+                        "endDate": "1500",
+                        "preferredName": "Bichvinta",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1501",
+                        "endDate": "2100",
+                        "preferredName": "Bichvinta",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Pitsunda",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Pityus",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Bichvint'a",
+                        "language": "Georgian"
+                    }
+                ],
+                "mapPoint": [
+                    164298172.72001424,
+                    98471052.64497852
+                ],
+                "wikipediaArticleName": "Pitsunda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "40.52194",
+                    "41.02083"
+                ]
+            },
+            "properties": {
+                "identifier": "Rize",
+                "latitude": "41.02083",
+                "longitude": "40.52194",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "50",
+                        "endDate": "1000",
+                        "preferredName": "Rhizos",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1001",
+                        "endDate": "2100",
+                        "preferredName": "Rize",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Rize",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Rhizos",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    164433076.4497351,
+                    100622854.97415772
+                ],
+                "wikipediaArticleName": "Rize"
             }
         },
         {
@@ -16343,7 +16741,7 @@
                         "endDate": "2100",
                         "preferredName": "Tbilisi",
                         "size": "2",
-                        "tagPosition": "3",
+                        "tagPosition": "0",
                         "calcTagPosition": 0
                     }
                 ],
@@ -16408,6 +16806,44 @@
                     101293475.88473296
                 ],
                 "wikipediaArticleName": "Tigranakert_of_Artsakh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "44.149314",
+                    "41.967928"
+                ]
+            },
+            "properties": {
+                "identifier": "Uplistsikhe",
+                "latitude": "41.967928",
+                "longitude": "44.149314",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "50",
+                        "endDate": "1300",
+                        "preferredName": "Uplistsikhe",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Uplistsikhe",
+                        "language": "Georgian"
+                    }
+                ],
+                "mapPoint": [
+                    167137842.54354775,
+                    99679986.43248284
+                ],
+                "wikipediaArticleName": "Uplistsikhe"
             }
         },
         {
@@ -19371,7 +19807,7 @@
                     {
                         "startDate": "-25",
                         "endDate": "713",
-                        "preferredName": "Caesaraugusta",
+                        "preferredName": "Caesar Augusta",
                         "size": "3",
                         "tagPosition": "1",
                         "calcTagPosition": 0
@@ -19399,7 +19835,7 @@
                         "language": "Spanish"
                     },
                     {
-                        "name": "Caesaraugusta",
+                        "name": "Caesar Augusta",
                         "language": "Latin"
                     },
                     {
@@ -19411,7 +19847,7 @@
                     133563535.88064711,
                     99991988.32162896
                 ],
-                "wikipediaArticleName": "Zaragoza"
+                "wikipediaArticleName": "Caesaraugusta"
             }
         },
         {
@@ -19532,7 +19968,7 @@
                 ]
             },
             "properties": {
-                "identifier": "Antioch",
+                "identifier": "Antakya",
                 "latitude": "36.200663",
                 "longitude": "36.165318",
                 "elevation": "0",
@@ -19579,6 +20015,10 @@
                     {
                         "name": "Theoupolis",
                         "language": "Latin"
+                    },
+                    {
+                        "name": "Antakya",
+                        "language": "Turkish"
                     }
                 ],
                 "mapPoint": [
