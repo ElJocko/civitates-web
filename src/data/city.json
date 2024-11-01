@@ -17,7 +17,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Acquarossa",
+                "identifier": "4a00660d-5b6c-4018-86e1-e08dd73270f9",
+                "city_base_id": "Acquarossa",
                 "latitude": "43.1556",
                 "longitude": "11.3994",
                 "elevation": "321",
@@ -55,7 +56,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Alessandria",
+                "identifier": "a509461a-3aa4-428e-bdfd-d672a5cfd234",
+                "city_base_id": "Alessandria",
                 "latitude": "44.91245",
                 "longitude": "8.61894",
                 "elevation": "95",
@@ -93,7 +95,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Anzio",
+                "identifier": "b8a358a3-b98d-4a86-8d4b-c807fa51a1b3",
+                "city_base_id": "Anzio",
                 "latitude": "41.44749",
                 "longitude": "12.62707",
                 "elevation": "3",
@@ -143,7 +146,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ardea",
+                "identifier": "24663236-cf3b-4b81-959c-ef742a781324",
+                "city_base_id": "Ardea",
                 "latitude": "41.6123",
                 "longitude": "12.51433",
                 "elevation": "37",
@@ -197,7 +201,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Adria",
+                "identifier": "8d7a6d7a-d779-4c39-89f2-f1d6b4043ddf",
+                "city_base_id": "Adria",
                 "latitude": "45.05639",
                 "longitude": "12.05778",
                 "elevation": "4",
@@ -259,7 +264,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Agrigento",
+                "identifier": "5382fe72-a795-4c52-9dc5-7f01052680e4",
+                "city_base_id": "Agrigento",
                 "latitude": "37.31168",
                 "longitude": "13.57962",
                 "elevation": "230",
@@ -345,7 +351,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Amalfi",
+                "identifier": "d81b418b-7065-4fc0-a89b-8928b0e74265",
+                "city_base_id": "Amalfi",
                 "latitude": "40.6349",
                 "longitude": "14.60238",
                 "elevation": "6",
@@ -399,7 +406,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ancona",
+                "identifier": "a93fcf82-715d-4a78-94a2-be4acb61cb31",
+                "city_base_id": "Ancona",
                 "latitude": "43.59816",
                 "longitude": "13.51008",
                 "elevation": "16",
@@ -453,7 +461,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Andria",
+                "identifier": "8a41329d-9c89-4346-bf1d-25cc6be1e478",
+                "city_base_id": "Andria",
                 "latitude": "41.22984",
                 "longitude": "16.30674",
                 "elevation": "151",
@@ -491,7 +500,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Aquileia",
+                "identifier": "775e1bdb-5934-48b1-8ae6-6c54ea1b0e43",
+                "city_base_id": "Aquileia",
                 "latitude": "45.77028",
                 "longitude": "13.36833",
                 "elevation": "5",
@@ -553,7 +563,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Arezzo",
+                "identifier": "e533c0a4-44d8-45f3-944f-05b5391b9de2",
+                "city_base_id": "Arezzo",
                 "latitude": "43.46734",
                 "longitude": "11.88261",
                 "elevation": "296",
@@ -615,7 +626,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Arpi",
+                "identifier": "f8a2b50b-dade-4a54-bff8-824e0bd6b378",
+                "city_base_id": "Arpi",
                 "latitude": "41.475654",
                 "longitude": "15.555444",
                 "elevation": "60",
@@ -661,7 +673,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Assisi",
+                "identifier": "be175aa8-d4e3-4710-8b38-8769500f3d30",
+                "city_base_id": "Assisi",
                 "latitude": "43.07083",
                 "longitude": "12.61429",
                 "elevation": "424",
@@ -711,7 +724,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Aversa",
+                "identifier": "67c6a8b4-8248-408e-a1ed-c5f36613f1aa",
+                "city_base_id": "Aversa",
                 "latitude": "40.96321",
                 "longitude": "14.21681",
                 "elevation": "39",
@@ -749,7 +763,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Bari",
+                "identifier": "fd5004c0-6208-4298-8a2e-051df4206dc4",
+                "city_base_id": "Bari",
                 "latitude": "41.11773",
                 "longitude": "16.85118",
                 "elevation": "5",
@@ -799,7 +814,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Benevento",
+                "identifier": "d1c97428-e4b5-4060-b88e-7a4ce807ae0e",
+                "city_base_id": "Benevento",
                 "latitude": "41.13204",
                 "longitude": "14.77328",
                 "elevation": "135",
@@ -869,7 +885,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Bisignano",
+                "identifier": "54cf59da-78aa-4425-9bc8-9f2ae78175c7",
+                "city_base_id": "Bisignano",
                 "latitude": "39.5059",
                 "longitude": "16.27719",
                 "elevation": "350",
@@ -907,7 +924,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Bojano",
+                "identifier": "f6693419-54ec-4974-bc15-b1f8eeb392a4",
+                "city_base_id": "Bojano",
                 "latitude": "41.48572",
                 "longitude": "14.47293",
                 "elevation": "482",
@@ -931,7 +949,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Bologna",
+                "identifier": "65f43a5f-c680-4d56-9b5d-58cc640bf9db",
+                "city_base_id": "Bologna",
                 "latitude": "44.49381",
                 "longitude": "11.33875",
                 "elevation": "54",
@@ -997,7 +1016,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Bolsena",
+                "identifier": "28a965f8-d1b8-434a-b10f-90460c80f6e9",
+                "city_base_id": "Bolsena",
                 "latitude": "42.64383",
                 "longitude": "11.98506",
                 "elevation": "350",
@@ -1059,7 +1079,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Brescia",
+                "identifier": "edbc3e0c-8545-45a9-9ce4-3d8466b783ea",
+                "city_base_id": "Brescia",
                 "latitude": "45.52478",
                 "longitude": "10.22727",
                 "elevation": "149",
@@ -1117,7 +1138,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Brindisi",
+                "identifier": "cc32061b-3083-4ce2-8d1c-587f1851e0c8",
+                "city_base_id": "Brindisi",
                 "latitude": "40.62773",
                 "longitude": "17.93682",
                 "elevation": "13",
@@ -1179,7 +1201,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Buonalbergo",
+                "identifier": "37617287-b893-48cb-b4cd-afe58064b97e",
+                "city_base_id": "Buonalbergo",
                 "latitude": "41.22322",
                 "longitude": "14.97744",
                 "elevation": "555",
@@ -1203,7 +1226,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Butera",
+                "identifier": "97931728-c442-4878-acd7-c21684140f70",
+                "city_base_id": "Butera",
                 "latitude": "37.19104",
                 "longitude": "14.18367",
                 "elevation": "402",
@@ -1227,7 +1251,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Cagliari",
+                "identifier": "531a2edb-b880-4489-b930-f6527cd7fff9",
+                "city_base_id": "Cagliari",
                 "latitude": "39.20738",
                 "longitude": "9.13462",
                 "elevation": "6",
@@ -1289,7 +1314,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Camerino",
+                "identifier": "239d60c1-9e4f-4541-9ca5-8eacca6af75b",
+                "city_base_id": "Camerino",
                 "latitude": "43.13985",
                 "longitude": "13.06917",
                 "elevation": "661",
@@ -1339,7 +1365,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Capua",
+                "identifier": "6507de23-416b-4841-ac62-ceb485a429af",
+                "city_base_id": "Capua",
                 "latitude": "41.11082",
                 "longitude": "14.2133",
                 "elevation": "25",
@@ -1405,7 +1432,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Casale Monferrato",
+                "identifier": "32a8edef-6ddb-407a-949c-7f8b4b367a90",
+                "city_base_id": "Casale Monferrato",
                 "latitude": "45.13336",
                 "longitude": "8.45714",
                 "elevation": "116",
@@ -1443,7 +1471,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Cassino",
+                "identifier": "7153ae64-0210-4305-bc25-4279b7cd7ef1",
+                "city_base_id": "Cassino",
                 "latitude": "41.48762",
                 "longitude": "13.83151",
                 "elevation": "40",
@@ -1467,7 +1496,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Castelseprio",
+                "identifier": "eb5f5ed2-beaa-4d51-a548-7a08bb9420c2",
+                "city_base_id": "Castelseprio",
                 "latitude": "45.71597",
                 "longitude": "8.86264",
                 "elevation": "310",
@@ -1505,7 +1535,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Catania",
+                "identifier": "ddd21d47-d143-46dd-b637-52cabbeda836",
+                "city_base_id": "Catania",
                 "latitude": "37.503",
                 "longitude": "15.08638",
                 "elevation": "7",
@@ -1567,7 +1598,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Cefalu",
+                "identifier": "deec0ff9-00bf-4342-92b4-10fafe2499bf",
+                "city_base_id": "Cefalu",
                 "latitude": "38.03856",
                 "longitude": "14.02285",
                 "elevation": "16",
@@ -1591,7 +1623,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Cerveteri",
+                "identifier": "a89ff029-6aa0-4ccc-80e5-ec76d33de0b6",
+                "city_base_id": "Cerveteri",
                 "latitude": "41.99262",
                 "longitude": "12.09237",
                 "elevation": "81",
@@ -1661,7 +1694,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Chieti",
+                "identifier": "975e503e-6e54-40eb-af63-a2b5593e8433",
+                "city_base_id": "Chieti",
                 "latitude": "42.36094",
                 "longitude": "14.13801",
                 "elevation": "330",
@@ -1731,7 +1765,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Chiusi",
+                "identifier": "79d4be63-8cd4-4d6a-8eb5-4b7a4a122887",
+                "city_base_id": "Chiusi",
                 "latitude": "43.01604",
                 "longitude": "11.94745",
                 "elevation": "398",
@@ -1797,7 +1832,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Cividale del Friuli",
+                "identifier": "f3dd9874-5f85-4bdb-ac28-2b3a4cf4a308",
+                "city_base_id": "Cividale del Friuli",
                 "latitude": "46.09306",
                 "longitude": "13.4275",
                 "elevation": "135",
@@ -1855,7 +1891,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Como",
+                "identifier": "fabc2294-a70c-41c3-9ff3-c7978d7be519",
+                "city_base_id": "Como",
                 "latitude": "45.80998",
                 "longitude": "9.08744",
                 "elevation": "201",
@@ -1905,7 +1942,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Cortona",
+                "identifier": "2abde3bf-b3d3-4fa2-b659-68ddf240821f",
+                "city_base_id": "Cortona",
                 "latitude": "43.27467",
                 "longitude": "11.98533",
                 "elevation": "494",
@@ -1967,7 +2005,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Cosenza",
+                "identifier": "318fb4db-2c08-414b-980a-cf34a4c9fe9d",
+                "city_base_id": "Cosenza",
                 "latitude": "39.30999",
                 "longitude": "16.25019",
                 "elevation": "238",
@@ -1991,7 +2030,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Cremona",
+                "identifier": "7b91d3e3-b652-48f1-8581-7d7edb30e181",
+                "city_base_id": "Cremona",
                 "latitude": "45.13617",
                 "longitude": "10.02797",
                 "elevation": "45",
@@ -2053,7 +2093,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Crotone",
+                "identifier": "75189f82-5da2-4ead-b63f-ad7eac7f665e",
+                "city_base_id": "Crotone",
                 "latitude": "39.0851",
                 "longitude": "17.11781",
                 "elevation": "8",
@@ -2119,7 +2160,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Cumae",
+                "identifier": "a5b6520c-a1a7-406d-91e0-909df5e12c98",
+                "city_base_id": "Cumae",
                 "latitude": "40.848611",
                 "longitude": "14.053611",
                 "elevation": "45",
@@ -2185,7 +2227,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Enna",
+                "identifier": "3de5a613-06e4-415d-b2b4-162cb9d68ab5",
+                "city_base_id": "Enna",
                 "latitude": "37.55885",
                 "longitude": "14.28917",
                 "elevation": "931",
@@ -2255,7 +2298,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Falerii",
+                "identifier": "73581e7f-f08f-4eef-bcaa-60327d96c591",
+                "city_base_id": "Falerii",
                 "latitude": "42.29523",
                 "longitude": "12.40917",
                 "elevation": "145",
@@ -2279,7 +2323,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ferrara",
+                "identifier": "49aaa676-b2e2-4264-b32e-83bb14167469",
+                "city_base_id": "Ferrara",
                 "latitude": "44.82678",
                 "longitude": "11.62071",
                 "elevation": "9",
@@ -2325,7 +2370,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Florence",
+                "identifier": "70462397-5926-498d-8f41-5f3b7aca7c6a",
+                "city_base_id": "Florence",
                 "latitude": "43.76667",
                 "longitude": "11.25",
                 "elevation": "50",
@@ -2399,7 +2445,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Foggia",
+                "identifier": "820da300-5545-4b04-8840-2f0b6491e3e1",
+                "city_base_id": "Foggia",
                 "latitude": "41.46093",
                 "longitude": "15.54925",
                 "elevation": "76",
@@ -2437,7 +2484,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Gabii",
+                "identifier": "486a2637-53ef-4009-b683-39b5040b402b",
+                "city_base_id": "Gabii",
                 "latitude": "41.8869",
                 "longitude": "12.7158",
                 "elevation": "70",
@@ -2483,7 +2531,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Gaeta",
+                "identifier": "b21f2672-3890-41f6-813f-9b81dbb3302d",
+                "city_base_id": "Gaeta",
                 "latitude": "41.21408",
                 "longitude": "13.57082",
                 "elevation": "2",
@@ -2541,7 +2590,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Galeria",
+                "identifier": "7d02e77f-c6de-42e8-a6b5-0ac694042c83",
+                "city_base_id": "Galeria",
                 "latitude": "42.41",
                 "longitude": "8.6492",
                 "elevation": "28",
@@ -2565,7 +2615,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Gallipoli",
+                "identifier": "56edce6b-f25d-46d1-bf7f-3b349d0bb4e3",
+                "city_base_id": "Gallipoli",
                 "latitude": "40.05556",
                 "longitude": "17.97639",
                 "elevation": "12",
@@ -2589,7 +2640,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Genoa",
+                "identifier": "3bf2c9ea-ffd1-4f16-aa44-cd4ab1f14c67",
+                "city_base_id": "Genoa",
                 "latitude": "44.40632",
                 "longitude": "8.93386",
                 "elevation": "19",
@@ -2655,7 +2707,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Gerace",
+                "identifier": "a90d3acc-8272-409d-ad4f-3dc8149e63c6",
+                "city_base_id": "Gerace",
                 "latitude": "38.27137",
                 "longitude": "16.2207",
                 "elevation": "500",
@@ -2679,7 +2732,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Giardini-Naxos",
+                "identifier": "9df09ada-b148-4c2d-9c6e-0e4b023ae1f0",
+                "city_base_id": "Giardini-Naxos",
                 "latitude": "37.82755",
                 "longitude": "15.26713",
                 "elevation": "5",
@@ -2703,7 +2757,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Grado",
+                "identifier": "c54b99d6-97d2-4446-9da2-caa586145e26",
+                "city_base_id": "Grado",
                 "latitude": "45.67861",
                 "longitude": "13.38694",
                 "elevation": "2",
@@ -2745,7 +2800,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Heraclea",
+                "identifier": "c5a9021c-471f-499e-a29a-6f8912fc332d",
+                "city_base_id": "Heraclea",
                 "latitude": "40.22",
                 "longitude": "16.669722",
                 "elevation": "31",
@@ -2795,7 +2851,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ivrea",
+                "identifier": "27f0a064-f003-4015-9192-ced0120bd4c7",
+                "city_base_id": "Ivrea",
                 "latitude": "45.46723",
                 "longitude": "7.87617",
                 "elevation": "253",
@@ -2845,7 +2902,8 @@
                 ]
             },
             "properties": {
-                "identifier": "L'Aquila",
+                "identifier": "a8b42272-0d92-4b36-b7b6-01d55b5cd0e8",
+                "city_base_id": "L'Aquila",
                 "latitude": "42.35055",
                 "longitude": "13.39954",
                 "elevation": "714",
@@ -2887,7 +2945,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Larino",
+                "identifier": "4e0f8c2b-383c-4453-a64c-c9dbd4b3bdb8",
+                "city_base_id": "Larino",
                 "latitude": "41.80554",
                 "longitude": "14.91933",
                 "elevation": "341",
@@ -2937,7 +2996,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Lavello",
+                "identifier": "777e32a6-ebc8-4d51-afb4-c1132a91a423",
+                "city_base_id": "Lavello",
                 "latitude": "41.04562",
                 "longitude": "15.79076",
                 "elevation": "313",
@@ -2961,7 +3021,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Lavinium",
+                "identifier": "32dca026-4e88-4167-8a06-ae3fb38d5e80",
+                "city_base_id": "Lavinium",
                 "latitude": "41.6616",
                 "longitude": "12.4784",
                 "elevation": "86",
@@ -3007,7 +3068,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Lecce",
+                "identifier": "95d313fb-15d1-4e76-bb6c-7ebd9025607d",
+                "city_base_id": "Lecce",
                 "latitude": "40.35703",
                 "longitude": "18.17202",
                 "elevation": "49",
@@ -3031,7 +3093,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Loreto",
+                "identifier": "c8c54661-3739-4238-8bac-c529b881c67e",
+                "city_base_id": "Loreto",
                 "latitude": "43.43536",
                 "longitude": "13.60978",
                 "elevation": "127",
@@ -3055,7 +3118,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Lucca",
+                "identifier": "f6688f3e-2229-4e14-a32c-e11bd0da4e18",
+                "city_base_id": "Lucca",
                 "latitude": "43.84357",
                 "longitude": "10.50585",
                 "elevation": "19",
@@ -3105,7 +3169,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Luni",
+                "identifier": "89ad8009-9a4c-4474-b8cc-a06778fbb2c7",
+                "city_base_id": "Luni",
                 "latitude": "44.066667",
                 "longitude": "10.033333",
                 "elevation": "17",
@@ -3155,7 +3220,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Mantua",
+                "identifier": "23c65661-9a72-44c2-bdd7-ef8d51807da8",
+                "city_base_id": "Mantua",
                 "latitude": "45.16031",
                 "longitude": "10.79784",
                 "elevation": "19",
@@ -3205,7 +3271,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Marsala",
+                "identifier": "31d439d6-5ea6-449c-8d2f-56662391dbb5",
+                "city_base_id": "Marsala",
                 "latitude": "37.79664",
                 "longitude": "12.43518",
                 "elevation": "12",
@@ -3275,7 +3342,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Matera",
+                "identifier": "f8e2dd40-d926-4c25-a70b-9f5b3a4f8852",
+                "city_base_id": "Matera",
                 "latitude": "40.66852",
                 "longitude": "16.60158",
                 "elevation": "401",
@@ -3299,7 +3367,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Melfi",
+                "identifier": "be271fe7-671d-4887-9b1b-95435a62ed8d",
+                "city_base_id": "Melfi",
                 "latitude": "40.99656",
                 "longitude": "15.65364",
                 "elevation": "538",
@@ -3353,7 +3422,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Messina",
+                "identifier": "f4c8e3fe-3998-495f-979b-90048ccbcb54",
+                "city_base_id": "Messina",
                 "latitude": "38.19327",
                 "longitude": "15.54969",
                 "elevation": "3",
@@ -3419,7 +3489,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Milan",
+                "identifier": "c3a074f3-85a5-4fc8-a57d-ef5ced0e3e4a",
+                "city_base_id": "Milan",
                 "latitude": "45.46427",
                 "longitude": "9.18951",
                 "elevation": "122",
@@ -3489,7 +3560,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Milazzo",
+                "identifier": "b8022bac-5d06-4fa0-a89e-f917753beda9",
+                "city_base_id": "Milazzo",
                 "latitude": "38.22117",
                 "longitude": "15.23828",
                 "elevation": "1",
@@ -3513,7 +3585,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Mileto",
+                "identifier": "711c0078-d6d4-4353-a483-648b88ab094c",
+                "city_base_id": "Mileto",
                 "latitude": "38.60958",
                 "longitude": "16.0696",
                 "elevation": "365",
@@ -3537,7 +3610,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Modena",
+                "identifier": "0512cfab-d035-48fa-b69d-117bd685c1a1",
+                "city_base_id": "Modena",
                 "latitude": "44.64783",
                 "longitude": "10.92539",
                 "elevation": "34",
@@ -3615,7 +3689,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Monopoli",
+                "identifier": "535e9b7e-f564-4678-9c05-609cf4294178",
+                "city_base_id": "Monopoli",
                 "latitude": "40.95593",
                 "longitude": "17.2896",
                 "elevation": "9",
@@ -3639,7 +3714,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Montescaglioso",
+                "identifier": "a3877cdb-7631-4534-9731-1d84ec3fc0ba",
+                "city_base_id": "Montescaglioso",
                 "latitude": "40.55222",
                 "longitude": "16.66689",
                 "elevation": "352",
@@ -3663,7 +3739,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Murlo",
+                "identifier": "47dde206-b89f-45ed-a6ce-1f8dae7dd9ce",
+                "city_base_id": "Murlo",
                 "latitude": "43.16114",
                 "longitude": "11.38794",
                 "elevation": "317",
@@ -3709,7 +3786,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Naples",
+                "identifier": "b1ff13dd-bda4-417b-91ad-1fb75e3f1d84",
+                "city_base_id": "Naples",
                 "latitude": "40.83333",
                 "longitude": "14.25",
                 "elevation": "17",
@@ -3779,7 +3857,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Nardo",
+                "identifier": "55632022-af77-401c-aabf-13c9fc1d5e7e",
+                "city_base_id": "Nardo",
                 "latitude": "40.17512",
                 "longitude": "18.02972",
                 "elevation": "45",
@@ -3803,7 +3882,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Nicastro",
+                "identifier": "c1a4b09b-0ede-49b5-901a-63bce53e3e92",
+                "city_base_id": "Nicastro",
                 "latitude": "38.98333",
                 "longitude": "16.31667",
                 "elevation": "",
@@ -3827,7 +3907,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Nola",
+                "identifier": "ce982b49-9e49-43aa-9ca5-aede45b8fa13",
+                "city_base_id": "Nola",
                 "latitude": "40.9238",
                 "longitude": "14.52686",
                 "elevation": "34",
@@ -3885,7 +3966,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Noto",
+                "identifier": "b69852d9-b913-4a21-bdf7-87f68bd27ff1",
+                "city_base_id": "Noto",
                 "latitude": "36.89014",
                 "longitude": "15.06929",
                 "elevation": "152",
@@ -3909,7 +3991,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Oria",
+                "identifier": "20ce100f-9912-425a-a33e-8ac3ea5927f6",
+                "city_base_id": "Oria",
                 "latitude": "40.49733",
                 "longitude": "17.64131",
                 "elevation": "154",
@@ -3933,7 +4016,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Orvieto",
+                "identifier": "9ab04821-7e95-4f58-8927-845c8fd13e7f",
+                "city_base_id": "Orvieto",
                 "latitude": "42.71953",
                 "longitude": "12.11156",
                 "elevation": "325",
@@ -3971,7 +4055,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ostia",
+                "identifier": "a1cfd652-0a7a-4ec3-9dc9-eef2a473f7a9",
+                "city_base_id": "Ostia",
                 "latitude": "41.758212",
                 "longitude": "12.29989",
                 "elevation": "4",
@@ -4009,7 +4094,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Otranto",
+                "identifier": "467f3f58-3c38-4243-ac0f-06843e2642d0",
+                "city_base_id": "Otranto",
                 "latitude": "40.14782",
                 "longitude": "18.48593",
                 "elevation": "15",
@@ -4071,7 +4157,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Palestrina",
+                "identifier": "c372438f-2351-4e95-8fd2-8849d78f21a7",
+                "city_base_id": "Palestrina",
                 "latitude": "41.83552",
                 "longitude": "12.88899",
                 "elevation": "450",
@@ -4129,7 +4216,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Palermo",
+                "identifier": "89a5a441-8583-43b4-b62a-59329667aa4b",
+                "city_base_id": "Palermo",
                 "latitude": "38.11582",
                 "longitude": "13.35976",
                 "elevation": "14",
@@ -4223,7 +4311,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Parma",
+                "identifier": "8fcb178d-fc55-400d-bd69-14b15fe383f1",
+                "city_base_id": "Parma",
                 "latitude": "44.80266",
                 "longitude": "10.32898",
                 "elevation": "57",
@@ -4269,7 +4358,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Padua",
+                "identifier": "0a414fb3-c0af-49fd-b35e-606645600817",
+                "city_base_id": "Padua",
                 "latitude": "45.41519",
                 "longitude": "11.88181",
                 "elevation": "12",
@@ -4331,7 +4421,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Paterno",
+                "identifier": "bdb4e9e6-aa1e-4bc5-a2f9-d96b96415b73",
+                "city_base_id": "Paterno",
                 "latitude": "37.57095",
                 "longitude": "14.90268",
                 "elevation": "225",
@@ -4355,7 +4446,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Pavia",
+                "identifier": "e810697b-2346-497e-b510-40e4bd1293fc",
+                "city_base_id": "Pavia",
                 "latitude": "45.18446",
                 "longitude": "9.16145",
                 "elevation": "77",
@@ -4413,7 +4505,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Perugia",
+                "identifier": "b345a711-86bf-4e1a-9251-ea2152022ba2",
+                "city_base_id": "Perugia",
                 "latitude": "43.1122",
                 "longitude": "12.38878",
                 "elevation": "493",
@@ -4471,7 +4564,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Piacenza",
+                "identifier": "a723ca57-78f1-4fcf-9b33-bf5fd93c820a",
+                "city_base_id": "Piacenza",
                 "latitude": "45.04676",
                 "longitude": "9.69937",
                 "elevation": "61",
@@ -4509,7 +4603,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Pisa",
+                "identifier": "812b0ad0-8d68-4204-8465-fe917c1739bf",
+                "city_base_id": "Pisa",
                 "latitude": "43.71553",
                 "longitude": "10.39659",
                 "elevation": "4",
@@ -4579,7 +4674,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Pompeii",
+                "identifier": "2233bc2a-af6e-4b5e-acc8-b31603bf3f4d",
+                "city_base_id": "Pompeii",
                 "latitude": "40.75",
                 "longitude": "14.486111",
                 "elevation": "33",
@@ -4617,7 +4713,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Pontecorvo",
+                "identifier": "93082e30-d3a7-41a4-84bb-168b9931ecc4",
+                "city_base_id": "Pontecorvo",
                 "latitude": "41.46162",
                 "longitude": "13.66671",
                 "elevation": "97",
@@ -4663,7 +4760,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Populonia",
+                "identifier": "f2aaadc4-8451-457c-8611-f7350f4041b3",
+                "city_base_id": "Populonia",
                 "latitude": "42.989444",
                 "longitude": "10.491389",
                 "elevation": "179",
@@ -4717,7 +4815,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Potenza",
+                "identifier": "37736ce1-3e54-461a-9a04-6c7ba69479fa",
+                "city_base_id": "Potenza",
                 "latitude": "40.64432",
                 "longitude": "15.80857",
                 "elevation": "819",
@@ -4741,7 +4840,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ragusa",
+                "identifier": "d76a9f93-eb2b-4d87-ba26-76fe30ec21f2",
+                "city_base_id": "Ragusa",
                 "latitude": "36.92824",
                 "longitude": "14.71719",
                 "elevation": "502",
@@ -4803,7 +4903,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ravenna",
+                "identifier": "6edb4ded-66d9-4edd-b14e-b3ffa1a4a7bf",
+                "city_base_id": "Ravenna",
                 "latitude": "44.4175",
                 "longitude": "12.20111",
                 "elevation": "4",
@@ -4865,7 +4966,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Reggio Calabria",
+                "identifier": "0db48a6e-4634-4039-9519-217194975059",
+                "city_base_id": "Reggio Calabria",
                 "latitude": "38.11047",
                 "longitude": "15.66129",
                 "elevation": "31",
@@ -4939,7 +5041,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Rimini",
+                "identifier": "75399f57-7f08-4c4b-8ec0-802ab3d535ce",
+                "city_base_id": "Rimini",
                 "latitude": "44.06333",
                 "longitude": "12.58083",
                 "elevation": "5",
@@ -4989,7 +5092,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Rome",
+                "identifier": "883b20f2-c8d8-4044-81f2-b9e7e440c84a",
+                "city_base_id": "Rome",
                 "latitude": "41.89474",
                 "longitude": "12.4839",
                 "elevation": "20",
@@ -5035,7 +5139,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Rossano",
+                "identifier": "64e270b2-ae86-4157-98d0-eaf51aae02e4",
+                "city_base_id": "Rossano",
                 "latitude": "39.5751",
                 "longitude": "16.6349",
                 "elevation": "270",
@@ -5059,7 +5164,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Rusellae",
+                "identifier": "cb95c2b9-8e60-4296-abb3-28f7e4f74850",
+                "city_base_id": "Rusellae",
                 "latitude": "42.809444",
                 "longitude": "11.138611",
                 "elevation": "25",
@@ -5113,7 +5219,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Salerno",
+                "identifier": "985c41ed-60f7-4110-aecf-7ac3371997cd",
+                "city_base_id": "Salerno",
                 "latitude": "40.67802",
                 "longitude": "14.74577",
                 "elevation": "4",
@@ -5179,7 +5286,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Saluzzo",
+                "identifier": "ecf3b83d-d7b6-490d-aa32-8764ed3f7538",
+                "city_base_id": "Saluzzo",
                 "latitude": "44.64644",
                 "longitude": "7.48623",
                 "elevation": "340",
@@ -5225,7 +5333,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Circeii",
+                "identifier": "58bb02d3-6f80-4e19-b186-c5a07392dbaa",
+                "city_base_id": "Circeii",
                 "latitude": "41.23716",
                 "longitude": "13.09416",
                 "elevation": "98",
@@ -5267,7 +5376,8 @@
                 ]
             },
             "properties": {
-                "identifier": "San Marco",
+                "identifier": "01cd76e8-a721-454a-bd9a-6126eacd34dd",
+                "city_base_id": "San Marco",
                 "latitude": "40.2674",
                 "longitude": "14.93898",
                 "elevation": "33",
@@ -5291,7 +5401,8 @@
                 ]
             },
             "properties": {
-                "identifier": "San Marino",
+                "identifier": "0b427554-d0dc-400e-9bfb-43870524d937",
+                "city_base_id": "San Marino",
                 "latitude": "43.93667",
                 "longitude": "12.44639",
                 "elevation": "",
@@ -5329,7 +5440,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Santa Severina",
+                "identifier": "6af8d2b3-bba2-4ea1-aa12-c3646c11994f",
+                "city_base_id": "Santa Severina",
                 "latitude": "39.1478",
                 "longitude": "16.91001",
                 "elevation": "326",
@@ -5353,7 +5465,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Savona",
+                "identifier": "df255e20-7356-41d2-9f4b-37571b0566e2",
+                "city_base_id": "Savona",
                 "latitude": "44.30905",
                 "longitude": "8.47715",
                 "elevation": "4",
@@ -5403,7 +5516,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Scalea",
+                "identifier": "8ef69dbf-ea4d-4761-ad2f-26cfb1418e68",
+                "city_base_id": "Scalea",
                 "latitude": "39.813",
                 "longitude": "15.79558",
                 "elevation": "25",
@@ -5427,7 +5541,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Siena",
+                "identifier": "9e21ce0d-82b6-450d-b214-10f885612eb0",
+                "city_base_id": "Siena",
                 "latitude": "43.32004",
                 "longitude": "11.33283",
                 "elevation": "322",
@@ -5469,7 +5584,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Sipontum",
+                "identifier": "093c3d7d-e26f-4aec-90b4-97ba998cde49",
+                "city_base_id": "Sipontum",
                 "latitude": "41.606944",
                 "longitude": "15.895833",
                 "elevation": "4",
@@ -5519,7 +5635,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Sorrento",
+                "identifier": "482650c2-d163-4cbf-b101-38f349e9b52c",
+                "city_base_id": "Sorrento",
                 "latitude": "40.62557",
                 "longitude": "14.3701",
                 "elevation": "50",
@@ -5543,7 +5660,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Spina",
+                "identifier": "eb259578-09fc-4330-97f3-30426bd446ba",
+                "city_base_id": "Spina",
                 "latitude": "44.655",
                 "longitude": "12.115",
                 "elevation": "0",
@@ -5585,7 +5703,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Spoleto",
+                "identifier": "9cef6763-46d5-49fe-9c6b-8e6c836e580d",
+                "city_base_id": "Spoleto",
                 "latitude": "42.74484",
                 "longitude": "12.73737",
                 "elevation": "396",
@@ -5643,7 +5762,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Squillace",
+                "identifier": "accb115c-a24b-43c8-9fd6-db8c9dc76c1b",
+                "city_base_id": "Squillace",
                 "latitude": "38.78091",
                 "longitude": "16.51175",
                 "elevation": "344",
@@ -5681,7 +5801,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Sybaris",
+                "identifier": "9587ebb8-c14c-4e09-9324-0fe7416e83ed",
+                "city_base_id": "Sybaris",
                 "latitude": "39.716667",
                 "longitude": "16.493889",
                 "elevation": "1",
@@ -5719,7 +5840,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Syracuse",
+                "identifier": "6981ffe5-fa68-4143-aaa1-ad315a435984",
+                "city_base_id": "Syracuse",
                 "latitude": "37.08515",
                 "longitude": "15.273",
                 "elevation": "17",
@@ -5793,7 +5915,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Taormina",
+                "identifier": "b0c9b762-8caa-48b3-8d08-2d568994a931",
+                "city_base_id": "Taormina",
                 "latitude": "37.85358",
                 "longitude": "15.28851",
                 "elevation": "204",
@@ -5817,7 +5940,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Taranto",
+                "identifier": "67f366ad-e622-4e6a-9b4f-e56716b09eee",
+                "city_base_id": "Taranto",
                 "latitude": "40.47611",
                 "longitude": "17.22972",
                 "elevation": "15",
@@ -5879,7 +6003,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tarquinia",
+                "identifier": "f3e8291d-f8ab-4181-bc3c-51ca98eb76b4",
+                "city_base_id": "Tarquinia",
                 "latitude": "42.25419",
                 "longitude": "11.75657",
                 "elevation": "133",
@@ -5953,7 +6078,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Terracina",
+                "identifier": "43286dad-9033-48db-80e0-3aae0d63eefc",
+                "city_base_id": "Terracina",
                 "latitude": "41.28967",
                 "longitude": "13.24127",
                 "elevation": "22",
@@ -6007,7 +6133,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tharros",
+                "identifier": "976dfa5d-e3ba-4dc0-acd9-cbdc94df6358",
+                "city_base_id": "Tharros",
                 "latitude": "39.879432",
                 "longitude": "8.440249",
                 "elevation": "0",
@@ -6057,7 +6184,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Thurii",
+                "identifier": "596f60d4-a885-4a12-9f87-3ae0e2b903f4",
+                "city_base_id": "Thurii",
                 "latitude": "39.717222",
                 "longitude": "16.495556",
                 "elevation": "2",
@@ -6115,7 +6243,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tivoli",
+                "identifier": "815cadb2-6302-4597-98f5-454284eb4d56",
+                "city_base_id": "Tivoli",
                 "latitude": "41.96092",
                 "longitude": "12.79888",
                 "elevation": "235",
@@ -6173,7 +6302,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Todi",
+                "identifier": "0f3af465-2e15-4d14-8026-d5d2e5a19b93",
+                "city_base_id": "Todi",
                 "latitude": "42.77994",
                 "longitude": "12.40456",
                 "elevation": "400",
@@ -6251,7 +6381,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Trani",
+                "identifier": "aa88c604-1a71-4624-a91c-52383c052a62",
+                "city_base_id": "Trani",
                 "latitude": "41.28358",
                 "longitude": "16.42059",
                 "elevation": "7",
@@ -6305,7 +6436,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Trapani",
+                "identifier": "ef0f5318-4197-411b-8b81-ebd8f7b9d3e0",
+                "city_base_id": "Trapani",
                 "latitude": "38.01906",
                 "longitude": "12.49758",
                 "elevation": "3",
@@ -6367,7 +6499,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Trento",
+                "identifier": "39afda3f-f219-41aa-ace2-c88044c33dfa",
+                "city_base_id": "Trento",
                 "latitude": "46.06787",
                 "longitude": "11.12108",
                 "elevation": "194",
@@ -6433,7 +6566,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Treviso",
+                "identifier": "1514747c-71dc-461b-8549-d34587b89c02",
+                "city_base_id": "Treviso",
                 "latitude": "45.66667",
                 "longitude": "12.245",
                 "elevation": "15",
@@ -6491,7 +6625,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tricarico",
+                "identifier": "3543077c-f6b2-4614-9695-109e2a856206",
+                "city_base_id": "Tricarico",
                 "latitude": "40.61939",
                 "longitude": "16.15133",
                 "elevation": "698",
@@ -6515,7 +6650,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tropea",
+                "identifier": "15707a13-1e7c-48ed-a856-462160244d52",
+                "city_base_id": "Tropea",
                 "latitude": "38.67538",
                 "longitude": "15.89479",
                 "elevation": "61",
@@ -6565,7 +6701,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Troina",
+                "identifier": "b8ba0cc9-c229-4fb9-837b-b0ec6bfd5a05",
+                "city_base_id": "Troina",
                 "latitude": "37.78535",
                 "longitude": "14.59848",
                 "elevation": "1121",
@@ -6589,7 +6726,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Turin",
+                "identifier": "ce04e0d9-d310-4a2f-bb3e-bb755a04d0b2",
+                "city_base_id": "Turin",
                 "latitude": "45.07049",
                 "longitude": "7.68682",
                 "elevation": "239",
@@ -6651,7 +6789,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Veii",
+                "identifier": "e5d256c9-178b-448f-a64d-c3e7c377ca7e",
+                "city_base_id": "Veii",
                 "latitude": "42.023889",
                 "longitude": "12.401389",
                 "elevation": "118",
@@ -6701,7 +6840,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Velia",
+                "identifier": "7ff8c819-bf15-4476-a71f-f803741549cb",
+                "city_base_id": "Velia",
                 "latitude": "40.160833",
                 "longitude": "15.155",
                 "elevation": "54",
@@ -6759,7 +6899,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Venice",
+                "identifier": "d6c3d102-1457-4de5-8a86-7e2a0984c70d",
+                "city_base_id": "Venice",
                 "latitude": "45.43861",
                 "longitude": "12.32667",
                 "elevation": "2",
@@ -6829,7 +6970,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Venosa",
+                "identifier": "e514f1d0-246e-4336-a536-e415fb9d539d",
+                "city_base_id": "Venosa",
                 "latitude": "40.96132",
                 "longitude": "15.81486",
                 "elevation": "415",
@@ -6853,7 +6995,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Verona",
+                "identifier": "c54af2e1-d002-4beb-b721-2c900d62e297",
+                "city_base_id": "Verona",
                 "latitude": "45.43419",
                 "longitude": "10.99779",
                 "elevation": "59",
@@ -6915,7 +7058,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Vetulonia",
+                "identifier": "1eefb4e3-d382-4fe5-85f4-2296fcfe2b14",
+                "city_base_id": "Vetulonia",
                 "latitude": "42.8575784",
                 "longitude": "10.9717745",
                 "elevation": "319",
@@ -6981,7 +7125,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Volterra",
+                "identifier": "42635fe7-c55c-4b22-b577-46a718923cd9",
+                "city_base_id": "Volterra",
                 "latitude": "43.40034",
                 "longitude": "10.86002",
                 "elevation": "531",
@@ -7047,7 +7192,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Vulci",
+                "identifier": "915a2899-7df7-4d32-aaee-e7a886dbea4a",
+                "city_base_id": "Vulci",
                 "latitude": "42.418889",
                 "longitude": "11.631667",
                 "elevation": "65",
@@ -7105,7 +7251,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Andravida",
+                "identifier": "514e66a1-20ad-475e-b65c-77b44b2b9380",
+                "city_base_id": "Andravida",
                 "latitude": "37.90588",
                 "longitude": "21.26936",
                 "elevation": "",
@@ -7151,7 +7298,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Argos",
+                "identifier": "a4ef40fb-dd91-497c-a6b1-3b32bb359994",
+                "city_base_id": "Argos",
                 "latitude": "37.63333",
                 "longitude": "22.73333",
                 "elevation": "",
@@ -7205,7 +7353,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Athens",
+                "identifier": "a1e64beb-bc74-4a5f-9cdd-03414f9b697a",
+                "city_base_id": "Athens",
                 "latitude": "37.97945",
                 "longitude": "23.71622",
                 "elevation": "70",
@@ -7275,7 +7424,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Corinth",
+                "identifier": "27472b15-7462-41ed-9044-63a41e5e14f4",
+                "city_base_id": "Corinth",
                 "latitude": "37.94068",
                 "longitude": "22.95734",
                 "elevation": "",
@@ -7333,7 +7483,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Edirne",
+                "identifier": "d96d9422-effd-48a0-a93b-0a977a91cc40",
+                "city_base_id": "Edirne",
                 "latitude": "41.67719",
                 "longitude": "26.55597",
                 "elevation": "",
@@ -7403,7 +7554,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Gla",
+                "identifier": "f2682411-4595-4c82-bbba-bf4a238e352b",
+                "city_base_id": "Gla",
                 "latitude": "38.483717",
                 "longitude": "23.181394",
                 "elevation": "121",
@@ -7441,7 +7593,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Iolkos",
+                "identifier": "9766ed7c-061d-4682-92ab-72ec160f22e7",
+                "city_base_id": "Iolkos",
                 "latitude": "39.361903",
                 "longitude": "22.893229",
                 "elevation": "24",
@@ -7479,7 +7632,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Istanbul",
+                "identifier": "5e31e89d-bf49-4ade-8127-e0ef8ba5bf79",
+                "city_base_id": "Istanbul",
                 "latitude": "41.01384",
                 "longitude": "28.94966",
                 "elevation": "",
@@ -7553,7 +7707,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Koroni",
+                "identifier": "d90293ce-696e-4e31-8b64-61346e330e1e",
+                "city_base_id": "Koroni",
                 "latitude": "36.8",
                 "longitude": "21.95",
                 "elevation": "",
@@ -7595,7 +7750,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Larissa",
+                "identifier": "b32ff343-2fc1-4071-b7d8-de5bf0f4a28e",
+                "city_base_id": "Larissa",
                 "latitude": "39.63722",
                 "longitude": "22.42028",
                 "elevation": "",
@@ -7637,7 +7793,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Kardia",
+                "identifier": "4b620b10-4ce4-48d0-9480-818af2a2cfc5",
+                "city_base_id": "Kardia",
                 "latitude": "40.548232",
                 "longitude": "26.75081",
                 "elevation": "0",
@@ -7687,7 +7844,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Megara",
+                "identifier": "aaa4c246-22c7-438a-b7b9-a1c1c85b5e5e",
+                "city_base_id": "Megara",
                 "latitude": "38",
                 "longitude": "23.34556",
                 "elevation": "",
@@ -7741,7 +7899,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Messene",
+                "identifier": "93253b53-524a-4731-820f-c97d5c6f64a5",
+                "city_base_id": "Messene",
                 "latitude": "37.175491",
                 "longitude": "21.920439",
                 "elevation": "0",
@@ -7783,7 +7942,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Mycenae",
+                "identifier": "4c07f155-d02d-475f-96af-3bdbd2108d09",
+                "city_base_id": "Mycenae",
                 "latitude": "37.730833",
                 "longitude": "22.756111",
                 "elevation": "230",
@@ -7833,7 +7993,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Naupactus",
+                "identifier": "ae4b9fe7-91ca-45f4-bd0a-ae4d432e1ae5",
+                "city_base_id": "Naupactus",
                 "latitude": "38.399726",
                 "longitude": "21.831267",
                 "elevation": "0",
@@ -7871,7 +8032,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Nicopolis",
+                "identifier": "8152bfa7-566a-4360-8858-21de7683c069",
+                "city_base_id": "Nicopolis",
                 "latitude": "39.023389",
                 "longitude": "20.735953",
                 "elevation": "0",
@@ -7909,7 +8071,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Orchomenos",
+                "identifier": "e386ebce-19b8-4772-9349-05ebec5091fe",
+                "city_base_id": "Orchomenos",
                 "latitude": "38.4929",
                 "longitude": "22.97962",
                 "elevation": "",
@@ -7963,7 +8126,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Pella",
+                "identifier": "5836eb7d-e198-44c6-a9a8-9a9279666842",
+                "city_base_id": "Pella",
                 "latitude": "40.76",
                 "longitude": "22.51917",
                 "elevation": "",
@@ -8017,7 +8181,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Perinthus",
+                "identifier": "6db50cdc-5bd4-477a-bd38-3af9b40241a7",
+                "city_base_id": "Perinthus",
                 "latitude": "40.971013",
                 "longitude": "27.952973",
                 "elevation": "0",
@@ -8071,7 +8236,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Philippi",
+                "identifier": "bc3d6856-a0ac-4eb0-baad-34b89d2922a5",
+                "city_base_id": "Philippi",
                 "latitude": "41.012524",
                 "longitude": "24.285876",
                 "elevation": "82",
@@ -8121,7 +8287,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Pylos",
+                "identifier": "f2c4536c-0ef5-4803-b4cf-8a12bb036d32",
+                "city_base_id": "Pylos",
                 "latitude": "36.91344",
                 "longitude": "21.69639",
                 "elevation": "3",
@@ -8159,7 +8326,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Serres",
+                "identifier": "9e27cfd3-e850-4820-99b7-328b119c7612",
+                "city_base_id": "Serres",
                 "latitude": "41.087975",
                 "longitude": "23.542453",
                 "elevation": "0",
@@ -8217,7 +8385,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Sparta",
+                "identifier": "cc601a41-d293-47cd-b246-856a19f0eda8",
+                "city_base_id": "Sparta",
                 "latitude": "37.07333",
                 "longitude": "22.42972",
                 "elevation": "",
@@ -8271,7 +8440,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Thebes",
+                "identifier": "d1e7a7bd-b360-498c-92c7-ea69ee9189f5",
+                "city_base_id": "Thebes",
                 "latitude": "38.325",
                 "longitude": "23.31889",
                 "elevation": "",
@@ -8345,7 +8515,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Therapnes",
+                "identifier": "b12a4804-d38c-435b-8aea-887e76787f8a",
+                "city_base_id": "Therapnes",
                 "latitude": "37.083333",
                 "longitude": "22.55",
                 "elevation": "595",
@@ -8387,7 +8558,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Thessaloniki",
+                "identifier": "fa23f714-0d98-494b-ae0a-b5e5ac38a55e",
+                "city_base_id": "Thessaloniki",
                 "latitude": "40.630282",
                 "longitude": "22.949569",
                 "elevation": "0",
@@ -8429,7 +8601,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tiryns",
+                "identifier": "1c9cdedb-63e4-4440-9e15-259807ba982a",
+                "city_base_id": "Tiryns",
                 "latitude": "37.599444",
                 "longitude": "22.799722",
                 "elevation": "18",
@@ -8475,7 +8648,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Traianopolis",
+                "identifier": "4a19c481-c9a7-4cf0-9aba-341c85db4eff",
+                "city_base_id": "Traianopolis",
                 "latitude": "40.861479",
                 "longitude": "26.074389",
                 "elevation": "80",
@@ -8525,7 +8699,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Arkades",
+                "identifier": "909c13d9-65bd-44df-95d4-e26803f133e7",
+                "city_base_id": "Arkades",
                 "latitude": "35.080331",
                 "longitude": "25.282439",
                 "elevation": "0",
@@ -8563,7 +8738,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Chania",
+                "identifier": "2540f8dc-253e-46e2-874d-065f347af2d7",
+                "city_base_id": "Chania",
                 "latitude": "35.515775",
                 "longitude": "24.01869",
                 "elevation": "0",
@@ -8625,7 +8801,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Galatas",
+                "identifier": "42bef92e-89c4-4987-8d14-f819cfac66df",
+                "city_base_id": "Galatas",
                 "latitude": "35.182187",
                 "longitude": "25.246946",
                 "elevation": "385",
@@ -8663,7 +8840,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Gortyn",
+                "identifier": "efb63221-4298-462c-aae9-a929cdac8dc2",
+                "city_base_id": "Gortyn",
                 "latitude": "35",
                 "longitude": "24.966667",
                 "elevation": "407",
@@ -8717,7 +8895,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Gournia",
+                "identifier": "b062c6e3-81d2-459f-89a4-e4bc93dd209a",
+                "city_base_id": "Gournia",
                 "latitude": "35.109083",
                 "longitude": "25.792722",
                 "elevation": "0",
@@ -8750,7 +8929,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Heraklion",
+                "identifier": "fb3b5b36-5030-44b0-954c-bc62acf5474d",
+                "city_base_id": "Heraklion",
                 "latitude": "35.333333",
                 "longitude": "25.133333",
                 "elevation": "0",
@@ -8840,7 +9020,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ierapetra",
+                "identifier": "ff0becf2-7051-4382-99dc-2328416e5e6b",
+                "city_base_id": "Ierapetra",
                 "latitude": "35.0095285",
                 "longitude": "25.7387505",
                 "elevation": "0",
@@ -8902,7 +9083,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Itanos",
+                "identifier": "a86ca537-dfef-42f9-b811-67e42b7dfffe",
+                "city_base_id": "Itanos",
                 "latitude": "35.2655385",
                 "longitude": "26.263941",
                 "elevation": "0",
@@ -8940,7 +9122,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Knossos",
+                "identifier": "db0134b2-7dab-4465-afaf-970e52f5c0a9",
+                "city_base_id": "Knossos",
                 "latitude": "35.298056",
                 "longitude": "25.163056",
                 "elevation": "96",
@@ -9006,7 +9189,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Lappa",
+                "identifier": "4be0a894-6f65-4a96-aa20-855229d92b61",
+                "city_base_id": "Lappa",
                 "latitude": "35.28658",
                 "longitude": "24.336077",
                 "elevation": "0",
@@ -9044,7 +9228,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Lyktos",
+                "identifier": "b02b35be-7ce9-4d87-b824-c080ee2f84d7",
+                "city_base_id": "Lyktos",
                 "latitude": "35.212883",
                 "longitude": "25.37034",
                 "elevation": "0",
@@ -9098,7 +9283,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Malia",
+                "identifier": "a0b7c9c1-85ba-406d-9edf-e27153e6bc12",
+                "city_base_id": "Malia",
                 "latitude": "35.28367",
                 "longitude": "25.46262",
                 "elevation": "",
@@ -9136,7 +9322,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Monastiraki",
+                "identifier": "e2b47c39-be76-4e10-8acf-0718297040db",
+                "city_base_id": "Monastiraki",
                 "latitude": "35.227959",
                 "longitude": "24.667451",
                 "elevation": "397",
@@ -9174,7 +9361,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Olous",
+                "identifier": "67cc99e4-0081-47d4-b6b1-3a9bd661e82e",
+                "city_base_id": "Olous",
                 "latitude": "35.257679",
                 "longitude": "25.738816",
                 "elevation": "0",
@@ -9212,7 +9400,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Petras",
+                "identifier": "a18f257b-b6aa-4e97-a2ce-53f67b50fd86",
+                "city_base_id": "Petras",
                 "latitude": "35.197647",
                 "longitude": "26.115211",
                 "elevation": "19",
@@ -9250,7 +9439,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Phaistos",
+                "identifier": "6a5dc606-8f74-460d-bb4b-7a898080644c",
+                "city_base_id": "Phaistos",
                 "latitude": "35.0511785",
                 "longitude": "24.8141725",
                 "elevation": "0",
@@ -9308,7 +9498,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Phalasarna",
+                "identifier": "dc716edd-3616-4a1b-aa88-d01c7cb3918b",
+                "city_base_id": "Phalasarna",
                 "latitude": "35.505997",
                 "longitude": "23.5754855",
                 "elevation": "0",
@@ -9346,7 +9537,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Polyrrenia",
+                "identifier": "8e79caac-9bbe-4ea5-95d9-cf78f7ffc0a0",
+                "city_base_id": "Polyrrenia",
                 "latitude": "35.466785",
                 "longitude": "23.657098",
                 "elevation": "0",
@@ -9384,7 +9576,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Praisos",
+                "identifier": "78896f29-ba76-4928-9bb2-490e2279ac6f",
+                "city_base_id": "Praisos",
                 "latitude": "35.141666",
                 "longitude": "26.089695",
                 "elevation": "0",
@@ -9422,7 +9615,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Pseira",
+                "identifier": "ec449049-4ff7-4c97-a38c-48a5fb11a6db",
+                "city_base_id": "Pseira",
                 "latitude": "35.1882943",
                 "longitude": "25.8625792",
                 "elevation": "0",
@@ -9455,7 +9649,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Rethymno",
+                "identifier": "becc4bd3-84e8-4ee8-acfa-ae3a2d30451e",
+                "city_base_id": "Rethymno",
                 "latitude": "35.36687",
                 "longitude": "24.47487",
                 "elevation": "",
@@ -9513,7 +9708,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Vasiliki",
+                "identifier": "02964aae-5538-4204-8106-f8803bc42581",
+                "city_base_id": "Vasiliki",
                 "latitude": "35.0876679",
                 "longitude": "25.81010515",
                 "elevation": "0",
@@ -9546,7 +9742,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Zakros",
+                "identifier": "3129cca3-61a1-46e5-b95f-257a9d9adbeb",
+                "city_base_id": "Zakros",
                 "latitude": "35.0980695",
                 "longitude": "26.26125",
                 "elevation": "0",
@@ -9588,7 +9785,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Amathous",
+                "identifier": "aec99319-faad-4006-ae9f-d0d50b7552c3",
+                "city_base_id": "Amathous",
                 "latitude": "34.712174",
                 "longitude": "33.1438299",
                 "elevation": "0",
@@ -9630,7 +9828,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Arsinoe",
+                "identifier": "c389fd6b-7333-461c-bada-d3a89a2060a0",
+                "city_base_id": "Arsinoe",
                 "latitude": "35.034889",
                 "longitude": "32.421841",
                 "elevation": "0",
@@ -9659,7 +9858,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Famagusta",
+                "identifier": "32be1b6b-17bc-48a5-938d-8a3d6223b351",
+                "city_base_id": "Famagusta",
                 "latitude": "35.125",
                 "longitude": "33.95",
                 "elevation": "",
@@ -9717,7 +9917,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Golgoi",
+                "identifier": "4ef94a4a-83c5-4014-9fd5-5ef1ea229d48",
+                "city_base_id": "Golgoi",
                 "latitude": "35.065649",
                 "longitude": "33.546609",
                 "elevation": "0",
@@ -9755,7 +9956,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Idalion",
+                "identifier": "6966559a-58cb-4738-9eac-0750bfa2a708",
+                "city_base_id": "Idalion",
                 "latitude": "35.01609",
                 "longitude": "33.424817",
                 "elevation": "0",
@@ -9801,7 +10003,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Karpasia",
+                "identifier": "8a3c23ab-39a1-4a0f-bc84-97688beec177",
+                "city_base_id": "Karpasia",
                 "latitude": "35.626206",
                 "longitude": "34.369934",
                 "elevation": "0",
@@ -9830,7 +10033,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Kyrenia",
+                "identifier": "12063bee-75a8-4743-8869-82c9095de24b",
+                "city_base_id": "Kyrenia",
                 "latitude": "35.34167",
                 "longitude": "33.31667",
                 "elevation": "",
@@ -9884,7 +10088,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Kition",
+                "identifier": "9084cc5e-a961-4143-9b08-16bc6bf89bdb",
+                "city_base_id": "Kition",
                 "latitude": "34.920211",
                 "longitude": "33.632745",
                 "elevation": "0",
@@ -9926,7 +10131,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Kourion",
+                "identifier": "7116600f-7011-4d53-9f78-08bb4ea522b3",
+                "city_base_id": "Kourion",
                 "latitude": "34.6642",
                 "longitude": "32.8877",
                 "elevation": "0",
@@ -9972,7 +10178,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Lapethos",
+                "identifier": "066af94e-8062-4271-b3f8-8bce8e965113",
+                "city_base_id": "Lapethos",
                 "latitude": "35.350592",
                 "longitude": "33.202109",
                 "elevation": "0",
@@ -10026,7 +10233,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Marion",
+                "identifier": "a91b87e7-5edc-4d5f-888d-339f03a85c0e",
+                "city_base_id": "Marion",
                 "latitude": "35.037245",
                 "longitude": "32.436032",
                 "elevation": "0",
@@ -10055,7 +10263,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Nicosia",
+                "identifier": "92add7fa-3f2f-405e-932b-36a69b135b48",
+                "city_base_id": "Nicosia",
                 "latitude": "35.16667",
                 "longitude": "33.36667",
                 "elevation": "",
@@ -10121,7 +10330,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Paphos",
+                "identifier": "cfa09c3b-4c92-43c7-b8e3-380f69dd6979",
+                "city_base_id": "Paphos",
                 "latitude": "34.6978",
                 "longitude": "32.592",
                 "elevation": "106",
@@ -10167,7 +10377,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Salamis",
+                "identifier": "2a124e8a-8171-4f0d-a4a8-2ff516f8a6ac",
+                "city_base_id": "Salamis",
                 "latitude": "35.183333",
                 "longitude": "33.9",
                 "elevation": "8",
@@ -10217,7 +10428,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Soloi",
+                "identifier": "da56995b-7b5b-426a-b584-7f9cdbc78539",
+                "city_base_id": "Soloi",
                 "latitude": "35.139761",
                 "longitude": "32.811959",
                 "elevation": "0",
@@ -10255,7 +10467,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tamassos",
+                "identifier": "ffd08b30-f4e7-4e67-9a6c-889f74609962",
+                "city_base_id": "Tamassos",
                 "latitude": "35.029352",
                 "longitude": "33.246325",
                 "elevation": "0",
@@ -10293,7 +10506,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tremithous",
+                "identifier": "81d3aa34-49e8-48bc-8789-47ed4a843468",
+                "city_base_id": "Tremithous",
                 "latitude": "35.072406",
                 "longitude": "33.603765",
                 "elevation": "0",
@@ -10335,7 +10549,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Chalcis",
+                "identifier": "70783c2a-99db-412b-8afd-a64deb133f62",
+                "city_base_id": "Chalcis",
                 "latitude": "38.549423",
                 "longitude": "23.6431715",
                 "elevation": "0",
@@ -10393,7 +10608,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Chios",
+                "identifier": "e1a0865f-b4df-49d3-aeab-569cfbcf3dda",
+                "city_base_id": "Chios",
                 "latitude": "38.37641",
                 "longitude": "26.1342335",
                 "elevation": "0",
@@ -10431,7 +10647,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Eretria",
+                "identifier": "0529a89e-2572-4a68-a12b-98290d00b734",
+                "city_base_id": "Eretria",
                 "latitude": "38.4",
                 "longitude": "23.8",
                 "elevation": "",
@@ -10489,7 +10706,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ialysos",
+                "identifier": "fa7566d2-a06d-41bf-8f95-42cd048fb396",
+                "city_base_id": "Ialysos",
                 "latitude": "36.41451",
                 "longitude": "28.15629",
                 "elevation": "0",
@@ -10535,7 +10753,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Kamiros",
+                "identifier": "8e9c1f19-75ad-45ef-b531-ebcbdfe44efa",
+                "city_base_id": "Kamiros",
                 "latitude": "36.336185",
                 "longitude": "27.921195",
                 "elevation": "0",
@@ -10581,7 +10800,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Lefkandi",
+                "identifier": "3ac4c53c-72d7-4600-afb1-3a3230793ce1",
+                "city_base_id": "Lefkandi",
                 "latitude": "38.411782",
                 "longitude": "23.682171",
                 "elevation": "0",
@@ -10627,7 +10847,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Lindos",
+                "identifier": "dba08e55-4241-4f08-adc9-806c2fcd3745",
+                "city_base_id": "Lindos",
                 "latitude": "36.0913239",
                 "longitude": "28.0881777",
                 "elevation": "0",
@@ -10673,7 +10894,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Mytilene",
+                "identifier": "f40e06a0-9492-46fe-9e4e-eb6c3fb88fe8",
+                "city_base_id": "Mytilene",
                 "latitude": "39.110475",
                 "longitude": "26.547048",
                 "elevation": "0",
@@ -10711,7 +10933,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Rhodes",
+                "identifier": "41819e3d-246c-446d-a750-29087bbf588c",
+                "city_base_id": "Rhodes",
                 "latitude": "36.440683",
                 "longitude": "28.2167226667",
                 "elevation": "0",
@@ -10757,7 +10980,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Samos",
+                "identifier": "acf59abd-9f13-4183-8fb7-3a8912becd13",
+                "city_base_id": "Samos",
                 "latitude": "37.68825",
                 "longitude": "26.944483",
                 "elevation": "0",
@@ -10803,7 +11027,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Abydos",
+                "identifier": "12dfe762-456f-44dd-bdd9-ac22a0c122ba",
+                "city_base_id": "Abydos",
                 "latitude": "40.195278",
                 "longitude": "26.405",
                 "elevation": "0",
@@ -10845,7 +11070,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Adana",
+                "identifier": "15d9bc91-5e82-4b3f-a882-d35f0df0eb78",
+                "city_base_id": "Adana",
                 "latitude": "37.00167",
                 "longitude": "35.32889",
                 "elevation": "",
@@ -10891,7 +11117,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ala\u015fehir",
+                "identifier": "73cb3411-09a8-493f-853a-27b234061aa5",
+                "city_base_id": "Ala\u015fehir",
                 "latitude": "38.35083",
                 "longitude": "28.51718",
                 "elevation": "",
@@ -10941,7 +11168,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Amasra",
+                "identifier": "05f8cdd0-080e-4157-ab04-82d589ee8b27",
+                "city_base_id": "Amasra",
                 "latitude": "41.74633",
                 "longitude": "32.38633",
                 "elevation": "",
@@ -10991,7 +11219,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Amasya",
+                "identifier": "f6ce7ce6-6da6-4096-81c7-b6d816b6350d",
+                "city_base_id": "Amasya",
                 "latitude": "40.65333",
                 "longitude": "35.83306",
                 "elevation": "",
@@ -11057,7 +11286,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Anazarbus",
+                "identifier": "3a711d27-b7e3-46a4-be36-84677aa584a8",
+                "city_base_id": "Anazarbus",
                 "latitude": "37.255638",
                 "longitude": "35.898345",
                 "elevation": "0",
@@ -11111,7 +11341,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ankara",
+                "identifier": "1ea6bfdc-fa60-4487-a2c8-876c33f803b8",
+                "city_base_id": "Ankara",
                 "latitude": "39.91987",
                 "longitude": "32.85427",
                 "elevation": "850",
@@ -11161,7 +11392,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Apamea Myrlea",
+                "identifier": "84a915c2-65a2-44bc-a899-cc30276c4480",
+                "city_base_id": "Apamea Myrlea",
                 "latitude": "40.37557275",
                 "longitude": "28.88274275",
                 "elevation": "0",
@@ -11207,7 +11439,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Apollonia ad Rhyndacum",
+                "identifier": "2f6bc3d6-e112-465b-954a-37e40126d31b",
+                "city_base_id": "Apollonia ad Rhyndacum",
                 "latitude": "40.1723935",
                 "longitude": "28.68267175",
                 "elevation": "0",
@@ -11249,7 +11482,8 @@
                 ]
             },
             "properties": {
-                "identifier": "\u00c7ank\u0131r\u0131",
+                "identifier": "f66de30a-89d1-420b-b5f0-b4ba72836283",
+                "city_base_id": "\u00c7ank\u0131r\u0131",
                 "latitude": "40.59995",
                 "longitude": "33.6153",
                 "elevation": "",
@@ -11323,7 +11557,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Chalcedon",
+                "identifier": "5e90a599-464d-477e-bdd4-4adcaa07aeea",
+                "city_base_id": "Chalcedon",
                 "latitude": "40.983393",
                 "longitude": "29.025789",
                 "elevation": "0",
@@ -11381,7 +11616,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Cius",
+                "identifier": "961f74a9-587a-4dbb-8b29-b56b892647b7",
+                "city_base_id": "Cius",
                 "latitude": "40.432468",
                 "longitude": "29.156389",
                 "elevation": "0",
@@ -11423,7 +11659,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Colophon",
+                "identifier": "be64433d-bf3d-4352-9fef-2a7cd466ddb2",
+                "city_base_id": "Colophon",
                 "latitude": "38.108889",
                 "longitude": "27.141667",
                 "elevation": "237",
@@ -11469,7 +11706,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Cyzicus",
+                "identifier": "4325953e-04bf-4996-95d1-d1baf1c782ae",
+                "city_base_id": "Cyzicus",
                 "latitude": "40.389806",
                 "longitude": "27.874127",
                 "elevation": "0",
@@ -11523,7 +11761,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Dardanus",
+                "identifier": "5e7729b9-68c2-4348-807f-53138a8573db",
+                "city_base_id": "Dardanus",
                 "latitude": "40.079727",
                 "longitude": "26.37442",
                 "elevation": "0",
@@ -11565,7 +11804,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Dascylium",
+                "identifier": "1eb832e7-e618-4e3e-9981-19b4b7abde52",
+                "city_base_id": "Dascylium",
                 "latitude": "40.138708",
                 "longitude": "28.062536",
                 "elevation": "0",
@@ -11619,7 +11859,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Dorylaeum",
+                "identifier": "09cee06f-4c87-41e7-9ae4-9e1f504f427c",
+                "city_base_id": "Dorylaeum",
                 "latitude": "39.77489",
                 "longitude": "30.51684",
                 "elevation": "0",
@@ -11665,7 +11906,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Elaeus",
+                "identifier": "a1b00db4-9fb1-4b90-8c6b-d1d3a1645148",
+                "city_base_id": "Elaeus",
                 "latitude": "40.059722",
                 "longitude": "26.230556",
                 "elevation": "0",
@@ -11703,7 +11945,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ephesus",
+                "identifier": "056feebc-300e-4a7c-8bc0-055817730504",
+                "city_base_id": "Ephesus",
                 "latitude": "37.941111",
                 "longitude": "27.341944",
                 "elevation": "16",
@@ -11765,7 +12008,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ere\u011fli",
+                "identifier": "ab062173-bd2f-4656-9aed-1c7306906582",
+                "city_base_id": "Ere\u011fli",
                 "latitude": "37.51333",
                 "longitude": "34.04672",
                 "elevation": "",
@@ -11802,7 +12046,58 @@
                     159604802.46806756,
                     104002244.01487456
                 ],
-                "wikipediaArticleName": "Ere\u011fli"
+                "wikipediaArticleName": "Ere\u011fli,_Konya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "29.11639",
+                    "36.62167"
+                ]
+            },
+            "properties": {
+                "identifier": "06056ad7-aec8-4caf-90c3-8eb0bb5e00de",
+                "city_base_id": "Fethiye",
+                "latitude": "36.62167",
+                "longitude": "29.11639",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "1000",
+                        "preferredName": "Telmessos",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Fethiye",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Telmessos",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Anastasiopolis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Makri",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    155928481.96312177,
+                    104835509.6136375
+                ],
+                "wikipediaArticleName": "Telmessos"
             }
         },
         {
@@ -11815,7 +12110,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Gelibolu",
+                "identifier": "e607b3da-7921-4078-af49-15faaa4d1ac2",
+                "city_base_id": "Gelibolu",
                 "latitude": "40.41028",
                 "longitude": "26.67083",
                 "elevation": "",
@@ -11865,7 +12161,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Gordion",
+                "identifier": "0dc30bce-f961-4fcf-9f62-e0ab33b0f2c6",
+                "city_base_id": "Gordion",
                 "latitude": "39.651996",
                 "longitude": "31.988313",
                 "elevation": "0",
@@ -11930,12 +12227,52 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "27.423765",
+                    "37.0382205"
+                ]
+            },
+            "properties": {
+                "identifier": "63497fd9-7636-4ebf-a409-e5240bda1144",
+                "city_base_id": "Halicarnassus",
+                "latitude": "37.0382205",
+                "longitude": "27.423765",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "-250",
+                        "preferredName": "Halicarnassus",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Halicarnassus",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    154666369.28614402,
+                    104447457.44059691
+                ],
+                "wikipediaArticleName": "Halicarnassus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "34.62021474",
                     "40.01824972"
                 ]
             },
             "properties": {
-                "identifier": "Hattusa",
+                "identifier": "ff9d4b90-05a5-4a9f-a1f5-38ca62827e01",
+                "city_base_id": "Hattusa",
                 "latitude": "40.01824972",
                 "longitude": "34.62021474",
                 "elevation": "0",
@@ -11973,7 +12310,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Helenopolis",
+                "identifier": "5c4a637e-ab23-417a-8b04-a4526bcc507d",
+                "city_base_id": "Helenopolis",
                 "latitude": "40.721717",
                 "longitude": "29.502087",
                 "elevation": "0",
@@ -12015,7 +12353,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Heraclea Pontica",
+                "identifier": "6b3c91ee-59c1-4fa0-966f-9911bd2e5508",
+                "city_base_id": "Heraclea Pontica",
                 "latitude": "41.284722",
                 "longitude": "31.414722",
                 "elevation": "0",
@@ -12073,7 +12412,8 @@
                 ]
             },
             "properties": {
-                "identifier": "\u0130zmit",
+                "identifier": "3069acc1-7cec-4813-b26b-6b6d05714ba1",
+                "city_base_id": "\u0130zmit",
                 "latitude": "40.76694",
                 "longitude": "29.91694",
                 "elevation": "",
@@ -12159,7 +12499,8 @@
                 ]
             },
             "properties": {
-                "identifier": "\u0130znik",
+                "identifier": "988bd08d-9dc3-4c20-80d6-70594c841038",
+                "city_base_id": "\u0130znik",
                 "latitude": "40.42861",
                 "longitude": "29.72111",
                 "elevation": "",
@@ -12225,7 +12566,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Karatepe",
+                "identifier": "6e040bcf-0840-4c76-810a-76fa344831e1",
+                "city_base_id": "Karatepe",
                 "latitude": "37.295725",
                 "longitude": "36.253948",
                 "elevation": "0",
@@ -12267,7 +12609,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Kayseri",
+                "identifier": "e80b3428-8480-42fd-a347-3d198bce6b75",
+                "city_base_id": "Kayseri",
                 "latitude": "38.73222",
                 "longitude": "35.48528",
                 "elevation": "",
@@ -12300,12 +12643,52 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "27.37404",
+                    "36.686188"
+                ]
+            },
+            "properties": {
+                "identifier": "37c56e17-8ce7-49e8-8cf6-f3b0faacca4e",
+                "city_base_id": "Knidos",
+                "latitude": "36.686188",
+                "longitude": "27.37404",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-400",
+                        "endDate": "600",
+                        "preferredName": "Knidos",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Knidos",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    154629291.63878402,
+                    104775543.57136822
+                ],
+                "wikipediaArticleName": "Knidos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "36.6283611",
                     "40.3735938"
                 ]
             },
             "properties": {
-                "identifier": "Komana Pontika",
+                "identifier": "f2831c01-8dad-404f-8f1a-f69447f4c95e",
+                "city_base_id": "Komana Pontika",
                 "latitude": "40.3735938",
                 "longitude": "36.6283611",
                 "elevation": "0",
@@ -12351,7 +12734,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Konya",
+                "identifier": "353a9b06-99ba-48d4-8dd8-813b1d4082b5",
+                "city_base_id": "Konya",
                 "latitude": "37.87135",
                 "longitude": "32.48464",
                 "elevation": "",
@@ -12400,12 +12784,72 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "35.63763255",
+                    "38.85006045"
+                ]
+            },
+            "properties": {
+                "identifier": "b9046b52-fc4e-4653-8582-af7567d30064",
+                "city_base_id": "K\u00fcltepe",
+                "latitude": "38.85006045",
+                "longitude": "35.63763255",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-2000",
+                        "endDate": "-1650",
+                        "preferredName": "Kane\u0161",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1649",
+                        "endDate": "-200",
+                        "preferredName": "Kane\u0161",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "K\u00fcltepe",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Kane\u0161",
+                        "language": "Unspecified"
+                    },
+                    {
+                        "name": "Kanesh",
+                        "language": "Unspecified"
+                    },
+                    {
+                        "name": "Ne\u0161a",
+                        "language": "Unspecified"
+                    }
+                ],
+                "mapPoint": [
+                    160791072.8453325,
+                    102734152.37964386
+                ],
+                "wikipediaArticleName": "K\u00fcltepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "26.699162",
                     "40.346685"
                 ]
             },
             "properties": {
-                "identifier": "Lampsacus",
+                "identifier": "b83d6c34-47c7-4636-a28d-d6d067b12032",
+                "city_base_id": "Lampsacus",
                 "latitude": "40.346685",
                 "longitude": "26.699162",
                 "elevation": "0",
@@ -12447,7 +12891,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Laodicea",
+                "identifier": "79e00084-a157-4dd8-ab56-72d156880469",
+                "city_base_id": "Laodicea",
                 "latitude": "37.835833",
                 "longitude": "29.1075",
                 "elevation": "0",
@@ -12480,6 +12925,10 @@
                         "language": "Greek"
                     },
                     {
+                        "name": "Laodicea ad Lycum",
+                        "language": "Latin"
+                    },
+                    {
                         "name": "Rhodas",
                         "language": "Greek"
                     }
@@ -12501,7 +12950,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Malatya",
+                "identifier": "a34f9151-9b1d-4831-af56-d932bc9a3c9d",
+                "city_base_id": "Malatya",
                 "latitude": "38.382217",
                 "longitude": "38.361152",
                 "elevation": "0",
@@ -12563,7 +13013,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Mazaka",
+                "identifier": "f49b759a-b097-464c-b444-67da0a4506ff",
+                "city_base_id": "Mazaka",
                 "latitude": "38.728033",
                 "longitude": "35.484989",
                 "elevation": "0",
@@ -12624,12 +13075,64 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "27.78389",
+                    "37.31639"
+                ]
+            },
+            "properties": {
+                "identifier": "bdb4f7e6-a6eb-4f29-9837-d54a9378ee70",
+                "city_base_id": "Milas",
+                "latitude": "37.31639",
+                "longitude": "27.78389",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-700",
+                        "endDate": "1289",
+                        "preferredName": "Mylasa",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1290",
+                        "endDate": "2100",
+                        "preferredName": "Milas",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Milas",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Mylasa",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    154934897.94889954,
+                    104187132.85056332
+                ],
+                "wikipediaArticleName": "Milas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "27.278333",
                     "37.530278"
                 ]
             },
             "properties": {
-                "identifier": "Miletus",
+                "identifier": "d8b2c899-4af2-4983-9bfd-a7ef5f077950",
+                "city_base_id": "Miletus",
                 "latitude": "37.530278",
                 "longitude": "27.278333",
                 "elevation": "6",
@@ -12691,7 +13194,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Mersin",
+                "identifier": "9599665d-3ce4-4584-b624-082a04b99b02",
+                "city_base_id": "Mersin",
                 "latitude": "36.79526",
                 "longitude": "34.61792",
                 "elevation": "",
@@ -12745,7 +13249,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Nerik",
+                "identifier": "2c7dc6ae-2912-4ec3-9e75-45744a78c2eb",
+                "city_base_id": "Nerik",
                 "latitude": "41.207",
                 "longitude": "35.42",
                 "elevation": "0",
@@ -12783,7 +13288,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Nicopolis (Armenia)",
+                "identifier": "12c83ab1-b556-4fdd-a7a2-9cb3bfc0f486",
+                "city_base_id": "Nicopolis (Armenia)",
                 "latitude": "40.3",
                 "longitude": "37.833333",
                 "elevation": "0",
@@ -12829,7 +13335,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ordu",
+                "identifier": "abf283c8-82fd-4ec8-be49-2bfed363ab59",
+                "city_base_id": "Ordu",
                 "latitude": "40.98472",
                 "longitude": "37.87889",
                 "elevation": "",
@@ -12879,7 +13386,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Pergamon",
+                "identifier": "df31474a-8c42-4ede-8a43-049c08d180cf",
+                "city_base_id": "Pergamon",
                 "latitude": "39.1325",
                 "longitude": "27.184167",
                 "elevation": "315",
@@ -12929,7 +13437,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Pessinus",
+                "identifier": "5fb5fa58-0ca3-49ae-933d-3d16ad51604d",
+                "city_base_id": "Pessinus",
                 "latitude": "39.381063225",
                 "longitude": "31.551393475",
                 "elevation": "0",
@@ -12975,7 +13484,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Pompeiopolis",
+                "identifier": "2f6f1c29-5a78-4e06-84eb-8e44247d57f5",
+                "city_base_id": "Pompeiopolis",
                 "latitude": "41.514877",
                 "longitude": "34.190154",
                 "elevation": "0",
@@ -13033,7 +13543,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Rhoiteion",
+                "identifier": "2fb1eae5-8fea-48f3-8141-9ae749c991b7",
+                "city_base_id": "Rhoiteion",
                 "latitude": "40.009167",
                 "longitude": "26.3",
                 "elevation": "0",
@@ -13075,7 +13586,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Sam\u02beal",
+                "identifier": "f0c0b543-0e5a-4fc8-8bfe-222537acca13",
+                "city_base_id": "Sam\u02beal",
                 "latitude": "37.103611",
                 "longitude": "36.678611",
                 "elevation": "0",
@@ -13141,7 +13653,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Samsun",
+                "identifier": "504f6def-c13b-4551-8b2c-94456ed3e247",
+                "city_base_id": "Samsun",
                 "latitude": "41.28667",
                 "longitude": "36.33",
                 "elevation": "",
@@ -13199,7 +13712,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Sapinuwa",
+                "identifier": "09d2d557-3280-4a1c-a673-58d2720823ef",
+                "city_base_id": "Sapinuwa",
                 "latitude": "40.266667",
                 "longitude": "35.25",
                 "elevation": "0",
@@ -13237,7 +13751,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Sardis",
+                "identifier": "8284507e-4ef5-488a-a478-8efe3f468fa0",
+                "city_base_id": "Sardis",
                 "latitude": "38.488333",
                 "longitude": "28.040278",
                 "elevation": "0",
@@ -13291,7 +13806,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Satala",
+                "identifier": "6a173a3a-a798-40e2-8414-5e5b9dab9405",
+                "city_base_id": "Satala",
                 "latitude": "40.026111",
                 "longitude": "39.594722",
                 "elevation": "0",
@@ -13329,7 +13845,8 @@
                 ]
             },
             "properties": {
-                "identifier": "\u015eebinkarahisar",
+                "identifier": "ba896dc7-fca7-4091-8137-a44b53cb4983",
+                "city_base_id": "\u015eebinkarahisar",
                 "latitude": "40.28833",
                 "longitude": "38.42361",
                 "elevation": "",
@@ -13383,7 +13900,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Sestos",
+                "identifier": "e1471c8b-447f-4e27-ad7f-5afb54f932ce",
+                "city_base_id": "Sestos",
                 "latitude": "40.216667",
                 "longitude": "26.383333",
                 "elevation": "0",
@@ -13416,12 +13934,56 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "31.390552",
+                    "36.768137"
+                ]
+            },
+            "properties": {
+                "identifier": "53080fdd-b63c-4d00-86b6-fe97099959d6",
+                "city_base_id": "Side",
+                "latitude": "36.768137",
+                "longitude": "31.390552",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "850",
+                        "preferredName": "Side",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Side",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Selimiye",
+                        "language": "Turkish"
+                    }
+                ],
+                "mapPoint": [
+                    157624220.05614367,
+                    104699303.7631345
+                ],
+                "wikipediaArticleName": "Side,_Turkey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "33.93444",
                     "36.37778"
                 ]
             },
             "properties": {
-                "identifier": "Silifke",
+                "identifier": "e7edbd49-0c04-48ce-b7a3-4fc67bd762a9",
+                "city_base_id": "Silifke",
                 "latitude": "36.37778",
                 "longitude": "33.93444",
                 "elevation": "",
@@ -13471,7 +14033,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Sinop",
+                "identifier": "365cff8e-feed-4d9a-a45b-6ac1de11c414",
+                "city_base_id": "Sinop",
                 "latitude": "42.02683",
                 "longitude": "35.16252",
                 "elevation": "",
@@ -13537,7 +14100,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Sis",
+                "identifier": "1884e68c-d99f-45c0-9472-f30e2454f156",
+                "city_base_id": "Sis",
                 "latitude": "37.45517",
                 "longitude": "35.81573",
                 "elevation": "",
@@ -13603,7 +14167,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Sivas",
+                "identifier": "27376039-5758-4936-abeb-04e7257ff661",
+                "city_base_id": "Sivas",
                 "latitude": "39.74833",
                 "longitude": "37.01611",
                 "elevation": "",
@@ -13665,7 +14230,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Smyrna",
+                "identifier": "177ca4fa-60b0-490d-8ef2-7466d41e28bb",
+                "city_base_id": "Smyrna",
                 "latitude": "38.418611",
                 "longitude": "27.139167",
                 "elevation": "0",
@@ -13731,7 +14297,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tarsus",
+                "identifier": "f7de6ca3-a841-4940-bd0d-52a4001dade3",
+                "city_base_id": "Tarsus",
                 "latitude": "36.91876",
                 "longitude": "34.8784",
                 "elevation": "",
@@ -13793,7 +14360,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Thyatira",
+                "identifier": "34721c92-7f20-4621-bda4-a3882c5d1fb7",
+                "city_base_id": "Thyatira",
                 "latitude": "38.91852",
                 "longitude": "27.84006",
                 "elevation": "",
@@ -13855,7 +14423,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Trabzon",
+                "identifier": "d71aa9ec-6b99-406d-a486-254a13f51c8b",
+                "city_base_id": "Trabzon",
                 "latitude": "41.005",
                 "longitude": "39.72694",
                 "elevation": "",
@@ -13929,7 +14498,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Troy",
+                "identifier": "e7f73cdc-502f-4f4e-9ac9-1a60006b52ab",
+                "city_base_id": "Troy",
                 "latitude": "39.9575",
                 "longitude": "26.238889",
                 "elevation": "0",
@@ -14007,7 +14577,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tyana",
+                "identifier": "ed293e62-1bd7-48f3-a182-0617d06d30f6",
+                "city_base_id": "Tyana",
                 "latitude": "37.82365",
                 "longitude": "34.572513",
                 "elevation": "0",
@@ -14076,12 +14647,52 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "29.325146",
+                    "36.3597253333"
+                ]
+            },
+            "properties": {
+                "identifier": "47d3c8d4-2a6b-47b6-a8f0-6f55c9eb8e19",
+                "city_base_id": "Xanthos",
+                "latitude": "36.3597253333",
+                "longitude": "29.325146",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "650",
+                        "preferredName": "Xanthos",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Xanthos",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    156084141.71882382,
+                    105078459.57907537
+                ],
+                "wikipediaArticleName": "Xanthos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "35.88639",
                     "40.30306"
                 ]
             },
             "properties": {
-                "identifier": "Zile",
+                "identifier": "7054e301-ecb2-462d-ba5d-496fc25a7a28",
+                "city_base_id": "Zile",
                 "latitude": "40.30306",
                 "longitude": "35.88639",
                 "elevation": "",
@@ -14135,7 +14746,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Amantia",
+                "identifier": "f0a77d40-bfb2-4b66-9a04-8af6907ccee0",
+                "city_base_id": "Amantia",
                 "latitude": "40.467944",
                 "longitude": "19.61777",
                 "elevation": "0",
@@ -14173,7 +14785,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Constan\u021ba",
+                "identifier": "7445a81b-9637-4658-9ba1-f172ce1fbf60",
+                "city_base_id": "Constan\u021ba",
                 "latitude": "44.18073",
                 "longitude": "28.63432",
                 "elevation": "",
@@ -14231,7 +14844,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Devnya",
+                "identifier": "908e9c97-19fa-4eb2-9a26-01a7b136c5bc",
+                "city_base_id": "Devnya",
                 "latitude": "43.22222",
                 "longitude": "27.56944",
                 "elevation": "",
@@ -14305,7 +14919,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Doclea",
+                "identifier": "92031edd-1fed-4484-850d-c797c163c300",
+                "city_base_id": "Doclea",
                 "latitude": "42.3928703333",
                 "longitude": "19.3142526667",
                 "elevation": "0",
@@ -14351,7 +14966,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Durr\u00ebs",
+                "identifier": "4ca3e3c8-511c-4317-9d29-4a6af45b7835",
+                "city_base_id": "Durr\u00ebs",
                 "latitude": "41.32306",
                 "longitude": "19.44139",
                 "elevation": "",
@@ -14425,7 +15041,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Faros",
+                "identifier": "23008429-8726-4c08-acf2-3ce9d0d2f93f",
+                "city_base_id": "Faros",
                 "latitude": "43.184286",
                 "longitude": "16.601041",
                 "elevation": "0",
@@ -14503,7 +15120,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Lezh\u00eb",
+                "identifier": "e20f427a-48e7-4d75-89d4-59a6d1c035ef",
+                "city_base_id": "Lezh\u00eb",
                 "latitude": "41.78361",
                 "longitude": "19.64361",
                 "elevation": "",
@@ -14569,7 +15187,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ni\u0161",
+                "identifier": "abfa91fd-8350-4a0d-b227-6b286e89c543",
+                "city_base_id": "Ni\u0161",
                 "latitude": "43.32472",
                 "longitude": "21.90333",
                 "elevation": "",
@@ -14627,7 +15246,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Oricum",
+                "identifier": "d0351b90-916d-45fb-9c8d-dc917ad8b28c",
+                "city_base_id": "Oricum",
                 "latitude": "40.318889",
                 "longitude": "19.428611",
                 "elevation": "0",
@@ -14685,7 +15305,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Phoenice",
+                "identifier": "5bf250bd-28bc-4a26-99bc-dde2054384d1",
+                "city_base_id": "Phoenice",
                 "latitude": "39.912082",
                 "longitude": "20.119647",
                 "elevation": "0",
@@ -14735,7 +15356,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Pliska",
+                "identifier": "3ab65189-c192-4da0-ad15-11fb873fd5e8",
+                "city_base_id": "Pliska",
                 "latitude": "43.36667",
                 "longitude": "27.11667",
                 "elevation": "",
@@ -14781,7 +15403,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Plovdiv",
+                "identifier": "a885bdca-3195-490d-998d-32001e349b83",
+                "city_base_id": "Plovdiv",
                 "latitude": "42.15",
                 "longitude": "24.75",
                 "elevation": "",
@@ -14831,7 +15454,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Preslav",
+                "identifier": "bbfe5b9d-c5dd-4d71-991f-e326e136b6bf",
+                "city_base_id": "Preslav",
                 "latitude": "43.16667",
                 "longitude": "26.81667",
                 "elevation": "",
@@ -14885,7 +15509,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ratiaria",
+                "identifier": "72432517-4973-4af8-af30-0f762ecc2c3a",
+                "city_base_id": "Ratiaria",
                 "latitude": "43.817397",
                 "longitude": "22.904856",
                 "elevation": "0",
@@ -14931,7 +15556,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Salona",
+                "identifier": "fa335ec9-8db7-427b-904b-691c40074041",
+                "city_base_id": "Salona",
                 "latitude": "43.539561",
                 "longitude": "16.483426",
                 "elevation": "0",
@@ -14964,7 +15590,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Scupi",
+                "identifier": "0ba9e6d2-df9b-4276-aa82-1a3e72123d29",
+                "city_base_id": "Scupi",
                 "latitude": "42.016885",
                 "longitude": "21.391437",
                 "elevation": "0",
@@ -15002,7 +15629,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Silistra",
+                "identifier": "3befe26f-f98d-4c45-9777-12ecc23409e6",
+                "city_base_id": "Silistra",
                 "latitude": "44.11667",
                 "longitude": "27.26667",
                 "elevation": "",
@@ -15064,7 +15692,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Sirmium",
+                "identifier": "0723d1a6-0824-48fa-ab91-c585d68ee7a2",
+                "city_base_id": "Sirmium",
                 "latitude": "44.966447",
                 "longitude": "19.610106",
                 "elevation": "0",
@@ -15118,7 +15747,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Skopje",
+                "identifier": "2f3fa3da-3966-4e00-b142-3230fc0f6b74",
+                "city_base_id": "Skopje",
                 "latitude": "41.99646",
                 "longitude": "21.43141",
                 "elevation": "",
@@ -15164,7 +15794,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Sofia",
+                "identifier": "dab99aef-aa09-4a1a-ba37-8f262bd4b7ff",
+                "city_base_id": "Sofia",
                 "latitude": "42.69751",
                 "longitude": "23.32415",
                 "elevation": "",
@@ -15234,7 +15865,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Split",
+                "identifier": "993614f0-114d-4d40-b775-a9773711c3e3",
+                "city_base_id": "Split",
                 "latitude": "43.50891",
                 "longitude": "16.43915",
                 "elevation": "",
@@ -15304,7 +15936,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Stobi",
+                "identifier": "7590d19e-3815-46ed-8b3c-06317acf356d",
+                "city_base_id": "Stobi",
                 "latitude": "41.552591",
                 "longitude": "21.974974",
                 "elevation": "0",
@@ -15342,7 +15975,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tarnovo",
+                "identifier": "c6dbf004-23f8-4488-aa2a-d74ca22cb12b",
+                "city_base_id": "Tarnovo",
                 "latitude": "43.08124",
                 "longitude": "25.62904",
                 "elevation": "",
@@ -15408,7 +16042,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Varna",
+                "identifier": "3cb74abf-71ec-4581-baed-773df149a86b",
+                "city_base_id": "Varna",
                 "latitude": "43.21667",
                 "longitude": "27.91667",
                 "elevation": "",
@@ -15470,7 +16105,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Vidin",
+                "identifier": "07a7c57f-0182-4d35-9e0d-42946fc89bc0",
+                "city_base_id": "Vidin",
                 "latitude": "43.99",
                 "longitude": "22.8725",
                 "elevation": "",
@@ -15528,7 +16164,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Viminacium",
+                "identifier": "3592b2bb-908a-432a-8a8e-27e3a35adcb8",
+                "city_base_id": "Viminacium",
                 "latitude": "44.736776",
                 "longitude": "21.216122",
                 "elevation": "0",
@@ -15590,7 +16227,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Vis",
+                "identifier": "47fc730b-a69d-4543-961e-9d4088bad51f",
+                "city_base_id": "Vis",
                 "latitude": "43.06194",
                 "longitude": "16.18306",
                 "elevation": "",
@@ -15640,7 +16278,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Arles",
+                "identifier": "ef072b25-6619-456f-a7e9-7823f9aba633",
+                "city_base_id": "Arles",
                 "latitude": "43.6767",
                 "longitude": "4.6278",
                 "elevation": "0",
@@ -15714,7 +16353,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Geneva",
+                "identifier": "bf5bb7a2-2b1f-4fe2-aaed-46be6f8a816f",
+                "city_base_id": "Geneva",
                 "latitude": "46.20222",
                 "longitude": "6.14569",
                 "elevation": "",
@@ -15764,7 +16404,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Marseille",
+                "identifier": "778d0d4c-a7e4-47e0-8568-a46c2961e8c7",
+                "city_base_id": "Marseille",
                 "latitude": "43.29695",
                 "longitude": "5.38107",
                 "elevation": "",
@@ -15842,7 +16483,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Narbonne",
+                "identifier": "f85f0bb0-4723-4c16-bcf8-278dac549e50",
+                "city_base_id": "Narbonne",
                 "latitude": "43.18333",
                 "longitude": "3",
                 "elevation": "",
@@ -15908,7 +16550,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Nice",
+                "identifier": "95ebd4fe-fe9b-4825-bb05-07ee8744d8d5",
+                "city_base_id": "Nice",
                 "latitude": "43.70313",
                 "longitude": "7.26608",
                 "elevation": "25",
@@ -15970,7 +16613,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Toulouse",
+                "identifier": "6be9117c-9a3e-42f9-a377-5101cff9fecd",
+                "city_base_id": "Toulouse",
                 "latitude": "43.60426",
                 "longitude": "1.44367",
                 "elevation": "",
@@ -16028,7 +16672,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ani",
+                "identifier": "0ad9be9a-dc23-4a13-a583-410fb8533dec",
+                "city_base_id": "Ani",
                 "latitude": "40.506295",
                 "longitude": "43.570558",
                 "elevation": "0",
@@ -16090,7 +16735,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Apsaros",
+                "identifier": "4dd0b87c-3f62-4aae-a82b-12c7b7656de7",
+                "city_base_id": "Apsaros",
                 "latitude": "41.5662815",
                 "longitude": "41.5736185",
                 "elevation": "0",
@@ -16152,7 +16798,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Artashat",
+                "identifier": "0cd63776-995d-4ae2-9b63-ddb858dc1b86",
+                "city_base_id": "Artashat",
                 "latitude": "39.953889",
                 "longitude": "44.550556",
                 "elevation": "0",
@@ -16202,7 +16849,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Batumi",
+                "identifier": "95c6b54e-3cc0-4f72-9064-2abb095b8900",
+                "city_base_id": "Batumi",
                 "latitude": "41.64159",
                 "longitude": "41.63593",
                 "elevation": "",
@@ -16240,7 +16888,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Dvin",
+                "identifier": "7c81d14a-8502-4aac-abcb-f324ff62607d",
+                "city_base_id": "Dvin",
                 "latitude": "40.02001",
                 "longitude": "44.585258",
                 "elevation": "0",
@@ -16286,7 +16935,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Gori",
+                "identifier": "bda43ba6-ad86-44e2-a79f-9367b5b7a1b1",
+                "city_base_id": "Gori",
                 "latitude": "41.98422",
                 "longitude": "44.11578",
                 "elevation": "",
@@ -16324,7 +16974,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Kars",
+                "identifier": "a6f74840-d93c-416c-8a0d-81687b3576f6",
+                "city_base_id": "Kars",
                 "latitude": "40.60199",
                 "longitude": "43.09495",
                 "elevation": "",
@@ -16386,7 +17037,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Kutaisi",
+                "identifier": "14a66ebe-cefd-442d-a64e-74786e7134dd",
+                "city_base_id": "Kutaisi",
                 "latitude": "42.26791",
                 "longitude": "42.69459",
                 "elevation": "",
@@ -16444,7 +17096,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Mtskheta",
+                "identifier": "f48d926a-9322-4381-9deb-83c4a4b835ff",
+                "city_base_id": "Mtskheta",
                 "latitude": "41.839298",
                 "longitude": "44.706",
                 "elevation": "0",
@@ -16502,7 +17155,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Phasis",
+                "identifier": "789f424e-f9f6-4765-b3c0-96ecfe58197b",
+                "city_base_id": "Phasis",
                 "latitude": "42.135867",
                 "longitude": "41.6923225",
                 "elevation": "0",
@@ -16540,7 +17194,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Pitsunda",
+                "identifier": "a503250f-0a91-43fc-8b60-d402c6c0bf0f",
+                "city_base_id": "Pitsunda",
                 "latitude": "43.16198",
                 "longitude": "40.34102",
                 "elevation": "",
@@ -16602,7 +17257,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Rize",
+                "identifier": "f5a9cac0-f1c5-4322-8496-29c969f93d81",
+                "city_base_id": "Rize",
                 "latitude": "41.02083",
                 "longitude": "40.52194",
                 "elevation": "",
@@ -16652,7 +17308,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Sukhumi",
+                "identifier": "6ae18817-58d8-400f-9f18-8bbe47a8c764",
+                "city_base_id": "Sukhumi",
                 "latitude": "43.00697",
                 "longitude": "40.9893",
                 "elevation": "",
@@ -16730,7 +17387,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tbilisi",
+                "identifier": "f58e3b5b-58dc-4c55-9ec5-089d1d7ccb6d",
+                "city_base_id": "Tbilisi",
                 "latitude": "41.69411",
                 "longitude": "44.83368",
                 "elevation": "",
@@ -16772,7 +17430,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tigranakert",
+                "identifier": "87f4134c-2e56-4e76-9363-e0778a323fe4",
+                "city_base_id": "Tigranakert",
                 "latitude": "40.338788",
                 "longitude": "46.435279",
                 "elevation": "0",
@@ -16818,7 +17477,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Uplistsikhe",
+                "identifier": "108caeb4-1994-4dfb-af46-ea67e0fe9fea",
+                "city_base_id": "Uplistsikhe",
                 "latitude": "41.967928",
                 "longitude": "44.149314",
                 "elevation": "0",
@@ -16856,7 +17516,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Vagharshapat",
+                "identifier": "85b28ed6-5a7b-4397-9a08-b4b1e2954906",
+                "city_base_id": "Vagharshapat",
                 "latitude": "40.16557",
                 "longitude": "44.29462",
                 "elevation": "",
@@ -16930,7 +17591,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Van",
+                "identifier": "c06ca2ab-0f4a-476c-8b7c-62153f2a6acc",
+                "city_base_id": "Van",
                 "latitude": "38.49239",
                 "longitude": "43.38311",
                 "elevation": "",
@@ -16984,7 +17646,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Acci",
+                "identifier": "73c04351-59f5-49ec-b963-675bf1009e47",
+                "city_base_id": "Acci",
                 "latitude": "37.351903",
                 "longitude": "-3.199994",
                 "elevation": "972",
@@ -17030,7 +17693,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Almer\u00eda",
+                "identifier": "6443fb43-da17-46a4-a940-46f302cc5f56",
+                "city_base_id": "Almer\u00eda",
                 "latitude": "36.83814",
                 "longitude": "-2.45974",
                 "elevation": "",
@@ -17080,7 +17744,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Antequera",
+                "identifier": "893b70c6-a18c-480f-bb33-abec4f769a7d",
+                "city_base_id": "Antequera",
                 "latitude": "37.01938",
                 "longitude": "-4.56123",
                 "elevation": "",
@@ -17142,7 +17807,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Astorga",
+                "identifier": "70a61ce2-8931-4aad-a359-ea098aa9baf1",
+                "city_base_id": "Astorga",
                 "latitude": "42.45879",
                 "longitude": "-6.05601",
                 "elevation": "",
@@ -17220,7 +17886,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Badajoz",
+                "identifier": "d761700e-42d2-4dd4-8742-06acc167c957",
+                "city_base_id": "Badajoz",
                 "latitude": "38.87789",
                 "longitude": "-6.97061",
                 "elevation": "",
@@ -17270,7 +17937,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Baelo Claudia",
+                "identifier": "ec895fec-b275-42de-8ecb-ff63832aef35",
+                "city_base_id": "Baelo Claudia",
                 "latitude": "36.08988",
                 "longitude": "-5.774422",
                 "elevation": "0",
@@ -17316,7 +17984,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Barcelona",
+                "identifier": "f7e703b5-8c4d-4e45-adfd-5a9d3c9667d9",
+                "city_base_id": "Barcelona",
                 "latitude": "41.38879",
                 "longitude": "2.15899",
                 "elevation": "15",
@@ -17382,7 +18051,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Braga",
+                "identifier": "6b7656d3-dd42-4d9e-861e-e5b13393516a",
+                "city_base_id": "Braga",
                 "latitude": "41.55032",
                 "longitude": "-8.42005",
                 "elevation": "",
@@ -17440,7 +18110,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Burgos",
+                "identifier": "cdc084df-aa72-4eda-8c61-c178849498d4",
+                "city_base_id": "Burgos",
                 "latitude": "42.35022",
                 "longitude": "-3.67527",
                 "elevation": "",
@@ -17486,7 +18157,8 @@
                 ]
             },
             "properties": {
-                "identifier": "C\u00e1ceres",
+                "identifier": "eaa19d1c-539c-47f2-ae59-64dd457b3406",
+                "city_base_id": "C\u00e1ceres",
                 "latitude": "39.47649",
                 "longitude": "-6.37224",
                 "elevation": "",
@@ -17552,7 +18224,8 @@
                 ]
             },
             "properties": {
-                "identifier": "C\u00e1diz",
+                "identifier": "87e0687d-9441-4efd-adfc-d97cc3f32347",
+                "city_base_id": "C\u00e1diz",
                 "latitude": "36.52978",
                 "longitude": "-6.29465",
                 "elevation": "",
@@ -17650,7 +18323,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Cartagena",
+                "identifier": "2d14d44e-af67-4eb2-92e5-3b1b6edd1473",
+                "city_base_id": "Cartagena",
                 "latitude": "37.60512",
                 "longitude": "-0.98623",
                 "elevation": "",
@@ -17740,7 +18414,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Carteia",
+                "identifier": "9cfa61fa-f50f-47b9-b1af-6d6a8a080496",
+                "city_base_id": "Carteia",
                 "latitude": "36.183163",
                 "longitude": "-5.410359",
                 "elevation": "0",
@@ -17810,7 +18485,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Caspe",
+                "identifier": "f6eaecf7-5bf9-41f8-9c6c-0352c35c20e9",
+                "city_base_id": "Caspe",
                 "latitude": "41.23402",
                 "longitude": "-0.03945",
                 "elevation": "",
@@ -17848,7 +18524,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Coimbra",
+                "identifier": "771a2d05-e199-45e4-9744-480b2621203b",
+                "city_base_id": "Coimbra",
                 "latitude": "40.20564",
                 "longitude": "-8.41955",
                 "elevation": "",
@@ -17910,7 +18587,8 @@
                 ]
             },
             "properties": {
-                "identifier": "C\u00f3rdoba",
+                "identifier": "f911c323-d1ab-475d-afae-d800818fe2a0",
+                "city_base_id": "C\u00f3rdoba",
                 "latitude": "37.89155",
                 "longitude": "-4.77275",
                 "elevation": "",
@@ -17980,7 +18658,8 @@
                 ]
             },
             "properties": {
-                "identifier": "D\u00e9nia",
+                "identifier": "3a84eabf-8f45-4294-82d3-948b5b6ccc71",
+                "city_base_id": "D\u00e9nia",
                 "latitude": "38.84078",
                 "longitude": "0.10574",
                 "elevation": "",
@@ -18042,7 +18721,8 @@
                 ]
             },
             "properties": {
-                "identifier": "\u00c9cija",
+                "identifier": "68e1da1e-bdb2-4c89-91cf-a528a9bf8ce6",
+                "city_base_id": "\u00c9cija",
                 "latitude": "37.5422",
                 "longitude": "-5.0826",
                 "elevation": "",
@@ -18112,7 +18792,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Emporiae",
+                "identifier": "67b9c265-f045-49dc-9486-70d64b4c7399",
+                "city_base_id": "Emporiae",
                 "latitude": "42.134729",
                 "longitude": "3.120596",
                 "elevation": "0",
@@ -18162,7 +18843,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Gibraltar",
+                "identifier": "b87627ca-8375-4995-bc11-01f53224854f",
+                "city_base_id": "Gibraltar",
                 "latitude": "36.14474",
                 "longitude": "-5.35257",
                 "elevation": "",
@@ -18200,7 +18882,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Granada",
+                "identifier": "cbece202-2d51-40b1-8fbc-adfb4c61bbea",
+                "city_base_id": "Granada",
                 "latitude": "37.18817",
                 "longitude": "-3.60667",
                 "elevation": "",
@@ -18250,7 +18933,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Huesca",
+                "identifier": "80ca1f0c-6f58-478f-961c-f17f17549a17",
+                "city_base_id": "Huesca",
                 "latitude": "42.13615",
                 "longitude": "-0.4087",
                 "elevation": "",
@@ -18328,7 +19012,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Iria Flavia",
+                "identifier": "c19b7a49-395f-4239-ab7e-5da6a7a5b16a",
+                "city_base_id": "Iria Flavia",
                 "latitude": "42.746697",
                 "longitude": "-8.654768",
                 "elevation": "0",
@@ -18378,7 +19063,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ja\u00e9n",
+                "identifier": "c8cc0419-adfb-496a-a218-6fa26151024b",
+                "city_base_id": "Ja\u00e9n",
                 "latitude": "37.76922",
                 "longitude": "-3.79028",
                 "elevation": "",
@@ -18448,7 +19134,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Le\u00f3n",
+                "identifier": "1839ae2f-982b-44ea-9541-4fe9aa78b9b2",
+                "city_base_id": "Le\u00f3n",
                 "latitude": "42.60003",
                 "longitude": "-5.57032",
                 "elevation": "",
@@ -18506,7 +19193,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Lisbon",
+                "identifier": "ea314bef-2786-46c5-85bd-6ef138168335",
+                "city_base_id": "Lisbon",
                 "latitude": "38.71667",
                 "longitude": "-9.13333",
                 "elevation": "",
@@ -18560,7 +19248,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Lleida",
+                "identifier": "f0cc2042-4317-496f-9f7d-50f867e3b80a",
+                "city_base_id": "Lleida",
                 "latitude": "41.61674",
                 "longitude": "0.62218",
                 "elevation": "155",
@@ -18614,7 +19303,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Lugo",
+                "identifier": "4eb34880-0f63-4cbf-bc9e-fc55f32c8765",
+                "city_base_id": "Lugo",
                 "latitude": "43.00992",
                 "longitude": "-7.55602",
                 "elevation": "",
@@ -18664,7 +19354,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Madrid",
+                "identifier": "70f74696-c43b-493d-9e85-97c142a2ff19",
+                "city_base_id": "Madrid",
                 "latitude": "40.4165",
                 "longitude": "-3.70256",
                 "elevation": "",
@@ -18722,7 +19413,8 @@
                 ]
             },
             "properties": {
-                "identifier": "M\u00e1laga",
+                "identifier": "d1771b47-e92c-435d-b425-e80c12664577",
+                "city_base_id": "M\u00e1laga",
                 "latitude": "36.72016",
                 "longitude": "-4.42034",
                 "elevation": "",
@@ -18796,7 +19488,8 @@
                 ]
             },
             "properties": {
-                "identifier": "M\u00e9rida",
+                "identifier": "af4e4c1c-9621-4483-b2e6-bbf4a83ac755",
+                "city_base_id": "M\u00e9rida",
                 "latitude": "38.91611",
                 "longitude": "-6.34366",
                 "elevation": "",
@@ -18862,7 +19555,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Murcia",
+                "identifier": "e431f069-ed1f-418e-a3c0-412dd65f0ab9",
+                "city_base_id": "Murcia",
                 "latitude": "37.98704",
                 "longitude": "-1.13004",
                 "elevation": "",
@@ -18912,7 +19606,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Oviedo",
+                "identifier": "fb6034a3-ec5f-4e3f-87bf-018b13a2255a",
+                "city_base_id": "Oviedo",
                 "latitude": "43.36029",
                 "longitude": "-5.84476",
                 "elevation": "",
@@ -18950,7 +19645,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Palma",
+                "identifier": "84615a24-c8fc-48dc-b92e-460331aae5d5",
+                "city_base_id": "Palma",
                 "latitude": "39.56939",
                 "longitude": "2.65024",
                 "elevation": "",
@@ -19012,7 +19708,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Pamplona",
+                "identifier": "b21f87cd-1f6d-4c3c-92e9-7484aea1a80a",
+                "city_base_id": "Pamplona",
                 "latitude": "42.81687",
                 "longitude": "-1.64323",
                 "elevation": "460",
@@ -19074,7 +19771,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Porto",
+                "identifier": "63e21a97-5dd2-4e10-a63b-0cedf62efc72",
+                "city_base_id": "Porto",
                 "latitude": "41.14961",
                 "longitude": "-8.61099",
                 "elevation": "",
@@ -19128,7 +19826,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Sagunto",
+                "identifier": "ea29e6e5-bee1-4906-a850-813b4390c443",
+                "city_base_id": "Sagunto",
                 "latitude": "39.68333",
                 "longitude": "-0.26667",
                 "elevation": "",
@@ -19190,7 +19889,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Salamanca",
+                "identifier": "25f1e94a-22b9-4d93-abca-06061ce666c5",
+                "city_base_id": "Salamanca",
                 "latitude": "40.96882",
                 "longitude": "-5.66388",
                 "elevation": "",
@@ -19248,7 +19948,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Santar\u00e9m",
+                "identifier": "67b694d1-7c70-4779-8415-420f8d2a1cd5",
+                "city_base_id": "Santar\u00e9m",
                 "latitude": "39.23333",
                 "longitude": "-8.68333",
                 "elevation": "",
@@ -19310,7 +20011,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Santiago de Compostela",
+                "identifier": "625846ea-7046-4ae9-a606-1e72fad3a5ba",
+                "city_base_id": "Santiago de Compostela",
                 "latitude": "42.88052",
                 "longitude": "-8.54569",
                 "elevation": "",
@@ -19360,7 +20062,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Seville",
+                "identifier": "26175042-b981-4f17-b00d-b0e125130bee",
+                "city_base_id": "Seville",
                 "latitude": "37.38241",
                 "longitude": "-5.97613",
                 "elevation": "",
@@ -19446,7 +20149,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tarazona",
+                "identifier": "e680f057-fd50-4d04-963d-91f98bb7323a",
+                "city_base_id": "Tarazona",
                 "latitude": "41.9",
                 "longitude": "-1.73333",
                 "elevation": "",
@@ -19484,7 +20188,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tarragona",
+                "identifier": "f4895c4f-0a6d-43c4-a550-27ab397039d3",
+                "city_base_id": "Tarragona",
                 "latitude": "41.11667",
                 "longitude": "1.25",
                 "elevation": "",
@@ -19550,7 +20255,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Toledo",
+                "identifier": "70476d36-69b0-4cc4-aaf5-7eb81020d19c",
+                "city_base_id": "Toledo",
                 "latitude": "39.8581",
                 "longitude": "-4.02263",
                 "elevation": "",
@@ -19628,7 +20334,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tortosa",
+                "identifier": "6a8dc065-86f8-43ca-b3d4-784bfe80329b",
+                "city_base_id": "Tortosa",
                 "latitude": "40.81249",
                 "longitude": "0.5216",
                 "elevation": "",
@@ -19678,7 +20385,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Tui",
+                "identifier": "fec2f218-e953-407f-9217-eee3ea9fb6d3",
+                "city_base_id": "Tui",
                 "latitude": "42.04713",
                 "longitude": "-8.64435",
                 "elevation": "",
@@ -19736,7 +20444,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Valencia",
+                "identifier": "fc5aa8f7-5e25-422f-b501-623224493cf3",
+                "city_base_id": "Valencia",
                 "latitude": "39.46975",
                 "longitude": "-0.37739",
                 "elevation": "15",
@@ -19798,7 +20507,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Zaragoza",
+                "identifier": "d956b005-d3fb-424b-b462-cd1e0180bb8e",
+                "city_base_id": "Zaragoza",
                 "latitude": "41.65606",
                 "longitude": "-0.87734",
                 "elevation": "",
@@ -19860,7 +20570,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Alalakh",
+                "identifier": "e2011069-0938-4c45-b7bd-d741f20ce857",
+                "city_base_id": "Alalakh",
                 "latitude": "36.237778",
                 "longitude": "36.384722",
                 "elevation": "0",
@@ -19898,7 +20609,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Aleppo",
+                "identifier": "b6566871-d526-4653-ba14-2060ae275443",
+                "city_base_id": "Aleppo",
                 "latitude": "36.20124",
                 "longitude": "37.16117",
                 "elevation": "",
@@ -19968,7 +20680,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Antakya",
+                "identifier": "7b38120b-7181-41d5-8d95-952b8b2184ae",
+                "city_base_id": "Antakya",
                 "latitude": "36.200663",
                 "longitude": "36.165318",
                 "elevation": "0",
@@ -20033,12 +20746,64 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "36.402509",
+                    "35.422241"
+                ]
+            },
+            "properties": {
+                "identifier": "f567fa0b-ed5a-43f7-a509-32e3c71230be",
+                "city_base_id": "Apamea",
+                "latitude": "35.422241",
+                "longitude": "36.402509",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "634",
+                        "preferredName": "Apamea",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "635",
+                        "endDate": "1152",
+                        "preferredName": "Af\u0101miya",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Apamea",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Af\u0101miya",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    161361406.0637753,
+                    105941347.72812042
+                ],
+                "wikipediaArticleName": "Apamea,_Syria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "35.85854",
                     "34.85604"
                 ]
             },
             "properties": {
-                "identifier": "Arwad",
+                "identifier": "bc093e13-f66b-4652-a3e8-9362b2553a58",
+                "city_base_id": "Arwad",
                 "latitude": "34.85604",
                 "longitude": "35.85854",
                 "elevation": "",
@@ -20091,12 +20856,60 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "36.21806",
+                    "34.00583"
+                ]
+            },
+            "properties": {
+                "identifier": "943e5ffd-b045-4b06-8ee4-e2fe3a03dad8",
+                "city_base_id": "Baalbek",
+                "latitude": "34.00583",
+                "longitude": "36.21806",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-334",
+                        "endDate": "2100",
+                        "preferredName": "Baalbek",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Baalbek",
+                        "language": "Unspecified"
+                    },
+                    {
+                        "name": "Heliopolis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Ba\u02bflabak",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    161223870.92093158,
+                    107226261.89226456
+                ],
+                "wikipediaArticleName": "Baalbek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "35.64806",
                     "34.12111"
                 ]
             },
             "properties": {
-                "identifier": "Byblos",
+                "identifier": "0cc3374a-b9f0-4139-958b-a9326bcb43c1",
+                "city_base_id": "Byblos",
                 "latitude": "34.12111",
                 "longitude": "35.64806",
                 "elevation": "",
@@ -20173,12 +20986,135 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "36.956398",
+                    "36.744679"
+                ]
+            },
+            "properties": {
+                "identifier": "34c96497-f1c8-46f9-8ba6-5d079f88b877",
+                "city_base_id": "Cyrrhus",
+                "latitude": "36.744679",
+                "longitude": "36.956398",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-298",
+                        "endDate": "1200",
+                        "preferredName": "Cyrrhus",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Cyrrhus",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Hagioupolis",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    161774415.6367986,
+                    104721135.81385504
+                ],
+                "wikipediaArticleName": "Cyrrhus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "36.29128",
+                    "33.5102"
+                ]
+            },
+            "properties": {
+                "identifier": "469ffba6-9266-4f65-85e1-2b82e26aede9",
+                "city_base_id": "Damascus",
+                "latitude": "33.5102",
+                "longitude": "36.29128",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-1350",
+                        "endDate": "-966",
+                        "preferredName": "Damascus",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-965",
+                        "endDate": "-750",
+                        "preferredName": "Damascus",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-749",
+                        "endDate": "124",
+                        "preferredName": "Damascus",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "125",
+                        "endDate": "660",
+                        "preferredName": "Damascus",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "661",
+                        "endDate": "2100",
+                        "preferredName": "Damascus",
+                        "size": "1",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Damascus",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Dima\u0161q",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Demetrias",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    161278467.71006578,
+                    107670782.34268361
+                ],
+                "wikipediaArticleName": "Damascus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "36.25",
                     "35.75"
                 ]
             },
             "properties": {
-                "identifier": "Ebla",
+                "identifier": "69e3c22a-b2a0-47d5-b81e-ce6c84774bca",
+                "city_base_id": "Ebla",
                 "latitude": "35.75",
                 "longitude": "36.25",
                 "elevation": "0",
@@ -20219,12 +21155,127 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "36.75",
+                    "35.133333"
+                ]
+            },
+            "properties": {
+                "identifier": "cd16309e-328d-406c-ad27-94ec1f91584f",
+                "city_base_id": "Hama",
+                "latitude": "35.133333",
+                "longitude": "36.75",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-1500",
+                        "endDate": "-170",
+                        "preferredName": "Hama",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-169",
+                        "endDate": "330",
+                        "preferredName": "Epiphaneia",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "331",
+                        "endDate": "638",
+                        "preferredName": "Emath",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "639",
+                        "endDate": "2100",
+                        "preferredName": "Hama",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Hama",
+                        "language": "Syriac"
+                    },
+                    {
+                        "name": "Epiphaneia",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Emath",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    161620514.13333333,
+                    106205233.10236675
+                ],
+                "wikipediaArticleName": "Hama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.566944",
+                    "33.016667"
+                ]
+            },
+            "properties": {
+                "identifier": "d9fced3a-a147-4459-b2e4-03fa03432206",
+                "city_base_id": "Hazor",
+                "latitude": "33.016667",
+                "longitude": "35.566944",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1700",
+                        "endDate": "-732",
+                        "preferredName": "Hazor",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Hazor",
+                        "language": "Unspecified"
+                    },
+                    {
+                        "name": "Tel Hazor",
+                        "language": "Hebrew"
+                    }
+                ],
+                "mapPoint": [
+                    160738363.64212906,
+                    108110899.13744399
+                ],
+                "wikipediaArticleName": "Tel_Hazor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "36.52",
                     "34.5576"
                 ]
             },
             "properties": {
-                "identifier": "Kadesh",
+                "identifier": "e8628368-41ff-4efa-9903-4d953e946a72",
+                "city_base_id": "Kadesh",
                 "latitude": "34.5576",
                 "longitude": "36.52",
                 "elevation": "0",
@@ -20265,12 +21316,135 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "35.79011",
+                    "35.53168"
+                ]
+            },
+            "properties": {
+                "identifier": "99017afa-5cdb-4290-946b-820d209a52f1",
+                "city_base_id": "Latakia",
+                "latitude": "35.53168",
+                "longitude": "35.79011",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "634",
+                        "preferredName": "Laodicea",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "635",
+                        "endDate": "2100",
+                        "preferredName": "Latakia",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Laodicea",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Laodicea ad mare",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Latakia",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "al-L\u0101dhiq\u012byah",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    160904768.27261156,
+                    105841140.4929095
+                ],
+                "wikipediaArticleName": "Laodicea_in_Syria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "36.9264",
+                    "37.5847"
+                ]
+            },
+            "properties": {
+                "identifier": "b2051577-ddff-4c0c-b1f1-fb0de3c68e0e",
+                "city_base_id": "Marash",
+                "latitude": "37.5847",
+                "longitude": "36.9264",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-1000",
+                        "endDate": "-50",
+                        "preferredName": "Marqas",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-49",
+                        "endDate": "1207",
+                        "preferredName": "Germanicea",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1208",
+                        "endDate": "2100",
+                        "preferredName": "Marash",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Marash",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Germanicea",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Kahramanmara\u015f",
+                        "language": "Turkish"
+                    }
+                ],
+                "mapPoint": [
+                    161752047.50677335,
+                    103935120.94407561
+                ],
+                "wikipediaArticleName": "Kahramanmara\u015f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "38.2668818",
                     "34.5522366"
                 ]
             },
             "properties": {
-                "identifier": "Palmyra",
+                "identifier": "0aa28b5e-5c74-4e96-89c5-f6f9cef2acd5",
+                "city_base_id": "Palmyra",
                 "latitude": "34.5522366",
                 "longitude": "38.2668818",
                 "elevation": "0",
@@ -20328,7 +21502,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Qatna",
+                "identifier": "dd353ad7-e30f-47cc-bc0b-728ad53a1415",
+                "city_base_id": "Qatna",
                 "latitude": "34.835",
                 "longitude": "36.865833",
                 "elevation": "0",
@@ -20374,7 +21549,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Sidon",
+                "identifier": "a431ad60-27b4-4ac4-9201-e60d744fab52",
+                "city_base_id": "Sidon",
                 "latitude": "33.55993",
                 "longitude": "35.37564",
                 "elevation": "",
@@ -20427,12 +21603,68 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "35.84972",
+                    "34.43667"
+                ]
+            },
+            "properties": {
+                "identifier": "55a8b887-f55e-44df-9b43-50e61cddc6ae",
+                "city_base_id": "Tripoli",
+                "latitude": "34.43667",
+                "longitude": "35.84972",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-750",
+                        "endDate": "634",
+                        "preferredName": "Tripolis",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "635",
+                        "endDate": "2100",
+                        "preferredName": "Tripoli",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tripoli",
+                        "language": "English"
+                    },
+                    {
+                        "name": "\u1e6car\u0101bulus",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Tripolis",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    160949216.71020088,
+                    106837738.60688204
+                ],
+                "wikipediaArticleName": "Tripoli,_Lebanon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "35.19389",
                     "33.27333"
                 ]
             },
             "properties": {
-                "identifier": "Tyre",
+                "identifier": "2dd3750c-8968-42e2-86f0-2e8c898af6e1",
+                "city_base_id": "Tyre",
                 "latitude": "33.27333",
                 "longitude": "35.19389",
                 "elevation": "",
@@ -20514,7 +21746,8 @@
                 ]
             },
             "properties": {
-                "identifier": "Ugarit",
+                "identifier": "cd696a44-d4eb-4d5c-adae-f79b5a5eb60c",
+                "city_base_id": "Ugarit",
                 "latitude": "35.602",
                 "longitude": "35.782",
                 "elevation": "0",
@@ -20555,12 +21788,72 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "38.013529",
+                    "36.829505"
+                ]
+            },
+            "properties": {
+                "identifier": "fe0e9365-1f5a-4241-94e7-c44c03b741f0",
+                "city_base_id": "Carchemish",
+                "latitude": "36.829505",
+                "longitude": "38.013529",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1800",
+                        "endDate": "-1325",
+                        "preferredName": "Carchemish",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1324",
+                        "endDate": "-717",
+                        "preferredName": "Carchemish",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-716",
+                        "endDate": "-200",
+                        "preferredName": "Carchemish",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Carchemish",
+                        "language": "Unspecified"
+                    },
+                    {
+                        "name": "Karkam\u0131\u015f",
+                        "language": "Turkish"
+                    }
+                ],
+                "mapPoint": [
+                    162562669.64245617,
+                    104642157.75974062
+                ],
+                "wikipediaArticleName": "Carchemish"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "38.111375",
                     "35.986842"
                 ]
             },
             "properties": {
-                "identifier": "Emar",
+                "identifier": "a307c132-aa7b-4fc7-8879-075d50ff7fde",
+                "city_base_id": "Emar",
                 "latitude": "35.986842",
                 "longitude": "38.111375",
                 "elevation": "0",
@@ -20586,6 +21879,541 @@
                     105422898.02450304
                 ],
                 "wikipediaArticleName": "Emar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "40.72782425",
+                    "34.75007675"
+                ]
+            },
+            "properties": {
+                "identifier": "15354d56-d381-4b7c-bc65-0e34b9abe5a1",
+                "city_base_id": "Europos",
+                "latitude": "34.75007675",
+                "longitude": "40.72782425",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "256",
+                        "preferredName": "Europos",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Europos",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Dura",
+                        "language": "Aramaic"
+                    },
+                    {
+                        "name": "Dura-Europos",
+                        "language": "English"
+                    }
+                ],
+                "mapPoint": [
+                    164586594.87343502,
+                    106553854.98114926
+                ],
+                "wikipediaArticleName": "Dura-Europos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.031492",
+                    "36.864692"
+                ]
+            },
+            "properties": {
+                "identifier": "78ccb40c-8ebd-433f-a479-40836ec70212",
+                "city_base_id": "Harran",
+                "latitude": "36.864692",
+                "longitude": "39.031492",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2000",
+                        "endDate": "-1101",
+                        "preferredName": "Harran",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1100",
+                        "endDate": "-609",
+                        "preferredName": "Harran",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-608",
+                        "endDate": "-539",
+                        "preferredName": "Harran",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-538",
+                        "endDate": "-100",
+                        "preferredName": "K\u00e1rrhai",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-99",
+                        "endDate": "640",
+                        "preferredName": "Carrhae",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "641",
+                        "endDate": "1271",
+                        "preferredName": "Harran",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1272",
+                        "endDate": "1500",
+                        "preferredName": "Harran",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Harran",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Huzirina",
+                        "language": "Assyrian"
+                    },
+                    {
+                        "name": "K\u00e1rrhai",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Carrhae",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    163321717.87050098,
+                    104609370.87989342
+                ],
+                "wikipediaArticleName": "Harran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "37.95495",
+                    "36.52815"
+                ]
+            },
+            "properties": {
+                "identifier": "8bf6af7f-5933-430c-a1df-c3b22eb35ee6",
+                "city_base_id": "Manbij",
+                "latitude": "36.52815",
+                "longitude": "37.95495",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-900",
+                        "endDate": "-331",
+                        "preferredName": "Manbug",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-330",
+                        "endDate": "350",
+                        "preferredName": "Hierapolis",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "351",
+                        "endDate": "800",
+                        "preferredName": "Hierapolis",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "801",
+                        "endDate": "1260",
+                        "preferredName": "Manbij",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Manbij",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Manbug",
+                        "language": "Aramean"
+                    },
+                    {
+                        "name": "Hierapolis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Mabog",
+                        "language": "Syriac"
+                    }
+                ],
+                "mapPoint": [
+                    162518989.97418666,
+                    104922342.44957483
+                ],
+                "wikipediaArticleName": "Manbij"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "40.89",
+                    "34.549444"
+                ]
+            },
+            "properties": {
+                "identifier": "84cf0f6e-d80d-4164-8801-90b14288b9cd",
+                "city_base_id": "Mari",
+                "latitude": "34.549444",
+                "longitude": "40.89",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2500",
+                        "endDate": "-600",
+                        "preferredName": "Mari",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Mari",
+                        "language": "Unspecified"
+                    },
+                    {
+                        "name": "Tell Hariri",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    164707521.87733334,
+                    106735711.25401026
+                ],
+                "wikipediaArticleName": "Mari,_Syria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "38.530357",
+                    "37.525756"
+                ]
+            },
+            "properties": {
+                "identifier": "d8e05f83-1797-48d6-b51b-3e29b35b461c",
+                "city_base_id": "Samsat",
+                "latitude": "37.525756",
+                "longitude": "38.530357",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-245",
+                        "endDate": "1515",
+                        "preferredName": "Samosata",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1516",
+                        "endDate": "1988",
+                        "preferredName": "Samsat",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Samsat",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Samosata",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Sam\u00eesad",
+                        "language": "Kurdish"
+                    }
+                ],
+                "mapPoint": [
+                    162948044.53093833,
+                    103990562.053089
+                ],
+                "wikipediaArticleName": "Samsat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "40.569444",
+                    "34.923333"
+                ]
+            },
+            "properties": {
+                "identifier": "9bf478e9-c736-4268-bab7-6e6c7e740814",
+                "city_base_id": "Terqa",
+                "latitude": "34.923333",
+                "longitude": "40.569444",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2000",
+                        "endDate": "-600",
+                        "preferredName": "Terqa",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Terqa",
+                        "language": "Unspecified"
+                    },
+                    {
+                        "name": "Tell Ashara",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    164468497.9994624,
+                    106396457.40734315
+                ],
+                "wikipediaArticleName": "Terqa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.0475",
+                    "35.9575"
+                ]
+            },
+            "properties": {
+                "identifier": "93bcb255-e892-448e-97eb-d0e4a5c794e9",
+                "city_base_id": "Tuttal",
+                "latitude": "35.9575",
+                "longitude": "39.0475",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2000",
+                        "endDate": "-1500",
+                        "preferredName": "Tuttal",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1499",
+                        "endDate": "400",
+                        "preferredName": "Tuttal",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tuttal",
+                        "language": "Akkadian"
+                    },
+                    {
+                        "name": "Tell Bi'a",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    163333654.30044445,
+                    105449932.39597316
+                ],
+                "wikipediaArticleName": "Tuttal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "38.79392",
+                    "37.16708"
+                ]
+            },
+            "properties": {
+                "identifier": "72429697-af7c-43cf-8de4-5a20a3c6ddb8",
+                "city_base_id": "Urfa",
+                "latitude": "37.16708",
+                "longitude": "38.79392",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-303",
+                        "endDate": "1097",
+                        "preferredName": "Edessa",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1098",
+                        "endDate": "1144",
+                        "preferredName": "Edessa",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1145",
+                        "endDate": "1260",
+                        "preferredName": "Urfa",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1261",
+                        "endDate": "1700",
+                        "preferredName": "Urfa",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Urfa",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Edessa",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "\u015eanl\u0131urfa",
+                        "language": "Turkish"
+                    }
+                ],
+                "mapPoint": [
+                    163144571.34785423,
+                    104326983.58346325
+                ],
+                "wikipediaArticleName": "Edessa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "37.8733395",
+                    "37.0530905"
+                ]
+            },
+            "properties": {
+                "identifier": "20d65dfa-8635-4641-b70d-b769e6af34cb",
+                "city_base_id": "Zeugma",
+                "latitude": "37.0530905",
+                "longitude": "37.8733395",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-305",
+                        "endDate": "-65",
+                        "preferredName": "Zeugma",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-64",
+                        "endDate": "650",
+                        "preferredName": "Commagene",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Zeugma",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Commagene",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    162458136.77479252,
+                    104433565.57011308
+                ],
+                "wikipediaArticleName": "Zeugma_(Commagene)"
             }
         }
     ]

@@ -68,8 +68,8 @@ const CityPopup = ({ map, feature }) => {
             setDisplayName(values['preferredName']);
 
             // identifier
-            if (values['preferredName'] !== values['identifier']) {
-                setIdentifier(`${values['prefix']} ${values['identifier']}`);
+            if (values['preferredName'] !== values['city_base_id']) {
+                setIdentifier(`${ values['prefix'] } ${ values['city_base_id'] }`);
             }
             else {
                 setIdentifier(null);
@@ -77,7 +77,7 @@ const CityPopup = ({ map, feature }) => {
 
             // alternate names
             for (const altName of values['altNames']) {
-                if (altName.name !== values['preferredName'] && altName.name !== values['identifier']) {
+                if (altName.name !== values['preferredName'] && altName.name !== values['city_base_id']) {
                     altNames.push(altName);
                 }
             }

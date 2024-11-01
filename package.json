@@ -1,9 +1,9 @@
 {
   "main": "/index.js",
   "name": "civitates-web",
-  "description": null,
+  "description": "Civitates Web is a web application that provides an online, interactive historical atlas for the ancient and medieval worlds.",
   "version": "1.0.0",
-  "homepage": "https://eljocko.github.io/civitates-web",
+  "homepage": "https://civitates.app",
   "scripts": {
     "start": "BROWSER=none PORT=2000 react-scripts start",
     "build": "react-scripts build",

@@ -84,8 +84,6 @@ function getLayerByName(map, name) {
 }
 
 function MapWrapper({ features }) {
-    // console.log('MapWrapper()');
-
     // set initial state
     const [ map, setMap ] = useState();
     const [ selectedCoord , setSelectedCoord ] = useState();
@@ -155,7 +153,7 @@ function MapWrapper({ features }) {
         if (features.length) { // may be null on first render
             if (selectedFeature) {
                 // These tests trigger when the year slider changes
-                const feature = features.find(feature => feature.getProperties()['identifier'] === selectedFeature.getProperties()['identifier']);
+                const feature = features.find(feature => feature.getProperties()['city_base_id'] === selectedFeature.getProperties()['identifier']);
                 if (!feature) {
                     // selectedFeature is no longer included in the set of features
                     setSelectedFeature(undefined);
@@ -218,8 +216,10 @@ function MapWrapper({ features }) {
             event.map.set('selectedFeature', undefined);
         }
 
-        const transformedCoord = transform(event.coordinate, 'EPSG:3857', 'EPSG:4326');
-        setSelectedCoord(transformedCoord);
+        if (process.env.NODE_ENV === 'development') {
+            const transformedCoord = transform(event.coordinate, 'EPSG:3857', 'EPSG:4326');
+            setSelectedCoord(transformedCoord);
+        }
     }
 
     const handlePointerMove = (event) => {
