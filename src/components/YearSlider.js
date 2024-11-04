@@ -4,9 +4,13 @@ import ReactSlider from "react-slider";
 
 const Slider = ({ onChange, initialYear }) => {
 
-    const [currentYear, setCurrentYear] = useState(initialYear);
-    const [displayYear, setDisplayYear] = useState(initialYear);
-    const [displayYearPostfix, setDisplayYearPostfix] = useState('AD');
+    const [currentYear, setCurrentYear] = useState();
+    const [displayYear, setDisplayYear] = useState();
+    const [displayYearPostfix, setDisplayYearPostfix] = useState();
+
+    useEffect( () => {
+        updateYear(initialYear)
+    }, []);
 
     function updateYear(year) {
         if (year === 0) {

@@ -17,7 +17,9 @@ import CityPopup from "./CityPopup";
 import OSM from "ol/source/OSM";
 
 const romeCoordinates4326 = [12.4839, 41.89474];
+const romeCoordinates3857 = transform(romeCoordinates4326, 'EPSG:4326', 'EPSG:3857');
 const mapExtent4326 = [-180, -85.051129, 180, 85.051129];
+const defaultZoom = 6;
 
 // 2  4  0
 // 6  .  5
@@ -83,6 +85,29 @@ function getLayerByName(map, name) {
     return result;
 }
 
+function initializeMapPosition() {
+    const mapPositionAsString = localStorage.getItem('mapPosition');
+    if (mapPositionAsString) {
+        const mapPositionFromLocalStorage = JSON.parse(mapPositionAsString);
+        return {
+            center: mapPositionFromLocalStorage.center || romeCoordinates3857,
+            zoom: mapPositionFromLocalStorage.zoom || defaultZoom
+        }
+    }
+    else {
+        return {
+            center: romeCoordinates3857,
+            zoom: defaultZoom
+        }
+    }
+}
+
+function saveMapPosition(center, zoom) {
+    localStorage.setItem('mapPosition', JSON.stringify({ center, zoom }));
+}
+
+const mapMinZoom = 1;
+const mapMaxZoom = 11;
 function MapWrapper({ features }) {
     // set initial state
     const [ map, setMap ] = useState();
@@ -101,13 +126,15 @@ function MapWrapper({ features }) {
     useEffect( () => {
         console.log('initial useEffect()');
         const mapExtent3857 = transformExtent(mapExtent4326, 'EPSG:4326', 'EPSG:3857');
-        const romeCoordinates3857 = transform(romeCoordinates4326, 'EPSG:4326', 'EPSG:3857');
-        console.log(romeCoordinates4326)
-        console.log(romeCoordinates3857)
+        // console.log(romeCoordinates4326)
+        // console.log(romeCoordinates3857)
 
         // // create and add vector source layer
         const featuresLayer = new VectorLayer({ source: new VectorSource(), style: getFeatureStyle });
         featuresLayer.set('name', 'features-layer', true);
+
+        const mapPosition = initializeMapPosition();
+        // console.log(mapPosition);
 
         // create map
         const initialMap = new Map({
@@ -127,10 +154,10 @@ function MapWrapper({ features }) {
             view: new View({
                 projection: 'EPSG:3857',
                 extent: mapExtent3857,
-                center: romeCoordinates3857,
-                zoom: 6,
-                minZoom: 1,
-                maxZoom: 11,
+                center: mapPosition.center,
+                zoom: mapPosition.zoom,
+                minZoom: mapMinZoom,
+                maxZoom: mapMaxZoom,
                 enableRotation: false
             }),
             controls: []
@@ -145,7 +172,6 @@ function MapWrapper({ features }) {
         setMap(initialMap);
 
         return () => initialMap.setTarget(null);
-
     }, []);
 
     // update map if features prop changes - logic formerly put into componentDidUpdate
@@ -179,7 +205,11 @@ function MapWrapper({ features }) {
 
     const handleMapMoveEnd = (event) => {
         const newZoom = event.map.getView().getZoom();
-        console.log(`new zoom is ${ newZoom }`);
+        // console.log(`new zoom is ${ newZoom }`);
+        const newCenter = event.map.getView().getCenter();
+        // console.log(`new center is ${ newCenter }`);
+
+        saveMapPosition(newCenter, newZoom);
 
         // These tests trigger when the zoom changes
         const mapSelectedFeature = event.map.get('selectedFeature');
