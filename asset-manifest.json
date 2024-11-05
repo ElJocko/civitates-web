@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.5aea0fca.css",
-    "main.js": "/static/js/main.622b382e.js",
+    "main.js": "/static/js/main.1fa2b9ea.js",
     "static/media/wikipedia-wordmark-en.svg": "/static/media/wikipedia-wordmark-en.3e4c601022e014f0a8f3.svg",
     "index.html": "/index.html",
     "main.5aea0fca.css.map": "/static/css/main.5aea0fca.css.map",
-    "main.622b382e.js.map": "/static/js/main.622b382e.js.map"
+    "main.1fa2b9ea.js.map": "/static/js/main.1fa2b9ea.js.map"
   },
   "entrypoints": [
     "static/css/main.5aea0fca.css",
-    "static/js/main.622b382e.js"
+    "static/js/main.1fa2b9ea.js"
   ]
 }
