@@ -25,6 +25,16 @@ function filterByYear(feature, year) {
     return false;
 }
 
+function filterByName(feature, name) {
+    for (const altName of feature.getProperties().altNames) {
+        if (altName.name.includes(name)) {
+            return true;
+        }
+    }
+
+    return false;
+}
+
 function addAlternateNameIds(features) {
     for (const feature of features) {
         const values = feature.getProperties();

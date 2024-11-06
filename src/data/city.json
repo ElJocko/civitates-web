@@ -5870,8 +5870,34 @@
                 "longitude": "14.3701",
                 "elevation": "50",
                 "prefix": "modern",
-                "periods": [],
-                "altNames": [],
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "660",
+                        "preferredName": "Sorrentum",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "661",
+                        "endDate": "2100",
+                        "preferredName": "Sorrento",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Sorrento",
+                        "language": "Italian"
+                    },
+                    {
+                        "name": "Sorrentum",
+                        "language": "Latin"
+                    }
+                ],
                 "mapPoint": [
                     144932851.18407112,
                     101012331.42354311
@@ -10133,37 +10159,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "32.421841",
-                    "35.034889"
-                ]
-            },
-            "properties": {
-                "identifier": "Arsinoe@Cyprus",
-                "city_base_id": "Arsinoe",
-                "region": "Cyprus",
-                "latitude": "35.034889",
-                "longitude": "32.421841",
-                "elevation": "0",
-                "prefix": "ancient",
-                "periods": [],
-                "altNames": [
-                    {
-                        "name": "Arsinoe",
-                        "language": "Greek"
-                    }
-                ],
-                "mapPoint": [
-                    158393204.86998472,
-                    106294936.59065111
-                ],
-                "wikipediaArticleName": "Arsinoe"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     "33.95",
                     "35.125"
                 ]
@@ -10282,7 +10277,7 @@
                         "endDate": "-300",
                         "preferredName": "Idalion",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "1",
                         "calcTagPosition": 0
                     },
                     {
@@ -10290,7 +10285,7 @@
                         "endDate": "400",
                         "preferredName": "Idalion",
                         "size": "4",
-                        "tagPosition": "0",
+                        "tagPosition": "1",
                         "calcTagPosition": 0
                     }
                 ],
@@ -10461,7 +10456,7 @@
                         "endDate": "370",
                         "preferredName": "Kourion",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "1",
                         "calcTagPosition": 0
                     },
                     {
@@ -10469,7 +10464,7 @@
                         "endDate": "649",
                         "preferredName": "Kourion",
                         "size": "4",
-                        "tagPosition": "0",
+                        "tagPosition": "1",
                         "calcTagPosition": 0
                     }
                 ],
@@ -10804,7 +10799,7 @@
                         "endDate": "1000",
                         "preferredName": "Tamassos",
                         "size": "4",
-                        "tagPosition": "0",
+                        "tagPosition": "3",
                         "calcTagPosition": 0
                     }
                 ],
@@ -11671,6 +11666,46 @@
                     104244069.45411678
                 ],
                 "wikipediaArticleName": "Anazarbus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "32.804577",
+                    "36.024616"
+                ]
+            },
+            "properties": {
+                "identifier": "Anemurium@Anatolia",
+                "city_base_id": "Anemurium",
+                "region": "Anatolia",
+                "latitude": "36.024616",
+                "longitude": "32.804577",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-200",
+                        "endDate": "650",
+                        "preferredName": "Anemurium",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Anemurium",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    158678593.5163392,
+                    105388079.98779085
+                ],
+                "wikipediaArticleName": "Anemurium"
             }
         },
         {
@@ -12763,6 +12798,50 @@
                     100361522.08023968
                 ],
                 "wikipediaArticleName": "Heraclea Pontica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "36.1950485",
+                    "36.8402925"
+                ]
+            },
+            "properties": {
+                "identifier": "Issus@Anatolia",
+                "city_base_id": "Issus",
+                "region": "Anatolia",
+                "latitude": "36.8402925",
+                "longitude": "36.1950485",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-350",
+                        "endDate": "700",
+                        "preferredName": "Issus",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Issus",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Issos",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    161206712.30288783,
+                    104632107.68336472
+                ],
+                "wikipediaArticleName": "Issus_(Cilicia)"
             }
         },
         {
@@ -21329,6 +21408,86 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "35.07647",
+                    "32.92814"
+                ]
+            },
+            "properties": {
+                "identifier": "Acre@Syria",
+                "city_base_id": "Acre",
+                "region": "Syria",
+                "latitude": "32.92814",
+                "longitude": "35.07647",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-1800",
+                        "endDate": "-261",
+                        "preferredName": "Akko",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-260",
+                        "endDate": "637",
+                        "preferredName": "Ake-Ptolemais",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "638",
+                        "endDate": "2100",
+                        "preferredName": "Acre",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Acre",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Akko",
+                        "language": "Punic"
+                    },
+                    {
+                        "name": "Akka",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "\u00c1k\u0113",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Ake-Ptolemais",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Ptolemais in Phoenicia",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Sainct-Jehan-d'Acre",
+                        "language": "French"
+                    }
+                ],
+                "mapPoint": [
+                    160372639.72033423,
+                    108189583.0654123
+                ],
+                "wikipediaArticleName": "Acre,_Israel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "36.384722",
                     "36.237778"
                 ]
@@ -21434,6 +21593,70 @@
                     105225055.4416689
                 ],
                 "wikipediaArticleName": "Aleppo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.94503",
+                    "31.95522"
+                ]
+            },
+            "properties": {
+                "identifier": "Amman@Syria",
+                "city_base_id": "Amman",
+                "region": "Syria",
+                "latitude": "31.95522",
+                "longitude": "35.94503",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-1200",
+                        "endDate": "-251",
+                        "preferredName": "Rabbat Ammon",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-250",
+                        "endDate": "629",
+                        "preferredName": "Philadelphia",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "630",
+                        "endDate": "2100",
+                        "preferredName": "Amman",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Amman",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Philadelphia",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Rabbat Ammon",
+                        "language": "Ammonite"
+                    }
+                ],
+                "mapPoint": [
+                    161020284.9971769,
+                    109049216.79110391
+                ],
+                "wikipediaArticleName": "Amman"
             }
         },
         {
@@ -21565,6 +21788,98 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "34.999999",
+                    "29.530676"
+                ]
+            },
+            "properties": {
+                "identifier": "Aqaba@Syria",
+                "city_base_id": "Aqaba",
+                "region": "Syria",
+                "latitude": "29.530676",
+                "longitude": "34.999999",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-700",
+                        "endDate": "-65",
+                        "preferredName": "Elath",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-64",
+                        "endDate": "628",
+                        "preferredName": "Aelana",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "629",
+                        "endDate": "1114",
+                        "preferredName": "Ayla",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1115",
+                        "endDate": "1509",
+                        "preferredName": "Elyn",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1510",
+                        "endDate": "2100",
+                        "preferredName": "Aqaba",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Aqaba",
+                        "language": "English"
+                    },
+                    {
+                        "name": "al-\u02bfAqaba",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Ayla",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Elath",
+                        "language": "Hebrew"
+                    },
+                    {
+                        "name": "Ailath",
+                        "language": "Hebrew"
+                    },
+                    {
+                        "name": "Elyn",
+                        "language": "French"
+                    }
+                ],
+                "mapPoint": [
+                    160315618.8099015,
+                    111152958.41416246
+                ],
+                "wikipediaArticleName": "Aqaba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "35.85854",
                     "34.85604"
                 ]
@@ -21618,6 +21933,130 @@
                     106457630.22846547
                 ],
                 "wikipediaArticleName": "Arwad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.546334",
+                    "31.661963"
+                ]
+            },
+            "properties": {
+                "identifier": "Ascalon@Syria",
+                "city_base_id": "Ascalon",
+                "region": "Syria",
+                "latitude": "31.661963",
+                "longitude": "34.546334",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1800",
+                        "endDate": "-604",
+                        "preferredName": "Ashkelon",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-520",
+                        "endDate": "-38",
+                        "preferredName": "Ashkelon",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-37",
+                        "endDate": "1270",
+                        "preferredName": "Ascalon",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ascalon",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "\u02bfAsqal\u0101n",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Ashkelon",
+                        "language": "Hebrew"
+                    }
+                ],
+                "mapPoint": [
+                    159977341.66782862,
+                    109306530.48124146
+                ],
+                "wikipediaArticleName": "Ascalon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.656061",
+                    "31.756038"
+                ]
+            },
+            "properties": {
+                "identifier": "Ashdod@Syria",
+                "city_base_id": "Ashdod",
+                "region": "Syria",
+                "latitude": "31.756038",
+                "longitude": "34.656061",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1600",
+                        "endDate": "-331",
+                        "preferredName": "Ashdod",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-330",
+                        "endDate": "500",
+                        "preferredName": "Azotus",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ashdod",
+                        "language": "English"
+                    },
+                    {
+                        "name": "\u02bea\u0161d\u014d\u1e0f",
+                        "language": "Hebrew"
+                    },
+                    {
+                        "name": "\u02beasd\u016bd",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Azotus",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    160059160.04916337,
+                    109224074.78154509
+                ],
+                "wikipediaArticleName": "Ashdod_(ancient_city)"
             }
         },
         {
@@ -21913,6 +22352,58 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "34.8991616667",
+                    "32.5791643333"
+                ]
+            },
+            "properties": {
+                "identifier": "Caesarea@Syria",
+                "city_base_id": "Caesarea",
+                "region": "Syria",
+                "latitude": "32.5791643333",
+                "longitude": "34.8991616667",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-63",
+                        "endDate": "1265",
+                        "preferredName": "Caesarea",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Caesarea",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Qays\u0101riyyah",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Q\u0113s\u0101ry\u0101",
+                        "language": "Hebrew"
+                    },
+                    {
+                        "name": "Caesarea Maratima",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    160240429.04449537,
+                    108498993.82799791
+                ],
+                "wikipediaArticleName": "Caesarea_Maritima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "36.956398",
                     "36.744679"
                 ]
@@ -22085,6 +22576,110 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "34.848363",
+                    "31.779672"
+                ]
+            },
+            "properties": {
+                "identifier": "Ekron@Syria",
+                "city_base_id": "Ekron",
+                "region": "Syria",
+                "latitude": "31.779672",
+                "longitude": "34.848363",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1150",
+                        "endDate": "-604",
+                        "preferredName": "Ekron",
+                        "size": "3",
+                        "tagPosition": "4",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ekron",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Akkar\u014dn",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "\u02bfEqr\u014dn",
+                        "language": "Hebrew"
+                    },
+                    {
+                        "name": "Amqarr\u016bna",
+                        "language": "Assyrian"
+                    }
+                ],
+                "mapPoint": [
+                    160202550.81321815,
+                    109203346.67934585
+                ],
+                "wikipediaArticleName": "Ekron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.445392",
+                    "31.529444"
+                ]
+            },
+            "properties": {
+                "identifier": "Gaza@Syria",
+                "city_base_id": "Gaza",
+                "region": "Syria",
+                "latitude": "31.529444",
+                "longitude": "34.445392",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1600",
+                        "endDate": "2100",
+                        "preferredName": "Gaza",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Gaza",
+                        "language": "English"
+                    },
+                    {
+                        "name": "\u02bfAzza",
+                        "language": "Hebrew"
+                    },
+                    {
+                        "name": "Ghazzah",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "H\u0101zat",
+                        "language": "Assyrian"
+                    }
+                ],
+                "mapPoint": [
+                    159902073.85727432,
+                    109422540.44286194
+                ],
+                "wikipediaArticleName": "History_of_Gaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "36.75",
                     "35.133333"
                 ]
@@ -22201,6 +22796,130 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "36.72339",
+                    "34.72682"
+                ]
+            },
+            "properties": {
+                "identifier": "Homs@Syria",
+                "city_base_id": "Homs",
+                "region": "Syria",
+                "latitude": "34.72682",
+                "longitude": "36.72339",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-64",
+                        "endDate": "636",
+                        "preferredName": "Emesa",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "637",
+                        "endDate": "2100",
+                        "preferredName": "Homs",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Homs",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Emesus",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "\u00c9mesa",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    161600672.27921066,
+                    106574957.79838517
+                ],
+                "wikipediaArticleName": "Homs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.752119",
+                    "32.053722"
+                ]
+            },
+            "properties": {
+                "identifier": "Jaffa@Syria",
+                "city_base_id": "Jaffa",
+                "region": "Syria",
+                "latitude": "32.053722",
+                "longitude": "34.752119",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1440",
+                        "endDate": "635",
+                        "preferredName": "Joppa",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "636",
+                        "endDate": "1321",
+                        "preferredName": "Jaffa",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Jaffa",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Ioppe",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Yapu",
+                        "language": "Egyptian"
+                    },
+                    {
+                        "name": "Y\u0101f\u014d",
+                        "language": "Hebrew"
+                    },
+                    {
+                        "name": "Joppa",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Yafah",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    160130786.0853646,
+                    108962603.76415873
+                ],
+                "wikipediaArticleName": "Jaffa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "35.89929",
                     "32.28082"
                 ]
@@ -22246,6 +22965,78 @@
                     108762559.751907
                 ],
                 "wikipediaArticleName": "Jerash"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.21633",
+                    "31.76904"
+                ]
+            },
+            "properties": {
+                "identifier": "Jerusalem@Syria",
+                "city_base_id": "Jerusalem",
+                "region": "Syria",
+                "latitude": "31.76904",
+                "longitude": "35.21633",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-1700",
+                        "endDate": "-1001",
+                        "preferredName": "Jerusalem",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1000",
+                        "endDate": "329",
+                        "preferredName": "Jerusalem",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "330",
+                        "endDate": "2100",
+                        "preferredName": "Jerusalem",
+                        "size": "1",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Jerusalem",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Yerushalayim",
+                        "language": "Hebrew"
+                    },
+                    {
+                        "name": "Al-Quds",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Hierousal\u0113m",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Aelia Capitolina",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    160476926.89499024,
+                    109212672.08627711
+                ],
+                "wikipediaArticleName": "Jerusalem"
             }
         },
         {
@@ -22533,6 +23324,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "34.86563",
+                    "31.92923"
+                ]
+            },
+            "properties": {
+                "identifier": "Ramla@Syria",
+                "city_base_id": "Ramla",
+                "region": "Syria",
+                "latitude": "31.92923",
+                "longitude": "34.86563",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "705",
+                        "endDate": "2100",
+                        "preferredName": "Ramla",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ramla",
+                        "language": "Hebrew"
+                    }
+                ],
+                "mapPoint": [
+                    160215426.02160355,
+                    109072054.35840507
+                ],
+                "wikipediaArticleName": "Ramla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "36.865833",
                     "34.835"
                 ]
@@ -22634,6 +23465,54 @@
                     107626296.14257759
                 ],
                 "wikipediaArticleName": "Sidon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.53124",
+                    "32.7922"
+                ]
+            },
+            "properties": {
+                "identifier": "Tiberias@Syria",
+                "city_base_id": "Tiberias",
+                "region": "Syria",
+                "latitude": "32.7922",
+                "longitude": "35.53124",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "18",
+                        "endDate": "2100",
+                        "preferredName": "Tiberias",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tiberias",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "\u1e6cabariyy\u0101",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "\u1e6c\u0259\u1e07ery\u0101",
+                        "language": "Hebrew"
+                    }
+                ],
+                "mapPoint": [
+                    160711740.81012622,
+                    108310255.19086975
+                ],
+                "wikipediaArticleName": "Tiberias"
             }
         },
         {
@@ -23197,6 +24076,82 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "41.2178",
+                    "37.0778"
+                ]
+            },
+            "properties": {
+                "identifier": "Nusaybin@Mesopotamia",
+                "city_base_id": "Nusaybin",
+                "region": "Mesopotamia",
+                "latitude": "37.0778",
+                "longitude": "41.2178",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-901",
+                        "endDate": "-333",
+                        "preferredName": "Na\u1e63ib\u012bna",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-332",
+                        "endDate": "-68",
+                        "preferredName": "Antiochia Mygdonia",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-67",
+                        "endDate": "1514",
+                        "preferredName": "Nisibis",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1515",
+                        "endDate": "2100",
+                        "preferredName": "Nusaybin",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Nusaybin",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Na\u1e63ib\u012bna",
+                        "language": "Aramean"
+                    },
+                    {
+                        "name": "Antiochia Mygdonia",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Nisibis",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    164951947.27310222,
+                    104410475.40793337
+                ],
+                "wikipediaArticleName": "Nusaybin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "38.530357",
                     "37.525756"
                 ]
@@ -23414,6 +24369,50 @@
                     104326983.58346325
                 ],
                 "wikipediaArticleName": "Edessa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.8103945",
+                    "35.666634"
+                ]
+            },
+            "properties": {
+                "identifier": "Zenobia@Mesopotamia",
+                "city_base_id": "Zenobia",
+                "region": "Mesopotamia",
+                "latitude": "35.666634",
+                "longitude": "39.8103945",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "250",
+                        "endDate": "630",
+                        "preferredName": "Zenobia",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Zenobia",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Halabiye",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    163902509.66985387,
+                    105717382.17428519
+                ],
+                "wikipediaArticleName": "Halabiye"
             }
         },
         {

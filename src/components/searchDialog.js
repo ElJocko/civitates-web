@@ -1,13 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
-import Overlay from "ol/Overlay";
 
-import { requestPagePreview } from "../lib/api";
-
-const buildWikipediaUrl = ( lang, title, touch, analytics = true ) => {
-    return `https://${ lang }${ touch ? '.m' : '' }.wikipedia.org/wiki/${ encodeURIComponent( title ) }`
-}
-
-const CityPopup = ({ map, feature }) => {
+const SearchDialog = ({ features }) => {
 
     const [displayName, setDisplayName] = useState();
     const [identifier, setIdentifier] = useState();
@@ -27,6 +20,7 @@ const CityPopup = ({ map, feature }) => {
         setWikipediaLink(null);
     }
 
+    const panOptions = { duration: 250 };
     useEffect( () => {
         if (map) {
             let cityPopupOverlay = map.getOverlayById(cityPopupOverlayId);
@@ -37,7 +31,7 @@ const CityPopup = ({ map, feature }) => {
                     id: cityPopupOverlayId,
                     element: overlayElement,
                     position: undefined,
-                    autoPan: { animation: { duration: 250 }, margin: 30 },
+                    autoPan: { animation: panOptions },
                 });
 
                 map.addOverlay(cityPopupOverlay);
@@ -99,7 +93,7 @@ const CityPopup = ({ map, feature }) => {
                     // Timeout to allow the original animation time to complete
                     // This avoids a jerky motion when this pan starts
                     setTimeout(() => {
-                        cityPopupOverlay.panIntoView({ animation: { duration: 500 }, margin: 30 });
+                        cityPopupOverlay.panIntoView(panOptions);
                     }, 300);
                 }
             );
