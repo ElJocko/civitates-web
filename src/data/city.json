@@ -11857,6 +11857,54 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "39.5109175",
+                    "38.6608665"
+                ]
+            },
+            "properties": {
+                "identifier": "Arsamosata@Anatolia",
+                "city_base_id": "Arsamosata",
+                "region": "Anatolia",
+                "latitude": "38.6608665",
+                "longitude": "39.5109175",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-240",
+                        "endDate": "-51",
+                        "preferredName": "Arsamosata",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-50",
+                        "endDate": "1234",
+                        "preferredName": "Arsamosata",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Arsamosata",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    163679203.4335858,
+                    102915056.32337593
+                ],
+                "wikipediaArticleName": "Arsamosata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "33.6153",
                     "40.59995"
                 ]
@@ -11926,6 +11974,78 @@
                     101037496.7425951
                 ],
                 "wikipediaArticleName": "\u00c7ank\u0131r\u0131"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "30.173857",
+                    "38.073196"
+                ]
+            },
+            "properties": {
+                "identifier": "Celaenae@Anatolia",
+                "city_base_id": "Celaenae",
+                "region": "Anatolia",
+                "latitude": "38.073196",
+                "longitude": "30.173857",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-500",
+                        "endDate": "-270",
+                        "preferredName": "Celaenae",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-269",
+                        "endDate": "400",
+                        "preferredName": "Apamea",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "401",
+                        "endDate": "1200",
+                        "preferredName": "Apamea",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Celaenae",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Kelainai",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Apamea",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Apamea Cibotus",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Apamea ad Maeandrum",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    156716986.5085383,
+                    103473952.81933787
+                ],
+                "wikipediaArticleName": "Celaenae"
             }
         },
         {
@@ -22208,6 +22328,50 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "35.20376",
+                    "31.70487"
+                ]
+            },
+            "properties": {
+                "identifier": "Bethlehem@Syria",
+                "city_base_id": "Bethlehem",
+                "region": "Syria",
+                "latitude": "31.70487",
+                "longitude": "35.20376",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-1400",
+                        "endDate": "2100",
+                        "preferredName": "Bethlehem",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Bethlehem",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Bayt La\u1e25m",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    160467554.02365154,
+                    109268933.3433924
+                ],
+                "wikipediaArticleName": "Bethlehem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "36.48256",
                     "32.52013"
                 ]
@@ -22680,6 +22844,46 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "35.716993",
+                    "32.022341"
+                ]
+            },
+            "properties": {
+                "identifier": "Gadara@Syria",
+                "city_base_id": "Gadara",
+                "region": "Syria",
+                "latitude": "32.022341",
+                "longitude": "35.716993",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "749",
+                        "preferredName": "Gadara",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Gadara",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    160850248.2858439,
+                    108990207.2512714
+                ],
+                "wikipediaArticleName": "Gadara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "36.75",
                     "35.133333"
                 ]
@@ -22832,6 +23036,10 @@
                         "language": "Arabic"
                     },
                     {
+                        "name": "Hims",
+                        "language": "Arabic"
+                    },
+                    {
                         "name": "Emesus",
                         "language": "Latin"
                     },
@@ -22845,6 +23053,62 @@
                     106574957.79838517
                 ],
                 "wikipediaArticleName": "Homs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.348082",
+                    "29.953156"
+                ]
+            },
+            "properties": {
+                "identifier": "Humayma@Syria",
+                "city_base_id": "Humayma",
+                "region": "Syria",
+                "latitude": "29.953156",
+                "longitude": "35.348082",
+                "elevation": "0",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "-90",
+                        "endDate": "599",
+                        "preferredName": "Hawara",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "600",
+                        "endDate": "1200",
+                        "preferredName": "Humayma",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Humayma",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Hawara",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Auara",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    160575168.3066539,
+                    110790138.63562952
+                ],
+                "wikipediaArticleName": "Humayma"
             }
         },
         {
@@ -23269,6 +23533,46 @@
                     106733183.0186519
                 ],
                 "wikipediaArticleName": "Palmyra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.615827",
+                    "32.449525"
+                ]
+            },
+            "properties": {
+                "identifier": "Pella@Syria",
+                "city_base_id": "Pella",
+                "region": "Syria",
+                "latitude": "32.449525",
+                "longitude": "35.615827",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "749",
+                        "preferredName": "Pella",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Pella",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    160774813.44878364,
+                    108613628.08779752
+                ],
+                "wikipediaArticleName": "Pella,_Jordan"
             }
         },
         {
@@ -23708,6 +24012,82 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "43.236332",
+                    "35.521389"
+                ]
+            },
+            "properties": {
+                "identifier": "A\u0161\u0161ur@Mesopotamia",
+                "city_base_id": "A\u0161\u0161ur",
+                "region": "Mesopotamia",
+                "latitude": "35.521389",
+                "longitude": "43.236332",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2300",
+                        "endDate": "-1800",
+                        "preferredName": "A\u0161\u0161ur",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1799",
+                        "endDate": "-1366",
+                        "preferredName": "A\u0161\u0161ur",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1365",
+                        "endDate": "-1076",
+                        "preferredName": "A\u0161\u0161ur",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1075",
+                        "endDate": "-614",
+                        "preferredName": "A\u0161\u0161ur",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-613",
+                        "endDate": "240",
+                        "preferredName": "A\u0161\u0161ur",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "A\u0161\u0161ur",
+                        "language": "Assyrian"
+                    },
+                    {
+                        "name": "Ashur",
+                        "language": "English"
+                    }
+                ],
+                "mapPoint": [
+                    166457073.82274276,
+                    105850569.20680097
+                ],
+                "wikipediaArticleName": "Assur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "38.013529",
                     "36.829505"
                 ]
@@ -23768,6 +24148,66 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "43.231685",
+                    "36.501818"
+                ]
+            },
+            "properties": {
+                "identifier": "Dur-Sharrukin@Mesopotamia",
+                "city_base_id": "Dur-Sharrukin",
+                "region": "Mesopotamia",
+                "latitude": "36.501818",
+                "longitude": "43.231685",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-716",
+                        "endDate": "-707",
+                        "preferredName": "Dur-Sharrukin",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-706",
+                        "endDate": "-701",
+                        "preferredName": "Dur-Sharrukin",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-700",
+                        "endDate": "-605",
+                        "preferredName": "Dur-Sharrukin",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Dur-Sharrukin",
+                        "language": "English"
+                    },
+                    {
+                        "name": "D\u016br \u0160arru-k\u012bn",
+                        "language": "Assyrian"
+                    }
+                ],
+                "mapPoint": [
+                    166453608.76839823,
+                    104946772.62440649
+                ],
+                "wikipediaArticleName": "Dur-Sharrukin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "38.111375",
                     "35.986842"
                 ]
@@ -23801,6 +24241,62 @@
                     105422898.02450304
                 ],
                 "wikipediaArticleName": "Emar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "44.01062",
+                    "36.19257"
+                ]
+            },
+            "properties": {
+                "identifier": "Erbil@Mesopotamia",
+                "city_base_id": "Erbil",
+                "region": "Mesopotamia",
+                "latitude": "36.19257",
+                "longitude": "44.01062",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-2300",
+                        "endDate": "1200",
+                        "preferredName": "Arbela",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1201",
+                        "endDate": "2100",
+                        "preferredName": "Erbil",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Erbil",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Arbela",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Arba\u02beilu",
+                        "language": "Assyrian"
+                    }
+                ],
+                "mapPoint": [
+                    167034424.80150756,
+                    105233066.44904146
+                ],
+                "wikipediaArticleName": "Erbil"
             }
         },
         {
@@ -23956,6 +24452,66 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "43.328889",
+                    "36.098056"
+                ]
+            },
+            "properties": {
+                "identifier": "Kal\u1e2bu@Mesopotamia",
+                "city_base_id": "Kal\u1e2bu",
+                "region": "Mesopotamia",
+                "latitude": "36.098056",
+                "longitude": "43.328889",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1274",
+                        "endDate": "-912",
+                        "preferredName": "Kal\u1e2bu",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-911",
+                        "endDate": "-707",
+                        "preferredName": "Kal\u1e2bu",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-706",
+                        "endDate": "-600",
+                        "preferredName": "Kal\u1e2bu",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Nimrud",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Kal\u1e2bu",
+                        "language": "Assyrian"
+                    }
+                ],
+                "mapPoint": [
+                    166526089.3241344,
+                    105320339.14019254
+                ],
+                "wikipediaArticleName": "Nimrud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "37.95495",
                     "36.52815"
                 ]
@@ -24069,6 +24625,126 @@
                     106735711.25401026
                 ],
                 "wikipediaArticleName": "Mari,_Syria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "43.11889",
+                    "36.335"
+                ]
+            },
+            "properties": {
+                "identifier": "Mosul@Mesopotamia",
+                "city_base_id": "Mosul",
+                "region": "Mesopotamia",
+                "latitude": "36.335",
+                "longitude": "43.11889",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "642",
+                        "endDate": "2100",
+                        "preferredName": "Mosul",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Mosul",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "M\u00e9psila",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    166369502.7204551,
+                    105101349.64719754
+                ],
+                "wikipediaArticleName": "Mosul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "43.155403",
+                    "36.366841"
+                ]
+            },
+            "properties": {
+                "identifier": "Nineveh@Mesopotamia",
+                "city_base_id": "Nineveh",
+                "region": "Mesopotamia",
+                "latitude": "36.366841",
+                "longitude": "43.155403",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2900",
+                        "endDate": "-701",
+                        "preferredName": "Nineveh",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-700",
+                        "endDate": "-612",
+                        "preferredName": "Nineveh",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-611",
+                        "endDate": "-306",
+                        "preferredName": "Nineveh",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-305",
+                        "endDate": "641",
+                        "preferredName": "Nineveh",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "642",
+                        "endDate": "1200",
+                        "preferredName": "Nineveh",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Nineveh",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Ninua",
+                        "language": "Akkadian"
+                    }
+                ],
+                "mapPoint": [
+                    166396728.78657994,
+                    105071870.73324446
+                ],
+                "wikipediaArticleName": "Nineveh"
             }
         },
         {
@@ -24465,6 +25141,478 @@
                     104433565.57011308
                 ],
                 "wikipediaArticleName": "Zeugma_(Commagene)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "29.95527",
+                    "31.21564"
+                ]
+            },
+            "properties": {
+                "identifier": "Alexandria@Egypt",
+                "city_base_id": "Alexandria",
+                "region": "Egypt",
+                "latitude": "31.21564",
+                "longitude": "29.95527",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-331",
+                        "endDate": "640",
+                        "preferredName": "Alexandria",
+                        "size": "1",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "641",
+                        "endDate": "2100",
+                        "preferredName": "Alexandria",
+                        "size": "2",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Alexandria",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Alex\u00e1ndreia",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    156553996.22792533,
+                    109696597.16157979
+                ],
+                "wikipediaArticleName": "Alexandria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "31.24967",
+                    "30.06263"
+                ]
+            },
+            "properties": {
+                "identifier": "Cairo@Egypt",
+                "city_base_id": "Cairo",
+                "region": "Egypt",
+                "latitude": "30.06263",
+                "longitude": "31.24967",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "969",
+                        "endDate": "1516",
+                        "preferredName": "Cairo",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1517",
+                        "endDate": "2100",
+                        "preferredName": "Cairo",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Cairo",
+                        "language": "English"
+                    },
+                    {
+                        "name": "al-Q\u0101hirah",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    157519170.82305422,
+                    110695873.21924955
+                ],
+                "wikipediaArticleName": "Cairo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "31.81332",
+                    "31.41648"
+                ]
+            },
+            "properties": {
+                "identifier": "Damietta@Egypt",
+                "city_base_id": "Damietta",
+                "region": "Egypt",
+                "latitude": "31.41648",
+                "longitude": "31.81332",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "400",
+                        "endDate": "2100",
+                        "preferredName": "Damietta",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Damietta",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Tamiati",
+                        "language": "Coptic"
+                    },
+                    {
+                        "name": "Dumy\u0101\u1e6d",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    157939458.72520533,
+                    109521301.61888662
+                ],
+                "wikipediaArticleName": "Damietta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "31.2375",
+                    "30.005"
+                ]
+            },
+            "properties": {
+                "identifier": "Fustat@Egypt",
+                "city_base_id": "Fustat",
+                "region": "Egypt",
+                "latitude": "30.005",
+                "longitude": "31.2375",
+                "elevation": "0",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "641",
+                        "endDate": "749",
+                        "preferredName": "Fustat",
+                        "size": "2",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "750",
+                        "endDate": "968",
+                        "preferredName": "Fustat",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "969",
+                        "endDate": "1169",
+                        "preferredName": "Fustat",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Fustat",
+                        "language": "English"
+                    },
+                    {
+                        "name": "l-Fus\u1e6d\u0101\u1e6d",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    157510096.21333334,
+                    110745509.98543614
+                ],
+                "wikipediaArticleName": "Fustat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "31.255061",
+                    "29.849491"
+                ]
+            },
+            "properties": {
+                "identifier": "Memphis@Egypt",
+                "city_base_id": "Memphis",
+                "region": "Egypt",
+                "latitude": "29.849491",
+                "longitude": "31.255061",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2800",
+                        "endDate": "-1551",
+                        "preferredName": "Memphis",
+                        "size": "0",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1550",
+                        "endDate": "-332",
+                        "preferredName": "Memphis",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-331",
+                        "endDate": "640",
+                        "preferredName": "Memphis",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "641",
+                        "endDate": "700",
+                        "preferredName": "Memphis",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Memphis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Menefer",
+                        "language": "Egyptian"
+                    }
+                ],
+                "mapPoint": [
+                    157523190.64400783,
+                    110879306.42971481
+                ],
+                "wikipediaArticleName": "Memphis,_Egypt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "32.600128",
+                    "31.049917"
+                ]
+            },
+            "properties": {
+                "identifier": "Pelusium@Egypt",
+                "city_base_id": "Pelusium",
+                "region": "Egypt",
+                "latitude": "31.049917",
+                "longitude": "32.600128",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-750",
+                        "endDate": "1150",
+                        "preferredName": "Pelusium",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Pelusium",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Per-Amun",
+                        "language": "Egyptian"
+                    },
+                    {
+                        "name": "Sin",
+                        "language": "Hebrew"
+                    }
+                ],
+                "mapPoint": [
+                    158526145.29260656,
+                    109840961.90788877
+                ],
+                "wikipediaArticleName": "Pelusium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "30.768333",
+                    "30.964722"
+                ]
+            },
+            "properties": {
+                "identifier": "Sais@Egypt",
+                "city_base_id": "Sais",
+                "region": "Egypt",
+                "latitude": "30.964722",
+                "longitude": "30.768333",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1100",
+                        "endDate": "-733",
+                        "preferredName": "Sais",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-732",
+                        "endDate": "-720",
+                        "preferredName": "Sais",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-719",
+                        "endDate": "-665",
+                        "preferredName": "Sais",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-664",
+                        "endDate": "-525",
+                        "preferredName": "Sais",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-524",
+                        "endDate": "750",
+                        "preferredName": "Sais",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Sais",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    157160259.94226345,
+                    109915079.158356
+                ],
+                "wikipediaArticleName": "Sais,_Egypt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "31.881357",
+                    "30.978171"
+                ]
+            },
+            "properties": {
+                "identifier": "Tanis@Egypt",
+                "city_base_id": "Tanis",
+                "region": "Egypt",
+                "latitude": "30.978171",
+                "longitude": "31.881357",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1300",
+                        "endDate": "-1078",
+                        "preferredName": "Tanis",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1077",
+                        "endDate": "-716",
+                        "preferredName": "Tanis",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-715",
+                        "endDate": "300",
+                        "preferredName": "Tanis",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "301",
+                        "endDate": "1000",
+                        "preferredName": "Tanis",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tanis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "\u1e62\u0101n al-\u1e24a\u01e7ar",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "\u1e0f\ua725n.t",
+                        "language": "Egyptian"
+                    }
+                ],
+                "mapPoint": [
+                    157990190.78942722,
+                    109903383.30791965
+                ],
+                "wikipediaArticleName": "Tanis"
             }
         }
     ]

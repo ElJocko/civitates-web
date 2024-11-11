@@ -82,7 +82,7 @@ function App() {
         addAlternateNameIds(parsedFeatures);
         const featuresForYear = parsedFeatures.filter((feature) => filterByYear(feature, currentYear.year));
 
-        console.log(`started with ${ parsedFeatures.length } features, filtered to ${ featuresForYear.length } features for year ${ currentYear.year }`);
+        // console.log(`started with ${ parsedFeatures.length } features, filtered to ${ featuresForYear.length } features for year ${ currentYear.year }`);
 
         // set features into state (which will be passed into OpenLayers map component as props)
         setAllFeatures(parsedFeatures);

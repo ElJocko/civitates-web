@@ -14,12 +14,12 @@ import { Circle as CircleStyle, Style, Stroke, Fill, Text } from "ol/style";
 
 // components
 import CityPopup from "./CityPopup";
-import OSM from "ol/source/OSM";
 
 const romeCoordinates4326 = [12.4839, 41.89474];
 const romeCoordinates3857 = transform(romeCoordinates4326, 'EPSG:4326', 'EPSG:3857');
 const mapExtent4326 = [-180, -85.051129, 180, 85.051129];
 const defaultZoom = 6;
+const showGhostCities = true;
 
 // 2  4  0
 // 6  .  5
@@ -60,13 +60,38 @@ const createImageStyle = function(feature) {
     return circleImages[feature.get('size')];
 }
 
-const featureResolutionThreshold = [20000, 8000, 4000, 2000, 1200];
+const zIndexBySize = [100, 90, 80, 70, 60];
+const createZIndex = function(feature) {
+    return zIndexBySize[feature.get('size')];
+}
+
+const circleGhostImage0 = new CircleStyle({ radius: 6, fill: new Fill({ color: 'white' }), stroke: new Stroke({ color: 'black', width: 0.5 })});
+const circleGhostImage1 = new CircleStyle({ radius: 5, fill: new Fill({ color: 'white' }), stroke: new Stroke({ color: 'black', width: 0.5 })});
+const circleGhostImage2 = new CircleStyle({ radius: 4, fill: new Fill({ color: 'white' }), stroke: new Stroke({ color: 'black', width: 0.5 })});
+const circleGhostImage3 = new CircleStyle({ radius: 3, fill: new Fill({ color: 'white' }), stroke: new Stroke({ color: 'black', width: 0.5 })});
+const circleGhostImage4 = new CircleStyle({ radius: 2, fill: new Fill({ color: 'white' }), stroke: new Stroke({ color: 'black', width: 0.5 })});
+const circleGhostImages = [circleGhostImage0, circleGhostImage1, circleGhostImage2, circleGhostImage3, circleGhostImage4];
+const createGhostImageStyle = function(feature) {
+    return circleGhostImages[feature.get('size')];
+}
+
+const ghostZIndexBySize = [25, 20, 15, 10, 5];
+const createGhostZIndex = function(feature) {
+    return ghostZIndexBySize[feature.get('size')];
+}
+
+const featureResolutionThreshold = [20000, 8000, 4000, 2000, 1000];
 function getFeatureStyle(feature, resolution) {
     if (resolution < featureResolutionThreshold[feature.get('size')]) {
-        return new Style({image: createImageStyle(feature), text: createTextStyle(feature)});
+        return new Style({ image: createImageStyle(feature), text: createTextStyle(feature), zIndex: createZIndex(feature) });
     }
     else {
-        return new Style(null);
+        if (showGhostCities) {
+            return new Style({ image: createGhostImageStyle(feature), zIndex: createGhostZIndex(feature) });
+        }
+        else {
+            return new Style(null);
+        }
     }
 }
 
@@ -124,7 +149,7 @@ function MapWrapper({ features }) {
 
     // initialize map on first render - logic formerly put into componentDidMount
     useEffect( () => {
-        console.log('initial useEffect()');
+        // console.log('initial useEffect()');
         const mapExtent3857 = transformExtent(mapExtent4326, 'EPSG:4326', 'EPSG:3857');
         // console.log(romeCoordinates4326)
         // console.log(romeCoordinates3857)
@@ -167,6 +192,8 @@ function MapWrapper({ features }) {
         initialMap.on('click', handleMapClick);
         initialMap.on('moveend', handleMapMoveEnd);
         initialMap.on('pointermove', handlePointerMove);
+        // initialMap.on('pointerdrag', hideCityTooltip);
+        // initialMap.getTargetElement().addEventListener('pointerleave', hideCityTooltip);
 
         // save map reference to state
         setMap(initialMap);
@@ -174,7 +201,7 @@ function MapWrapper({ features }) {
         return () => initialMap.setTarget(null);
     }, []);
 
-    // update map if features prop changes - logic formerly put into componentDidUpdate
+    // update map if features prop changes
     useEffect( () => {
         if (features.length) { // may be null on first render
             if (selectedFeature) {
@@ -184,7 +211,7 @@ function MapWrapper({ features }) {
                     // selectedFeature is no longer included in the set of features
                     setSelectedFeature(undefined);
                 }
-                else if (!isFeatureVisibleAtResolution(feature, map.getView().getResolution())) {
+                else if (!showGhostCities && !isFeatureVisibleAtResolution(feature, map.getView().getResolution())) {
                     // selectedFeature is no longer visible at this resolution
                     setSelectedFeature(undefined);
                 }
@@ -221,16 +248,22 @@ function MapWrapper({ features }) {
                 }
             });
 
-            if (!foundFeature) {
+            if (foundFeature) {
+                if (!showGhostCities && !isFeatureVisibleAtResolution(foundFeature, event.map.getView().getResolution())) {
+                    // selectedFeature is no longer visible at this resolution
+                    setSelectedFeature(undefined);
+                    event.map.set('selectedFeature', undefined);
+                }
+            }
+            else {
                 // selectedFeature is no longer included in the set of features
                 setSelectedFeature(undefined);
                 event.map.set('selectedFeature', undefined);
             }
-            else if (!isFeatureVisibleAtResolution(foundFeature, event.map.getView().getResolution())) {
-                // selectedFeature is no longer visible at this resolution
-                setSelectedFeature(undefined);
-                event.map.set('selectedFeature', undefined);
-            }
+        }
+
+        if (showGhostCities) {
+            hideCityTooltip();
         }
     }
 
@@ -252,15 +285,43 @@ function MapWrapper({ features }) {
         }
     }
 
+    let currentFeature;
+    const displayCityTooltip = function (feature, pixel) {
+        const cityTooltip = document.getElementById('city-tooltip');
+        if (feature) {
+            cityTooltip.style.left = pixel[0] + 'px';
+            cityTooltip.style.top = (pixel[1] - 18) + 'px';
+            if (feature !== currentFeature) {
+                cityTooltip.style.visibility = 'visible';
+                cityTooltip.innerText = feature.get('preferredName');
+            }
+        }
+        else {
+            cityTooltip.style.visibility = 'hidden';
+        }
+        currentFeature = feature;
+    };
+
+    function hideCityTooltip() {
+        const cityTooltip = document.getElementById('city-tooltip');
+        cityTooltip.style.visibility = 'hidden';
+        currentFeature = undefined;
+    }
+
     const handlePointerMove = (event) => {
         if (event.dragging) {
+            hideCityTooltip();
             return;
         }
         const hoveredFeatures = event.map.getFeaturesAtPixel(event.pixel, { hitTolerance: 5 });
         if (hoveredFeatures.length > 0) {
             event.map.getTargetElement().style.cursor = 'pointer';
+            if (!isFeatureVisibleAtResolution(hoveredFeatures[0], event.map.getView().getResolution())) {
+                displayCityTooltip(hoveredFeatures[0], event.pixel);
+            }
         }
         else {
+            hideCityTooltip();
             event.map.getTargetElement().style.cursor = '';
         }
     }
@@ -268,11 +329,13 @@ function MapWrapper({ features }) {
     // render component
     return (
         <div>
-            <div ref={ mapElement } className="map-container"></div>
-            <div className="clicked-coord-label">
-                <p>{ (selectedCoord) ? toStringXY(selectedCoord, 5) : '' }</p>
+            <div ref={mapElement} className="map-container">
             </div>
-            <CityPopup map={ map } feature={ selectedFeature } />
+            <div className="clicked-coord-label">
+                <p>{(selectedCoord) ? toStringXY(selectedCoord, 5) : ''}</p>
+            </div>
+            <CityPopup map={map} feature={selectedFeature}/>
+            <div id="city-tooltip" className="city-tooltip"></div>
         </div>
     );
 }

@@ -206,3 +206,24 @@
     background: linear-gradient( to bottom, transparent, white );
     /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff', GradientType=0 );*/
 }
+
+.city-tooltip {
+    font: 16px sans-serif;
+    /*font-weight: 900;*/
+    text-shadow:
+            1px 1px 0 white,
+            -1px 1px 0 white,
+            -1px -1px 0 white,
+            1px -1px 0 white;
+    -webkit-text-fill-color: black;
+    /*-webkit-text-stroke: 0.5px white;*/
+    position: absolute;
+    margin: 0;
+    display: inline-block;
+    height: auto;
+    width: auto;
+    z-index: 100;
+    transform: translateX(3%);
+    visibility: hidden;
+    pointer-events: none;
+}
