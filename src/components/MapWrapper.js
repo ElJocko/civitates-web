@@ -206,7 +206,7 @@ function MapWrapper({ features }) {
         if (features.length) { // may be null on first render
             if (selectedFeature) {
                 // These tests trigger when the year slider changes
-                const feature = features.find(feature => feature.getProperties()['city_base_id'] === selectedFeature.getProperties()['identifier']);
+                const feature = features.find(feature => feature.getProperties()['identifier'] === selectedFeature.getProperties()['identifier']);
                 if (!feature) {
                     // selectedFeature is no longer included in the set of features
                     setSelectedFeature(undefined);

@@ -10,7 +10,7 @@ const buildWikipediaUrl = ( lang, title, touch, analytics = true ) => {
 const CityPopup = ({ map, feature }) => {
 
     const [displayName, setDisplayName] = useState();
-    const [identifier, setIdentifier] = useState();
+    const [baseName, setBaseName] = useState();
     const [alternateNames, setAlternateNames] = useState([]);
     const [wikipediaText, setWikipediaText] = useState();
     const [wikipediaThumbnailUrl, setWikipediaThumbnailUrl] = useState();
@@ -20,7 +20,7 @@ const CityPopup = ({ map, feature }) => {
 
     function clearPopupOverlay() {
         setDisplayName(null);
-        setIdentifier(null);
+        setBaseName(null);
         setAlternateNames(null);
         setWikipediaText(null);
         setWikipediaThumbnailUrl(null);
@@ -68,10 +68,10 @@ const CityPopup = ({ map, feature }) => {
 
             // identifier
             if (values['preferredName'] !== values['city_base_id']) {
-                setIdentifier(`${ values['prefix'] } ${ values['city_base_id'] }`);
+                setBaseName(`${ values['prefix'] } ${ values['city_base_id'] }`);
             }
             else {
-                setIdentifier(null);
+                setBaseName(null);
             }
 
             // alternate names
@@ -118,9 +118,9 @@ const CityPopup = ({ map, feature }) => {
             <div id="city-popup-display-name" className="city-popup-display-name">
                 {displayName}
             </div>
-            {identifier ?
-                <div id="city-popup-identifier-name" className="city-popup-identifier-name">
-                    {identifier}
+            {baseName ?
+                <div id="city-popup-base-name" className="city-popup-base-name">
+                    {baseName}
                 </div>
                 : null
             }
