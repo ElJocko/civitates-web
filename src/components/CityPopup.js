@@ -1,7 +1,8 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Overlay from "ol/Overlay";
 
-import { requestPagePreview } from "../lib/api";
+import { requestPagePreview } from '../lib/api';
+import displayOptions from '../lib/displayOptions';
 
 const buildWikipediaUrl = ( lang, title, touch, analytics = true ) => {
     return `https://${ lang }${ touch ? '.m' : '' }.wikipedia.org/wiki/${ encodeURIComponent( title ) }`
@@ -62,12 +63,20 @@ const CityPopup = ({ map, feature }) => {
         if (feature) {
             clearPopupOverlay();
 
-            // display name
             const values = feature.getProperties();
-            setDisplayName(values['preferredName']);
+
+            // display name
+            let localDisplayName;
+            if (displayOptions.getShowName() === displayOptions.showName.periodName) {
+                localDisplayName = values['preferredName'];
+            }
+            else if (displayOptions.getShowName() === displayOptions.showName.commonName) {
+                localDisplayName = values['city_base_id'];
+            }
+            setDisplayName(localDisplayName);
 
             // identifier
-            if (values['preferredName'] !== values['city_base_id']) {
+            if (localDisplayName !== values['city_base_id']) {
                 setBaseName(`${ values['prefix'] } ${ values['city_base_id'] }`);
             }
             else {
@@ -76,7 +85,7 @@ const CityPopup = ({ map, feature }) => {
 
             // alternate names
             for (const altName of values['altNames']) {
-                if (altName.name !== values['preferredName'] && altName.name !== values['city_base_id']) {
+                if (altName.name !== localDisplayName && altName.name !== values['city_base_id']) {
                     altNames.push(altName);
                 }
             }

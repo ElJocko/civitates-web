@@ -44,6 +44,12 @@ function addAlternateNameIds(features) {
     }
 }
 
+function addCityFeatureFlag(features) {
+    for (const feature of features) {
+        feature.set('cityFeature', true, true);
+    }
+}
+
 function initializeCurrentYear() {
     const currentYearAsString = localStorage.getItem('currentYear');
     if (currentYearAsString) {
@@ -80,9 +86,10 @@ function App() {
         };
         const parsedFeatures = new GeoJSON().readFeatures(cityData, wktOptions);
         addAlternateNameIds(parsedFeatures);
+        addCityFeatureFlag(parsedFeatures);
         const featuresForYear = parsedFeatures.filter((feature) => filterByYear(feature, currentYear.year));
 
-        // console.log(`started with ${ parsedFeatures.length } features, filtered to ${ featuresForYear.length } features for year ${ currentYear.year }`);
+        console.log(`started with ${ parsedFeatures.length } features, filtered to ${ featuresForYear.length } features for year ${ currentYear.year }`);
 
         // set features into state (which will be passed into OpenLayers map component as props)
         setAllFeatures(parsedFeatures);
@@ -91,14 +98,23 @@ function App() {
 
     function yearSliderChangeHandler(year) {
         const featuresForYear = allFeatures.filter((feature) => filterByYear(feature, year));
-        console.log(`started with ${ allFeatures.length } features, filtered to ${ featuresForYear.length } features for year ${ year }`);
+        // console.log(year);
+        console.log(`started with ${ allFeatures.length } features, filtered to ${ featuresForYear.length } features for year ${ currentYear.year }`);
+
+        setFeatures(featuresForYear);
+        saveCurrentYear(year);
+    }
+
+    function yearSliderFinalChangeHandler(year) {
+        const featuresForYear = allFeatures.filter((feature) => filterByYear(feature, year));
+        // console.log(`yearSliderFinalChangeHandler (${ year })`);
         setFeatures(featuresForYear);
         saveCurrentYear(year);
     }
 
     return (
         <div className="App">
-            <YearSlider onChange={ yearSliderChangeHandler } initialYear={ currentYear.year } />
+            <YearSlider onChange={ yearSliderChangeHandler } onFinalChange={ yearSliderFinalChangeHandler } initialYear={ currentYear.year } />
             <MapWrapper features={ features } />
         </div>
     );

@@ -13,7 +13,9 @@ import { toStringXY } from 'ol/coordinate';
 import { Circle as CircleStyle, Style, Stroke, Fill, Text } from "ol/style";
 
 // components
-import CityPopup from "./CityPopup";
+import CityPopup from './CityPopup';
+
+import displayOptions from '../lib/displayOptions';
 
 const romeCoordinates4326 = [12.4839, 41.89474];
 const romeCoordinates3857 = transform(romeCoordinates4326, 'EPSG:4326', 'EPSG:3857');
@@ -24,6 +26,29 @@ const showGhostCities = true;
 // 2  4  0
 // 6  .  5
 // 3  7  1
+
+// Naming cities:
+
+//   The period name is usually the name of the city used by the inhabitants in the particular period being displayed.
+//   The data in civitates-data is not entirely consistent in selecting the period. A lack of information
+//   often makes the name a somewhat arbitrary choice--especially in terms of assigning cutoff dates for particular
+//   names.
+
+//   The common name is usually the current name of the city or, in the case of abandoned cities, the most common
+//   name used for the city. The name is used anglicised, but this isn't applied uniformly.
+
+const getFeatureName = function(feature) {
+    if (displayOptions.getShowName() === displayOptions.showName.periodName) {
+        return feature.get('preferredName');
+    }
+    else if (displayOptions.getShowName() === displayOptions.showName.commonName) {
+        return feature.get('city_base_id');
+    }
+    else {
+        return feature.get('city_base_id');
+    }
+}
+
 const tagTextAlign = ['left', 'left', 'right', 'right', 'center', 'left', 'right', 'center'];
 const tagTextBaseline = ['bottom', 'top', 'bottom', 'top', 'bottom', 'middle', 'middle', 'top'];
 const tagOffsetX = [10, 10, -10, -10, 0, 10, -10, 0];
@@ -37,11 +62,12 @@ const createTextStyle = function(feature) {
     if (size === '4') {
         offsetX = offsetX / 2;
     }
+
     return new Text({
         textAlign: tagTextAlign[tagPosition],
         textBaseline: tagTextBaseline[tagPosition],
         font: tagFont[size],
-        text: feature.get('preferredName'),
+        text: getFeatureName(feature),
         fill: new Fill({ color: 'black' }),
         stroke: new Stroke({ color: 'white', width: 2 }),
         offsetX: offsetX,
@@ -149,17 +175,13 @@ function MapWrapper({ features }) {
 
     // initialize map on first render - logic formerly put into componentDidMount
     useEffect( () => {
-        // console.log('initial useEffect()');
         const mapExtent3857 = transformExtent(mapExtent4326, 'EPSG:4326', 'EPSG:3857');
-        // console.log(romeCoordinates4326)
-        // console.log(romeCoordinates3857)
 
         // // create and add vector source layer
         const featuresLayer = new VectorLayer({ source: new VectorSource(), style: getFeatureStyle });
         featuresLayer.set('name', 'features-layer', true);
 
         const mapPosition = initializeMapPosition();
-        // console.log(mapPosition);
 
         // create map
         const initialMap = new Map({
@@ -174,7 +196,7 @@ function MapWrapper({ features }) {
                     }),
                     extent: mapExtent3857
                 }),
-                featuresLayer
+                featuresLayer,
             ],
             view: new View({
                 projection: 'EPSG:3857',
@@ -222,7 +244,7 @@ function MapWrapper({ features }) {
 
             // remove the existing features layer, if any
             map.getLayers().forEach(layer => {
-                if (layer.get('name') === 'features-layer') {
+                if (layer?.get('name') === 'features-layer') {
                     map.removeLayer(layer);
                 }
             });
@@ -282,6 +304,16 @@ function MapWrapper({ features }) {
         if (process.env.NODE_ENV === 'development') {
             const transformedCoord = transform(event.coordinate, 'EPSG:3857', 'EPSG:4326');
             setSelectedCoord(transformedCoord);
+            // if (displayOptions.getShowName() === displayOptions.showName.commonName) {
+            //     displayOptions.setShowName(displayOptions.showName.periodName);
+            //     displayOptions.setEraDesignation(displayOptions.eraDesignation.bcad);
+            // }
+            // else {
+            //     displayOptions.setShowName(displayOptions.showName.commonName);
+            //     displayOptions.setEraDesignation(displayOptions.eraDesignation.bcece);
+            // }
+            // const layer = getLayerByName(event.map, 'features-layer');
+            // layer.getSource().changed();
         }
     }
 
@@ -293,7 +325,7 @@ function MapWrapper({ features }) {
             cityTooltip.style.top = (pixel[1] - 18) + 'px';
             if (feature !== currentFeature) {
                 cityTooltip.style.visibility = 'visible';
-                cityTooltip.innerText = feature.get('preferredName');
+                cityTooltip.innerText = getFeatureName(feature);
             }
         }
         else {
@@ -314,7 +346,7 @@ function MapWrapper({ features }) {
             return;
         }
         const hoveredFeatures = event.map.getFeaturesAtPixel(event.pixel, { hitTolerance: 5 });
-        if (hoveredFeatures.length > 0) {
+        if (hoveredFeatures.length > 0 && hoveredFeatures[0].get('cityFeature') === true) {
             event.map.getTargetElement().style.cursor = 'pointer';
             if (!isFeatureVisibleAtResolution(hoveredFeatures[0], event.map.getView().getResolution())) {
                 displayCityTooltip(hoveredFeatures[0], event.pixel);
