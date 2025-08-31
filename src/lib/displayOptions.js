@@ -2,7 +2,7 @@ const showNameValues = { periodName: 'periodName', commonName: 'commonName' };
 const eraDesignationValues = { bcad: 'bcad', bcece: 'bcece' };
 
 const defaultShowName = showNameValues.periodName;
-const defaultEraDesignation = eraDesignationValues.bcece;
+const defaultEraDesignation = eraDesignationValues.bcad;
 const defaultMinYear = -1600;
 const defaultMaxYear = 1600;
 

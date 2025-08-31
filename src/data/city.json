@@ -27149,6 +27149,81 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "-7.61138",
+                    "33.58831"
+                ]
+            },
+            "properties": {
+                "identifier": "6c9726cf672bcb0fe41958e09cb0af4091268e8a",
+                "city_base_id": "Casablanca",
+                "latitude": "33.58831",
+                "longitude": "-7.61138",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-15",
+                        "endDate": "743",
+                        "preferredName": "Anfus",
+                        "size": "4",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "744",
+                        "endDate": "1769",
+                        "preferredName": "Anfa",
+                        "size": "4",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1770",
+                        "endDate": "1906",
+                        "preferredName": "ad-D\u0101r al-Bay\u1e0d\u0101\u02be",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1907",
+                        "endDate": "2100",
+                        "preferredName": "Casablanca",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Casablanca",
+                        "language": "Spanish"
+                    },
+                    {
+                        "name": "Anfa",
+                        "language": "Berber"
+                    },
+                    {
+                        "name": "Anfur",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "ad-D\u0101r al-Bay\u1e0d\u0101\u02be",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    128542271.71919645,
+                    107600897.20382975
+                ],
+                "wikipediaArticleName": "Casablanca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "21.856333",
                     "32.8218756667"
                 ]
@@ -27260,6 +27335,195 @@
                     108445880.06951565
                 ],
                 "wikipediaArticleName": "Leptis_Magna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.48845",
+                    "32.79335"
+                ]
+            },
+            "properties": {
+                "identifier": "f66ac9c8286dc8399a7f38a3972ad0a94f57da8e",
+                "city_base_id": "Sabratha",
+                "latitude": "32.79335",
+                "longitude": "12.48845",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-500",
+                        "endDate": "-146",
+                        "preferredName": "Tsabratan",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-145",
+                        "endDate": "650",
+                        "preferredName": "Sabrata",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Sabratha",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Sabrata",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Tsabratan",
+                        "language": "Berber"
+                    }
+                ],
+                "mapPoint": [
+                    143529791.25134224,
+                    108309235.12598217
+                ],
+                "wikipediaArticleName": "Sabratha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-5.79975",
+                    "35.76727"
+                ]
+            },
+            "properties": {
+                "identifier": "4c9d7522b3d6fcd6ed8536106a0e1fcadc2f7b3f",
+                "city_base_id": "Tangier",
+                "latitude": "35.76727",
+                "longitude": "-5.79975",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-450",
+                        "endDate": "1470",
+                        "preferredName": "Tingis",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1471",
+                        "endDate": "2100",
+                        "preferredName": "Tangier",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tangier",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Tng",
+                        "language": "Punic"
+                    },
+                    {
+                        "name": "Tingis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Colonia Julia Tingi",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "\u1e6canjah",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    129893120.95573334,
+                    105624958.65148646
+                ],
+                "wikipediaArticleName": "Tangier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.18746",
+                    "32.87519"
+                ]
+            },
+            "properties": {
+                "identifier": "8bba11f77ff0a66dba1aad429a310f6bdb0b8477",
+                "city_base_id": "Tripoli",
+                "latitude": "32.87519",
+                "longitude": "13.18746",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-650",
+                        "endDate": "-146",
+                        "preferredName": "Oyat",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-145",
+                        "endDate": "849",
+                        "preferredName": "Oea",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "850",
+                        "endDate": "2100",
+                        "preferredName": "Tripoli",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tripoli",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Tripolis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Oyat",
+                        "language": "Berber"
+                    },
+                    {
+                        "name": "Oea",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "\u1e6car\u0101bulus al-Gharb",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    144051010.88494933,
+                    108236608.06825621
+                ],
+                "wikipediaArticleName": "Tripoli,_Libya"
             }
         }
     ]
