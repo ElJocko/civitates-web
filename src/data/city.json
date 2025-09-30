@@ -14562,6 +14562,202 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "19.049483",
+                    "47.564142"
+                ]
+            },
+            "properties": {
+                "identifier": "a41593eed228a8b2f2ccc6c0ac80126a47174b61",
+                "city_base_id": "Aquincum",
+                "latitude": "47.564142",
+                "longitude": "19.049483",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "10",
+                        "endDate": "102",
+                        "preferredName": "Aquincum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "103",
+                        "endDate": "350",
+                        "preferredName": "Aquincum",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Aquincum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    148422052.0435257,
+                    93795702.3441616
+                ],
+                "wikipediaArticleName": "Aquincum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "19.05",
+                    "47.466667"
+                ]
+            },
+            "properties": {
+                "identifier": "7a82e86578f6d26a3c2ca9e5ab0cd4e2b65c67fa",
+                "city_base_id": "Buda",
+                "latitude": "47.466667",
+                "longitude": "19.05",
+                "elevation": "0",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "1247",
+                        "endDate": "1360",
+                        "preferredName": "Buda",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1361",
+                        "endDate": "1872",
+                        "preferredName": "Buda",
+                        "size": "1",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Buda",
+                        "language": "Hungarian"
+                    },
+                    {
+                        "name": "V\u00e1rhegy",
+                        "language": "Hungarian"
+                    },
+                    {
+                        "name": "Ofen",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    148422437.54666668,
+                    93903317.86525151
+                ],
+                "wikipediaArticleName": "Buda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "19.03991",
+                    "47.49801"
+                ]
+            },
+            "properties": {
+                "identifier": "25f36f18e68b4de7d00c154b0015ed83a96aca87",
+                "city_base_id": "Budapest",
+                "latitude": "47.49801",
+                "longitude": "19.03991",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1873",
+                        "endDate": "2100",
+                        "preferredName": "Budapest",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Budapest",
+                        "language": "Hungarian"
+                    }
+                ],
+                "mapPoint": [
+                    148414913.8973582,
+                    93868735.98819533
+                ],
+                "wikipediaArticleName": "Budapest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.867891",
+                    "48.113346"
+                ]
+            },
+            "properties": {
+                "identifier": "da9b3bb4808eb9b046b9bab5adaaa8416c9f3a15",
+                "city_base_id": "Carnuntum",
+                "latitude": "48.113346",
+                "longitude": "16.867891",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "10",
+                        "endDate": "102",
+                        "preferredName": "Carnuntum",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "103",
+                        "endDate": "375",
+                        "preferredName": "Carnuntum",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "376",
+                        "endDate": "400",
+                        "preferredName": "Carnuntum",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Carnuntum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    146795339.14539805,
+                    93185586.60976377
+                ],
+                "wikipediaArticleName": "Carnuntum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "28.63432",
                     "44.18073"
                 ]
@@ -14736,6 +14932,49 @@
                     99252392.36865112
                 ],
                 "wikipediaArticleName": "Doclea_(Illyria)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "15.4863805",
+                    "45.917552"
+                ]
+            },
+            "properties": {
+                "identifier": "03eee33a62951f0bf463de484b96f17c9e119c44",
+                "city_base_id": "Drnovo",
+                "latitude": "45.917552",
+                "longitude": "15.4863805",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "400",
+                        "preferredName": "Neviodunum",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Drnovo",
+                        "language": "Slavic"
+                    },
+                    {
+                        "name": "Neviodunum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    145765210.25363058,
+                    95587509.41741541
+                ],
+                "wikipediaArticleName": "Drnovo"
             }
         },
         {
@@ -14995,6 +15234,49 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "18.169507",
+                    "47.735239"
+                ]
+            },
+            "properties": {
+                "identifier": "bd8e8e2130159eff1478feccb2d5f0229f63239e",
+                "city_base_id": "Kom\u00e1rom",
+                "latitude": "47.735239",
+                "longitude": "18.169507",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "86",
+                        "endDate": "450",
+                        "preferredName": "Brigetio",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kom\u00e1rom",
+                        "language": "Hungarian"
+                    },
+                    {
+                        "name": "Brigetio",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    147765894.38011166,
+                    93606320.445655
+                ],
+                "wikipediaArticleName": "Kom\u00e1rom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "19.64361",
                     "41.78361"
                 ]
@@ -15184,6 +15466,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "19.033333",
+                    "47.55"
+                ]
+            },
+            "properties": {
+                "identifier": "a3115ecf1465619017464e21cad2bed42be6d4ed",
+                "city_base_id": "\u00d3buda",
+                "latitude": "47.55",
+                "longitude": "19.033333",
+                "elevation": "0",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "1015",
+                        "endDate": "1240",
+                        "preferredName": "Buda",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1241",
+                        "endDate": "1873",
+                        "preferredName": "\u00d3buda",
+                        "size": "4",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "\u00d3buda",
+                        "language": "Hungarian"
+                    },
+                    {
+                        "name": "Buda",
+                        "language": "Hungarian"
+                    }
+                ],
+                "mapPoint": [
+                    148410009.7307079,
+                    93811327.97035801
+                ],
+                "wikipediaArticleName": "\u00d3buda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "19.428611",
                     "40.318889"
                 ]
@@ -15236,6 +15569,100 @@
                     101312939.27078682
                 ],
                 "wikipediaArticleName": "Oricum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18.69389",
+                    "45.55111"
+                ]
+            },
+            "properties": {
+                "identifier": "c04f438ebbe282b458829b384a1466359e7d12e1",
+                "city_base_id": "Osijek",
+                "latitude": "45.55111",
+                "longitude": "18.69389",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-350",
+                        "endDate": "550",
+                        "preferredName": "Mursa",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "551",
+                        "endDate": "2100",
+                        "preferredName": "Osijek",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Osijek",
+                        "language": "Croatian"
+                    },
+                    {
+                        "name": "Mursa",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    148156902.68489957,
+                    95978978.98594043
+                ],
+                "wikipediaArticleName": "Osijek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "19.1",
+                    "47.5"
+                ]
+            },
+            "properties": {
+                "identifier": "a5208b41b84e425e90c6bb93820b428dd6aa4fa0",
+                "city_base_id": "Pest",
+                "latitude": "47.5",
+                "longitude": "19.1",
+                "elevation": "0",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "1015",
+                        "endDate": "1872",
+                        "preferredName": "Pest",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Pest",
+                        "language": "Hungarian"
+                    },
+                    {
+                        "name": "Pession",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    148459720.24888888,
+                    93866539.65170136
+                ],
+                "wikipediaArticleName": "Pest,_Hungary"
             }
         },
         {
@@ -15447,6 +15874,73 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "15.87018",
+                    "46.42005"
+                ]
+            },
+            "properties": {
+                "identifier": "951390a8df9884a491d661e2d8078e96c2a932d4",
+                "city_base_id": "Ptuj",
+                "latitude": "46.42005",
+                "longitude": "15.87018",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-35",
+                        "endDate": "550",
+                        "preferredName": "Poetovio",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "551",
+                        "endDate": "1920",
+                        "preferredName": "Pettau",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1921",
+                        "endDate": "2100",
+                        "preferredName": "Ptuj",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ptuj",
+                        "language": "Slovene"
+                    },
+                    {
+                        "name": "Poetovium",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Poetovio",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Pettau",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    146051391.90306133,
+                    95046464.0056462
+                ],
+                "wikipediaArticleName": "Ptuj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "22.904856",
                     "43.817397"
                 ]
@@ -15487,6 +15981,65 @@
                     97797416.55746
                 ],
                 "wikipediaArticleName": "Ratiaria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.40917",
+                    "45.34306"
+                ]
+            },
+            "properties": {
+                "identifier": "42a379b7457117eb7454530de510781cb1c4e2ca",
+                "city_base_id": "Rijeka",
+                "latitude": "45.34306",
+                "longitude": "14.40917",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "10",
+                        "endDate": "650",
+                        "preferredName": "Tarsatica",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "2100",
+                        "preferredName": "Rijeka",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Rijeka",
+                        "language": "Croatian"
+                    },
+                    {
+                        "name": "Fiume",
+                        "language": "Italian"
+                    },
+                    {
+                        "name": "Tarsatica",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Trsat",
+                        "language": "Croatian"
+                    }
+                ],
+                "mapPoint": [
+                    144961983.88758755,
+                    96200103.17562343
+                ],
+                "wikipediaArticleName": "Rijeka"
             }
         },
         {
@@ -15685,6 +16238,81 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "16.37833",
+                    "45.46611"
+                ]
+            },
+            "properties": {
+                "identifier": "5d657d3e67eb30aa9b577ef1bfc2d85bfda1f3db",
+                "city_base_id": "Sisak",
+                "latitude": "45.46611",
+                "longitude": "16.37833",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-350",
+                        "endDate": "-36",
+                        "preferredName": "Segestica",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-35",
+                        "endDate": "400",
+                        "preferredName": "Siscia",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "401",
+                        "endDate": "550",
+                        "preferredName": "Siscia",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "551",
+                        "endDate": "2100",
+                        "preferredName": "Sisak",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Sisak",
+                        "language": "Croatian"
+                    },
+                    {
+                        "name": "Siscia",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Siskia",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Segestica",
+                        "language": "Illyrian"
+                    }
+                ],
+                "mapPoint": [
+                    146430296.0057458,
+                    96069419.08874114
+                ],
+                "wikipediaArticleName": "Sisak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "21.43141",
                     "41.99646"
                 ]
@@ -15796,6 +16424,61 @@
                     98944067.579595
                 ],
                 "wikipediaArticleName": "Sofia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.59049",
+                    "47.68501"
+                ]
+            },
+            "properties": {
+                "identifier": "574475a8962b32ee388ab8cc769fc1f391760893",
+                "city_base_id": "Sopron",
+                "latitude": "47.68501",
+                "longitude": "16.59049",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "100",
+                        "endDate": "450",
+                        "preferredName": "Scarbantia ",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1100",
+                        "endDate": "2100",
+                        "preferredName": "Sopron",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Sopron",
+                        "language": "Hungarian"
+                    },
+                    {
+                        "name": "\u00d6denburg",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Scarbantia",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    146588493.9678151,
+                    93661981.72341733
+                ],
+                "wikipediaArticleName": "Sopron"
             }
         },
         {
@@ -15996,6 +16679,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "16.62155",
+                    "47.23088"
+                ]
+            },
+            "properties": {
+                "identifier": "15141861ff23497c0a0b99bb1d4347af015ec1cf",
+                "city_base_id": "Szombathely",
+                "latitude": "47.23088",
+                "longitude": "16.62155",
+                "elevation": "230",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "45",
+                        "endDate": "900",
+                        "preferredName": "Savaria",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "901",
+                        "endDate": "2100",
+                        "preferredName": "Szombathely",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Szombathely",
+                        "language": "Hungarian"
+                    },
+                    {
+                        "name": "Savaria",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    146611653.98243558,
+                    94162811.84308103
+                ],
+                "wikipediaArticleName": "Szombathely"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "25.62904",
                     "43.08124"
                 ]
@@ -16178,6 +16912,77 @@
                     97618789.03559613
                 ],
                 "wikipediaArticleName": "Vidin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.37208",
+                    "48.20849"
+                ]
+            },
+            "properties": {
+                "identifier": "4c80c3e1a4ae329239ae4f2043b85ecea1801a9a",
+                "city_base_id": "Vienna",
+                "latitude": "48.20849",
+                "longitude": "16.37208",
+                "elevation": "171",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "100",
+                        "endDate": "430",
+                        "preferredName": "Vindobona",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1155",
+                        "endDate": "1500",
+                        "preferredName": "Vienna",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1501",
+                        "endDate": "1600",
+                        "preferredName": "Vienna",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1601",
+                        "endDate": "2100",
+                        "preferredName": "Vienna",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Vienna",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Wein",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Vindobona",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    146425635.667968,
+                    93079229.49386764
+                ],
+                "wikipediaArticleName": "Vienna"
             }
         },
         {
