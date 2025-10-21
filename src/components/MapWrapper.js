@@ -164,6 +164,7 @@ function MapWrapper({ features }) {
     // set initial state
     const [ map, setMap ] = useState();
     const [ selectedCoord , setSelectedCoord ] = useState();
+    const [displaySelectedCoord, setDisplaySelectedCoord] = useState();
     const [ selectedFeature, setSelectedFeature ] = useState();
 
     // pull refs
@@ -306,6 +307,7 @@ function MapWrapper({ features }) {
         if (process.env.NODE_ENV === 'development') {
             const transformedCoord = transform(event.coordinate, 'EPSG:3857', 'EPSG:4326');
             setSelectedCoord(transformedCoord);
+            setDisplaySelectedCoord(true);
             // if (displayOptions.getShowName() === displayOptions.showName.commonName) {
             //     displayOptions.setShowName(displayOptions.showName.periodName);
             //     displayOptions.setEraDesignation(displayOptions.eraDesignation.bcad);
@@ -316,6 +318,9 @@ function MapWrapper({ features }) {
             // }
             // const layer = getLayerByName(event.map, 'features-layer');
             // layer.getSource().changed();
+        }
+        else {
+            setDisplaySelectedCoord(false);
         }
     }
 
@@ -365,7 +370,7 @@ function MapWrapper({ features }) {
         <div>
             <div ref={mapElement} className="map-container">
             </div>
-            <div className="clicked-coord-label">
+            <div className="clicked-coord-label" style={ displaySelectedCoord ? {} : { display: 'none' }} >
                 <p>{(selectedCoord) ? toStringXY(selectedCoord, 5) : ''}</p>
             </div>
             <CityPopup map={map} feature={selectedFeature}/>
