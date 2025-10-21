@@ -8,6 +8,7 @@ import TileLayer from 'ol/layer/Tile';
 import VectorLayer from 'ol/layer/Vector';
 import VectorSource from 'ol/source/Vector';
 import XYZ from 'ol/source/XYZ';
+import { Attribution } from "ol/control";
 import { transform, transformExtent } from 'ol/proj';
 import { toStringXY } from 'ol/coordinate';
 import { Circle as CircleStyle, Style, Stroke, Fill, Text } from "ol/style";
@@ -182,6 +183,7 @@ function MapWrapper({ features }) {
         featuresLayer.set('name', 'features-layer', true);
 
         const mapPosition = initializeMapPosition();
+        const attributionControl = new Attribution({ collapsible: true });
 
         // create map
         const initialMap = new Map({
@@ -191,7 +193,7 @@ function MapWrapper({ features }) {
                 new TileLayer({
                     // source: new OSM(),
                     source: new XYZ({
-                        attributions: 'Map tiles created by Consortium of Ancient World Mappers and hosted by University of Iowa, copyright 2022',
+                        attributions: 'Map tiles created by <a href="https://cawm.lib.uiowa.edu/index.html">Consortium of Ancient World Mappers</a> and hosted by University of Iowa, copyright 2022',
                         url: 'http://cawm.lib.uiowa.edu/tiles/{z}/{x}/{y}.png'
                     }),
                     extent: mapExtent3857
@@ -207,7 +209,7 @@ function MapWrapper({ features }) {
                 maxZoom: mapMaxZoom,
                 enableRotation: false
             }),
-            controls: []
+            controls: [attributionControl],
         });
 
         // set map onclick handler
