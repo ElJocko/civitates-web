@@ -11000,6 +11000,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "30.699968",
+                    "36.8903095"
+                ]
+            },
+            "properties": {
+                "identifier": "66a37965c9e9d2667a119dbd098cdf34596e2397",
+                "city_base_id": "Antalya",
+                "latitude": "36.8903095",
+                "longitude": "30.699968",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-150",
+                        "endDate": "1219",
+                        "preferredName": "Attalea",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1220",
+                        "endDate": "2100",
+                        "preferredName": "Antalya",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Antalya",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Attalea",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    157109283.30351505,
+                    104585491.26205133
+                ],
+                "wikipediaArticleName": "Antalya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "33.6153",
                     "40.59995"
                 ]
@@ -11205,15 +11256,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "29.156389",
-                    "40.432468"
+                    "29.15639",
+                    "40.432469"
                 ]
             },
             "properties": {
                 "identifier": "716f48e188e6be9730bdd1704374e894562b77eb",
                 "city_base_id": "Cius",
-                "latitude": "40.432468",
-                "longitude": "29.156389",
+                "latitude": "40.432469",
+                "longitude": "29.15639",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -11222,7 +11273,7 @@
                         "endDate": "1084",
                         "preferredName": "Cius",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     }
                 ],
@@ -11232,13 +11283,17 @@
                         "language": "Greek"
                     },
                     {
+                        "name": "Kios",
+                        "language": "Greek"
+                    },
+                    {
                         "name": "Prusias ad Mare",
                         "language": "Latin"
                     }
                 ],
                 "mapPoint": [
-                    155958307.37924552,
-                    101201769.4237658
+                    155958308.12489957,
+                    101201768.44415131
                 ],
                 "wikipediaArticleName": "Cius"
             }
@@ -11641,6 +11696,45 @@
                     104002244.01487456
                 ],
                 "wikipediaArticleName": "Ere\u011fli,_Konya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.2668707",
+                    "40.5703847"
+                ]
+            },
+            "properties": {
+                "identifier": "d1528cbee8e3b9d043e98482e011820641dc8dbf",
+                "city_base_id": "Euchaita",
+                "latitude": "40.5703847",
+                "longitude": "35.2668707",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "400",
+                        "endDate": "1071",
+                        "preferredName": "Euchaita",
+                        "size": "4",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Euchaita",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    160514612.77235427,
+                    101066525.36010587
+                ],
+                "wikipediaArticleName": "Euchaita"
             }
         },
         {
@@ -12215,7 +12309,7 @@
                         "endDate": "-600",
                         "preferredName": "Azatiwataya",
                         "size": "3",
-                        "tagPosition": "1",
+                        "tagPosition": "5",
                         "calcTagPosition": 0
                     }
                 ],
@@ -12273,6 +12367,45 @@
                     102846885.65527014
                 ],
                 "wikipediaArticleName": "Kayseri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "27.6993785",
+                    "36.7355973"
+                ]
+            },
+            "properties": {
+                "identifier": "14f54a3cd6bf1b3706100104db2ecbce3043506f",
+                "city_base_id": "Knidos",
+                "latitude": "36.7355973",
+                "longitude": "27.6993785",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-400",
+                        "endDate": "600",
+                        "preferredName": "Knidos",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Knidos",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    154871881.60712248,
+                    104729586.24002343
+                ],
+                "wikipediaArticleName": "Knidos"
             }
         },
         {
@@ -12842,6 +12975,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "29.9854502009",
+                    "36.2585589217"
+                ]
+            },
+            "properties": {
+                "identifier": "ba4cac65a774a7363d5154fcc687eaaf88f2b99e",
+                "city_base_id": "Myra",
+                "latitude": "36.2585589217",
+                "longitude": "29.9854502009",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-250",
+                        "endDate": "1200",
+                        "preferredName": "Myra",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Myra",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    156576500.21678856,
+                    105172070.89619188
+                ],
+                "wikipediaArticleName": "Myra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "35.42",
                     "41.207"
                 ]
@@ -13094,13 +13266,17 @@
                         "endDate": "800",
                         "preferredName": "Perge",
                         "size": "3",
-                        "tagPosition": "3",
+                        "tagPosition": "0",
                         "calcTagPosition": 0
                     }
                 ],
                 "altNames": [
                     {
                         "name": "Perge",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Perga",
                         "language": "Greek"
                     },
                     {
@@ -13344,15 +13520,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "36.678611",
-                    "37.103611"
+                    "36.678330176",
+                    "37.1031937144"
                 ]
             },
             "properties": {
                 "identifier": "3ea1afe9a7b1d3645a9068d7228fc5dc4a10ef28",
                 "city_base_id": "Sam\u02beal",
-                "latitude": "37.103611",
-                "longitude": "36.678611",
+                "latitude": "37.1031937144",
+                "longitude": "36.678330176",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -13400,8 +13576,8 @@
                     }
                 ],
                 "mapPoint": [
-                    161567282.63675448,
-                    104386347.89543207
+                    161567073.23920313,
+                    104386738.02950975
                 ],
                 "wikipediaArticleName": "Sam\u02beal"
             }
@@ -17703,15 +17879,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "44.550556",
-                    "39.953889"
+                    "44.5751884575",
+                    "39.8818755331"
                 ]
             },
             "properties": {
                 "identifier": "9a09f09c86ef29ee1789fcbb56bdb860295ee9c3",
                 "city_base_id": "Artashat",
-                "latitude": "39.953889",
-                "longitude": "44.550556",
+                "latitude": "39.8818755331",
+                "longitude": "44.5751884575",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -17743,8 +17919,8 @@
                     }
                 ],
                 "mapPoint": [
-                    167437030.26364872,
-                    101668937.3248462
+                    167455397.5552082,
+                    101738949.83815433
                 ],
                 "wikipediaArticleName": "Artashat"
             }
@@ -18284,6 +18460,45 @@
                     99723604.4632195
                 ],
                 "wikipediaArticleName": "Ozurgeti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "41.6923225",
+                    "42.135867"
+                ]
+            },
+            "properties": {
+                "identifier": "93657540d6ea55fcd5d63e2f9ed2e75eb5b59f43",
+                "city_base_id": "Phasis",
+                "latitude": "42.135867",
+                "longitude": "41.6923225",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "700",
+                        "preferredName": "Phasis",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Phasis",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    165305776.89440712,
+                    99511342.62012431
+                ],
+                "wikipediaArticleName": "Phasis_(town)"
             }
         },
         {
@@ -22064,15 +22279,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "36.384722",
-                    "36.237778"
+                    "36.3838319203",
+                    "36.2380754487"
                 ]
             },
             "properties": {
                 "identifier": "40fea3410b64c38ed0df817d8a50f2e1ef888b66",
                 "city_base_id": "Alalakh",
-                "latitude": "36.237778",
-                "longitude": "36.384722",
+                "latitude": "36.2380754487",
+                "longitude": "36.3838319203",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -22092,8 +22307,8 @@
                     }
                 ],
                 "mapPoint": [
-                    161348143.11528677,
-                    105191284.88216394
+                    161347479.42375857,
+                    105191009.89790967
                 ],
                 "wikipediaArticleName": "Alalakh"
             }
@@ -22103,16 +22318,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "37.16117",
-                    "36.20124"
+                    "37.1628351411",
+                    "36.1994074125"
                 ]
             },
             "properties": {
                 "identifier": "95d5ebf003e9797d2cf77714c9a7658aacb5bedf",
                 "city_base_id": "Aleppo",
-                "latitude": "36.20124",
-                "longitude": "37.16117",
-                "elevation": "",
+                "latitude": "36.1994074125",
+                "longitude": "37.1628351411",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -22163,8 +22378,8 @@
                     }
                 ],
                 "mapPoint": [
-                    161927104.70678756,
-                    105225055.4416689
+                    161928346.32598335,
+                    105226748.81110866
                 ],
                 "wikipediaArticleName": "Aleppo"
             }
@@ -22671,6 +22886,57 @@
                     107226261.89226456
                 ],
                 "wikipediaArticleName": "Baalbek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.8407967874",
+                    "31.2451641596"
+                ]
+            },
+            "properties": {
+                "identifier": "35328222096c0c7763c872e9d24dfcc584ae7b18",
+                "city_base_id": "Beersheba",
+                "latitude": "31.2451641596",
+                "longitude": "34.8407967874",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-950",
+                        "endDate": "750",
+                        "preferredName": "Be'er Sheba",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Beersheba",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Be'er Sheba",
+                        "language": "Hebrew"
+                    },
+                    {
+                        "name": "Berosaba",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Tel Be'er Sheva",
+                        "language": "Hebrew"
+                    }
+                ],
+                "mapPoint": [
+                    160196909.03619182,
+                    109670851.53441654
+                ],
+                "wikipediaArticleName": "Beersheba"
             }
         },
         {
@@ -23390,15 +23656,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "35.566944",
-                    "33.016667"
+                    "35.566768588",
+                    "33.019181064"
                 ]
             },
             "properties": {
                 "identifier": "84580451055545d9389c5bda34afa9c83377df7a",
                 "city_base_id": "Hazor",
-                "latitude": "33.016667",
-                "longitude": "35.566944",
+                "latitude": "33.019181064",
+                "longitude": "35.566768588",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -23422,10 +23688,57 @@
                     }
                 ],
                 "mapPoint": [
-                    160738363.64212906,
-                    108110899.13744399
+                    160738232.84546182,
+                    108108663.45269233
                 ],
                 "wikipediaArticleName": "Tel_Hazor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.10218155",
+                    "31.52481315"
+                ]
+            },
+            "properties": {
+                "identifier": "8450bd8d39782f8b2ffdd1dcb5855a638c7a71f9",
+                "city_base_id": "Hebron",
+                "latitude": "31.52481315",
+                "longitude": "35.10218155",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-930",
+                        "endDate": "2100",
+                        "preferredName": "Hebron",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Hebron",
+                        "language": "Hebrew"
+                    },
+                    {
+                        "name": "al-Khal\u012bl",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Habra",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    160391811.64158067,
+                    109426591.40685561
+                ],
+                "wikipediaArticleName": "Hebron"
             }
         },
         {
@@ -23665,6 +23978,85 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "35.4441417538",
+                    "31.8710168261"
+                ]
+            },
+            "properties": {
+                "identifier": "1dce88d34b1ae0690ab7cbab1b0389b75067aea3",
+                "city_base_id": "Jericho",
+                "latitude": "31.8710168261",
+                "longitude": "35.4441417538",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-3500",
+                        "endDate": "-1701",
+                        "preferredName": "Jericho",
+                        "size": "4",
+                        "tagPosition": "4",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1700",
+                        "endDate": "-1551",
+                        "preferredName": "Jericho",
+                        "size": "3",
+                        "tagPosition": "4",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1550",
+                        "endDate": "-901",
+                        "preferredName": "Jericho",
+                        "size": "4",
+                        "tagPosition": "4",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-900",
+                        "endDate": "-586",
+                        "preferredName": "Jericho",
+                        "size": "3",
+                        "tagPosition": "4",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-585",
+                        "endDate": "2100",
+                        "preferredName": "Jericho",
+                        "size": "4",
+                        "tagPosition": "4",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Jericho",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Y\u0259ri\u1e25o",
+                        "language": "Hebrew"
+                    },
+                    {
+                        "name": "Ar\u012b\u1e25\u0101",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    160646795.65058318,
+                    109123183.21311432
+                ],
+                "wikipediaArticleName": "Jericho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "35.21633",
                     "31.76904"
                 ]
@@ -23736,15 +24128,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "36.52",
-                    "34.5576"
+                    "36.5193778642",
+                    "34.5570749357"
                 ]
             },
             "properties": {
                 "identifier": "ab3ea6b546196612aa36bbae1c9f57b2dab3ff0d",
                 "city_base_id": "Kadesh",
-                "latitude": "34.5576",
-                "longitude": "36.52",
+                "latitude": "34.5570749357",
+                "longitude": "36.5193778642",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -23772,8 +24164,8 @@
                     }
                 ],
                 "mapPoint": [
-                    161449013.7031111,
-                    106728327.11298455
+                    161448549.80503565,
+                    106728802.50860162
                 ],
                 "wikipediaArticleName": "Kadesh_(Syria)"
             }
@@ -24431,15 +24823,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "35.782",
-                    "35.602"
+                    "35.7764238",
+                    "35.6078548"
                 ]
             },
             "properties": {
                 "identifier": "772fe0f92c7cb4517b0754a6b47f4e129c258736",
                 "city_base_id": "Ugarit",
-                "latitude": "35.602",
-                "longitude": "35.782",
+                "latitude": "35.6078548",
+                "longitude": "35.7764238",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -24467,8 +24859,8 @@
                     }
                 ],
                 "mapPoint": [
-                    160898721.0183111,
-                    105776680.22745731
+                    160894563.1022285,
+                    105771310.75255792
                 ],
                 "wikipediaArticleName": "Ugarit"
             }
@@ -24478,16 +24870,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "48.3043",
-                    "30.3392"
+                    "48.5",
+                    "30.5"
                 ]
             },
             "properties": {
                 "identifier": "a041bbc1434419c88119cfac971ab82dc683ec61",
                 "city_base_id": "Abadan",
-                "latitude": "30.3392",
-                "longitude": "48.3043",
-                "elevation": "",
+                "latitude": "30.5",
+                "longitude": "48.5",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -24506,8 +24898,8 @@
                     }
                 ],
                 "mapPoint": [
-                    170236024.6590578,
-                    110457259.5383819
+                    170381949.15555558,
+                    110318217.90099971
                 ],
                 "wikipediaArticleName": "Abadan,_Iran"
             }
@@ -24592,15 +24984,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "44.429825",
-                    "32.542579"
+                    "44.42497815",
+                    "32.53729695"
                 ]
             },
             "properties": {
                 "identifier": "80b8de815d5a72556dd5cc3f9d104feab57a148d",
                 "city_base_id": "Babylon",
-                "latitude": "32.542579",
-                "longitude": "44.429825",
+                "latitude": "32.53729695",
+                "longitude": "44.42497815",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -24664,8 +25056,8 @@
                     }
                 ],
                 "mapPoint": [
-                    167347006.7052089,
-                    108531361.35386565
+                    167343392.6319036,
+                    108536033.36317451
                 ],
                 "wikipediaArticleName": "Babylon"
             }
@@ -24675,16 +25067,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "44.40088",
-                    "33.34058"
+                    "44.3703199141",
+                    "33.3216748392"
                 ]
             },
             "properties": {
                 "identifier": "c02750c3e268eca5d880f175ef42f063e85712f6",
                 "city_base_id": "Baghdad",
-                "latitude": "33.34058",
-                "longitude": "44.40088",
-                "elevation": "",
+                "latitude": "33.3216748392",
+                "longitude": "44.3703199141",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -24711,10 +25103,53 @@
                     }
                 ],
                 "mapPoint": [
-                    167325423.74889246,
-                    107822324.81003793
+                    167302636.49724254,
+                    107839196.81295478
                 ],
                 "wikipediaArticleName": "Baghdad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "47.820635",
+                    "30.503217"
+                ]
+            },
+            "properties": {
+                "identifier": "341945e75df8d188be97b0d61a1c8b6dfe17c267",
+                "city_base_id": "Basra",
+                "latitude": "30.503217",
+                "longitude": "47.820635",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "636",
+                        "endDate": "2100",
+                        "preferredName": "Basra",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Basra",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "al-Ba\u1e63rah",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    169875377.89565158,
+                    110315433.86252841
+                ],
+                "wikipediaArticleName": "Basra"
             }
         },
         {
@@ -24781,15 +25216,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "44.580556",
-                    "33.093611"
+                    "44.5812226667",
+                    "33.094703"
                 ]
             },
             "properties": {
                 "identifier": "8ca4a3f807841f77b8774ddf257a4c1b4c0b4b05",
                 "city_base_id": "Ctesiphon",
-                "latitude": "33.093611",
-                "longitude": "44.580556",
+                "latitude": "33.094703",
+                "longitude": "44.5812226667",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -24829,8 +25264,8 @@
                     }
                 ],
                 "mapPoint": [
-                    167459399.88498205,
-                    108042446.135396
+                    167459896.9877032,
+                    108041474.21000281
                 ],
                 "wikipediaArticleName": "Ctesiphon"
             }
@@ -24938,16 +25373,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "44.01062",
-                    "36.19257"
+                    "44.0093802856",
+                    "36.1913174532"
                 ]
             },
             "properties": {
                 "identifier": "b68b3fb8630d8aabc337560ad3c2c740c8926943",
                 "city_base_id": "Erbil",
-                "latitude": "36.19257",
-                "longitude": "44.01062",
-                "elevation": "",
+                "latitude": "36.1913174532",
+                "longitude": "44.0093802856",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -24982,8 +25417,8 @@
                     }
                 ],
                 "mapPoint": [
-                    167034424.80150756,
-                    105233066.44904146
+                    167033500.40345123,
+                    105234223.71846104
                 ],
                 "wikipediaArticleName": "Erbil"
             }
@@ -25040,15 +25475,114 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "43.328889",
-                    "36.098056"
+                    "39.0307496505",
+                    "36.8635943094"
+                ]
+            },
+            "properties": {
+                "identifier": "f3731d84dc387cf2ef69d4f99319bf6774a312ee",
+                "city_base_id": "Harran",
+                "latitude": "36.8635943094",
+                "longitude": "39.0307496505",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-2000",
+                        "endDate": "-1101",
+                        "preferredName": "Harran",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1100",
+                        "endDate": "-609",
+                        "preferredName": "Harran",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-608",
+                        "endDate": "-539",
+                        "preferredName": "Harran",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-538",
+                        "endDate": "-100",
+                        "preferredName": "K\u00e1rrhai",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-99",
+                        "endDate": "640",
+                        "preferredName": "Carrhae",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "641",
+                        "endDate": "1271",
+                        "preferredName": "Harran",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1272",
+                        "endDate": "1500",
+                        "preferredName": "Harran",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Harran",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Huzirina",
+                        "language": "Assyrian"
+                    },
+                    {
+                        "name": "K\u00e1rrhai",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Carrhae",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    163321164.33459392,
+                    104610393.92463094
+                ],
+                "wikipediaArticleName": "Harran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "43.3315352658",
+                    "36.0999751709"
                 ]
             },
             "properties": {
                 "identifier": "99e75136bc356b1f075013627a4debc50b3175d6",
                 "city_base_id": "Kal\u1e2bu",
-                "latitude": "36.098056",
-                "longitude": "43.328889",
+                "latitude": "36.0999751709",
+                "longitude": "43.3315352658",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -25057,7 +25591,7 @@
                         "endDate": "-912",
                         "preferredName": "Kal\u1e2bu",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "3",
                         "calcTagPosition": 0
                     },
                     {
@@ -25065,7 +25599,7 @@
                         "endDate": "-707",
                         "preferredName": "Kal\u1e2bu",
                         "size": "1",
-                        "tagPosition": "0",
+                        "tagPosition": "3",
                         "calcTagPosition": 0
                     },
                     {
@@ -25073,7 +25607,7 @@
                         "endDate": "-600",
                         "preferredName": "Kal\u1e2bu",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "3",
                         "calcTagPosition": 0
                     }
                 ],
@@ -25088,8 +25622,8 @@
                     }
                 ],
                 "mapPoint": [
-                    166526089.3241344,
-                    105320339.14019254
+                    166528062.52293086,
+                    105318568.05413876
                 ],
                 "wikipediaArticleName": "Nimrud"
             }
@@ -25099,16 +25633,67 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "37.95495",
-                    "36.52815"
+                    "44.340693",
+                    "32.001972"
+                ]
+            },
+            "properties": {
+                "identifier": "18a6a4068f67505c62bd8f533ce66d4611cc2837",
+                "city_base_id": "Kufa",
+                "latitude": "32.001972",
+                "longitude": "44.340693",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "637",
+                        "endDate": "761",
+                        "preferredName": "Kufa",
+                        "size": "2",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "762",
+                        "endDate": "2100",
+                        "preferredName": "Kufa",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kufa",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "al-K\u016bfah",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    167280545.06891945,
+                    109008119.25613698
+                ],
+                "wikipediaArticleName": "Kufa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "37.9555335",
+                    "36.526222"
                 ]
             },
             "properties": {
                 "identifier": "f366da9dca70e23e3762fce119089aabfd1729e0",
                 "city_base_id": "Manbij",
-                "latitude": "36.52815",
-                "longitude": "37.95495",
-                "elevation": "",
+                "latitude": "36.526222",
+                "longitude": "37.9555335",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -25163,8 +25748,8 @@
                     }
                 ],
                 "mapPoint": [
-                    162518989.97418666,
-                    104922342.44957483
+                    162519425.06332162,
+                    104924131.48212162
                 ],
                 "wikipediaArticleName": "Manbij"
             }
@@ -25174,15 +25759,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "40.89",
-                    "34.549444"
+                    "40.8886203821",
+                    "34.5503390103"
                 ]
             },
             "properties": {
                 "identifier": "5c2301bd27a6fb830b756b69dff8e74a7ecffde9",
                 "city_base_id": "Mari",
-                "latitude": "34.549444",
-                "longitude": "40.89",
+                "latitude": "34.5503390103",
+                "longitude": "40.8886203821",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -25206,8 +25791,8 @@
                     }
                 ],
                 "mapPoint": [
-                    164707521.87733334,
-                    106735711.25401025
+                    164706493.15966642,
+                    106734900.98011328
                 ],
                 "wikipediaArticleName": "Mari,_Syria"
             }
@@ -25217,16 +25802,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "43.11889",
-                    "36.335"
+                    "43.13713",
+                    "36.335572"
                 ]
             },
             "properties": {
                 "identifier": "617ce70d1f1ec7210648daf13f6e4230aa7ec31e",
                 "city_base_id": "Mosul",
-                "latitude": "36.335",
-                "longitude": "43.11889",
-                "elevation": "",
+                "latitude": "36.335572",
+                "longitude": "43.13713",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -25249,8 +25834,8 @@
                     }
                 ],
                 "mapPoint": [
-                    166369502.7204551,
-                    105101349.64719754
+                    166383103.4502258,
+                    105100820.18664552
                 ],
                 "wikipediaArticleName": "Mosul"
             }
@@ -25335,16 +25920,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "41.2178",
-                    "37.0778"
+                    "41.2154466667",
+                    "37.0675116667"
                 ]
             },
             "properties": {
                 "identifier": "8f36d86adb4cb5c329013ed1b89fe848b0414ec9",
                 "city_base_id": "Nusaybin",
-                "latitude": "37.0778",
-                "longitude": "41.2178",
-                "elevation": "",
+                "latitude": "37.0675116667",
+                "longitude": "41.2154466667",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -25399,8 +25984,8 @@
                     }
                 ],
                 "mapPoint": [
-                    164951947.27310222,
-                    104410475.40793337
+                    164950192.50060916,
+                    104420090.40894152
                 ],
                 "wikipediaArticleName": "Nusaybin"
             }
@@ -25497,6 +26082,53 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "43.876735",
+                    "34.200116"
+                ]
+            },
+            "properties": {
+                "identifier": "52b01835d149a733553225fb68eb90ccbdeb13d3",
+                "city_base_id": "Samarra",
+                "latitude": "34.200116",
+                "longitude": "43.876735",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "836",
+                        "endDate": "891",
+                        "preferredName": "Samarra",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "892",
+                        "endDate": "2100",
+                        "preferredName": "Samarra",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Samarra",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    166934592.90976712,
+                    107051304.39397219
+                ],
+                "wikipediaArticleName": "Samarra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "38.530357",
                     "37.525756"
                 ]
@@ -25552,15 +26184,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "40.569444",
-                    "34.923333"
+                    "40.5681563667",
+                    "34.9224178"
                 ]
             },
             "properties": {
                 "identifier": "7246e9f9021da459017fde377eebec776393733f",
                 "city_base_id": "Terqa",
-                "latitude": "34.923333",
-                "longitude": "40.569444",
+                "latitude": "34.9224178",
+                "longitude": "40.5681563667",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -25584,8 +26216,8 @@
                     }
                 ],
                 "mapPoint": [
-                    164468497.9994624,
-                    106396457.40734315
+                    164467537.8704845,
+                    106397289.70777217
                 ],
                 "wikipediaArticleName": "Terqa"
             }
@@ -25595,15 +26227,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "39.0475",
-                    "35.9575"
+                    "39.0472331484",
+                    "35.9580749393"
                 ]
             },
             "properties": {
                 "identifier": "0c44a8758a7f392026229bf776b56b1bfb8ecef8",
                 "city_base_id": "Tuttal",
-                "latitude": "35.9575",
-                "longitude": "39.0475",
+                "latitude": "35.9580749393",
+                "longitude": "39.0472331484",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -25635,8 +26267,8 @@
                     }
                 ],
                 "mapPoint": [
-                    163333654.30044445,
-                    105449932.39597316
+                    163333455.32146963,
+                    105449402.76979801
                 ],
                 "wikipediaArticleName": "Tuttal"
             }
@@ -25646,16 +26278,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "38.79392",
-                    "37.16708"
+                    "38.786696",
+                    "37.148633"
                 ]
             },
             "properties": {
                 "identifier": "2e2d2935021878897a1a091c9e29a1c7067cb9d7",
                 "city_base_id": "Urfa",
-                "latitude": "37.16708",
-                "longitude": "38.79392",
-                "elevation": "",
+                "latitude": "37.148633",
+                "longitude": "38.786696",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -25706,8 +26338,8 @@
                     }
                 ],
                 "mapPoint": [
-                    163144571.34785423,
-                    104326983.58346325
+                    163139184.74303716,
+                    104344242.707589
                 ],
                 "wikipediaArticleName": "Edessa"
             }
@@ -25949,6 +26581,69 @@
                     109696597.16157979
                 ],
                 "wikipediaArticleName": "Alexandria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "32.901491",
+                    "24.0885745"
+                ]
+            },
+            "properties": {
+                "identifier": "aff039916b1ab94de309116f28441872c52024b5",
+                "city_base_id": "Aswan",
+                "latitude": "24.0885745",
+                "longitude": "32.901491",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-2000",
+                        "endDate": "-332",
+                        "preferredName": "Swenett",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-331",
+                        "endDate": "618",
+                        "preferredName": "Syene",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "619",
+                        "endDate": "2100",
+                        "preferredName": "Aswan",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Aswan",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Syene",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Swenett",
+                        "language": "Egyptian"
+                    }
+                ],
+                "mapPoint": [
+                    158750857.8324025,
+                    115702186.50058097
+                ],
+                "wikipediaArticleName": "Aswan"
             }
         },
         {
@@ -27238,6 +27933,93 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "48.51640575",
+                    "34.80555515"
+                ]
+            },
+            "properties": {
+                "identifier": "e362740924af19b104448adac28bac6ba165ed7c",
+                "city_base_id": "Hamadan",
+                "latitude": "34.80555515",
+                "longitude": "48.51640575",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-678",
+                        "endDate": "-551",
+                        "preferredName": "Ecbatana",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-550",
+                        "endDate": "-248",
+                        "preferredName": "Ecbatana",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-247",
+                        "endDate": "641",
+                        "preferredName": "Ecbatana",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "642",
+                        "endDate": "1386",
+                        "preferredName": "Hamadan",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1501",
+                        "endDate": "2100",
+                        "preferredName": "Hamadan",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Hamadan",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Ecbatana",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Hagmatana",
+                        "language": "Unspecified"
+                    },
+                    {
+                        "name": "Achmeta",
+                        "language": "Unspecified"
+                    },
+                    {
+                        "name": "Epiphaneia",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    170394182.1693952,
+                    106503490.7232469
+                ],
+                "wikipediaArticleName": "Hamadan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "62.189142",
                     "34.3455665"
                 ]
@@ -27313,16 +28095,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "51.67462",
-                    "32.65246"
+                    "51.678813",
+                    "32.651067"
                 ]
             },
             "properties": {
                 "identifier": "e7e5c33d70d6fea4efe691dbbe85bff870ed23be",
                 "city_base_id": "Isfahan",
-                "latitude": "32.65246",
-                "longitude": "51.67462",
-                "elevation": "",
+                "latitude": "32.651067",
+                "longitude": "51.678813",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -27373,10 +28155,57 @@
                     }
                 ],
                 "mapPoint": [
-                    172749117.3981298,
-                    108434108.42084455
+                    172752243.92553812,
+                    108435342.0774794
                 ],
                 "wikipediaArticleName": "Isfahan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "48.3769",
+                    "34.1889"
+                ]
+            },
+            "properties": {
+                "identifier": "3eff5e8ca854362e18c86ddcf89062fd4af20d91",
+                "city_base_id": "Nahavand",
+                "latitude": "34.1889",
+                "longitude": "48.3769",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-480",
+                        "endDate": "2100",
+                        "preferredName": "Nahavand",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Nahavand",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Laodicea",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Nih\u0101wand",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    170290159.14268446,
+                    107061415.5141258
+                ],
+                "wikipediaArticleName": "Nahavand"
             }
         },
         {
@@ -27447,15 +28276,58 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "51.434444",
-                    "35.5975"
+                    "52.8904279399",
+                    "29.9351972978"
+                ]
+            },
+            "properties": {
+                "identifier": "5177e4f2615a4b77701fae14b9ddbd2cc1cc4943",
+                "city_base_id": "Persepolis",
+                "latitude": "29.9351972978",
+                "longitude": "52.8904279399",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-515",
+                        "endDate": "-300",
+                        "preferredName": "Persepolis",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Persepolis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "P\u0101rsa",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    173655689.5057839,
+                    110805592.52063632
+                ],
+                "wikipediaArticleName": "Persepolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "51.447163",
+                    "35.594267"
                 ]
             },
             "properties": {
                 "identifier": "f8e46a1df4720da0afe039bd574e6652980a9907",
                 "city_base_id": "Ray",
-                "latitude": "35.5975",
-                "longitude": "51.434444",
+                "latitude": "35.594267",
+                "longitude": "51.447163",
                 "elevation": "0",
                 "prefix": "modern",
                 "periods": [
@@ -27527,8 +28399,8 @@
                     }
                 ],
                 "mapPoint": [
-                    172570029.19235128,
-                    105780806.93952145
+                    172579513.16614258,
+                    105783771.60965239
                 ],
                 "wikipediaArticleName": "Ray,_Iran"
             }
@@ -27538,16 +28410,122 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "46.2919",
-                    "38.08"
+                    "52.33683",
+                    "27.670345"
+                ]
+            },
+            "properties": {
+                "identifier": "6862666d566f0f6de9eb64d729ec9f4366d9ae34",
+                "city_base_id": "Siraf",
+                "latitude": "27.670345",
+                "longitude": "52.33683",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "200",
+                        "endDate": "1100",
+                        "preferredName": "Siraf",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Siraf",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Bandar Siraf",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    173242896.96290132,
+                    112733020.0839662
+                ],
+                "wikipediaArticleName": "Siraf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "48.2535370543",
+                    "32.1899344716"
+                ]
+            },
+            "properties": {
+                "identifier": "a5c5c465eb92157d2d5e10ebb51e4bc9291f6234",
+                "city_base_id": "Susa",
+                "latitude": "32.1899344716",
+                "longitude": "48.2535370543",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-3800",
+                        "endDate": "-2701",
+                        "preferredName": "Susa",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-2700",
+                        "endDate": "641",
+                        "preferredName": "Susa",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "642",
+                        "endDate": "1217",
+                        "preferredName": "Susa",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1218",
+                        "endDate": "1450",
+                        "preferredName": "Susa",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Susa",
+                        "language": "Elamite"
+                    }
+                ],
+                "mapPoint": [
+                    170198173.0632887,
+                    108842678.04057701
+                ],
+                "wikipediaArticleName": "Susa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "46.3006306537",
+                    "38.0718213519"
                 ]
             },
             "properties": {
                 "identifier": "9c98f5c21173f77d1d9dabf947a174e9b7f1c2c5",
                 "city_base_id": "Tabriz",
-                "latitude": "38.08",
-                "longitude": "46.2919",
-                "elevation": "",
+                "latitude": "38.0718213519",
+                "longitude": "46.3006306537",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -27570,10 +28548,57 @@
                     }
                 ],
                 "mapPoint": [
-                    168735470.46001777,
-                    103467507.8065821
+                    168741980.50725985,
+                    103475254.86654317
                 ],
                 "wikipediaArticleName": "Tabriz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "51.5",
+                    "35.5"
+                ]
+            },
+            "properties": {
+                "identifier": "b3281260572ec8e541e014096b69e1ec5a249c6a",
+                "city_base_id": "Tehran",
+                "latitude": "35.5",
+                "longitude": "51.5",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "850",
+                        "endDate": "1785",
+                        "preferredName": "Tehran",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1786",
+                        "endDate": "2100",
+                        "preferredName": "Tehran",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tehran",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    172618911.2888889,
+                    105870162.149269
+                ],
+                "wikipediaArticleName": "Tehran"
             }
         },
         {
@@ -28397,6 +29422,10 @@
                     {
                         "name": "Kairouan",
                         "language": "Arabic"
+                    },
+                    {
+                        "name": "al-Qayraw\u0101n",
+                        "language": "Arabic"
                     }
                 ],
                 "mapPoint": [
@@ -28556,12 +29585,28 @@
                         "size": "3",
                         "tagPosition": "2",
                         "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "1050",
+                        "preferredName": "Barqah",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
                     }
                 ],
                 "altNames": [
                     {
                         "name": "Ptolemais",
                         "language": "Greek"
+                    },
+                    {
+                        "name": "Barkes Limen",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Barqah",
+                        "language": "Arabic"
                     }
                 ],
                 "mapPoint": [
@@ -29090,6 +30135,81 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "66.9010967796",
+                    "36.7679408775"
+                ]
+            },
+            "properties": {
+                "identifier": "d12363fb54d252d2b41ebc0b7d9585513b5bae23",
+                "city_base_id": "Balkh",
+                "latitude": "36.7679408775",
+                "longitude": "66.9010967796",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-540",
+                        "endDate": "-330",
+                        "preferredName": "Bakhlo",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-329",
+                        "endDate": "-120",
+                        "preferredName": "Bactra",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-119",
+                        "endDate": "642",
+                        "preferredName": "Bactra",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "643",
+                        "endDate": "2100",
+                        "preferredName": "Balkh",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Balkh",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Zariaspa",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Bakhlo",
+                        "language": "Bactrian"
+                    },
+                    {
+                        "name": "Bactra",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    184102801.39147794,
+                    104699486.31943497
+                ],
+                "wikipediaArticleName": "Balkh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "64.4231326",
                     "39.7675529"
                 ]
@@ -29260,6 +30380,253 @@
                     101957591.36847585
                 ],
                 "wikipediaArticleName": "Samarkand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.21917",
+                    "21.51694"
+                ]
+            },
+            "properties": {
+                "identifier": "e285c264641a0f2c6d4aea0ddaf96aca950977fb",
+                "city_base_id": "Jeddah",
+                "latitude": "21.51694",
+                "longitude": "39.21917",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "647",
+                        "endDate": "2100",
+                        "preferredName": "Jeddah",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Jeddah",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    163461660.73025423,
+                    117782545.56317613
+                ],
+                "wikipediaArticleName": "Jeddah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.815421",
+                    "21.426804"
+                ]
+            },
+            "properties": {
+                "identifier": "e5f919414bb545a2c113b19e08aa3042fe0fd7e7",
+                "city_base_id": "Mecca",
+                "latitude": "21.426804",
+                "longitude": "39.815421",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "450",
+                        "endDate": "549",
+                        "preferredName": "Mecca",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "570",
+                        "endDate": "2100",
+                        "preferredName": "Mecca",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Mecca",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Mekkah",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Makkah al-Mukarramah",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Macoraba",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    163906257.6999083,
+                    117854768.29171991
+                ],
+                "wikipediaArticleName": "Mecca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.6162643",
+                    "24.46547"
+                ]
+            },
+            "properties": {
+                "identifier": "53bd3674b90af70ef2184a99d6f9906d056ce3f9",
+                "city_base_id": "Medina",
+                "latitude": "24.46547",
+                "longitude": "39.6162643",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "300",
+                        "endDate": "621",
+                        "preferredName": "Medina",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "622",
+                        "endDate": "2100",
+                        "preferredName": "Medina",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Medina",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "al-Madinah al-Munawwarah",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Yathrib",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Iathrippa",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    163757755.70107508,
+                    115393888.82667862
+                ],
+                "wikipediaArticleName": "Medina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "36.5727525",
+                    "28.3880465"
+                ]
+            },
+            "properties": {
+                "identifier": "57afef17eaac90d36759d1c012563aae79f280cb",
+                "city_base_id": "Tabuk",
+                "latitude": "28.3880465",
+                "longitude": "36.5727525",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "500",
+                        "endDate": "2100",
+                        "preferredName": "Tabuk",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tabuk",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Baclanaza",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Ostama",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    161488348.81809068,
+                    112126746.71319269
+                ],
+                "wikipediaArticleName": "Tabuk,_Saudi_Arabia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "40.416",
+                    "21.27"
+                ]
+            },
+            "properties": {
+                "identifier": "7143218e4c91a344c2be98e7b1350e37029f5340",
+                "city_base_id": "Taif",
+                "latitude": "21.27",
+                "longitude": "40.416",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "500",
+                        "endDate": "2100",
+                        "preferredName": "Taif",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Taif",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "a\u1e6d-\u1e6c\u0101\u02beif",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    164354081.86026666,
+                    117980303.60333191
+                ],
+                "wikipediaArticleName": "Taif"
             }
         }
     ]
