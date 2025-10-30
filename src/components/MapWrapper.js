@@ -185,6 +185,9 @@ function MapWrapper({ features }) {
 
         const mapPosition = initializeMapPosition();
         const attributionControl = new Attribution({ collapsible: true });
+        const attributionText1 = '<p>Map tiles created by <a href="https://cawm.lib.uiowa.edu/index.html">Consortium of Ancient World Mappers</a> and hosted by University of Iowa, copyright 2022</p>';
+        const attributionText2 = '<p>City location data derived from <a href="https://pleiades.stoa.org">Pleiades: A Gazetteer of Past Places</a> and the <a href="https://www.geonames.org/">GeoNames</a> geographical database</p>';
+        const attributionText3 = '<p>Civitates Web App copyright 2025, licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 License</a></p>';
 
         // create map
         const initialMap = new Map({
@@ -194,7 +197,7 @@ function MapWrapper({ features }) {
                 new TileLayer({
                     // source: new OSM(),
                     source: new XYZ({
-                        attributions: 'Map tiles created by <a href="https://cawm.lib.uiowa.edu/index.html">Consortium of Ancient World Mappers</a> and hosted by University of Iowa, copyright 2022',
+                        attributions: [attributionText1, attributionText2, attributionText3],
                         url: 'http://cawm.lib.uiowa.edu/tiles/{z}/{x}/{y}.png'
                     }),
                     extent: mapExtent3857
