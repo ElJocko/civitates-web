@@ -17206,15 +17206,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "4.6278",
-                    "43.6767"
+                    "4.630799",
+                    "43.677616"
                 ]
             },
             "properties": {
                 "identifier": "03d1d88dd28510b56a2613d1f95e017d9b28c3d7",
                 "city_base_id": "Arles",
-                "latitude": "43.6767",
-                "longitude": "4.6278",
+                "latitude": "43.677616",
+                "longitude": "4.630799",
                 "elevation": "0",
                 "prefix": "modern",
                 "periods": [
@@ -17270,8 +17270,8 @@
                     }
                 ],
                 "mapPoint": [
-                    137668465.78688002,
-                    97942642.77876475
+                    137670702.0033593,
+                    97941698.39415699
                 ],
                 "wikipediaArticleName": "Arles"
             }
@@ -17281,30 +17281,164 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "6.14569",
-                    "46.20222"
+                    "6.633951",
+                    "44.896886"
+                ]
+            },
+            "properties": {
+                "identifier": "2ea7eef0309210e74e48f5b2dc823b45f0d5b321",
+                "city_base_id": "Brian\u00e7on",
+                "latitude": "44.896886",
+                "longitude": "6.633951",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "22",
+                        "endDate": "650",
+                        "preferredName": "Brigantium",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "2100",
+                        "preferredName": "Brian\u00e7on",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Brian\u00e7on",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Brigantio",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Brigantium",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    139164360.39379627,
+                    96671591.81360367
+                ],
+                "wikipediaArticleName": "Brian\u00e7on"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.075897",
+                    "44.559876"
+                ]
+            },
+            "properties": {
+                "identifier": "1bdd563bab73d9b303a9dd2a89ba5bbe0c7fc34c",
+                "city_base_id": "Gap",
+                "latitude": "44.559876",
+                "longitude": "6.075897",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "22",
+                        "endDate": "400",
+                        "preferredName": "Vappincum",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "400",
+                        "endDate": "650",
+                        "preferredName": "Vappincum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "1249",
+                        "preferredName": "Vappum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1250",
+                        "endDate": "2100",
+                        "preferredName": "Gap",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Gap",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Vappincum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Vappum",
+                        "language": "EarlyFrench"
+                    }
+                ],
+                "mapPoint": [
+                    138748245.17167786,
+                    97025302.28027856
+                ],
+                "wikipediaArticleName": "Gap,_Hautes-Alpes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "6.1437985",
+                    "46.2019615"
                 ]
             },
             "properties": {
                 "identifier": "467d962bd27c33fc1978c3f29cd2b38523c2f6c6",
                 "city_base_id": "Geneva",
-                "latitude": "46.20222",
-                "longitude": "6.14569",
-                "elevation": "",
+                "latitude": "46.2019615",
+                "longitude": "6.1437985",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
                         "startDate": "-121",
                         "endDate": "-59",
-                        "preferredName": "Geneva",
+                        "preferredName": "Genava",
                         "size": "4",
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
                     {
                         "startDate": "-58",
+                        "endDate": "650",
+                        "preferredName": "Genava",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
                         "endDate": "2100",
-                        "preferredName": "Geneva",
+                        "preferredName": "Gen\u00e8ve",
                         "size": "3",
                         "tagPosition": "0",
                         "calcTagPosition": 0
@@ -17318,11 +17452,15 @@
                     {
                         "name": "Gen\u00e8ve",
                         "language": "French"
+                    },
+                    {
+                        "name": "Genava",
+                        "language": "Latin"
                     }
                 ],
                 "mapPoint": [
-                    138800286.6044018,
-                    95281611.36522791
+                    138798876.1997767,
+                    95281889.86093912
                 ],
                 "wikipediaArticleName": "Geneva"
             }
@@ -17332,16 +17470,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "5.38107",
-                    "43.29695"
+                    "5.382499",
+                    "43.296854"
                 ]
             },
             "properties": {
                 "identifier": "7194f9749e79a1df6ae576f634b65ce3f343cfcd",
                 "city_base_id": "Marseille",
-                "latitude": "43.29695",
-                "longitude": "5.38107",
-                "elevation": "",
+                "latitude": "43.296854",
+                "longitude": "5.382499",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -17400,8 +17538,8 @@
                     }
                 ],
                 "mapPoint": [
-                    138230144.60893866,
-                    98332926.49567157
+                    138231210.14856818,
+                    98333024.84936842
                 ],
                 "wikipediaArticleName": "Marseille"
             }
@@ -17411,16 +17549,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "3",
-                    "43.18333"
+                    "3.004203",
+                    "43.1836165"
                 ]
             },
             "properties": {
                 "identifier": "b2ba2b73e8baa8704e89b7e8b57a97ad54798026",
                 "city_base_id": "Narbonne",
-                "latitude": "43.18333",
-                "longitude": "3",
-                "elevation": "",
+                "latitude": "43.1836165",
+                "longitude": "3.004203",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -17467,8 +17605,8 @@
                     }
                 ],
                 "mapPoint": [
-                    136454690.13333333,
-                    98449223.74362528
+                    136457824.11728212,
+                    98448930.76525208
                 ],
                 "wikipediaArticleName": "Narbonne"
             }
@@ -17478,16 +17616,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "7.26608",
-                    "43.70313"
+                    "7.266233",
+                    "43.703436"
                 ]
             },
             "properties": {
                 "identifier": "f5e61817ea871f10a2805cdf6924b88f8f7a645a",
                 "city_base_id": "Nice",
-                "latitude": "43.70313",
-                "longitude": "7.26608",
-                "elevation": "25",
+                "latitude": "43.703436",
+                "longitude": "7.266233",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -17530,8 +17668,8 @@
                     }
                 ],
                 "mapPoint": [
-                    139635709.93925688,
-                    97915387.98172472
+                    139635824.0243257,
+                    97915072.36208184
                 ],
                 "wikipediaArticleName": "Nice"
             }
@@ -17541,16 +17679,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "4.35",
-                    "43.83333"
+                    "4.3541755708",
+                    "43.8431497874"
                 ]
             },
             "properties": {
                 "identifier": "6893b37b31490c75ecf5ef1d54162619ed018e03",
                 "city_base_id": "N\u00eemes",
-                "latitude": "43.83333",
-                "longitude": "4.35",
-                "elevation": "",
+                "latitude": "43.8431497874",
+                "longitude": "4.3541755708",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -17581,8 +17719,8 @@
                     }
                 ],
                 "mapPoint": [
-                    137461323.09333333,
-                    97780949.1043427
+                    137464436.62458822,
+                    97770797.73421492
                 ],
                 "wikipediaArticleName": "N\u00eemes"
             }
@@ -17592,16 +17730,16 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "1.44367",
-                    "43.60426"
+                    "1.443246",
+                    "43.604175"
                 ]
             },
             "properties": {
                 "identifier": "b12c04463a85cbdcdac580803812edba6677ad2c",
                 "city_base_id": "Toulouse",
-                "latitude": "43.60426",
-                "longitude": "1.44367",
-                "elevation": "",
+                "latitude": "43.604175",
+                "longitude": "1.443246",
+                "elevation": "0",
                 "prefix": "modern",
                 "periods": [
                     {
@@ -17640,10 +17778,69 @@
                     }
                 ],
                 "mapPoint": [
-                    135294206.37434313,
-                    98017281.92364852
+                    135293890.21702826,
+                    98017369.45126516
                 ],
                 "wikipediaArticleName": "Toulouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "4.8896965",
+                    "44.930719"
+                ]
+            },
+            "properties": {
+                "identifier": "9b1e5bd84f25ff8294e56393a70ee07f910701d2",
+                "city_base_id": "Valence",
+                "latitude": "44.930719",
+                "longitude": "4.8896965",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "533",
+                        "preferredName": "Valentia",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "534",
+                        "endDate": "800",
+                        "preferredName": "Valentia",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "801",
+                        "endDate": "2100",
+                        "preferredName": "Valence",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Valence",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Valentia",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    137863749.97133085,
+                    96635967.9909984
+                ],
+                "wikipediaArticleName": "Valence,_Dr\u00f4me"
             }
         },
         {
@@ -24909,6 +25106,61 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "48.68438",
+                    "31.316712"
+                ]
+            },
+            "properties": {
+                "identifier": "9ca34248b55431d2cfe1e856053693502e4b012f",
+                "city_base_id": "Ahvaz",
+                "latitude": "31.316712",
+                "longitude": "48.68438",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "300",
+                        "endDate": "650",
+                        "preferredName": "Hormazd-Arda\u0161\u0113r",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "2100",
+                        "preferredName": "Ahvaz",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ahvaz",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Hormazd-Arda\u0161\u0113r",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Daravashir",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    170519432.84827024,
+                    109608427.04515938
+                ],
+                "wikipediaArticleName": "Ahvaz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "43.2613012876",
                     "35.4555731618"
                 ]
@@ -25157,15 +25409,15 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "22.111673",
-                    "40.946148"
+                    "38.0149205197",
+                    "36.8294229533"
                 ]
             },
             "properties": {
                 "identifier": "5b4f080f7e5316c2c723d277f2e45728e18f7468",
                 "city_base_id": "Carchemish",
-                "latitude": "40.946148",
-                "longitude": "22.111673",
+                "latitude": "36.8294229533",
+                "longitude": "38.0149205197",
                 "elevation": "0",
                 "prefix": "ancient",
                 "periods": [
@@ -25205,8 +25457,8 @@
                     }
                 ],
                 "mapPoint": [
-                    150705386.40188304,
-                    100696622.42421956
+                    162563707.23474842,
+                    104642234.19237283
                 ],
                 "wikipediaArticleName": "Carchemish"
             }
@@ -25574,6 +25826,69 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "44.449851",
+                    "31.883324"
+                ]
+            },
+            "properties": {
+                "identifier": "fe4f3bbc5eba8d0c3e1261ef8f09a8b15a25ddee",
+                "city_base_id": "Hira",
+                "latitude": "31.883324",
+                "longitude": "44.449851",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "300",
+                        "endDate": "632",
+                        "preferredName": "Hira",
+                        "size": "2",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "633",
+                        "endDate": "900",
+                        "preferredName": "Hira",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "901",
+                        "endDate": "1258",
+                        "preferredName": "Hira",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Hira",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "al-Hira",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "H\u0113rt",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    167361939.17310295,
+                    109112376.46955411
+                ],
+                "wikipediaArticleName": "Al-Hira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "43.3315352658",
                     "36.0999751709"
                 ]
@@ -25633,6 +25948,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "43.5",
+                    "32.5"
+                ]
+            },
+            "properties": {
+                "identifier": "a5f68e947dabb682c688f78b3e7fb40d174d7cf0",
+                "city_base_id": "Karbala",
+                "latitude": "32.5",
+                "longitude": "43.5",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "680",
+                        "endDate": "2100",
+                        "preferredName": "Karbala",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Karbala",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    166653678.93333334,
+                    108569014.95422123
+                ],
+                "wikipediaArticleName": "Karbala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "44.340693",
                     "32.001972"
                 ]
@@ -25650,7 +26004,7 @@
                         "endDate": "761",
                         "preferredName": "Kufa",
                         "size": "2",
-                        "tagPosition": "3",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     },
                     {
@@ -25658,7 +26012,7 @@
                         "endDate": "2100",
                         "preferredName": "Kufa",
                         "size": "3",
-                        "tagPosition": "3",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     }
                 ],
@@ -26342,6 +26696,45 @@
                     104344242.707589
                 ],
                 "wikipediaArticleName": "Edessa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "46.298",
+                    "32.188"
+                ]
+            },
+            "properties": {
+                "identifier": "9f03c02005c27c6dba664987e8ac0498f3c2ac64",
+                "city_base_id": "Wasit",
+                "latitude": "32.188",
+                "longitude": "46.298",
+                "elevation": "0",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "702",
+                        "endDate": "1550",
+                        "preferredName": "Wasit",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Wasit",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    168740018.9496889,
+                    108844382.46430284
+                ],
+                "wikipediaArticleName": "Wasit"
             }
         },
         {
@@ -28159,6 +28552,57 @@
                     108435342.0774794
                 ],
                 "wikipediaArticleName": "Isfahan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "52.909444",
+                    "29.980833"
+                ]
+            },
+            "properties": {
+                "identifier": "63acba6950574d23c0e42437008355b7fa99add8",
+                "city_base_id": "Istakhr",
+                "latitude": "29.980833",
+                "longitude": "52.909444",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-300",
+                        "endDate": "643",
+                        "preferredName": "Istakhr",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "644",
+                        "endDate": "985",
+                        "preferredName": "Istakhr",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Istakhr",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Estakhr",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    173669868.90790686,
+                    110766316.4599544
+                ],
+                "wikipediaArticleName": "Istakhr"
             }
         },
         {
@@ -30210,6 +30654,65 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "60.7525",
+                    "41.69111"
+                ]
+            },
+            "properties": {
+                "identifier": "2df70650ec5dad33f10ad7b021bec15b2911d4d5",
+                "city_base_id": "Beruniy",
+                "latitude": "41.69111",
+                "longitude": "60.7525",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "300",
+                        "endDate": "995",
+                        "preferredName": "Kath",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "996",
+                        "endDate": "1956",
+                        "preferredName": "Kath",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1957",
+                        "endDate": "2100",
+                        "preferredName": "Beruniy",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Beruniy",
+                        "language": "Uzbek"
+                    },
+                    {
+                        "name": "Kath",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    179518075.3351111,
+                    99956998.88794112
+                ],
+                "wikipediaArticleName": "Beruniy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "64.4231326",
                     "39.7675529"
                 ]
@@ -30380,6 +30883,77 @@
                     101957591.36847585
                 ],
                 "wikipediaArticleName": "Samarkand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "59.15442",
+                    "42.32773"
+                ]
+            },
+            "properties": {
+                "identifier": "f2d19d0632180d1ed2844ed883ea9a4fe2e35d7f",
+                "city_base_id": "Urgench",
+                "latitude": "42.32773",
+                "longitude": "59.15442",
+                "elevation": "",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "300",
+                        "endDate": "1076",
+                        "preferredName": "Urgench",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1077",
+                        "endDate": "1221",
+                        "preferredName": "Urgench",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1222",
+                        "endDate": "1388",
+                        "preferredName": "Urgench",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1389",
+                        "endDate": "1550",
+                        "preferredName": "Urgench",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Urgench",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Konye-Urgench",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Gurg\u0101nj",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    178326460.51976535,
+                    99318126.14677441
+                ],
+                "wikipediaArticleName": "Konye-Urgench"
             }
         },
         {
