@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
 
-import ReactSlider from 'react-slider';
+import Slider from 'rc-slider';
 
 import displayOptions from '../lib/displayOptions';
 import useThrottle from '../lib/useThrottle';
 
-const Slider = ({ onChange, onFinalChange, initialYear }) => {
+const YearSlider = ({ onChange, onFinalChange, initialYear }) => {
 
     const [currentYear, setCurrentYear] = useState();
     const [displayYear, setDisplayYear] = useState();
@@ -70,18 +70,16 @@ const Slider = ({ onChange, onFinalChange, initialYear }) => {
         // misses the final position
         const updatedYear = updateYear(year);
         onFinalChange(updatedYear);
-        // console.log(`FINAL year = ${ year }, updatedYear = ${ updatedYear }`);
+        console.log(`FINAL year = ${ year }, updatedYear = ${ updatedYear }`);
     }
 
     return (
         <div className="year-slider">
             <label className="year-slider-label">{ displayYear } { displayYearPostfix } </label>
-            <ReactSlider
+            <Slider
                 value={ currentYear }
                 onChange={ yearChangeHandler }
-                onAfterChange={ afterYearChangeHandler }
-                trackClassName="year-slider-track"
-                thumbClassName="year-slider-thumb"
+                onChangeComplete={ afterYearChangeHandler }
                 min={ minYear }
                 max={ maxYear }
             />
@@ -89,4 +87,4 @@ const Slider = ({ onChange, onFinalChange, initialYear }) => {
     );
 }
 
-export default Slider;
+export default YearSlider;

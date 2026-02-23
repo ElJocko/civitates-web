@@ -80,6 +80,7 @@ body {
 .status {
   margin-bottom: 10px;
 }
+
 .game {
   display: flex;
   flex-direction: row;
@@ -108,24 +109,32 @@ body {
   -webkit-text-stroke-width: 1.5px;
 }
 
-.year-slider-track {
+.rc-slider-rail {
   top: 8px;
   height: 4px;
-  background: #ddd;
+  background: #aaa;
 }
 
-.year-slider-thumb {
+.rc-slider-track {
+   top: 8px;
+   height: 4px;
+   background: #aaa;
+ }
+
+.rc-slider-handle {
   cursor: pointer;
   /*color for the thumb */
   background: rgb(104, 117, 217);
+  opacity: 1.0;
   /* shape of the thumb: circle */
   width: 20px;
   height: 20px;
   border-radius: 100%;
+  border: none;
   /* remove default outline when selected */
   outline: none;
 }
 
-.year-slider-thumb:hover {
+.rc-slider-handle:hover {
   box-shadow: 0 0 0 8px rgb(104, 117, 217, 0.2);
 }
