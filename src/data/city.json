@@ -21586,6 +21586,61 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "0.691471",
+                    "47.3925295"
+                ]
+            },
+            "properties": {
+                "identifier": "3a0ce83dba63cff29048caf57be791fc0d86f4cb",
+                "city_base_id": "Tours",
+                "latitude": "47.3925295",
+                "longitude": "0.691471",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "50",
+                        "endDate": "700",
+                        "preferredName": "Caesarodunum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "701",
+                        "endDate": "2100",
+                        "preferredName": "Tours",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tours",
+                        "language": "French"
+                    },
+                    {
+                        "name": "Caesarodunum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Civitas Turonorum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    134733326.14776605,
+                    93985034.49131663
+                ],
+                "wikipediaArticleName": "Tours"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "6.64169291658",
                     "49.752233873"
                 ]
@@ -32232,6 +32287,143 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "33.7119202261",
+                    "16.9368579733"
+                ]
+            },
+            "properties": {
+                "identifier": "32d073fefba571aa873971f1438b817d835fe8fe",
+                "city_base_id": "Meroe",
+                "latitude": "16.9368579733",
+                "longitude": "33.7119202261",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "400",
+                        "preferredName": "Meroe",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Meroe",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    159355157.66257995,
+                    121400644.14565936
+                ],
+                "wikipediaArticleName": "Mero\u00eb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "31.853738",
+                    "18.565952"
+                ]
+            },
+            "properties": {
+                "identifier": "05386c3cb51cbb9da1b9a5e1aff273a135f7724b",
+                "city_base_id": "Napata",
+                "latitude": "18.565952",
+                "longitude": "31.853738",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-1450",
+                        "endDate": "-1071",
+                        "preferredName": "Napata",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-1070",
+                        "endDate": "-591",
+                        "preferredName": "Napata",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-590",
+                        "endDate": "100",
+                        "preferredName": "Napata",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Napata",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    157969596.57037368,
+                    120125124.66645183
+                ],
+                "wikipediaArticleName": "Napata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "33.2746437",
+                    "16.2695085"
+                ]
+            },
+            "properties": {
+                "identifier": "5ec85a63af0fbbd6104d67edaf56239b36bda878",
+                "city_base_id": "Naqa",
+                "latitude": "16.2695085",
+                "longitude": "33.2746437",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-200",
+                        "endDate": "350",
+                        "preferredName": "Naqa",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Naqa",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Tolakate",
+                        "language": "Meriotic"
+                    }
+                ],
+                "mapPoint": [
+                    159029100.65235287,
+                    121919909.16431965
+                ],
+                "wikipediaArticleName": "Naqa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "30.5919275",
                     "30.900508"
                 ]
@@ -33303,6 +33495,69 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "52.57565215",
+                    "29.59048485"
+                ]
+            },
+            "properties": {
+                "identifier": "60de40825ca3b7ccbb0ca52ffddead139615000c",
+                "city_base_id": "Shiraz",
+                "latitude": "29.59048485",
+                "longitude": "52.57565215",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "693",
+                        "endDate": "932",
+                        "preferredName": "Shiraz",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "933",
+                        "endDate": "1699",
+                        "preferredName": "Shiraz",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1700",
+                        "endDate": "2100",
+                        "preferredName": "Shiraz",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Shiraz",
+                        "language": "English"
+                    },
+                    {
+                        "name": "\u0160\u012br\u0101z",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Tirazzi\u0161",
+                        "language": "Elamite"
+                    }
+                ],
+                "mapPoint": [
+                    173420975.66495174,
+                    111101688.07327217
+                ],
+                "wikipediaArticleName": "Shiraz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "52.33683",
                     "27.670345"
                 ]
@@ -33492,6 +33747,112 @@
                     105870162.149269
                 ],
                 "wikipediaArticleName": "Tehran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "61.86037",
+                    "30.95962"
+                ]
+            },
+            "properties": {
+                "identifier": "d0bb7263d6c00fc255a2aba85454699b593b0b35",
+                "city_base_id": "Zaranj",
+                "latitude": "30.95962",
+                "longitude": "61.86037",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-199",
+                        "endDate": "651",
+                        "preferredName": "Zaranj",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "652",
+                        "endDate": "1537",
+                        "preferredName": "Zaranj",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1538",
+                        "endDate": "2100",
+                        "preferredName": "Zaranj",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Zaranj",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    180344163.08132976,
+                    109919515.65416795
+                ],
+                "wikipediaArticleName": "Zaranj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "61.6360916675",
+                    "30.7963080309"
+                ]
+            },
+            "properties": {
+                "identifier": "8c72d8aa70edf7108c4da286f2964c107a6752d5",
+                "city_base_id": "Zranka",
+                "latitude": "30.7963080309",
+                "longitude": "61.6360916675",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-500",
+                        "endDate": "-200",
+                        "preferredName": "Zranka",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Zranka",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Drangiana",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Dahan-e_Gholaman",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Zarin",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    180176929.0356199,
+                    110061400.35981838
+                ],
+                "wikipediaArticleName": "Dahan-e_Gholaman"
             }
         },
         {
@@ -35201,6 +35562,246 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "61.07417",
+                    "41.31944"
+                ]
+            },
+            "properties": {
+                "identifier": "37ce72f35cbbddecae89f0854364205ae30f4c5c",
+                "city_base_id": "Hazorasp",
+                "latitude": "41.31944",
+                "longitude": "61.07417",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "500",
+                        "endDate": "2100",
+                        "preferredName": "Hazorasp",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Hazorasp",
+                        "language": "Turkic"
+                    },
+                    {
+                        "name": "Khazarasp",
+                        "language": "Russian"
+                    },
+                    {
+                        "name": "Hazarasp",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    179757929.87158757,
+                    100327062.23710626
+                ],
+                "wikipediaArticleName": "Hazorasp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "66.83318",
+                    "39.08425"
+                ]
+            },
+            "properties": {
+                "identifier": "9f9be11c266d2835e1de9d8047927ec73a742cc5",
+                "city_base_id": "Kitob",
+                "latitude": "39.08425",
+                "longitude": "66.83318",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-400",
+                        "endDate": "850",
+                        "preferredName": "Kesh",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "851",
+                        "endDate": "950",
+                        "preferredName": "Kesh",
+                        "size": "4",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kitob",
+                        "language": "Turkic"
+                    },
+                    {
+                        "name": "Kesh",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Kish",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    184052158.97008356,
+                    102509556.64285983
+                ],
+                "wikipediaArticleName": "Kitob"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "60.36389",
+                    "41.37833"
+                ]
+            },
+            "properties": {
+                "identifier": "e41a4a5674c5361d9e453c0f4c981b9d5cfe82a0",
+                "city_base_id": "Khiva",
+                "latitude": "41.37833",
+                "longitude": "60.36389",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "950",
+                        "endDate": "1514",
+                        "preferredName": "Khiva",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1515",
+                        "endDate": "1872",
+                        "preferredName": "Khiva",
+                        "size": "2",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1873",
+                        "endDate": "2100",
+                        "preferredName": "Khiva",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Khiva",
+                        "language": "English"
+                    },
+                    {
+                        "name": "X\u012bveh",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Orgunje",
+                        "language": "Turkic"
+                    }
+                ],
+                "mapPoint": [
+                    179228306.71689957,
+                    100268568.12749042
+                ],
+                "wikipediaArticleName": "Khiva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "69.640562",
+                    "40.264798"
+                ]
+            },
+            "properties": {
+                "identifier": "f26a04613b8b8d3d87e8c106e25fb54b1c2026ef",
+                "city_base_id": "Khujand",
+                "latitude": "40.264798",
+                "longitude": "69.640562",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-550",
+                        "endDate": "-329",
+                        "preferredName": "Cyreschata",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-328",
+                        "endDate": "-30",
+                        "preferredName": "Alexandria Eschate",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-29",
+                        "endDate": "2100",
+                        "preferredName": "Khujand",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Khujand",
+                        "language": "Turkic"
+                    },
+                    {
+                        "name": "Cyreschata",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Cyropolis",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Alexandria Eschate",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Khodjent",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Leninabad",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    186145494.7126841,
+                    101365817.1819893
+                ],
+                "wikipediaArticleName": "Khujand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "62.1921217659",
                     "37.6663910652"
                 ]
@@ -35257,6 +35858,159 @@
                     103858211.93359451
                 ],
                 "wikipediaArticleName": "Merv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "68.302778",
+                    "42.8525"
+                ]
+            },
+            "properties": {
+                "identifier": "4f90e892ccf87b8d513a22511d2cd50df56ab2bf",
+                "city_base_id": "Otrar",
+                "latitude": "42.8525",
+                "longitude": "68.302778",
+                "elevation": "506",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "900",
+                        "endDate": "1450",
+                        "preferredName": "Otrar",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Otrar",
+                        "language": "Turkic"
+                    },
+                    {
+                        "name": "Farab",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    185147970.66249102,
+                    98786622.22370628
+                ],
+                "wikipediaArticleName": "Otrar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "67.6177871128",
+                    "39.485539136"
+                ]
+            },
+            "properties": {
+                "identifier": "c9cddfb495d3ce141770afbd8acd5a9425d22154",
+                "city_base_id": "Panjakent",
+                "latitude": "39.485539136",
+                "longitude": "67.6177871128",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-400",
+                        "endDate": "2100",
+                        "preferredName": "Panjakent",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Panjakent",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Penjikent",
+                        "language": "Russian"
+                    }
+                ],
+                "mapPoint": [
+                    184637204.43704274,
+                    102122965.52313635
+                ],
+                "wikipediaArticleName": "Panjakent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "65.78905",
+                    "38.86056"
+                ]
+            },
+            "properties": {
+                "identifier": "5c90694fe747732f80a68f477dd0e75ef923ddbe",
+                "city_base_id": "Qarshi",
+                "latitude": "38.86056",
+                "longitude": "65.78905",
+                "elevation": "374",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-200",
+                        "endDate": "650",
+                        "preferredName": "Nakhshab",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "651",
+                        "endDate": "1250",
+                        "preferredName": "Nasaf",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1251",
+                        "endDate": "2100",
+                        "preferredName": "Qarshi",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Qarshi",
+                        "language": "Turkic"
+                    },
+                    {
+                        "name": "Na\u1e35\u0161ab",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Nakhshab",
+                        "language": "Persian"
+                    },
+                    {
+                        "name": "Nasaf",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    183273599.21265778,
+                    102724098.82491344
+                ],
+                "wikipediaArticleName": "Qarshi"
             }
         },
         {
@@ -35339,6 +36093,147 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "66.83417",
+                    "39.05778"
+                ]
+            },
+            "properties": {
+                "identifier": "f970b314ce0e7b1b5507ae82704c3dc5ee6b77f5",
+                "city_base_id": "Shahrisabz",
+                "latitude": "39.05778",
+                "longitude": "66.83417",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "951",
+                        "endDate": "1320",
+                        "preferredName": "Kesh",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1321",
+                        "endDate": "2100",
+                        "preferredName": "Shahrisabz",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Shahrisabz",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    184052897.16758755,
+                    102534979.54819927
+                ],
+                "wikipediaArticleName": "Shahrisabz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "71.36667",
+                    "42.9"
+                ]
+            },
+            "properties": {
+                "identifier": "54c1dc6a15d549fa97265231613481c1c6ba843f",
+                "city_base_id": "Taraz",
+                "latitude": "42.9",
+                "longitude": "71.36667",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "500",
+                        "endDate": "1400",
+                        "preferredName": "Taraz",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1401",
+                        "endDate": "1700",
+                        "preferredName": "Taraz",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Taraz",
+                        "language": "Khazakh"
+                    },
+                    {
+                        "name": "Talas",
+                        "language": "English"
+                    }
+                ],
+                "mapPoint": [
+                    187432574.12403202,
+                    98738290.67167605
+                ],
+                "wikipediaArticleName": "Taraz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "69.21627",
+                    "41.26465"
+                ]
+            },
+            "properties": {
+                "identifier": "c2aa0e9ec043606081b38e38770b0691cf0d7c71",
+                "city_base_id": "Tashkent",
+                "latitude": "41.26465",
+                "longitude": "69.21627",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "550",
+                        "endDate": "2100",
+                        "preferredName": "Tashkent",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tashkent",
+                        "language": "Turkic"
+                    },
+                    {
+                        "name": "Chach",
+                        "language": "Persian"
+                    }
+                ],
+                "mapPoint": [
+                    185829119.66685867,
+                    100381436.46453056
+                ],
+                "wikipediaArticleName": "Tashkent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "59.15442",
                     "42.32773"
                 ]
@@ -35410,6 +36305,53 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "45.038928",
+                    "12.771651"
+                ]
+            },
+            "properties": {
+                "identifier": "c28451ceb639546ecae82d034f791b15c3eeb33b",
+                "city_base_id": "Aden",
+                "latitude": "12.771651",
+                "longitude": "45.038928",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "2100",
+                        "preferredName": "Aden",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Aden",
+                        "language": "English"
+                    },
+                    {
+                        "name": "\u02bfAdan",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Arabia Eudaim\u014dn",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    167801186.82064214,
+                    124614636.18414493
+                ],
+                "wikipediaArticleName": "Aden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "39.21917",
                     "21.51694"
                 ]
@@ -35442,6 +36384,61 @@
                     117782545.56317613
                 ],
                 "wikipediaArticleName": "Jeddah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "45.336",
+                    "15.427"
+                ]
+            },
+            "properties": {
+                "identifier": "f43f7df3a384575eaae9802b515f56c7ca50da2a",
+                "city_base_id": "Marib",
+                "latitude": "15.427",
+                "longitude": "45.336",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-750",
+                        "endDate": "-50",
+                        "preferredName": "Marib",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-49",
+                        "endDate": "2100",
+                        "preferredName": "Marib",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Marib",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Ma\u2019rib",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Seb\u0101",
+                        "language": "Turkish"
+                    }
+                ],
+                "mapPoint": [
+                    168022699.75893334,
+                    122572959.1204933
+                ],
+                "wikipediaArticleName": "Marib"
             }
         },
         {
@@ -35567,6 +36564,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "44.2005197",
+                    "15.342101"
+                ]
+            },
+            "properties": {
+                "identifier": "65ed2eade29ea483b7799397390209fad146daf1",
+                "city_base_id": "Sanaa",
+                "latitude": "15.342101",
+                "longitude": "44.2005197",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "50",
+                        "endDate": "2100",
+                        "preferredName": "Sanaa",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Sanaa",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    167176024.28085136,
+                    122638617.13516419
+                ],
+                "wikipediaArticleName": "Sanaa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "36.5727525",
                     "28.3880465"
                 ]
@@ -35650,6 +36686,1187 @@
                     117980303.60333191
                 ],
                 "wikipediaArticleName": "Taif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "43.315773",
+                    "14.1952705"
+                ]
+            },
+            "properties": {
+                "identifier": "e8577a3d17d6cf7d818664652f961128022626df",
+                "city_base_id": "Zabid",
+                "latitude": "14.1952705",
+                "longitude": "43.315773",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "820",
+                        "endDate": "1228",
+                        "preferredName": "Zabid",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1229",
+                        "endDate": "2100",
+                        "preferredName": "Zabid",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Zabid",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Zabida",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Taruda",
+                        "language": "Arabic"
+                    }
+                ],
+                "mapPoint": [
+                    166516309.32568747,
+                    123522989.32821888
+                ],
+                "wikipediaArticleName": "Zabid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.6591296",
+                    "15.2616612"
+                ]
+            },
+            "properties": {
+                "identifier": "92262fb99b3dde57f87d0575585c97bd627e1c00",
+                "city_base_id": "Adulis",
+                "latitude": "15.2616612",
+                "longitude": "39.6591296",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "50",
+                        "endDate": "700",
+                        "preferredName": "Adulis",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Adulis",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Adouli",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    163789718.38538638,
+                    122700801.93150607
+                ],
+                "wikipediaArticleName": "Adulis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "38.7212920204",
+                    "14.1338504591"
+                ]
+            },
+            "properties": {
+                "identifier": "bf78d8e72138b1c5e8ddfdf0714bffd3e8bd1879",
+                "city_base_id": "Aksum",
+                "latitude": "14.1338504591",
+                "longitude": "38.7212920204",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "50",
+                        "endDate": "850",
+                        "preferredName": "Aksum",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "851",
+                        "endDate": "1250",
+                        "preferredName": "Aksum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1251",
+                        "endDate": "1611",
+                        "preferredName": "Aksum",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1612",
+                        "endDate": "2100",
+                        "preferredName": "Aksum",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Aksum",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Axum",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Auxoume",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    163090416.00112566,
+                    123570223.49797529
+                ],
+                "wikipediaArticleName": "Axum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.0462032",
+                    "12.0355606"
+                ]
+            },
+            "properties": {
+                "identifier": "16704a70c1b327fe88dbb5d1dbe19b8efac5565a",
+                "city_base_id": "Lalibela",
+                "latitude": "12.0355606",
+                "longitude": "39.0462032",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "900",
+                        "endDate": "1400",
+                        "preferredName": "Lalibela",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Lalibela",
+                        "language": "Aharic"
+                    }
+                ],
+                "mapPoint": [
+                    163332687.33627963,
+                    125176626.66103889
+                ],
+                "wikipediaArticleName": "Lalibela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.4256591657",
+                    "14.675334944"
+                ]
+            },
+            "properties": {
+                "identifier": "ce61b24df67ad57b724e7bb1ffeecbad33498120",
+                "city_base_id": "Matara",
+                "latitude": "14.675334944",
+                "longitude": "39.4256591657",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-700",
+                        "endDate": "200",
+                        "preferredName": "Matara",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Matara",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    163615630.21179238,
+                    123153356.75435407
+                ],
+                "wikipediaArticleName": "Matara,_Eritrea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "80.24694",
+                    "41.22111"
+                ]
+            },
+            "properties": {
+                "identifier": "802d959c461b4475c7acd2a07a3e5cbb9b63b64e",
+                "city_base_id": "Aksu",
+                "latitude": "41.22111",
+                "longitude": "80.24694",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-100",
+                        "endDate": "2100",
+                        "preferredName": "Aksu",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Aksu",
+                        "language": "Uighur"
+                    },
+                    {
+                        "name": "Wensu",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Gumo",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Baluka",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    194054183.36529067,
+                    100424613.53667036
+                ],
+                "wikipediaArticleName": "Aksu_City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.0",
+                    "39.033333"
+                ]
+            },
+            "properties": {
+                "identifier": "b01bbad37659e0bdfe5a7e245420f53b44eae1da",
+                "city_base_id": "Charklik",
+                "latitude": "39.033333",
+                "longitude": "88.0",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-100",
+                        "endDate": "900",
+                        "preferredName": "Charklik",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Charklik",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Qakilik",
+                        "language": "Chinese"
+                    }
+                ],
+                "mapPoint": [
+                    199835283.91111112,
+                    102558451.01437804
+                ],
+                "wikipediaArticleName": "Charklik_(ancient_settlement)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "94.66227",
+                    "40.13799"
+                ]
+            },
+            "properties": {
+                "identifier": "6fe6df4fc0158c8645346d94a4f2d4706fd21ec6",
+                "city_base_id": "Dunhuang",
+                "latitude": "40.13799",
+                "longitude": "94.66227",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-104",
+                        "endDate": "2100",
+                        "preferredName": "Dunhuang",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Dunhuang",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Sachu",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Sh\u0101zh\u014du",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Sha-chou",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Tun-huang",
+                        "language": "Chinese"
+                    }
+                ],
+                "mapPoint": [
+                    204803032.48179203,
+                    101489615.79515073
+                ],
+                "wikipediaArticleName": "Dunhuang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "89.5285986529",
+                    "42.8550461114"
+                ]
+            },
+            "properties": {
+                "identifier": "970004f567cd7cf42db2acc9edc5f1a7b3ce9adc",
+                "city_base_id": "Gaochang",
+                "latitude": "42.8550461114",
+                "longitude": "89.5285986529",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "451",
+                        "endDate": "839",
+                        "preferredName": "Gaochang",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "840",
+                        "endDate": "1350",
+                        "preferredName": "Qocho",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Gaochang",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Qocho",
+                        "language": "Turkic"
+                    },
+                    {
+                        "name": "Khocho",
+                        "language": "Turkic"
+                    },
+                    {
+                        "name": "Kao-ch'ang",
+                        "language": "Chinese"
+                    }
+                ],
+                "mapPoint": [
+                    200975089.67897832,
+                    98784032.48246111
+                ],
+                "wikipediaArticleName": "Gaochang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "93.50601",
+                    "42.83393"
+                ]
+            },
+            "properties": {
+                "identifier": "103565e920506a50674c40cdad8d16bce4078352",
+                "city_base_id": "Hami",
+                "latitude": "42.83393",
+                "longitude": "93.50601",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-200",
+                        "endDate": "2100",
+                        "preferredName": "Hami",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Hami",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Kumul",
+                        "language": "Uighur"
+                    },
+                    {
+                        "name": "Qumul",
+                        "language": "Uighur"
+                    }
+                ],
+                "mapPoint": [
+                    203940862.53636268,
+                    98805507.20885742
+                ],
+                "wikipediaArticleName": "Hami"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "89.063889",
+                    "42.950556"
+                ]
+            },
+            "properties": {
+                "identifier": "0e7156bb6f1ee89082273c1edef21da011e387a9",
+                "city_base_id": "Jiaohe",
+                "latitude": "42.950556",
+                "longitude": "89.063889",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-108",
+                        "endDate": "450",
+                        "preferredName": "Jiaohe",
+                        "size": "2",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "451",
+                        "endDate": "1250",
+                        "preferredName": "Jiaohe",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Jiaohe",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Chiao-Ho",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Yar-Khoto",
+                        "language": "Turkic"
+                    }
+                ],
+                "mapPoint": [
+                    200628577.0468011,
+                    98686808.69815327
+                ],
+                "wikipediaArticleName": "Jiaohe_ruins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "75.97972",
+                    "39.45472"
+                ]
+            },
+            "properties": {
+                "identifier": "96684dd532227821555dda31a225f33260f534ee",
+                "city_base_id": "Kashgar",
+                "latitude": "39.45472",
+                "longitude": "75.97972",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-76",
+                        "endDate": "2100",
+                        "preferredName": "Kashgar",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kashgar",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Qeshqer",
+                        "language": "Uighur"
+                    },
+                    {
+                        "name": "K\u0101sh\u00ed",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Shufu",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Shule",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Su-lo",
+                        "language": "Chinese"
+                    }
+                ],
+                "mapPoint": [
+                    190872313.51375645,
+                    102152734.59207566
+                ],
+                "wikipediaArticleName": "Kashgar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "79.922825",
+                    "37.112392"
+                ]
+            },
+            "properties": {
+                "identifier": "c648f1f2399608ec9ee8db8a589310cfea612742",
+                "city_base_id": "Khotan",
+                "latitude": "37.112392",
+                "longitude": "79.922825",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-100",
+                        "endDate": "1006",
+                        "preferredName": "Khotan",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1007",
+                        "endDate": "2100",
+                        "preferredName": "Khotan",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Khotan",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Hotan",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Godana",
+                        "language": "Sanskrit"
+                    },
+                    {
+                        "name": "Y\u00fc-t'ien",
+                        "language": "Chinese"
+                    }
+                ],
+                "mapPoint": [
+                    193812505.70467556,
+                    104378137.7502375
+                ],
+                "wikipediaArticleName": "Hotan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "82.93639",
+                    "41.72778"
+                ]
+            },
+            "properties": {
+                "identifier": "38a05d8f63930533c13a93a919c2e3c6a87de0d9",
+                "city_base_id": "Kucha",
+                "latitude": "41.72778",
+                "longitude": "82.93639",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-150",
+                        "endDate": "620",
+                        "preferredName": "Kucha",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "621",
+                        "endDate": "1250",
+                        "preferredName": "Kucha",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kucha",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Kuqa",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Kuche",
+                        "language": "Uighur"
+                    },
+                    {
+                        "name": "Ch'iu-tz'u",
+                        "language": "Chinese"
+                    }
+                ],
+                "mapPoint": [
+                    196059582.6351218,
+                    99920371.84074566
+                ],
+                "wikipediaArticleName": "Kucha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "89.840644",
+                    "40.527633"
+                ]
+            },
+            "properties": {
+                "identifier": "23a4d18850313f7222319cee322140c12dc6f8e2",
+                "city_base_id": "Loulan",
+                "latitude": "40.527633",
+                "longitude": "89.840644",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-200",
+                        "endDate": "330",
+                        "preferredName": "Loulan",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Loulan",
+                        "language": "Chinese"
+                    }
+                ],
+                "mapPoint": [
+                    201207767.5540935,
+                    101108478.34112126
+                ],
+                "wikipediaArticleName": "Loulan_Kingdom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "88.939444",
+                    "39.234167"
+                ]
+            },
+            "properties": {
+                "identifier": "949de746fff8e32f2a3a8e0f5155f4fa711b8ddb",
+                "city_base_id": "Miran",
+                "latitude": "39.234167",
+                "longitude": "88.939444",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-200",
+                        "endDate": "900",
+                        "preferredName": "Miran",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Miran",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Yuni",
+                        "language": "Chinese"
+                    }
+                ],
+                "mapPoint": [
+                    200535784.12924019,
+                    102365389.6082243
+                ],
+                "wikipediaArticleName": "Miran_(Xinjiang)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "85.51217",
+                    "38.1687"
+                ]
+            },
+            "properties": {
+                "identifier": "9ad1da78ca341271393108de3cac2b9bd89949ed",
+                "city_base_id": "Qiemo",
+                "latitude": "38.1687",
+                "longitude": "85.51217",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-100",
+                        "endDate": "900",
+                        "preferredName": "Qiemo",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Qiemo",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Qarqan",
+                        "language": "Uighur"
+                    },
+                    {
+                        "name": "Charchan",
+                        "language": "Uighur"
+                    },
+                    {
+                        "name": "Ch'ieh-mo",
+                        "language": "Chinese"
+                    }
+                ],
+                "mapPoint": [
+                    197980223.40972087,
+                    103383432.7815469
+                ],
+                "wikipediaArticleName": "Qiemo_Town"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "79.96278",
+                    "41.36861"
+                ]
+            },
+            "properties": {
+                "identifier": "59a9d68461b905bf031ade741d9e01194e52e9e7",
+                "city_base_id": "Tumxuk",
+                "latitude": "41.36861",
+                "longitude": "79.96278",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "300",
+                        "endDate": "2100",
+                        "preferredName": "Tumxuk",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tumxuk",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    193842298.31202134,
+                    100278226.43133953
+                ],
+                "wikipediaArticleName": "Tumxuk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "89.16831",
+                    "42.9251"
+                ]
+            },
+            "properties": {
+                "identifier": "89f349642f013d960750c9286558d9ce48930745",
+                "city_base_id": "Turpan",
+                "latitude": "42.9251",
+                "longitude": "89.16831",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1251",
+                        "endDate": "2100",
+                        "preferredName": "Turpan",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Turpan",
+                        "language": "Uighur"
+                    },
+                    {
+                        "name": "Turfan",
+                        "language": "Chinese"
+                    }
+                ],
+                "mapPoint": [
+                    200706438.987776,
+                    98712736.22608444
+                ],
+                "wikipediaArticleName": "Turpan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "79.225",
+                    "41.15167"
+                ]
+            },
+            "properties": {
+                "identifier": "18aee66cf8b00c8cff4be5496578a52a0cbb5f10",
+                "city_base_id": "Uqturpan",
+                "latitude": "41.15167",
+                "longitude": "79.225",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "500",
+                        "endDate": "2100",
+                        "preferredName": "Uqturpan",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Uqturpan",
+                        "language": "Uighur"
+                    },
+                    {
+                        "name": "Ush",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Wushi",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Ush Turpan",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    193292169.67111114,
+                    100493415.28511444
+                ],
+                "wikipediaArticleName": "Uqturpan_County"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "87.60046",
+                    "43.80096"
+                ]
+            },
+            "properties": {
+                "identifier": "acc0ed90f4929b5a084c961c533a8854da00d0f9",
+                "city_base_id": "\u00dcr\u00fcmqi",
+                "latitude": "43.80096",
+                "longitude": "87.60046",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "600",
+                        "endDate": "900",
+                        "preferredName": "Luntai",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "901",
+                        "endDate": "1750",
+                        "preferredName": "\u00dcr\u00fcmqi",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1751",
+                        "endDate": "1953",
+                        "preferredName": "Dihua",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1954",
+                        "endDate": "2100",
+                        "preferredName": "\u00dcr\u00fcmqi",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "\u00dcr\u00fcmqi",
+                        "language": "Turkic"
+                    },
+                    {
+                        "name": "Dihua",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Tihwa",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Luntai",
+                        "language": "Chinese"
+                    }
+                ],
+                "mapPoint": [
+                    199537365.29419377,
+                    97814400.31252323
+                ],
+                "wikipediaArticleName": "\u00dcr\u00fcmqi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "86.56632",
+                    "42.06204"
+                ]
+            },
+            "properties": {
+                "identifier": "9c98f5130db31f91d64057ca39afdbce4d224029",
+                "city_base_id": "Yanqi",
+                "latitude": "42.06204",
+                "longitude": "86.56632",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "850",
+                        "preferredName": "Agni",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "851",
+                        "endDate": "2100",
+                        "preferredName": "Karasahr",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Yanqi",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Karashahr",
+                        "language": "Uighur"
+                    },
+                    {
+                        "name": "Arshi",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Yen-ch'i",
+                        "language": "Chinese"
+                    }
+                ],
+                "mapPoint": [
+                    198766254.62067202,
+                    99585534.39246693
+                ],
+                "wikipediaArticleName": "Karashahr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "77.24056",
+                    "38.41667"
+                ]
+            },
+            "properties": {
+                "identifier": "5ae7c5fd0a547ac08c1f2fe9129ad146902b73e8",
+                "city_base_id": "Yarkand",
+                "latitude": "38.41667",
+                "longitude": "77.24056",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "2100",
+                        "preferredName": "Yarkand",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Yarkand",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Shache",
+                        "language": "Chinese"
+                    },
+                    {
+                        "name": "Yarkent",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    191812463.9591538,
+                    103147847.81139588
+                ],
+                "wikipediaArticleName": "Yarkant_County"
             }
         }
     ]
