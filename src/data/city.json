@@ -25876,7 +25876,7 @@
                         "endDate": "2100",
                         "preferredName": "Ponferrada",
                         "size": "4",
-                        "tagPosition": "3",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     }
                 ],
@@ -25946,6 +25946,45 @@
                     100495455.23713765
                 ],
                 "wikipediaArticleName": "Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-6.284907",
+                    "42.482355"
+                ]
+            },
+            "properties": {
+                "identifier": "6182c1d1d30d1d34b62b4de36f8b3c71bd1191e1",
+                "city_base_id": "Rabanal del Camino",
+                "latitude": "42.482355",
+                "longitude": "-6.284907",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1050",
+                        "endDate": "2100",
+                        "preferredName": "Rabanal del Camino",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Rabanal del Camino",
+                        "language": "Spanish"
+                    }
+                ],
+                "mapPoint": [
+                    129531361.6764928,
+                    99161981.13654265
+                ],
+                "wikipediaArticleName": "Rabanal del Camino"
             }
         },
         {
@@ -37867,6 +37906,947 @@
                     103147847.81139588
                 ],
                 "wikipediaArticleName": "Yarkant_County"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "7.99111",
+                    "16.97333"
+                ]
+            },
+            "properties": {
+                "identifier": "012cd42dc304de1efae26ad5b1a90ae65c799319",
+                "city_base_id": "Agadez",
+                "latitude": "16.97333",
+                "longitude": "7.99111",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1250",
+                        "endDate": "2100",
+                        "preferredName": "Agadez",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Agadez",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Agad\u00e8s",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    140176331.49110043,
+                    121372212.82400504
+                ],
+                "wikipediaArticleName": "Agadez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-10.416667",
+                    "17.416667"
+                ]
+            },
+            "properties": {
+                "identifier": "b50b5fd0d68806e9b33b7e985b5855d8ea012cb7",
+                "city_base_id": "Aoudaghost",
+                "latitude": "17.416667",
+                "longitude": "-10.416667",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "850",
+                        "endDate": "1200",
+                        "preferredName": "Aoudaghost",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Aoudaghost",
+                        "language": "Berber"
+                    }
+                ],
+                "mapPoint": [
+                    126450498.12181903,
+                    121026169.10353436
+                ],
+                "wikipediaArticleName": "Aoudaghost"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-2.475304",
+                    "7.841192"
+                ]
+            },
+            "properties": {
+                "identifier": "f024d5d653490e683157854bd4921610a7d15098",
+                "city_base_id": "Begho",
+                "latitude": "7.841192",
+                "longitude": "-2.475304",
+                "elevation": "0",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "1050",
+                        "endDate": "1800",
+                        "preferredName": "Begho",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Begho",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Nsoko",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Insoco",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    132372007.5611705,
+                    128352574.52815382
+                ],
+                "wikipediaArticleName": "Begho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.91643",
+                    "18.68532"
+                ]
+            },
+            "properties": {
+                "identifier": "79aa02db88fd42517b180a5273a443f6d1bd0568",
+                "city_base_id": "Bilma",
+                "latitude": "18.68532",
+                "longitude": "12.91643",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1150",
+                        "endDate": "2100",
+                        "preferredName": "Bilma",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Bilma",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    143848916.26928356,
+                    120031198.06557636
+                ],
+                "wikipediaArticleName": "Bilma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4.2979",
+                    "11.17715"
+                ]
+            },
+            "properties": {
+                "identifier": "1ee9f3889c26242b4fa32824645d10c6105f6dc6",
+                "city_base_id": "Bobo-Dioulasso",
+                "latitude": "11.17715",
+                "longitude": "-4.2979",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1400",
+                        "endDate": "2100",
+                        "preferredName": "Bobo-Dioulasso",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Bobo-Dioulasso",
+                        "language": "Dyula"
+                    },
+                    {
+                        "name": "Sia",
+                        "language": "Mossi"
+                    }
+                ],
+                "mapPoint": [
+                    131012981.48238222,
+                    125830071.51452558
+                ],
+                "wikipediaArticleName": "Bobo-Dioulasso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-1.846111",
+                    "7.701111"
+                ]
+            },
+            "properties": {
+                "identifier": "982df035b456831e238fcf44b9f58d3bd59cbfcb",
+                "city_base_id": "Bono Manso",
+                "latitude": "7.701111",
+                "longitude": "-1.846111",
+                "elevation": "0",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "1000",
+                        "endDate": "1500",
+                        "preferredName": "Bono Manso",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Bono Manso",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Manso",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Maaso",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    132841167.86635663,
+                    128457994.69308741
+                ],
+                "wikipediaArticleName": "Bono Manso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4.55332",
+                    "13.90608"
+                ]
+            },
+            "properties": {
+                "identifier": "d6bf18e7044bf39403259537b3dc7137599935af",
+                "city_base_id": "Djenn\u00e9",
+                "latitude": "13.90608",
+                "longitude": "-4.55332",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "300",
+                        "endDate": "2100",
+                        "preferredName": "Djenn\u00e9",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Djenn\u00e9",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Jenne",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Djoboro",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Djeno",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Jeno",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    130822526.52635022,
+                    123745276.16742429
+                ],
+                "wikipediaArticleName": "Djenn\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.04472",
+                    "16.27167"
+                ]
+            },
+            "properties": {
+                "identifier": "ee0b432772b9032a8b0ca08a67fbdb9328e49c0c",
+                "city_base_id": "Gao",
+                "latitude": "16.27167",
+                "longitude": "-0.04472",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "700",
+                        "endDate": "919",
+                        "preferredName": "Gao",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "920",
+                        "endDate": "1280",
+                        "preferredName": "Gao",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1281",
+                        "endDate": "1463",
+                        "preferredName": "Gao",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1464",
+                        "endDate": "1590",
+                        "preferredName": "Gao",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1591",
+                        "endDate": "2100",
+                        "preferredName": "Gao",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Gao",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Kawkaw",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Gawgaw",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    134184382.35113244,
+                    121918230.1888519
+                ],
+                "wikipediaArticleName": "Gao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-8.41667",
+                    "11.93333"
+                ]
+            },
+            "properties": {
+                "identifier": "da459c0fad967cf0cb17a8b5987caa3ce1cdceb4",
+                "city_base_id": "Kangaba",
+                "latitude": "11.93333",
+                "longitude": "-8.41667",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1050",
+                        "endDate": "1444",
+                        "preferredName": "Kangaba",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kangaba",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Kaba",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    127941803.97374578,
+                    125254553.8323657
+                ],
+                "wikipediaArticleName": "Kangaba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.51672",
+                    "12.00012"
+                ]
+            },
+            "properties": {
+                "identifier": "37ff8bc8c5447d26c3a23de8a9894d5e2e27abf6",
+                "city_base_id": "Kano",
+                "latitude": "12.00012",
+                "longitude": "8.51672",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1000",
+                        "endDate": "2100",
+                        "preferredName": "Kano",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kano",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    140568254.7134009,
+                    125203645.2598423
+                ],
+                "wikipediaArticleName": "Kano_(city)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "7.60063",
+                    "12.98943"
+                ]
+            },
+            "properties": {
+                "identifier": "d50508dc21c38f04354e5a058f6ddf5d61aecdfa",
+                "city_base_id": "Katsina",
+                "latitude": "12.98943",
+                "longitude": "7.60063",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1445",
+                        "endDate": "1904",
+                        "preferredName": "Katsina",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1905",
+                        "endDate": "2100",
+                        "preferredName": "Katsina",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1100",
+                        "endDate": "2100",
+                        "preferredName": "Katsina",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Katsina",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    139885168.49982578,
+                    124448056.63635463
+                ],
+                "wikipediaArticleName": "Katsina_(city)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4.616667",
+                    "9.15"
+                ]
+            },
+            "properties": {
+                "identifier": "0000525b05603056946c43e3fb56df9606277042",
+                "city_base_id": "Kong",
+                "latitude": "9.15",
+                "longitude": "-4.616667",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1300",
+                        "endDate": "1709",
+                        "preferredName": "Kong",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1710",
+                        "endDate": "1890",
+                        "preferredName": "Kong",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1891",
+                        "endDate": "2100",
+                        "preferredName": "Kong",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kong",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Kpon",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    130775291.5795968,
+                    127365806.80021332
+                ],
+                "wikipediaArticleName": "Kong,_Ivory_Coast"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.96870955355",
+                    "15.7656836609"
+                ]
+            },
+            "properties": {
+                "identifier": "51097aa853e135f0c2cd21e570406e35f577bd89",
+                "city_base_id": "Koumbi Saleh",
+                "latitude": "15.7656836609",
+                "longitude": "-7.96870955355",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "500",
+                        "endDate": "1049",
+                        "preferredName": "Koumbi Saleh",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1050",
+                        "endDate": "1235",
+                        "preferredName": "Koumbi Saleh",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1236",
+                        "endDate": "1380",
+                        "preferredName": "Koumbi Saleh",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Koumbi Saleh",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "El-Ghaba",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    128275827.49239236,
+                    122310763.75088468
+                ],
+                "wikipediaArticleName": "Koumbi_Saleh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-7.025",
+                    "17.3"
+                ]
+            },
+            "properties": {
+                "identifier": "6f7c0cf970e910141d0ea0755036ef6b5e117730",
+                "city_base_id": "Oualata",
+                "latitude": "17.3",
+                "longitude": "-7.025",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "800",
+                        "endDate": "2100",
+                        "preferredName": "Oualata",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Oualata",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Walata",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Biru",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    128979508.33777778,
+                    121117313.27115542
+                ],
+                "wikipediaArticleName": "Oualata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "1.053198885784239",
+                    "18.515831006892768"
+                ]
+            },
+            "properties": {
+                "identifier": "1039315123e46ba4d0790d55a14c7e3ef1a17490",
+                "city_base_id": "Tadmekka",
+                "latitude": "18.515831006892768",
+                "longitude": "1.053198885784239",
+                "elevation": "0",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "900",
+                        "endDate": "1500",
+                        "preferredName": "Tadmekka",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tadmekka",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Tadmakka",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    135003050.00878942,
+                    120164543.5491312
+                ],
+                "wikipediaArticleName": "Tadmekka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-4.623325288590107",
+                    "22.870380142411285"
+                ]
+            },
+            "properties": {
+                "identifier": "4824699859b922fe9faae6df256f683c0804efc0",
+                "city_base_id": "Taghaza",
+                "latitude": "22.870380142411285",
+                "longitude": "-4.623325288590107",
+                "elevation": "0",
+                "prefix": "medieval",
+                "periods": [
+                    {
+                        "startDate": "1200",
+                        "endDate": "1600",
+                        "preferredName": "Taghaza",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Taghaza",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Taghara",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Teghaza",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    130770326.79978052,
+                    116692561.8835498
+                ],
+                "wikipediaArticleName": "Taghaza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-3.00742",
+                    "16.77348"
+                ]
+            },
+            "properties": {
+                "identifier": "46ec7bb851da023feca25cd5154ce5d0af0eb6e0",
+                "city_base_id": "Timbuktu",
+                "latitude": "16.77348",
+                "longitude": "-3.00742",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1080",
+                        "endDate": "1379",
+                        "preferredName": "Timbuktu",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1380",
+                        "endDate": "1591",
+                        "preferredName": "Timbuktu",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1592",
+                        "endDate": "2100",
+                        "preferredName": "Timbuktu",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Timbuktu",
+                        "language": "Songhay"
+                    }
+                ],
+                "mapPoint": [
+                    131975233.1136569,
+                    121527936.00373533
+                ],
+                "wikipediaArticleName": "Timbuktu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.00991",
+                    "9.44272"
+                ]
+            },
+            "properties": {
+                "identifier": "46e48fb93ca648eaecfd2dc4fa631d17182650a0",
+                "city_base_id": "Yendi",
+                "latitude": "9.44272",
+                "longitude": "-0.00991",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1420",
+                        "endDate": "2100",
+                        "preferredName": "Yendi",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Yendi",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Yani",
+                        "language": "Dagbani"
+                    }
+                ],
+                "mapPoint": [
+                    134210338.56841956,
+                    127144633.80796596
+                ],
+                "wikipediaArticleName": "Yendi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "7.7227",
+                    "11.11128"
+                ]
+            },
+            "properties": {
+                "identifier": "f0823d973442b456ed4a1e1d461722bf0abf202d",
+                "city_base_id": "Zaria",
+                "latitude": "11.11128",
+                "longitude": "7.7227",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1010",
+                        "endDate": "1400",
+                        "preferredName": "Zaria",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1401",
+                        "endDate": "1902",
+                        "preferredName": "Zaria",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1903",
+                        "endDate": "2100",
+                        "preferredName": "Zaria",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Zaria",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Zazzau",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    139976190.4890311,
+                    125880131.69394633
+                ],
+                "wikipediaArticleName": "Zaria"
             }
         }
     ]
