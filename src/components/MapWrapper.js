@@ -57,7 +57,7 @@ const tagOffsetY = [0, 0, 0, 0, -7, 0, 0, 7];
 const tagFont = ['17px sans-serif', '15px sans-serif', '14px sans-serif', '13px sans-serif', '11px sans-serif'];
 const createTextStyle = function(feature) {
     const tagPosition = feature.get('tagPosition');
-    const size = feature.get('size');
+    const size = Math.ceil(feature.get('size'));
 
     let offsetX = tagOffsetX[tagPosition];
     if (size === '4') {
@@ -84,12 +84,12 @@ const circleImage3 = new CircleStyle({ radius: 4, fill: new Fill({ color: 'white
 const circleImage4 = new CircleStyle({ radius: 3, fill: new Fill({ color: 'white' }), stroke: new Stroke({ color: 'black', width: 1 })});
 const circleImages = [circleImage0, circleImage1, circleImage2, circleImage3, circleImage4];
 const createImageStyle = function(feature) {
-    return circleImages[feature.get('size')];
+    return circleImages[Math.ceil(feature.get('size'))];
 }
 
 const zIndexBySize = [100, 90, 80, 70, 60];
 const createZIndex = function(feature) {
-    return zIndexBySize[feature.get('size')];
+    return zIndexBySize[Math.ceil(feature.get('size'))];
 }
 
 const circleGhostImage0 = new CircleStyle({ radius: 6, fill: new Fill({ color: 'white' }), stroke: new Stroke({ color: 'black', width: 0.5 })});
@@ -99,17 +99,21 @@ const circleGhostImage3 = new CircleStyle({ radius: 3, fill: new Fill({ color: '
 const circleGhostImage4 = new CircleStyle({ radius: 2, fill: new Fill({ color: 'white' }), stroke: new Stroke({ color: 'black', width: 0.5 })});
 const circleGhostImages = [circleGhostImage0, circleGhostImage1, circleGhostImage2, circleGhostImage3, circleGhostImage4];
 const createGhostImageStyle = function(feature) {
-    return circleGhostImages[feature.get('size')];
+    return circleGhostImages[Math.ceil(feature.get('size'))];
 }
 
 const ghostZIndexBySize = [25, 20, 15, 10, 5];
 const createGhostZIndex = function(feature) {
-    return ghostZIndexBySize[feature.get('size')];
+    return ghostZIndexBySize[Math.ceil(feature.get('size'))];
 }
 
-const featureResolutionThreshold = [20000, 8000, 4000, 2000, 1000];
+const sizeArray = Array.from({ length: 50 }, (value, index) => index);
+const featureResolutionThreshold = Array.from(sizeArray, (x) => 500 * Math.pow(2, (50-x)/10));
+console.log(featureResolutionThreshold);
+//const featureResolutionThreshold = [20000, 8000, 4000, 2000, 1000];
 function getFeatureStyle(feature, resolution) {
-    if (resolution < featureResolutionThreshold[feature.get('size')]) {
+    const citySize = feature.get('size');
+    if (resolution < featureResolutionThreshold[citySize * 10]) {
         return new Style({ image: createImageStyle(feature), text: createTextStyle(feature), zIndex: createZIndex(feature) });
     }
     else {
@@ -123,7 +127,7 @@ function getFeatureStyle(feature, resolution) {
 }
 
 function isFeatureVisibleAtResolution(feature, resolution) {
-    return resolution < featureResolutionThreshold[feature.get('size')];
+    return resolution < featureResolutionThreshold[feature.get('size') * 10];
 }
 
 function getLayerByName(map, name) {
