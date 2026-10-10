@@ -2677,6 +2677,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "13.8223437955",
+                    "37.9698366164"
+                ]
+            },
+            "properties": {
+                "identifier": "3262201f6cd8acb21b18b7b4eb0371ca57ef6df2",
+                "city_base_id": "Himera",
+                "latitude": "37.9698366164",
+                "longitude": "13.8223437955",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-648",
+                        "endDate": "-409",
+                        "preferredName": "Himera",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Himera",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    144524414.55481616,
+                    103571785.22776404
+                ],
+                "wikipediaArticleName": "Himera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "7.87617",
                     "45.46723"
                 ]
@@ -5565,6 +5604,65 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "13.6962535",
+                    "37.9851965"
+                ]
+            },
+            "properties": {
+                "identifier": "4868800c7a70e80e07679388606d33fdab9c77db",
+                "city_base_id": "Termini Imerese",
+                "latitude": "37.9851965",
+                "longitude": "13.6962535",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-405",
+                        "endDate": "600",
+                        "preferredName": "Thermae Himeraeae",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "601",
+                        "endDate": "2100",
+                        "preferredName": "Termini Imerese",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Termini Imerese",
+                        "language": "Italian"
+                    },
+                    {
+                        "name": "T\u00e8rmini",
+                        "language": "Italian"
+                    },
+                    {
+                        "name": "Thermae Himeraeae",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Thermae",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    144430394.8160114,
+                    103557255.41335447
+                ],
+                "wikipediaArticleName": "Termini_Imerese"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "13.24127",
                     "41.28967"
                 ]
@@ -6105,6 +6203,57 @@
                     95855803.34211206
                 ],
                 "wikipediaArticleName": "Treviso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.7717",
+                    "45.649148"
+                ]
+            },
+            "properties": {
+                "identifier": "68ac508952e7f92011c0d5f60f9d9a49fc3e1e5f",
+                "city_base_id": "Trieste",
+                "latitude": "45.649148",
+                "longitude": "13.7717",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-200",
+                        "endDate": "787",
+                        "preferredName": "Tergeste",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "788",
+                        "endDate": "2100",
+                        "preferredName": "Trieste",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Trieste",
+                        "language": "Italian"
+                    },
+                    {
+                        "name": "Tergeste",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    144486651.80387557,
+                    95874496.41187091
+                ],
+                "wikipediaArticleName": "Trieste"
             }
         },
         {
@@ -11926,6 +12075,57 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "26.75656",
+                    "38.6703"
+                ]
+            },
+            "properties": {
+                "identifier": "1c598653119b5ae0073f92eae3d6ac9af58cfffa",
+                "city_base_id": "Fo\u00e7a",
+                "latitude": "38.6703",
+                "longitude": "26.75656",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-800",
+                        "endDate": "1455",
+                        "preferredName": "Phocaea",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1456",
+                        "endDate": "2100",
+                        "preferredName": "Fo\u00e7a",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Fo\u00e7a",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Phocaea",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    154168865.17942044,
+                    102906047.51852459
+                ],
+                "wikipediaArticleName": "Phocaea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "26.67083",
                     "40.41028"
                 ]
@@ -11970,6 +12170,73 @@
                     101223501.52515101
                 ],
                 "wikipediaArticleName": "Gelibolu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "38.397931",
+                    "40.919134"
+                ]
+            },
+            "properties": {
+                "identifier": "b43ded1866f115cc4702636bfb507490d37dea7d",
+                "city_base_id": "Giresun",
+                "latitude": "40.919134",
+                "longitude": "38.397931",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-180",
+                        "endDate": "1470",
+                        "preferredName": "Kerasous",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1471",
+                        "endDate": "1930",
+                        "preferredName": "Kerasunt",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1931",
+                        "endDate": "2100",
+                        "preferredName": "Giresun",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Giresun",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Kerasunt",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Kerasous",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Pharnakeia",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    162849300.5484487,
+                    100723285.06203467
+                ],
+                "wikipediaArticleName": "Giresun"
             }
         },
         {
@@ -13007,7 +13274,7 @@
                         "endDate": "-499",
                         "preferredName": "Miletus",
                         "size": "1",
-                        "tagPosition": "1",
+                        "tagPosition": "3",
                         "calcTagPosition": 0
                     },
                     {
@@ -13015,7 +13282,7 @@
                         "endDate": "1300",
                         "preferredName": "Miletus",
                         "size": "2",
-                        "tagPosition": "1",
+                        "tagPosition": "3",
                         "calcTagPosition": 0
                     },
                     {
@@ -13023,7 +13290,7 @@
                         "endDate": "1400",
                         "preferredName": "Miletus",
                         "size": "4",
-                        "tagPosition": "1",
+                        "tagPosition": "3",
                         "calcTagPosition": 0
                     }
                 ],
@@ -13348,7 +13615,7 @@
                         "endDate": "620",
                         "preferredName": "Pergamon",
                         "size": "2",
-                        "tagPosition": "1",
+                        "tagPosition": "0",
                         "calcTagPosition": 0
                     },
                     {
@@ -13356,7 +13623,7 @@
                         "endDate": "1400",
                         "preferredName": "Pergamon",
                         "size": "3",
-                        "tagPosition": "1",
+                        "tagPosition": "0",
                         "calcTagPosition": 0
                     }
                 ],
@@ -14899,6 +15166,49 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "28.94022595",
+                    "44.7580940976"
+                ]
+            },
+            "properties": {
+                "identifier": "06ec86db8d64a411ef7f72013060f393c9dcf7e4",
+                "city_base_id": "Argamum",
+                "latitude": "44.7580940976",
+                "longitude": "28.94022595",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-650",
+                        "endDate": "650",
+                        "preferredName": "Argamum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Argamum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Orgame",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    155797124.52675357,
+                    96817511.25103958
+                ],
+                "wikipediaArticleName": "Argamum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "19.05",
                     "47.466667"
                 ]
@@ -14986,6 +15296,61 @@
                     93868735.98819533
                 ],
                 "wikipediaArticleName": "Budapest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.867891",
+                    "48.113346"
+                ]
+            },
+            "properties": {
+                "identifier": "da9b3bb4808eb9b046b9bab5adaaa8416c9f3a15",
+                "city_base_id": "Carnuntum",
+                "latitude": "48.113346",
+                "longitude": "16.867891",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "10",
+                        "endDate": "102",
+                        "preferredName": "Carnuntum",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "103",
+                        "endDate": "375",
+                        "preferredName": "Carnuntum",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "376",
+                        "endDate": "400",
+                        "preferredName": "Carnuntum",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Carnuntum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    146795339.14539805,
+                    93185586.60976377
+                ],
+                "wikipediaArticleName": "Carnuntum"
             }
         },
         {
@@ -15443,7 +15808,7 @@
                         "endDate": "650",
                         "preferredName": "Histria",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "5",
                         "calcTagPosition": 0
                     }
                 ],
@@ -15642,6 +16007,65 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "27.7244435",
+                    "42.65958"
+                ]
+            },
+            "properties": {
+                "identifier": "af42f5fe9b65d31a2c29a525dd9b7a1bb3ebc58b",
+                "city_base_id": "Nesebar",
+                "latitude": "42.65958",
+                "longitude": "27.7244435",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "1453",
+                        "preferredName": "Mesembria",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1454",
+                        "endDate": "1933",
+                        "preferredName": "Mesembria",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1934",
+                        "endDate": "2100",
+                        "preferredName": "Nesebar",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Nesebar",
+                        "language": "Bulgarian"
+                    },
+                    {
+                        "name": "Mesembria",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    154890571.4257465,
+                    98982538.56927866
+                ],
+                "wikipediaArticleName": "Nesebar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "21.90333",
                     "43.32472"
                 ]
@@ -15694,6 +16118,65 @@
                     98304469.11767483
                 ],
                 "wikipediaArticleName": "Ni\u0161"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.562104",
+                    "45.315245"
+                ]
+            },
+            "properties": {
+                "identifier": "c49d242b780b0d02023bc3ee70e26f321c9b2091",
+                "city_base_id": "Novigrad",
+                "latitude": "45.315245",
+                "longitude": "13.562104",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-500",
+                        "endDate": "787",
+                        "preferredName": "Neapolis",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "788",
+                        "endDate": "2100",
+                        "preferredName": "Novigrad",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Novigrad",
+                        "language": "Croatian"
+                    },
+                    {
+                        "name": "Neapolis",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Novigrad Istarski",
+                        "language": "Croatian"
+                    },
+                    {
+                        "name": "Emonia",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    144330365.6987762,
+                    96229604.44979435
+                ],
+                "wikipediaArticleName": "Novigrad,_Istria_County"
             }
         },
         {
@@ -16054,6 +16537,85 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "13.5948985",
+                    "45.227354"
+                ]
+            },
+            "properties": {
+                "identifier": "90018344cc2c63d41650e19263576e107d9c433d",
+                "city_base_id": "Pore\u010d",
+                "latitude": "45.227354",
+                "longitude": "13.5948985",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-50",
+                        "endDate": "200",
+                        "preferredName": "Colonia Iulia Parentium",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "201",
+                        "endDate": "787",
+                        "preferredName": "Parentium",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "788",
+                        "endDate": "1947",
+                        "preferredName": "Parenso",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1948",
+                        "endDate": "2100",
+                        "preferredName": "Pore\u010d",
+                        "size": "4",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Pore\u010d",
+                        "language": "Croatian"
+                    },
+                    {
+                        "name": "Parentium",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "P\u00e1renthos",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Parenso",
+                        "language": "Italian"
+                    },
+                    {
+                        "name": "Colonia Iulia Parentium",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    144354819.05033672,
+                    96322728.76529408
+                ],
+                "wikipediaArticleName": "Pore\u010d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "26.81667",
                     "43.16667"
                 ]
@@ -16169,6 +16731,57 @@
                     95046464.0056462
                 ],
                 "wikipediaArticleName": "Ptuj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.841124",
+                    "44.869567"
+                ]
+            },
+            "properties": {
+                "identifier": "f888bc8491f1585c9b07f171c7e339945819406b",
+                "city_base_id": "Pula",
+                "latitude": "44.869567",
+                "longitude": "13.841124",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-200",
+                        "endDate": "787",
+                        "preferredName": "Pola",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "788",
+                        "endDate": "2100",
+                        "preferredName": "Pula",
+                        "size": "3",
+                        "tagPosition": "3",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Pula",
+                        "language": "Croatian"
+                    },
+                    {
+                        "name": "Pola",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    144538418.09025708,
+                    96700341.54952085
+                ],
+                "wikipediaArticleName": "Pula"
             }
         },
         {
@@ -33915,7 +34528,7 @@
                         "startDate": "646",
                         "endDate": "2100",
                         "preferredName": "al-Khums",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -33958,7 +34571,7 @@
                         "startDate": "972",
                         "endDate": "1528",
                         "preferredName": "Algiers",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -33966,7 +34579,7 @@
                         "startDate": "1529",
                         "endDate": "2100",
                         "preferredName": "Algiers",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -34009,7 +34622,7 @@
                         "startDate": "-750",
                         "endDate": "600",
                         "preferredName": "Hippo Regius",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -34017,7 +34630,7 @@
                         "startDate": "601",
                         "endDate": "2100",
                         "preferredName": "Annaba",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -34068,7 +34681,7 @@
                         "startDate": "-96",
                         "endDate": "643",
                         "preferredName": "Apollonia",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -34111,7 +34724,7 @@
                         "startDate": "-600",
                         "endDate": "-247",
                         "preferredName": "Euesperides",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     },
@@ -34119,7 +34732,7 @@
                         "startDate": "-246",
                         "endDate": "642",
                         "preferredName": "Berenice",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     },
@@ -34127,7 +34740,7 @@
                         "startDate": "643",
                         "endDate": "1910",
                         "preferredName": " Benghazi",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     },
@@ -34135,7 +34748,7 @@
                         "startDate": "1911",
                         "endDate": "2100",
                         "preferredName": "Benghazi",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     }
@@ -34182,7 +34795,7 @@
                         "startDate": "-750",
                         "endDate": "700",
                         "preferredName": "Cartennae",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     }
@@ -34233,7 +34846,7 @@
                         "startDate": "-800",
                         "endDate": "-351",
                         "preferredName": "Carthage",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -34241,7 +34854,7 @@
                         "startDate": "-350",
                         "endDate": "-146",
                         "preferredName": "Carthage",
-                        "size": "1",
+                        "size": 0.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -34249,7 +34862,7 @@
                         "startDate": "-44",
                         "endDate": "697",
                         "preferredName": "Carthage",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -34292,7 +34905,7 @@
                         "startDate": "-15",
                         "endDate": "743",
                         "preferredName": "Anfus",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     },
@@ -34300,7 +34913,7 @@
                         "startDate": "744",
                         "endDate": "1769",
                         "preferredName": "Anfa",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     },
@@ -34308,7 +34921,7 @@
                         "startDate": "1770",
                         "endDate": "1906",
                         "preferredName": "ad-D\u0101r al-Bay\u1e0d\u0101\u02be",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     },
@@ -34316,7 +34929,7 @@
                         "startDate": "1907",
                         "endDate": "2100",
                         "preferredName": "Casablanca",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     }
@@ -34367,7 +34980,7 @@
                         "startDate": "-400",
                         "endDate": "-47",
                         "preferredName": "Abyla",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     },
@@ -34375,7 +34988,7 @@
                         "startDate": "-46",
                         "endDate": "709",
                         "preferredName": "Septem",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     },
@@ -34383,7 +34996,7 @@
                         "startDate": "710",
                         "endDate": "1414",
                         "preferredName": "Sabtah",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     },
@@ -34391,7 +35004,7 @@
                         "startDate": "1415",
                         "endDate": "2100",
                         "preferredName": "Ceuta",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     }
@@ -34442,7 +35055,7 @@
                         "startDate": "-631",
                         "endDate": "-97",
                         "preferredName": "Kyrene",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     },
@@ -34450,7 +35063,7 @@
                         "startDate": "-96",
                         "endDate": "292",
                         "preferredName": "Cyrene",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     },
@@ -34458,7 +35071,7 @@
                         "startDate": "293",
                         "endDate": "364",
                         "preferredName": "Cyrene",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     },
@@ -34466,7 +35079,7 @@
                         "startDate": "365",
                         "endDate": "643",
                         "preferredName": "Cyrene",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     }
@@ -34513,7 +35126,7 @@
                         "startDate": "789",
                         "endDate": "1249",
                         "preferredName": "Fez",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -34521,7 +35134,7 @@
                         "startDate": "1250",
                         "endDate": "1471",
                         "preferredName": "Fez",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -34529,7 +35142,7 @@
                         "startDate": "1472",
                         "endDate": "1756",
                         "preferredName": "Fez",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -34537,7 +35150,7 @@
                         "startDate": "1757",
                         "endDate": "2100",
                         "preferredName": "Fez",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -34584,7 +35197,7 @@
                         "startDate": "-100",
                         "endDate": "700",
                         "preferredName": "Cydamus",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -34592,7 +35205,7 @@
                         "startDate": "701",
                         "endDate": "2100",
                         "preferredName": "Ghadames",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -34639,7 +35252,7 @@
                         "startDate": "-250",
                         "endDate": "68",
                         "preferredName": "Icosium",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -34647,7 +35260,7 @@
                         "startDate": "69",
                         "endDate": "650",
                         "preferredName": "Icosium",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -34690,7 +35303,7 @@
                         "startDate": "670",
                         "endDate": "1056",
                         "preferredName": "Kairouan",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -34698,7 +35311,7 @@
                         "startDate": "1057",
                         "endDate": "1349",
                         "preferredName": "Kairouan",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -34706,7 +35319,7 @@
                         "startDate": "1350",
                         "endDate": "2100",
                         "preferredName": "Kairouan",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -34749,7 +35362,7 @@
                         "startDate": "-650",
                         "endDate": "-147",
                         "preferredName": "Leptis",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -34757,7 +35370,7 @@
                         "startDate": "-146",
                         "endDate": "600",
                         "preferredName": "Leptis Magna",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -34816,7 +35429,7 @@
                         "startDate": "-650",
                         "endDate": "1350",
                         "preferredName": "Lixus",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     }
@@ -34859,7 +35472,7 @@
                         "startDate": "-240",
                         "endDate": "364",
                         "preferredName": "Ptolemais",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     },
@@ -34867,7 +35480,7 @@
                         "startDate": "365",
                         "endDate": "550",
                         "preferredName": "Ptolemais",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     },
@@ -34875,7 +35488,7 @@
                         "startDate": "551",
                         "endDate": "650",
                         "preferredName": "Ptolemais",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     },
@@ -34883,7 +35496,7 @@
                         "startDate": "651",
                         "endDate": "1050",
                         "preferredName": "Barqah",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     }
@@ -34930,7 +35543,7 @@
                         "startDate": "1150",
                         "endDate": "1199",
                         "preferredName": "Rabat",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "3",
                         "calcTagPosition": 0
                     },
@@ -34938,7 +35551,7 @@
                         "startDate": "1200",
                         "endDate": "1608",
                         "preferredName": "Rabat",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "3",
                         "calcTagPosition": 0
                     },
@@ -34946,7 +35559,7 @@
                         "startDate": "1609",
                         "endDate": "2100",
                         "preferredName": "Rabat",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "3",
                         "calcTagPosition": 0
                     }
@@ -34993,7 +35606,7 @@
                         "startDate": "-500",
                         "endDate": "-146",
                         "preferredName": "Tsabratan",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "3",
                         "calcTagPosition": 0
                     },
@@ -35001,7 +35614,7 @@
                         "startDate": "-145",
                         "endDate": "650",
                         "preferredName": "Sabrata",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "3",
                         "calcTagPosition": 0
                     }
@@ -35048,7 +35661,7 @@
                         "startDate": "-250",
                         "endDate": "450",
                         "preferredName": "Sala",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     }
@@ -35099,7 +35712,7 @@
                         "startDate": "1030",
                         "endDate": "2100",
                         "preferredName": "Sal\u00e9",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     }
@@ -35138,7 +35751,7 @@
                         "startDate": "743",
                         "endDate": "1400",
                         "preferredName": "Sijilmasa",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -35177,7 +35790,7 @@
                         "startDate": "-450",
                         "endDate": "1470",
                         "preferredName": "Tingis",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "6",
                         "calcTagPosition": 0
                     },
@@ -35185,7 +35798,7 @@
                         "startDate": "1471",
                         "endDate": "2100",
                         "preferredName": "Tangier",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "6",
                         "calcTagPosition": 0
                     }
@@ -35240,7 +35853,7 @@
                         "startDate": "120",
                         "endDate": "700",
                         "preferredName": "Thagaste",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -35283,7 +35896,7 @@
                         "startDate": "-650",
                         "endDate": "-146",
                         "preferredName": "Oyat",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -35291,7 +35904,7 @@
                         "startDate": "-145",
                         "endDate": "849",
                         "preferredName": "Oea",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -35299,7 +35912,7 @@
                         "startDate": "850",
                         "endDate": "2100",
                         "preferredName": "Tripoli",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -35354,7 +35967,7 @@
                         "startDate": "698",
                         "endDate": "1158",
                         "preferredName": "Tunis",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -35362,7 +35975,7 @@
                         "startDate": "1159",
                         "endDate": "2100",
                         "preferredName": "Tunis",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -35401,7 +36014,7 @@
                         "startDate": "-250",
                         "endDate": "950",
                         "preferredName": "Volubilis",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     }
@@ -35444,7 +36057,7 @@
                         "startDate": "-540",
                         "endDate": "-330",
                         "preferredName": "Bakhlo",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -35452,7 +36065,7 @@
                         "startDate": "-329",
                         "endDate": "-120",
                         "preferredName": "Bactra",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -35460,7 +36073,7 @@
                         "startDate": "-119",
                         "endDate": "642",
                         "preferredName": "Bactra",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -35468,7 +36081,7 @@
                         "startDate": "643",
                         "endDate": "2100",
                         "preferredName": "Balkh",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -35519,7 +36132,7 @@
                         "startDate": "300",
                         "endDate": "995",
                         "preferredName": "Kath",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -35527,7 +36140,7 @@
                         "startDate": "996",
                         "endDate": "1956",
                         "preferredName": "Kath",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -35535,7 +36148,7 @@
                         "startDate": "1957",
                         "endDate": "2100",
                         "preferredName": "Beruniy",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -35578,7 +36191,7 @@
                         "startDate": "-500",
                         "endDate": "2100",
                         "preferredName": "Bukhara",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     }
@@ -35617,7 +36230,7 @@
                         "startDate": "500",
                         "endDate": "2100",
                         "preferredName": "Hazorasp",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -35664,7 +36277,7 @@
                         "startDate": "-400",
                         "endDate": "850",
                         "preferredName": "Kesh",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     },
@@ -35672,7 +36285,7 @@
                         "startDate": "851",
                         "endDate": "950",
                         "preferredName": "Kesh",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     }
@@ -35719,7 +36332,7 @@
                         "startDate": "950",
                         "endDate": "1514",
                         "preferredName": "Khiva",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "3",
                         "calcTagPosition": 0
                     },
@@ -35727,7 +36340,7 @@
                         "startDate": "1515",
                         "endDate": "1872",
                         "preferredName": "Khiva",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "3",
                         "calcTagPosition": 0
                     },
@@ -35735,7 +36348,7 @@
                         "startDate": "1873",
                         "endDate": "2100",
                         "preferredName": "Khiva",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "3",
                         "calcTagPosition": 0
                     }
@@ -35782,7 +36395,7 @@
                         "startDate": "-550",
                         "endDate": "-329",
                         "preferredName": "Cyreschata",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -35790,7 +36403,7 @@
                         "startDate": "-328",
                         "endDate": "-30",
                         "preferredName": "Alexandria Eschate",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -35798,7 +36411,7 @@
                         "startDate": "-29",
                         "endDate": "2100",
                         "preferredName": "Khujand",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -35857,7 +36470,7 @@
                         "startDate": "-500",
                         "endDate": "1117",
                         "preferredName": "Merv",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -35865,7 +36478,7 @@
                         "startDate": "1118",
                         "endDate": "1221",
                         "preferredName": "Merv",
-                        "size": "1",
+                        "size": 0.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -35873,7 +36486,7 @@
                         "startDate": "1222",
                         "endDate": "1789",
                         "preferredName": "Merv",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -35920,7 +36533,7 @@
                         "startDate": "900",
                         "endDate": "1450",
                         "preferredName": "Otrar",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -35963,7 +36576,7 @@
                         "startDate": "-400",
                         "endDate": "2100",
                         "preferredName": "Panjakent",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     }
@@ -36006,7 +36619,7 @@
                         "startDate": "-200",
                         "endDate": "650",
                         "preferredName": "Nakhshab",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "3",
                         "calcTagPosition": 0
                     },
@@ -36014,7 +36627,7 @@
                         "startDate": "651",
                         "endDate": "1250",
                         "preferredName": "Nasaf",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "3",
                         "calcTagPosition": 0
                     },
@@ -36022,7 +36635,7 @@
                         "startDate": "1251",
                         "endDate": "2100",
                         "preferredName": "Qarshi",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "3",
                         "calcTagPosition": 0
                     }
@@ -36073,7 +36686,7 @@
                         "startDate": "-550",
                         "endDate": "874",
                         "preferredName": "Samarkand",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -36081,7 +36694,7 @@
                         "startDate": "875",
                         "endDate": "1220",
                         "preferredName": "Samarkand",
-                        "size": "1",
+                        "size": 0.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -36089,7 +36702,7 @@
                         "startDate": "1221",
                         "endDate": "1369",
                         "preferredName": "Samarkand",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -36097,7 +36710,7 @@
                         "startDate": "1370",
                         "endDate": "1598",
                         "preferredName": "Samarkand",
-                        "size": "1",
+                        "size": 0.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -36105,7 +36718,7 @@
                         "startDate": "1599",
                         "endDate": "2100",
                         "preferredName": "Samarkand",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -36148,7 +36761,7 @@
                         "startDate": "951",
                         "endDate": "1320",
                         "preferredName": "Kesh",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     },
@@ -36156,7 +36769,7 @@
                         "startDate": "1321",
                         "endDate": "2100",
                         "preferredName": "Shahrisabz",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     }
@@ -36195,7 +36808,7 @@
                         "startDate": "500",
                         "endDate": "1400",
                         "preferredName": "Taraz",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -36203,7 +36816,7 @@
                         "startDate": "1401",
                         "endDate": "1700",
                         "preferredName": "Taraz",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -36246,7 +36859,7 @@
                         "startDate": "550",
                         "endDate": "2100",
                         "preferredName": "Tashkent",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -36289,7 +36902,7 @@
                         "startDate": "300",
                         "endDate": "1076",
                         "preferredName": "Urgench",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -36297,7 +36910,7 @@
                         "startDate": "1077",
                         "endDate": "1221",
                         "preferredName": "Urgench",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -36305,7 +36918,7 @@
                         "startDate": "1222",
                         "endDate": "1388",
                         "preferredName": "Urgench",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -36313,7 +36926,7 @@
                         "startDate": "1389",
                         "endDate": "1550",
                         "preferredName": "Urgench",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -36360,7 +36973,7 @@
                         "startDate": "-50",
                         "endDate": "2100",
                         "preferredName": "Aden",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -36407,7 +37020,7 @@
                         "startDate": "647",
                         "endDate": "2100",
                         "preferredName": "Jeddah",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     }
@@ -36446,7 +37059,7 @@
                         "startDate": "-750",
                         "endDate": "-50",
                         "preferredName": "Marib",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -36454,7 +37067,7 @@
                         "startDate": "-49",
                         "endDate": "2100",
                         "preferredName": "Marib",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -36501,7 +37114,7 @@
                         "startDate": "450",
                         "endDate": "549",
                         "preferredName": "Mecca",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -36509,7 +37122,7 @@
                         "startDate": "570",
                         "endDate": "2100",
                         "preferredName": "Mecca",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -36560,7 +37173,7 @@
                         "startDate": "300",
                         "endDate": "621",
                         "preferredName": "Medina",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -36568,7 +37181,7 @@
                         "startDate": "622",
                         "endDate": "2100",
                         "preferredName": "Medina",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -36619,7 +37232,7 @@
                         "startDate": "50",
                         "endDate": "2100",
                         "preferredName": "Sanaa",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -36658,7 +37271,7 @@
                         "startDate": "500",
                         "endDate": "2100",
                         "preferredName": "Tabuk",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -36705,7 +37318,7 @@
                         "startDate": "500",
                         "endDate": "2100",
                         "preferredName": "Taif",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     }
@@ -36748,7 +37361,7 @@
                         "startDate": "820",
                         "endDate": "1228",
                         "preferredName": "Zabid",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -36756,7 +37369,7 @@
                         "startDate": "1229",
                         "endDate": "2100",
                         "preferredName": "Zabid",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -36803,7 +37416,7 @@
                         "startDate": "50",
                         "endDate": "700",
                         "preferredName": "Adulis",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -36846,7 +37459,7 @@
                         "startDate": "50",
                         "endDate": "850",
                         "preferredName": "Aksum",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -36854,7 +37467,7 @@
                         "startDate": "851",
                         "endDate": "1250",
                         "preferredName": "Aksum",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -36862,7 +37475,7 @@
                         "startDate": "1251",
                         "endDate": "1611",
                         "preferredName": "Aksum",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -36870,7 +37483,7 @@
                         "startDate": "1612",
                         "endDate": "2100",
                         "preferredName": "Aksum",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -36917,7 +37530,7 @@
                         "startDate": "900",
                         "endDate": "1400",
                         "preferredName": "Lalibela",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -36956,7 +37569,7 @@
                         "startDate": "-700",
                         "endDate": "200",
                         "preferredName": "Matara",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -36995,7 +37608,7 @@
                         "startDate": "-100",
                         "endDate": "2100",
                         "preferredName": "Aksu",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37046,7 +37659,7 @@
                         "startDate": "-100",
                         "endDate": "900",
                         "preferredName": "Charklik",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37089,7 +37702,7 @@
                         "startDate": "-104",
                         "endDate": "2100",
                         "preferredName": "Dunhuang",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37144,7 +37757,7 @@
                         "startDate": "451",
                         "endDate": "839",
                         "preferredName": "Gaochang",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     },
@@ -37152,7 +37765,7 @@
                         "startDate": "840",
                         "endDate": "1350",
                         "preferredName": "Qocho",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "1",
                         "calcTagPosition": 0
                     }
@@ -37203,7 +37816,7 @@
                         "startDate": "-200",
                         "endDate": "2100",
                         "preferredName": "Hami",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37250,7 +37863,7 @@
                         "startDate": "-108",
                         "endDate": "450",
                         "preferredName": "Jiaohe",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     },
@@ -37258,7 +37871,7 @@
                         "startDate": "451",
                         "endDate": "1250",
                         "preferredName": "Jiaohe",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     }
@@ -37305,7 +37918,7 @@
                         "startDate": "-76",
                         "endDate": "2100",
                         "preferredName": "Kashgar",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37364,7 +37977,7 @@
                         "startDate": "-100",
                         "endDate": "1006",
                         "preferredName": "Khotan",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -37372,7 +37985,7 @@
                         "startDate": "1007",
                         "endDate": "2100",
                         "preferredName": "Khotan",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37423,7 +38036,7 @@
                         "startDate": "-150",
                         "endDate": "620",
                         "preferredName": "Kucha",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -37431,7 +38044,7 @@
                         "startDate": "621",
                         "endDate": "1250",
                         "preferredName": "Kucha",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37482,7 +38095,7 @@
                         "startDate": "-200",
                         "endDate": "330",
                         "preferredName": "Loulan",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37521,7 +38134,7 @@
                         "startDate": "-200",
                         "endDate": "900",
                         "preferredName": "Miran",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37564,7 +38177,7 @@
                         "startDate": "-100",
                         "endDate": "900",
                         "preferredName": "Qiemo",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37615,7 +38228,7 @@
                         "startDate": "300",
                         "endDate": "2100",
                         "preferredName": "Tumxuk",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37654,7 +38267,7 @@
                         "startDate": "1251",
                         "endDate": "2100",
                         "preferredName": "Turpan",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37697,7 +38310,7 @@
                         "startDate": "500",
                         "endDate": "2100",
                         "preferredName": "Uqturpan",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37748,7 +38361,7 @@
                         "startDate": "600",
                         "endDate": "900",
                         "preferredName": "Luntai",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -37756,7 +38369,7 @@
                         "startDate": "901",
                         "endDate": "1750",
                         "preferredName": "\u00dcr\u00fcmqi",
-                        "size": "4",
+                        "size": 3.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -37764,7 +38377,7 @@
                         "startDate": "1751",
                         "endDate": "1953",
                         "preferredName": "Dihua",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -37772,7 +38385,7 @@
                         "startDate": "1954",
                         "endDate": "2100",
                         "preferredName": "\u00dcr\u00fcmqi",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37823,7 +38436,7 @@
                         "startDate": "-50",
                         "endDate": "850",
                         "preferredName": "Agni",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -37831,7 +38444,7 @@
                         "startDate": "851",
                         "endDate": "2100",
                         "preferredName": "Karasahr",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37882,7 +38495,7 @@
                         "startDate": "-50",
                         "endDate": "2100",
                         "preferredName": "Yarkand",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37929,7 +38542,7 @@
                         "startDate": "1250",
                         "endDate": "2100",
                         "preferredName": "Agadez",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -37972,7 +38585,7 @@
                         "startDate": "850",
                         "endDate": "1200",
                         "preferredName": "Aoudaghost",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -38011,7 +38624,7 @@
                         "startDate": "1050",
                         "endDate": "1800",
                         "preferredName": "Begho",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "2",
                         "calcTagPosition": 0
                     }
@@ -38058,7 +38671,7 @@
                         "startDate": "1150",
                         "endDate": "2100",
                         "preferredName": "Bilma",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -38097,7 +38710,7 @@
                         "startDate": "1400",
                         "endDate": "2100",
                         "preferredName": "Bobo-Dioulasso",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -38140,7 +38753,7 @@
                         "startDate": "1000",
                         "endDate": "1500",
                         "preferredName": "Bono Manso",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -38187,7 +38800,7 @@
                         "startDate": "300",
                         "endDate": "2100",
                         "preferredName": "Djenn\u00e9",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -38242,7 +38855,7 @@
                         "startDate": "700",
                         "endDate": "919",
                         "preferredName": "Gao",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -38250,7 +38863,7 @@
                         "startDate": "920",
                         "endDate": "1280",
                         "preferredName": "Gao",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -38258,7 +38871,7 @@
                         "startDate": "1281",
                         "endDate": "1463",
                         "preferredName": "Gao",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -38266,7 +38879,7 @@
                         "startDate": "1464",
                         "endDate": "1590",
                         "preferredName": "Gao",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -38274,7 +38887,7 @@
                         "startDate": "1591",
                         "endDate": "2100",
                         "preferredName": "Gao",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -38321,7 +38934,7 @@
                         "startDate": "1050",
                         "endDate": "1444",
                         "preferredName": "Kangaba",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -38364,7 +38977,7 @@
                         "startDate": "1000",
                         "endDate": "2100",
                         "preferredName": "Kano",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -38403,7 +39016,7 @@
                         "startDate": "1445",
                         "endDate": "1904",
                         "preferredName": "Katsina",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -38411,7 +39024,7 @@
                         "startDate": "1905",
                         "endDate": "2100",
                         "preferredName": "Katsina",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -38419,7 +39032,7 @@
                         "startDate": "1100",
                         "endDate": "2100",
                         "preferredName": "Katsina",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -38458,7 +39071,7 @@
                         "startDate": "1300",
                         "endDate": "1709",
                         "preferredName": "Kong",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -38466,7 +39079,7 @@
                         "startDate": "1710",
                         "endDate": "1890",
                         "preferredName": "Kong",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -38474,7 +39087,7 @@
                         "startDate": "1891",
                         "endDate": "2100",
                         "preferredName": "Kong",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -38517,7 +39130,7 @@
                         "startDate": "500",
                         "endDate": "1049",
                         "preferredName": "Koumbi Saleh",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -38525,7 +39138,7 @@
                         "startDate": "1050",
                         "endDate": "1235",
                         "preferredName": "Koumbi Saleh",
-                        "size": "1",
+                        "size": 0.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -38533,7 +39146,7 @@
                         "startDate": "1236",
                         "endDate": "1380",
                         "preferredName": "Koumbi Saleh",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -38576,7 +39189,7 @@
                         "startDate": "800",
                         "endDate": "2100",
                         "preferredName": "Oualata",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -38623,7 +39236,7 @@
                         "startDate": "900",
                         "endDate": "1500",
                         "preferredName": "Tadmekka",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -38666,7 +39279,7 @@
                         "startDate": "1200",
                         "endDate": "1600",
                         "preferredName": "Taghaza",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -38713,7 +39326,7 @@
                         "startDate": "1080",
                         "endDate": "1379",
                         "preferredName": "Timbuktu",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -38721,7 +39334,7 @@
                         "startDate": "1380",
                         "endDate": "1591",
                         "preferredName": "Timbuktu",
-                        "size": "2",
+                        "size": 1.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     },
@@ -38729,7 +39342,7 @@
                         "startDate": "1592",
                         "endDate": "2100",
                         "preferredName": "Timbuktu",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -38768,7 +39381,7 @@
                         "startDate": "1420",
                         "endDate": "2100",
                         "preferredName": "Yendi",
-                        "size": "3",
+                        "size": 2.5,
                         "tagPosition": "0",
                         "calcTagPosition": 0
                     }
@@ -38811,24 +39424,24 @@
                         "startDate": "1010",
                         "endDate": "1400",
                         "preferredName": "Zaria",
-                        "size": "3",
-                        "tagPosition": "0",
+                        "size": 2.5,
+                        "tagPosition": "1",
                         "calcTagPosition": 0
                     },
                     {
                         "startDate": "1401",
                         "endDate": "1902",
                         "preferredName": "Zaria",
-                        "size": "2",
-                        "tagPosition": "0",
+                        "size": 1.5,
+                        "tagPosition": "1",
                         "calcTagPosition": 0
                     },
                     {
                         "startDate": "1903",
                         "endDate": "2100",
                         "preferredName": "Zaria",
-                        "size": "3",
-                        "tagPosition": "0",
+                        "size": 2.5,
+                        "tagPosition": "1",
                         "calcTagPosition": 0
                     }
                 ],
@@ -38847,6 +39460,611 @@
                     125880131.69394633
                 ],
                 "wikipediaArticleName": "Zaria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.41648",
+                    "47.10779"
+                ]
+            },
+            "properties": {
+                "identifier": "9a0065bc53cffd85265f11aec34fd087743afb17",
+                "city_base_id": "Azov",
+                "latitude": "47.10779",
+                "longitude": "39.41648",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1200",
+                        "endDate": "1471",
+                        "preferredName": "Tana",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1472",
+                        "endDate": "2100",
+                        "preferredName": "Azov",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Azov",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Tana",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Azak",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    163608785.72976357,
+                    94297819.25394556
+                ],
+                "wikipediaArticleName": "Azov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "33.4922580049",
+                    "44.611092882"
+                ]
+            },
+            "properties": {
+                "identifier": "55a65a09755a691d8380872a23468728d46f570f",
+                "city_base_id": "Chersonesus",
+                "latitude": "44.611092882",
+                "longitude": "33.4922580049",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-400",
+                        "endDate": "1400",
+                        "preferredName": "Chersonesus",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Cherson",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Chersonesus",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Chersonesus Taurica",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    159191365.63893053,
+                    96971679.88585785
+                ],
+                "wikipediaArticleName": "Chersonesus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "35.378768",
+                    "45.04609"
+                ]
+            },
+            "properties": {
+                "identifier": "a8c7a7e10a0afd4a8e4d206d05246cc79b71337d",
+                "city_base_id": "Feodosia",
+                "latitude": "45.04609",
+                "longitude": "35.378768",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-550",
+                        "endDate": "350",
+                        "preferredName": "Theodosia",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "351",
+                        "endDate": "1279",
+                        "preferredName": "Theodosia",
+                        "size": "4",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1280",
+                        "endDate": "1475",
+                        "preferredName": "Caffa",
+                        "size": "2",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1476",
+                        "endDate": "1774",
+                        "preferredName": "Kefe",
+                        "size": "2",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1775",
+                        "endDate": "2100",
+                        "preferredName": "Feodosia",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Feodosia",
+                        "language": "Russian"
+                    },
+                    {
+                        "name": "Theodosia",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Caffa",
+                        "language": "Turkic"
+                    },
+                    {
+                        "name": "Kefe",
+                        "language": "Turkish"
+                    }
+                ],
+                "mapPoint": [
+                    160598049.4466617,
+                    96514332.20158516
+                ],
+                "wikipediaArticleName": "Feodosia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "36.714100722",
+                    "45.2190564375"
+                ]
+            },
+            "properties": {
+                "identifier": "d836661d2e9c8c658fd344ef0c6e91885d74e63b",
+                "city_base_id": "Hermonassa",
+                "latitude": "45.2190564375",
+                "longitude": "36.714100722",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-550",
+                        "endDate": "700",
+                        "preferredName": "Hermonassa",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "701",
+                        "endDate": "900",
+                        "preferredName": "Tamatarkha",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "901",
+                        "endDate": "1400",
+                        "preferredName": "Tmutarakan",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Hermonassa",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Samkarsh",
+                        "language": "Arabic"
+                    },
+                    {
+                        "name": "Tamatarkha",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Tmutarakan",
+                        "language": "Russian"
+                    }
+                ],
+                "mapPoint": [
+                    161593745.6915,
+                    96331512.94847012
+                ],
+                "wikipediaArticleName": "Hermonassa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.120188926",
+                    "44.9422729113"
+                ]
+            },
+            "properties": {
+                "identifier": "88d6a17a4d95c38a7ac6290e66d658703b09ead8",
+                "city_base_id": "Neapolis Scythica",
+                "latitude": "44.9422729113",
+                "longitude": "34.120188926",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-250",
+                        "endDate": "250",
+                        "preferredName": "Neapolis Scythica",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Neapolis Scythica",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Neapolis",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    159659584.86988044,
+                    96623797.7105031
+                ],
+                "wikipediaArticleName": "Scythian_Neapolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "36.4176708796",
+                    "45.2366710073"
+                ]
+            },
+            "properties": {
+                "identifier": "b570692175a785f212f2a9d444fcc6dbc26ed345",
+                "city_base_id": "Nymphaion",
+                "latitude": "45.2366710073",
+                "longitude": "36.4176708796",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-580",
+                        "endDate": "350",
+                        "preferredName": "Nymphaion",
+                        "size": "3",
+                        "tagPosition": "6",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Nymphaion",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Nymphaeum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    161372711.5806204,
+                    96312863.82234885
+                ],
+                "wikipediaArticleName": "Nymphaion_(Crimea)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "36.4685796815",
+                    "45.350983375"
+                ]
+            },
+            "properties": {
+                "identifier": "dcb615ba3037401671c0073755f48ac03eeb163d",
+                "city_base_id": "Pantikapaion",
+                "latitude": "45.350983375",
+                "longitude": "36.4685796815",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-600",
+                        "endDate": "-481",
+                        "preferredName": "Pantikapaion",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-480",
+                        "endDate": "-63",
+                        "preferredName": "Pantikapaion",
+                        "size": "2",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "-62",
+                        "endDate": "400",
+                        "preferredName": "Pantikapaion",
+                        "size": "3",
+                        "tagPosition": "2",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Pantikapaion",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Bosphorus",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Panticapaeum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    161410671.93465495,
+                    96191696.79669663
+                ],
+                "wikipediaArticleName": "Pantikapaion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "36.95966825",
+                    "45.27625825"
+                ]
+            },
+            "properties": {
+                "identifier": "d5e0b2fcf1ca2c0e47fd06dd1657e73fc9a80f17",
+                "city_base_id": "Phanagoria",
+                "latitude": "45.27625825",
+                "longitude": "36.95966825",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-543",
+                        "endDate": "25",
+                        "preferredName": "Phanagoria",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "26",
+                        "endDate": "350",
+                        "preferredName": "Phanagoria",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "351",
+                        "endDate": "900",
+                        "preferredName": "Phanagoria",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Phanagoria",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    161776854.11193743,
+                    96270930.39584644
+                ],
+                "wikipediaArticleName": "Phanagoria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "31.9058567704",
+                    "46.6923856639"
+                ]
+            },
+            "properties": {
+                "identifier": "8f0818c7b2efd4e9edaef1db7e8727ce1d8d8b69",
+                "city_base_id": "Pontic Olbia",
+                "latitude": "46.6923856639",
+                "longitude": "31.9058567704",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-650",
+                        "endDate": "350",
+                        "preferredName": "Pontic Olbia",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Pontic Olbia",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Borysth\u00e9n\u0113s",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Olbia",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Olbia Pontica",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Miletopolis",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    158008459.14231393,
+                    94751152.41340616
+                ],
+                "wikipediaArticleName": "Pontic Olbia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "34.11079",
+                    "44.95719"
+                ]
+            },
+            "properties": {
+                "identifier": "2e84c8b91a081c8c49f623fce319b958fc660080",
+                "city_base_id": "Simferopol",
+                "latitude": "44.95719",
+                "longitude": "34.11079",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1450",
+                        "endDate": "1783",
+                        "preferredName": "Aqmescit",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1784",
+                        "endDate": "2100",
+                        "preferredName": "Simferopol",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Simferopol",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Aqmescit",
+                        "language": "Turkic"
+                    }
+                ],
+                "mapPoint": [
+                    159652576.52269512,
+                    96608081.21340793
+                ],
+                "wikipediaArticleName": "Simferopol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "39.335670567",
+                    "47.2686877906"
+                ]
+            },
+            "properties": {
+                "identifier": "17218232b074179728635720aa39f7b2dda543a9",
+                "city_base_id": "Tanais",
+                "latitude": "47.2686877906",
+                "longitude": "39.335670567",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "-275",
+                        "endDate": "450",
+                        "preferredName": "Tanais",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Tanais",
+                        "language": "Greek"
+                    },
+                    {
+                        "name": "Emporion",
+                        "language": "Greek"
+                    }
+                ],
+                "mapPoint": [
+                    163548529.84921783,
+                    94121280.62963016
+                ],
+                "wikipediaArticleName": "Tanais"
             }
         }
     ]
