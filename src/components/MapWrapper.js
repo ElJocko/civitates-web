@@ -109,7 +109,7 @@ const createGhostZIndex = function(feature) {
 
 const sizeArray = Array.from({ length: 50 }, (value, index) => index);
 const featureResolutionThreshold = Array.from(sizeArray, (x) => 500 * Math.pow(2, (50-x)/10));
-console.log(featureResolutionThreshold);
+//console.log(featureResolutionThreshold);
 //const featureResolutionThreshold = [20000, 8000, 4000, 2000, 1000];
 function getFeatureStyle(feature, resolution) {
     const citySize = feature.get('size');

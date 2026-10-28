@@ -25,16 +25,16 @@
     ]
   },
   "dependencies": {
-    "dompurify": "^3.3.1",
+    "dompurify": "^3.4.17",
     "lodash.debounce": "^4.0.8",
     "lodash.throttle": "^4.1.1",
-    "ol": "^10.8.0",
+    "ol": "^10.11.0",
     "rc-slider": "^11.1.9",
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
     "react-scripts": "^5.0.1",
-    "serve": "^14.2.5",
-    "uuid": "^13.0.0"
+    "serve": "^14.2.6",
+    "uuid": "^14.0.3"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
