@@ -15080,6 +15080,81 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "23.572315",
+                    "46.066695"
+                ]
+            },
+            "properties": {
+                "identifier": "a5a6ceff1e15b3657c63c68d2f697befb9bea050",
+                "city_base_id": "Alba Iulia",
+                "latitude": "46.066695",
+                "longitude": "23.572315",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "120",
+                        "endDate": "271",
+                        "preferredName": "Apulum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "950",
+                        "endDate": "1541",
+                        "preferredName": "Alba Iulia",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1542",
+                        "endDate": "1689",
+                        "preferredName": "Alba Iulia",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1690",
+                        "endDate": "2100",
+                        "preferredName": "Alba Iulia",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Alba Iulia",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Apulum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Karlsburg",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Gyulafeh\u00e9rv\u00e1r",
+                        "language": "Hungarian"
+                    }
+                ],
+                "mapPoint": [
+                    151794520.01666844,
+                    95427440.30046621
+                ],
+                "wikipediaArticleName": "Alba_Iulia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "19.7001398474",
                     "40.3790045245"
                 ]
@@ -15112,6 +15187,45 @@
                     101254122.21696256
                 ],
                 "wikipediaArticleName": "Amantia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.1171489745",
+                    "45.773968669"
+                ]
+            },
+            "properties": {
+                "identifier": "0c23b8e083564e72416fecd004c48987e983502c",
+                "city_base_id": "Andautonia",
+                "latitude": "45.773968669",
+                "longitude": "16.1171489745",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "50",
+                        "endDate": "350",
+                        "preferredName": "Andautonia",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Andautonia",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    146235545.31774956,
+                    95741205.60083304
+                ],
+                "wikipediaArticleName": "Andautonia"
             }
         },
         {
@@ -15202,6 +15316,207 @@
                     96817511.25103958
                 ],
                 "wikipediaArticleName": "Argamum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "20.4579465",
+                    "44.812991"
+                ]
+            },
+            "properties": {
+                "identifier": "8ee688f0fe9e3babb0c96602f16a69677de39400",
+                "city_base_id": "Belgrade",
+                "latitude": "44.812991",
+                "longitude": "20.4579465",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-279",
+                        "endDate": "520",
+                        "preferredName": "Singidunum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "521",
+                        "endDate": "1273",
+                        "preferredName": "Belgrade",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1274",
+                        "endDate": "1426",
+                        "preferredName": "Belgrade",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1427",
+                        "endDate": "1840",
+                        "preferredName": "Belgrade",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1841",
+                        "endDate": "2100",
+                        "preferredName": "Belgrade",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Belgrade",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Beograd",
+                        "language": "Serbian"
+                    },
+                    {
+                        "name": "Singidunum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    149472278.54875305,
+                    96759837.15785979
+                ],
+                "wikipediaArticleName": "Belgrade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "17.10674",
+                    "48.14816"
+                ]
+            },
+            "properties": {
+                "identifier": "763d9d6091b45ad31f29895ddf4a652257375cca",
+                "city_base_id": "Bratislava",
+                "latitude": "48.14816",
+                "longitude": "17.10674",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1030",
+                        "endDate": "1535",
+                        "preferredName": "Pozsony",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1536",
+                        "endDate": "1783",
+                        "preferredName": "Pozsony",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1784",
+                        "endDate": "1918",
+                        "preferredName": "Pozsony",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1919",
+                        "endDate": "2100",
+                        "preferredName": "Bratislava",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Bratislava",
+                        "language": "Slovak"
+                    },
+                    {
+                        "name": "Pozsony",
+                        "language": "Hungarian"
+                    },
+                    {
+                        "name": "Pressburg",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    146973437.86825955,
+                    93146692.51405478
+                ],
+                "wikipediaArticleName": "Bratislava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "26.10626",
+                    "44.43225"
+                ]
+            },
+            "properties": {
+                "identifier": "d61712b0f0731136b665f3590ace6b05c5a3f5ad",
+                "city_base_id": "Bucharest",
+                "latitude": "44.43225",
+                "longitude": "26.10626",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1459",
+                        "endDate": "1697",
+                        "preferredName": "Bucharest",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1698",
+                        "endDate": "2100",
+                        "preferredName": "Bucharest",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Bucharest",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Bucure\u0219ti",
+                        "language": "Romanian"
+                    }
+                ],
+                "mapPoint": [
+                    153683966.35431823,
+                    97158717.51405899
+                ],
+                "wikipediaArticleName": "Bucharest"
             }
         },
         {
@@ -15712,6 +16027,89 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "18.7392875",
+                    "47.795813"
+                ]
+            },
+            "properties": {
+                "identifier": "997ba32fa4105d5740805692c022ee6a4d2a880d",
+                "city_base_id": "Esztergom",
+                "latitude": "47.795813",
+                "longitude": "18.7392875",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "9",
+                        "endDate": "599",
+                        "preferredName": "Solva",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "600",
+                        "endDate": "959",
+                        "preferredName": "Str\u011bgom",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "960",
+                        "endDate": "1542",
+                        "preferredName": "Esztergom",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1543",
+                        "endDate": "2100",
+                        "preferredName": "Esztergom",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Esztergom",
+                        "language": "Hungarian"
+                    },
+                    {
+                        "name": "Solva",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Strigonium",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Ester\u0121on",
+                        "language": "Turkish"
+                    },
+                    {
+                        "name": "Str\u011bgom",
+                        "language": "Old Slavonic"
+                    },
+                    {
+                        "name": "Gran",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    148190753.5143822,
+                    93539123.8871375
+                ],
+                "wikipediaArticleName": "Esztergom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "16.601041",
                     "43.184286"
                 ]
@@ -15877,6 +16275,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "21.25808",
+                    "48.71395"
+                ]
+            },
+            "properties": {
+                "identifier": "31e8c9d5da7dfe216de8f52dd1f7ae6da0e1e325",
+                "city_base_id": "Ko\u0161ice",
+                "latitude": "48.71395",
+                "longitude": "21.25808",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1230",
+                        "endDate": "2100",
+                        "preferredName": "Ko\u0161ice",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ko\u0161ice",
+                        "language": "Slovak"
+                    }
+                ],
+                "mapPoint": [
+                    150068901.32912356,
+                    92510857.6238274
+                ],
+                "wikipediaArticleName": "Ko\u0161ice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "19.64361",
                     "41.78361"
                 ]
@@ -15937,6 +16374,81 @@
                     99864567.06663227
                 ],
                 "wikipediaArticleName": "Lezh\u00eb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.505963",
+                    "46.051425"
+                ]
+            },
+            "properties": {
+                "identifier": "b0072e96a2b8e1aa469f7de689614c570c195992",
+                "city_base_id": "Ljubljana",
+                "latitude": "46.051425",
+                "longitude": "14.505963",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "14",
+                        "endDate": "500",
+                        "preferredName": "Emona",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "501",
+                        "endDate": "1255",
+                        "preferredName": "Laibach",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1256",
+                        "endDate": "1928",
+                        "preferredName": "Laibach",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1929",
+                        "endDate": "2100",
+                        "preferredName": "Ljubljana",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ljubljana",
+                        "language": "Slovene"
+                    },
+                    {
+                        "name": "Emona",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Laibach",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Labacum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    145034157.97951147,
+                    95443848.81239001
+                ],
+                "wikipediaArticleName": "Ljubljana"
             }
         },
         {
@@ -16125,6 +16637,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "18.08453",
+                    "48.30763"
+                ]
+            },
+            "properties": {
+                "identifier": "df606a25d42a6799b9afae4655a3d122d7803128",
+                "city_base_id": "Nitra",
+                "latitude": "48.30763",
+                "longitude": "18.08453",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "833",
+                        "endDate": "2100",
+                        "preferredName": "Nitra",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Nitra",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    147702530.9363769,
+                    92968195.00832886
+                ],
+                "wikipediaArticleName": "Nitra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "13.562104",
                     "45.315245"
                 ]
@@ -16201,7 +16752,7 @@
                         "endDate": "1240",
                         "preferredName": "Buda",
                         "size": "3",
-                        "tagPosition": "2",
+                        "tagPosition": "6",
                         "calcTagPosition": 0
                     },
                     {
@@ -16209,7 +16760,7 @@
                         "endDate": "1873",
                         "preferredName": "\u00d3buda",
                         "size": "4",
-                        "tagPosition": "2",
+                        "tagPosition": "6",
                         "calcTagPosition": 0
                     }
                 ],
@@ -17578,6 +18129,61 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "25.4567",
+                    "44.92543"
+                ]
+            },
+            "properties": {
+                "identifier": "ac67dab0b89ebb56f172c8a28d7e458e4c3d4b10",
+                "city_base_id": "T\u00e2rgovi\u0219te",
+                "latitude": "44.92543",
+                "longitude": "25.4567",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1300",
+                        "endDate": "1430",
+                        "preferredName": "T\u00e2rgovi\u0219te",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1431",
+                        "endDate": "1699",
+                        "preferredName": "T\u00e2rgovi\u0219te",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1700",
+                        "endDate": "2100",
+                        "preferredName": "T\u00e2rgovi\u0219te",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "T\u00e2rgovi\u0219te",
+                        "language": "Romanian"
+                    }
+                ],
+                "mapPoint": [
+                    153199619.3132089,
+                    96641538.32762325
+                ],
+                "wikipediaArticleName": "T\u00e2rgovi\u0219te"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "25.62904",
                     "43.08124"
                 ]
@@ -17638,6 +18244,45 @@
                     98553534.83249858
                 ],
                 "wikipediaArticleName": "Tarnovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "24.86667",
+                    "43.75"
+                ]
+            },
+            "properties": {
+                "identifier": "bc4fac86997a4b9205bb613eab2c9a2a71d85303",
+                "city_base_id": "Turnu M\u0103gurele",
+                "latitude": "43.75",
+                "longitude": "24.86667",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1394",
+                        "endDate": "2100",
+                        "preferredName": "Turnu M\u0103gurele",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Turnu M\u0103gurele",
+                        "language": "Romanian"
+                    }
+                ],
+                "mapPoint": [
+                    152759661.05736533,
+                    97867025.75195432
+                ],
+                "wikipediaArticleName": "Turnu_M\u0103gurele"
             }
         },
         {
@@ -17784,7 +18429,7 @@
                         "endDate": "430",
                         "preferredName": "Vindobona",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "4",
                         "calcTagPosition": 0
                     },
                     {
@@ -17792,7 +18437,7 @@
                         "endDate": "1500",
                         "preferredName": "Vienna",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "4",
                         "calcTagPosition": 0
                     },
                     {
@@ -17800,7 +18445,7 @@
                         "endDate": "1600",
                         "preferredName": "Vienna",
                         "size": "2",
-                        "tagPosition": "0",
+                        "tagPosition": "4",
                         "calcTagPosition": 0
                     },
                     {
@@ -17808,7 +18453,7 @@
                         "endDate": "2100",
                         "preferredName": "Vienna",
                         "size": "1",
-                        "tagPosition": "0",
+                        "tagPosition": "4",
                         "calcTagPosition": 0
                     }
                 ],
@@ -17945,6 +18590,69 @@
                     98573235.17993772
                 ],
                 "wikipediaArticleName": "Vis_(town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "15.97798",
+                    "45.81444"
+                ]
+            },
+            "properties": {
+                "identifier": "dd8630897930dae75dd835f23618c30f7f75051f",
+                "city_base_id": "Zagreb",
+                "latitude": "45.81444",
+                "longitude": "15.97798",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1094",
+                        "endDate": "1241",
+                        "preferredName": "Zagreb",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1242",
+                        "endDate": "1576",
+                        "preferredName": "Zagreb",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1577",
+                        "endDate": "2100",
+                        "preferredName": "Zagreb",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Zagreb",
+                        "language": "Croatian"
+                    },
+                    {
+                        "name": "Gradec",
+                        "language": "Croatian"
+                    },
+                    {
+                        "name": "Kaptol",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    146131773.40905246,
+                    95697923.92346716
+                ],
+                "wikipediaArticleName": "Zagreb"
             }
         },
         {
@@ -20744,7 +21452,7 @@
                         "endDate": "84",
                         "preferredName": "Mogontiacum",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "1",
                         "calcTagPosition": 0
                     },
                     {
@@ -20752,7 +21460,7 @@
                         "endDate": "297",
                         "preferredName": "Mogontiacum",
                         "size": "2",
-                        "tagPosition": "0",
+                        "tagPosition": "1",
                         "calcTagPosition": 0
                     },
                     {
@@ -20760,7 +21468,7 @@
                         "endDate": "460",
                         "preferredName": "Mogontiacum",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "1",
                         "calcTagPosition": 0
                     },
                     {
@@ -20768,7 +21476,7 @@
                         "endDate": "2100",
                         "preferredName": "Mainz",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "1",
                         "calcTagPosition": 0
                     }
                 ],
@@ -21912,6 +22620,89 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "8.436718",
+                    "49.3172545"
+                ]
+            },
+            "properties": {
+                "identifier": "606960e98c8f80c7049b7e4440ed4fe7c736e3f8",
+                "city_base_id": "Speyer",
+                "latitude": "49.3172545",
+                "longitude": "8.436718",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "150",
+                        "endDate": "495",
+                        "preferredName": "Noviomagus",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "496",
+                        "endDate": "1023",
+                        "preferredName": "Speyer",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1024",
+                        "endDate": "1206",
+                        "preferredName": "Speyer",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1207",
+                        "endDate": "2100",
+                        "preferredName": "Speyer",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Speyer",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Noviomagus",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Nemetae",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Noviomagus Nemetum",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Spira",
+                        "language": "Frankish"
+                    },
+                    {
+                        "name": "Spires",
+                        "language": "English"
+                    }
+                ],
+                "mapPoint": [
+                    140508600.89853725,
+                    91824936.0990336
+                ],
+                "wikipediaArticleName": "Speyer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "7.74296",
                     "48.58342"
                 ]
@@ -22271,7 +23062,7 @@
                         "endDate": "270",
                         "preferredName": "Augusta Treverorum",
                         "size": "3",
-                        "tagPosition": "1",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     },
                     {
@@ -22279,7 +23070,7 @@
                         "endDate": "401",
                         "preferredName": "Augusta Treverorum",
                         "size": "1",
-                        "tagPosition": "1",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     },
                     {
@@ -22287,7 +23078,7 @@
                         "endDate": "484",
                         "preferredName": "Augusta Treverorum",
                         "size": "3",
-                        "tagPosition": "1",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     },
                     {
@@ -22295,7 +23086,7 @@
                         "endDate": "2100",
                         "preferredName": "Trier",
                         "size": "3",
-                        "tagPosition": "0",
+                        "tagPosition": "2",
                         "calcTagPosition": 0
                     }
                 ],
@@ -22554,6 +23345,65 @@
                     96007295.57238698
                 ],
                 "wikipediaArticleName": "Vienne,_Is\u00e8re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.3588465",
+                    "49.630359"
+                ]
+            },
+            "properties": {
+                "identifier": "f388f75448030bd8a3096c921ac0c04c2b20a1b4",
+                "city_base_id": "Worms",
+                "latitude": "49.630359",
+                "longitude": "8.3588465",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-17",
+                        "endDate": "200",
+                        "preferredName": "Borbetomagus",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "201",
+                        "endDate": "460",
+                        "preferredName": "Borbetomagus",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "461",
+                        "endDate": "2100",
+                        "preferredName": "Worms",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Worms",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Borbetomagus",
+                        "language": "Celtic"
+                    }
+                ],
+                "mapPoint": [
+                    140450535.6996153,
+                    91465640.46827832
+                ],
+                "wikipediaArticleName": "Worms,_Germany"
             }
         },
         {
@@ -35456,6 +36306,128 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "-7.99994",
+                    "31.63416"
+                ]
+            },
+            "properties": {
+                "identifier": "02b44823fd68d2f78f5f85953d20e140f2d925a6",
+                "city_base_id": "Marrakesh",
+                "latitude": "31.63416",
+                "longitude": "-7.99994",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1070",
+                        "endDate": "1147",
+                        "preferredName": "Marrakesh",
+                        "size": 0.5,
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1148",
+                        "endDate": "1269",
+                        "preferredName": "Marrakesh",
+                        "size": 1.5,
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1270",
+                        "endDate": "2100",
+                        "preferredName": "Marrakesh",
+                        "size": 2.5,
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Marrakesh",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    128252540.38368711,
+                    109330883.51065692
+                ],
+                "wikipediaArticleName": "Marrakesh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-5.54727",
+                    "33.89352"
+                ]
+            },
+            "properties": {
+                "identifier": "deb805054a9ed352249c8404d43d4699965c8908",
+                "city_base_id": "Meknes",
+                "latitude": "33.89352",
+                "longitude": "-5.54727",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1080",
+                        "endDate": "1200",
+                        "preferredName": "Meknes",
+                        "size": 3.5,
+                        "tagPosition": "7",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1201",
+                        "endDate": "1671",
+                        "preferredName": "Meknes",
+                        "size": 2.5,
+                        "tagPosition": "7",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1672",
+                        "endDate": "1729",
+                        "preferredName": "Meknes",
+                        "size": 1.5,
+                        "tagPosition": "7",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1730",
+                        "endDate": "2100",
+                        "preferredName": "Meknes",
+                        "size": 2.5,
+                        "tagPosition": "7",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Meknes",
+                        "language": "Berber"
+                    },
+                    {
+                        "name": "Taqrart",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    130081383.68887468,
+                    107327216.15740043
+                ],
+                "wikipediaArticleName": "Meknes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "20.9538495946",
                     "32.7071341858"
                 ]
@@ -40065,6 +41037,1567 @@
                     94121280.62963016
                 ],
                 "wikipediaArticleName": "Tanais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10.894765",
+                    "48.365463"
+                ]
+            },
+            "properties": {
+                "identifier": "aad008cca9ea8d031306c7ca406d6183711333b7",
+                "city_base_id": "Augsburg",
+                "latitude": "48.365463",
+                "longitude": "10.894765",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-15",
+                        "endDate": "119",
+                        "preferredName": "Augusta Vindelicorum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "120",
+                        "endDate": "476",
+                        "preferredName": "Augusta Vindelicorum",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "477",
+                        "endDate": "750",
+                        "preferredName": "Augusta Vindelicorum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "751",
+                        "endDate": "950",
+                        "preferredName": "Augsburg",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "951",
+                        "endDate": "1806",
+                        "preferredName": "Augsburg",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1807",
+                        "endDate": "2100",
+                        "preferredName": "Augsburg",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Augsburg",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Augusta Vindelicorum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    142341453.5855218,
+                    92903323.76471293
+                ],
+                "wikipediaArticleName": "Augsburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.41053",
+                    "52.52437"
+                ]
+            },
+            "properties": {
+                "identifier": "5c23ba082a6c998e568770b2412e6811ee15dfd6",
+                "city_base_id": "Berlin",
+                "latitude": "52.52437",
+                "longitude": "13.41053",
+                "elevation": "74",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1237",
+                        "endDate": "1442",
+                        "preferredName": "Berlin",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1443",
+                        "endDate": "1639",
+                        "preferredName": "Berlin",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1640",
+                        "endDate": "1700",
+                        "preferredName": "Berlin",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1701",
+                        "endDate": "2100",
+                        "preferredName": "Berlin",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Berlin",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Berlin-C\u00f6lln",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    144217343.93264356,
+                    88029437.7512801
+                ],
+                "wikipediaArticleName": "Berlin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.358007",
+                    "46.496713"
+                ]
+            },
+            "properties": {
+                "identifier": "e12202dc136b78bae3313437b48411676eb8d981",
+                "city_base_id": "Bolzano",
+                "latitude": "46.496713",
+                "longitude": "11.358007",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "-15",
+                        "endDate": "768",
+                        "preferredName": "Bauzanum",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "769",
+                        "endDate": "2100",
+                        "preferredName": "Bolzano",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Bolzano",
+                        "language": "Italian"
+                    },
+                    {
+                        "name": "Bozen",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Bauzanum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    142686871.85637832,
+                    94963482.96024458
+                ],
+                "wikipediaArticleName": "Bolzano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.55",
+                    "52.41667"
+                ]
+            },
+            "properties": {
+                "identifier": "52d2390998ebfb4ee0adcf83540bcb9e125df6c0",
+                "city_base_id": "Brandenburg",
+                "latitude": "52.41667",
+                "longitude": "12.55",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "948",
+                        "endDate": "1650",
+                        "preferredName": "Brandenburg",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1651",
+                        "endDate": "2100",
+                        "preferredName": "Brandenburg",
+                        "size": "4",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Brandenburg",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Brandenburg an der Havel",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Brennaburg",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    143575686.25777778,
+                    88161268.03215972
+                ],
+                "wikipediaArticleName": "Brandenburg_an_der_Havel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.80777",
+                    "53.07516"
+                ]
+            },
+            "properties": {
+                "identifier": "23ddda4be3d9bb1068565ef9a235340ac44ba893",
+                "city_base_id": "Bremen",
+                "latitude": "53.07516",
+                "longitude": "8.80777",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "650",
+                        "endDate": "2100",
+                        "preferredName": "Bremen",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Bremen",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    140785277.32303646,
+                    87350138.63740322
+                ],
+                "wikipediaArticleName": "Bremen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.73832",
+                    "51.05089"
+                ]
+            },
+            "properties": {
+                "identifier": "ff98cd9f884c1ff9fae5a933b918f85ec84c42fa",
+                "city_base_id": "Dresden",
+                "latitude": "51.05089",
+                "longitude": "13.73832",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1206",
+                        "endDate": "1484",
+                        "preferredName": "Dresden",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1485",
+                        "endDate": "2100",
+                        "preferredName": "Dresden",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Dresden",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    144461761.871872,
+                    89805825.28221205
+                ],
+                "wikipediaArticleName": "Dresden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.19675",
+                    "48.88854"
+                ]
+            },
+            "properties": {
+                "identifier": "c6fbd49a703d1ba85c0fa32c424960ad0052ee4e",
+                "city_base_id": "Eichst\u00e4tt",
+                "latitude": "48.88854",
+                "longitude": "11.19675",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "900",
+                        "endDate": "2100",
+                        "preferredName": "Eichst\u00e4tt",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Eichst\u00e4tt",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    142566629.92213336,
+                    92313211.9034155
+                ],
+                "wikipediaArticleName": "Eichst\u00e4tt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.680469",
+                    "50.111491"
+                ]
+            },
+            "properties": {
+                "identifier": "127736e23107f009792c8f2dc7160341e2910b09",
+                "city_base_id": "Frankfurt",
+                "latitude": "50.111491",
+                "longitude": "8.680469",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "794",
+                        "endDate": "2100",
+                        "preferredName": "Frankfurt",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Frankfurt",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Frankfurt am Main",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Vadum Francorum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    140690354.8175246,
+                    90908998.84727877
+                ],
+                "wikipediaArticleName": "Frankfurt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "7.85222",
+                    "47.9959"
+                ]
+            },
+            "properties": {
+                "identifier": "7b86b77df68eb0971e448c02cc9367c859dc27fe",
+                "city_base_id": "Freiburg",
+                "latitude": "47.9959",
+                "longitude": "7.85222",
+                "elevation": "278",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1120",
+                        "endDate": "2100",
+                        "preferredName": "Freiburg",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Freiburg",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Freiburg im Breisgau",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    140072767.60086754,
+                    93316602.88572863
+                ],
+                "wikipediaArticleName": "Freiburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.74876",
+                    "48.40351"
+                ]
+            },
+            "properties": {
+                "identifier": "19b1a5ffb7df51138fb28a147246b3a9b425134f",
+                "city_base_id": "Freising",
+                "latitude": "48.40351",
+                "longitude": "11.74876",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "750",
+                        "endDate": "2100",
+                        "preferredName": "Freising",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Freising",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    142978238.4112071,
+                    92860606.28715707
+                ],
+                "wikipediaArticleName": "Freising"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10.42766",
+                    "51.90425"
+                ]
+            },
+            "properties": {
+                "identifier": "8774d2c5048595420c7d5d3c86af0cb621317d32",
+                "city_base_id": "Goslar",
+                "latitude": "51.90425",
+                "longitude": "10.42766",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "979",
+                        "endDate": "2100",
+                        "preferredName": "Goslar",
+                        "size": "3",
+                        "tagPosition": "4",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Goslar",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    141993154.85309157,
+                    88784125.9208516
+                ],
+                "wikipediaArticleName": "Goslar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.05622",
+                    "51.89562"
+                ]
+            },
+            "properties": {
+                "identifier": "47582f654a21d2cf5191b15c7205ed7d13cc06f4",
+                "city_base_id": "Halberstadt",
+                "latitude": "51.89562",
+                "longitude": "11.05622",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "814",
+                        "endDate": "2100",
+                        "preferredName": "Halberstadt",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Halberstadt",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    142461843.15926754,
+                    88794554.78792128
+                ],
+                "wikipediaArticleName": "Halberstadt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10.01534",
+                    "53.57532"
+                ]
+            },
+            "properties": {
+                "identifier": "7e2385869a636d35c5ba4a136eb04940219ab0f2",
+                "city_base_id": "Hamburg",
+                "latitude": "53.57532",
+                "longitude": "10.01534",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "831",
+                        "endDate": "2100",
+                        "preferredName": "Hamburg",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Hamburg",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    141685706.77748623,
+                    86725713.16547032
+                ],
+                "wikipediaArticleName": "Hamburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.399902",
+                    "47.253961"
+                ]
+            },
+            "properties": {
+                "identifier": "032b94b5cc118973ca2d59f914df03b654cf53fc",
+                "city_base_id": "Innsbruck",
+                "latitude": "47.253961",
+                "longitude": "11.399902",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "350",
+                        "endDate": "779",
+                        "preferredName": "Veldidena",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "780",
+                        "endDate": "1428",
+                        "preferredName": "Innsbruck",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1429",
+                        "endDate": "1489",
+                        "preferredName": "Innsbruck",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1490",
+                        "endDate": "1665",
+                        "preferredName": "Innsbruck",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1666",
+                        "endDate": "2100",
+                        "preferredName": "Innsbruck",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Innsbruck",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Veldidena",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Wilten",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    142718111.0325703,
+                    94137461.28319868
+                ],
+                "wikipediaArticleName": "Innsbruck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.2884245",
+                    "48.304564"
+                ]
+            },
+            "properties": {
+                "identifier": "fb7e695f42710d98217729311d54698de0ff055b",
+                "city_base_id": "Linz",
+                "latitude": "48.304564",
+                "longitude": "14.2884245",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "50",
+                        "endDate": "798",
+                        "preferredName": "Lentia",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "799",
+                        "endDate": "1235",
+                        "preferredName": "Linz",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1236",
+                        "endDate": "2100",
+                        "preferredName": "Linz",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Linz",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Lentia",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    144871949.51716408,
+                    92971632.08599705
+                ],
+                "wikipediaArticleName": "Linz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "10.68729",
+                    "53.86893"
+                ]
+            },
+            "properties": {
+                "identifier": "207e2178b9e3f8d24d60d44c041593b89f352a84",
+                "city_base_id": "L\u00fcbeck",
+                "latitude": "53.86893",
+                "longitude": "10.68729",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1143",
+                        "endDate": "1240",
+                        "preferredName": "L\u00fcbeck",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1241",
+                        "endDate": "1500",
+                        "preferredName": "L\u00fcbeck",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1501",
+                        "endDate": "2100",
+                        "preferredName": "L\u00fcbeck",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "L\u00fcbeck",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Hansestadt L\u00fcbeck",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    142186749.01265067,
+                    86355708.26153749
+                ],
+                "wikipediaArticleName": "L\u00fcbeck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.62916",
+                    "52.12773"
+                ]
+            },
+            "properties": {
+                "identifier": "bbf5ff6833be58ebadd9909bb4b4c8b294ecd28a",
+                "city_base_id": "Magdeburg",
+                "latitude": "52.12773",
+                "longitude": "11.62916",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "805",
+                        "endDate": "2100",
+                        "preferredName": "Magdeburg",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Magdeburg",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    142889058.18749157,
+                    88513362.23563537
+                ],
+                "wikipediaArticleName": "Magdeburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.4737",
+                    "51.16158"
+                ]
+            },
+            "properties": {
+                "identifier": "09d1aa259b657fd111689c53fefbe979f170d79f",
+                "city_base_id": "Meissen",
+                "latitude": "51.16158",
+                "longitude": "13.4737",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "965",
+                        "endDate": "1464",
+                        "preferredName": "Meissen",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1465",
+                        "endDate": "2100",
+                        "preferredName": "Meissen",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Meissen",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Mei\u00dfen",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    144264446.89863113,
+                    89674372.27614543
+                ],
+                "wikipediaArticleName": "Meissen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.57549",
+                    "48.13743"
+                ]
+            },
+            "properties": {
+                "identifier": "88d0a5ad2fd369e3413a811a453e5d5dc8b5e72d",
+                "city_base_id": "Munich",
+                "latitude": "48.13743",
+                "longitude": "11.57549",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1158",
+                        "endDate": "1505",
+                        "preferredName": "Munich",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1506",
+                        "endDate": "2100",
+                        "preferredName": "Munich",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Munich",
+                        "language": "English"
+                    },
+                    {
+                        "name": "M\u00fcnchen",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    142849038.93492624,
+                    93158682.84901139
+                ],
+                "wikipediaArticleName": "Munich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.637743",
+                    "50.154109"
+                ]
+            },
+            "properties": {
+                "identifier": "7e0080d829f4647b00c205780db44558f637ff82",
+                "city_base_id": "Nida",
+                "latitude": "50.154109",
+                "longitude": "8.637743",
+                "elevation": "0",
+                "prefix": "ancient",
+                "periods": [
+                    {
+                        "startDate": "69",
+                        "endDate": "275",
+                        "preferredName": "Nida",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Nida",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    140658496.00282168,
+                    90859423.53706813
+                ],
+                "wikipediaArticleName": "Nida_(Roman_town)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.07752",
+                    "49.45421"
+                ]
+            },
+            "properties": {
+                "identifier": "071177f60eec239cf66f4b5de7de22be707fe4c4",
+                "city_base_id": "Nuremberg",
+                "latitude": "49.45421",
+                "longitude": "11.07752",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1050",
+                        "endDate": "1210",
+                        "preferredName": "Nuremberg",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1211",
+                        "endDate": "1543",
+                        "preferredName": "Nuremberg",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1544",
+                        "endDate": "2100",
+                        "preferredName": "Nuremberg",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Nuremberg",
+                        "language": "English"
+                    },
+                    {
+                        "name": "N\u00fcrnberg",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    142477725.59041423,
+                    91668058.56448144
+                ],
+                "wikipediaArticleName": "Nuremberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "17.25175",
+                    "49.59552"
+                ]
+            },
+            "properties": {
+                "identifier": "c1ef98fde156d0546ec2be7a418d97a59f2add42",
+                "city_base_id": "Olomouc",
+                "latitude": "49.59552",
+                "longitude": "17.25175",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1063",
+                        "endDate": "1249",
+                        "preferredName": "Olomouc",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1250",
+                        "endDate": "1639",
+                        "preferredName": "Olomouc",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1640",
+                        "endDate": "2100",
+                        "preferredName": "Olomouc",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Olomouc",
+                        "language": "Czech"
+                    },
+                    {
+                        "name": "Olm\u00fctz",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    147081565.16124445,
+                    91505732.95521507
+                ],
+                "wikipediaArticleName": "Olomouc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "8.75439",
+                    "51.71905"
+                ]
+            },
+            "properties": {
+                "identifier": "7b22274b859c8192e62407ff7712f330c3fa5d3a",
+                "city_base_id": "Paderborn",
+                "latitude": "51.71905",
+                "longitude": "8.75439",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "777",
+                        "endDate": "2100",
+                        "preferredName": "Paderborn",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Paderborn",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    140745474.310144,
+                    89007491.38403639
+                ],
+                "wikipediaArticleName": "Paderborn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.463921",
+                    "48.573506"
+                ]
+            },
+            "properties": {
+                "identifier": "5aca685c625c94f1bd228c9153b3f069111bebec",
+                "city_base_id": "Passau",
+                "latitude": "48.573506",
+                "longitude": "13.463921",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "50",
+                        "endDate": "738",
+                        "preferredName": "Batavi",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "739",
+                        "endDate": "2100",
+                        "preferredName": "Passau",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Passau",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Batavi",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    144257155.1477305,
+                    92669350.91757621
+                ],
+                "wikipediaArticleName": "Passau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "14.42076",
+                    "50.08804"
+                ]
+            },
+            "properties": {
+                "identifier": "c4f299a1861e041f81d51824f59ab30c2b606057",
+                "city_base_id": "Prague",
+                "latitude": "50.08804",
+                "longitude": "14.42076",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "850",
+                        "endDate": "1084",
+                        "preferredName": "Prague",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1085",
+                        "endDate": "2100",
+                        "preferredName": "Prague",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Prague",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Praha",
+                        "language": "Czech"
+                    }
+                ],
+                "mapPoint": [
+                    144970626.01796266,
+                    90936259.36316821
+                ],
+                "wikipediaArticleName": "Prague"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "12.09851225",
+                    "49.0198074"
+                ]
+            },
+            "properties": {
+                "identifier": "4b1d09aabf3c66981bbd17405911234fb04ec537",
+                "city_base_id": "Regensburg",
+                "latitude": "49.0198074",
+                "longitude": "12.09851225",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "90",
+                        "endDate": "738",
+                        "preferredName": "Reginum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "739",
+                        "endDate": "2100",
+                        "preferredName": "Regensburg",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Regensburg",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Castra Regina",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Reginum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    143239032.59097317,
+                    92164154.88716373
+                ],
+                "wikipediaArticleName": "Regensburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "13.0455165",
+                    "47.7991735"
+                ]
+            },
+            "properties": {
+                "identifier": "55916bbcec8a69aa31484bddab61df098e3afc56",
+                "city_base_id": "Salzburg",
+                "latitude": "47.7991735",
+                "longitude": "13.0455165",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "45",
+                        "endDate": "487",
+                        "preferredName": "Iuvavum",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "488",
+                        "endDate": "695",
+                        "preferredName": "Iuvavum",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "696",
+                        "endDate": "2100",
+                        "preferredName": "Salzburg",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Salzburg",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Iuvavum",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    143945170.14009172,
+                    93535393.6910403
+                ],
+                "wikipediaArticleName": "Salzburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "15.622695",
+                    "48.20473"
+                ]
+            },
+            "properties": {
+                "identifier": "9eef2dc4bb568732d669f38ff8218a687cab28bc",
+                "city_base_id": "St. P\u00f6lten",
+                "latitude": "48.20473",
+                "longitude": "15.622695",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "150",
+                        "endDate": "350",
+                        "preferredName": "Cetium",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "750",
+                        "endDate": "2100",
+                        "preferredName": "St. P\u00f6lten",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "St. P\u00f6lten",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Sankt P\u00f6lten",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Cetium",
+                        "language": "Latin"
+                    },
+                    {
+                        "name": "Treisma",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    145866853.711872,
+                    93083436.3722358
+                ],
+                "wikipediaArticleName": "St. P\u00f6lten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "9.99155",
+                    "48.39841"
+                ]
+            },
+            "properties": {
+                "identifier": "40e6a9f9b2b455e06057604724a7bc089b52d247",
+                "city_base_id": "Ulm",
+                "latitude": "48.39841",
+                "longitude": "9.99155",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "854",
+                        "endDate": "2100",
+                        "preferredName": "Ulm",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Ulm",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    141667967.6677689,
+                    92866334.19385341
+                ],
+                "wikipediaArticleName": "Ulm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "17.036297",
+                    "51.10931"
+                ]
+            },
+            "properties": {
+                "identifier": "cf222070f81df92e3df4194645a8db76e5de437c",
+                "city_base_id": "Wroc\u0142aw",
+                "latitude": "51.10931",
+                "longitude": "17.036297",
+                "elevation": "0",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "950",
+                        "endDate": "2100",
+                        "preferredName": "Wroc\u0142aw",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Wroc\u0142aw",
+                        "language": "Polish"
+                    },
+                    {
+                        "name": "Breslau",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    146920911.76040676,
+                    89736486.20770955
+                ],
+                "wikipediaArticleName": "Wroc\u0142aw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "9.93611",
+                    "49.78778"
+                ]
+            },
+            "properties": {
+                "identifier": "51654cafe3435b569a0069c283c01886c8fd3432",
+                "city_base_id": "W\u00fcrzburg",
+                "latitude": "49.78778",
+                "longitude": "9.93611",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "600",
+                        "endDate": "2100",
+                        "preferredName": "W\u00fcrzburg",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "W\u00fcrzburg",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    141626628.60754487,
+                    91284122.97397473
+                ],
+                "wikipediaArticleName": "W\u00fcrzburg"
             }
         }
     ]
