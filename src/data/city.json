@@ -41597,6 +41597,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "12.17337",
+                    "53.7972"
+                ]
+            },
+            "properties": {
+                "identifier": "8b7d9c3b1aaa68bb33b1523be8e7d4a6ada53d9b",
+                "city_base_id": "G\u00fcstrow",
+                "latitude": "53.7972",
+                "longitude": "12.17337",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1228",
+                        "endDate": "2100",
+                        "preferredName": "G\u00fcstrow",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "G\u00fcstrow",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    143294850.57501867,
+                    86446340.64067777
+                ],
+                "wikipediaArticleName": "G\u00fcstrow"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "11.05622",
                     "51.89562"
                 ]
@@ -42013,6 +42052,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "13.27532",
+                    "53.56414"
+                ]
+            },
+            "properties": {
+                "identifier": "5c49268e21f4953a070b2c48dfa0faaf54f8e58c",
+                "city_base_id": "Neubrandenburg",
+                "latitude": "53.56414",
+                "longitude": "13.27532",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1248",
+                        "endDate": "2100",
+                        "preferredName": "Neubrandenburg",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Neubrandenburg",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    144116524.04929423,
+                    86739751.21543485
+                ],
+                "wikipediaArticleName": "Neubrandenburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "8.637743",
                     "50.154109"
                 ]
@@ -42366,6 +42444,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "12.14049",
+                    "54.0887"
+                ]
+            },
+            "properties": {
+                "identifier": "92af606f65517579c8de182fa48f13ef292e1b4f",
+                "city_base_id": "Rostock",
+                "latitude": "54.0887",
+                "longitude": "12.14049",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1100",
+                        "endDate": "2100",
+                        "preferredName": "Rostock",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Rostock",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    143270333.47003734,
+                    86077052.8758513
+                ],
+                "wikipediaArticleName": "Rostock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "13.0455165",
                     "47.7991735"
                 ]
@@ -42418,6 +42535,61 @@
                     93535393.6910403
                 ],
                 "wikipediaArticleName": "Salzburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "11.41316",
+                    "53.62937"
+                ]
+            },
+            "properties": {
+                "identifier": "7a0f081975360fbc1a9af0663c7aa4bc5d5c31f5",
+                "city_base_id": "Schwerin",
+                "latitude": "53.62937",
+                "longitude": "11.41316",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1050",
+                        "endDate": "1357",
+                        "preferredName": "Schwerin",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1358",
+                        "endDate": "1749",
+                        "preferredName": "Schwerin",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1750",
+                        "endDate": "2100",
+                        "preferredName": "Schwerin",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Schwerin",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    142727996.91389155,
+                    86657793.44384235
+                ],
+                "wikipediaArticleName": "Schwerin"
             }
         },
         {
@@ -42523,6 +42695,45 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    "11.45286",
+                    "53.89314"
+                ]
+            },
+            "properties": {
+                "identifier": "476a596e81b7e6124a04cc3b3781060f7bd486aa",
+                "city_base_id": "Wismar",
+                "latitude": "53.89314",
+                "longitude": "11.45286",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1200",
+                        "endDate": "2100",
+                        "preferredName": "Wismar",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Wismar",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    142757599.37945598,
+                    86325083.3343748
+                ],
+                "wikipediaArticleName": "Wismar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     "17.036297",
                     "51.10931"
                 ]
@@ -42598,6 +42809,1242 @@
                     91284122.97397473
                 ],
                 "wikipediaArticleName": "W\u00fcrzburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18.00762",
+                    "53.1235"
+                ]
+            },
+            "properties": {
+                "identifier": "3c7f6bb9c10fb088d27f6d1ed2778e1bdb616b34",
+                "city_base_id": "Bydgoszcz",
+                "latitude": "53.1235",
+                "longitude": "18.00762",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1250",
+                        "endDate": "2100",
+                        "preferredName": "Bydgoszcz",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Bydgoszcz",
+                        "language": "Polish"
+                    },
+                    {
+                        "name": "Bromberg",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    147645182.68381867,
+                    87290106.74894014
+                ],
+                "wikipediaArticleName": "Bydgoszcz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18.4251",
+                    "53.34855"
+                ]
+            },
+            "properties": {
+                "identifier": "a1c91319126652cb1f178c3a45eef430893f519c",
+                "city_base_id": "Che\u0142mno",
+                "latitude": "53.34855",
+                "longitude": "18.4251",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1232",
+                        "endDate": "1453",
+                        "preferredName": "Culm",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1454",
+                        "endDate": "2100",
+                        "preferredName": "Che\u0142mno",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Che\u0142mno",
+                        "language": "Polish"
+                    },
+                    {
+                        "name": "Culm",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    147956478.33429334,
+                    87009731.93690039
+                ],
+                "wikipediaArticleName": "Che\u0142mno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "19.40884",
+                    "54.1522"
+                ]
+            },
+            "properties": {
+                "identifier": "ed3c0140c48b6b77353813896180cdaa04e976a0",
+                "city_base_id": "Elbl\u0105g",
+                "latitude": "54.1522",
+                "longitude": "19.40884",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1237",
+                        "endDate": "1945",
+                        "preferredName": "Elbing",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1946",
+                        "endDate": "2100",
+                        "preferredName": "Elbl\u0105g",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Elbl\u0105g",
+                        "language": "Polish"
+                    },
+                    {
+                        "name": "Elbing",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    148690008.0439751,
+                    85996263.93061
+                ],
+                "wikipediaArticleName": "Elbl\u0105g"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18.64637",
+                    "54.35205"
+                ]
+            },
+            "properties": {
+                "identifier": "3955273cd26741b36a69bd181976a4245dfff48b",
+                "city_base_id": "Gda\u0144sk",
+                "latitude": "54.35205",
+                "longitude": "18.64637",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "997",
+                        "endDate": "1307",
+                        "preferredName": "Gda\u0144sk",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1308",
+                        "endDate": "1944",
+                        "preferredName": "Danzig",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1945",
+                        "endDate": "2100",
+                        "preferredName": "Gda\u0144sk",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Gda\u0144sk",
+                        "language": "Polish"
+                    },
+                    {
+                        "name": "Danzig",
+                        "language": "English"
+                    }
+                ],
+                "mapPoint": [
+                    148121469.20470756,
+                    85741189.7483458
+                ],
+                "wikipediaArticleName": "Gda\u0144sk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "17.58259",
+                    "52.53481"
+                ]
+            },
+            "properties": {
+                "identifier": "78a7853a89ba0b4f45b1e35355298504d6d15bb6",
+                "city_base_id": "Gniezno",
+                "latitude": "52.53481",
+                "longitude": "17.58259",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "980",
+                        "endDate": "2100",
+                        "preferredName": "Gniezno",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Gniezno",
+                        "language": "Polish"
+                    }
+                ],
+                "mapPoint": [
+                    147328257.34530845,
+                    88016641.48685482
+                ],
+                "wikipediaArticleName": "Gniezno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "20.51095",
+                    "54.70649"
+                ]
+            },
+            "properties": {
+                "identifier": "f8f2b351a5b4a05abd230b93cc03ae9e039b001c",
+                "city_base_id": "Kaliningrad",
+                "latitude": "54.70649",
+                "longitude": "20.51095",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1255",
+                        "endDate": "1945",
+                        "preferredName": "K\u00f6nigsberg",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1946",
+                        "endDate": "2100",
+                        "preferredName": "Kaliningrad",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kaliningrad",
+                        "language": "Russian"
+                    },
+                    {
+                        "name": "K\u00f6nigsberg",
+                        "language": "German"
+                    },
+                    {
+                        "name": "Kr\u00f3lewiec",
+                        "language": "Polish"
+                    }
+                ],
+                "mapPoint": [
+                    149511800.8228978,
+                    85285739.75722674
+                ],
+                "wikipediaArticleName": "K\u00f6nigsberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "21.1175",
+                    "55.71722"
+                ]
+            },
+            "properties": {
+                "identifier": "a99894b696a48c4089c4bf56f05b325af033b6e9",
+                "city_base_id": "Klaip\u0117da",
+                "latitude": "55.71722",
+                "longitude": "21.1175",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1252",
+                        "endDate": "1945",
+                        "preferredName": "Memel",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1946",
+                        "endDate": "2100",
+                        "preferredName": "Klaip\u0117da",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Klaip\u0117da",
+                        "language": "Lithuanian"
+                    },
+                    {
+                        "name": "Memel",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    149964077.28355557,
+                    83964709.92363754
+                ],
+                "wikipediaArticleName": "Klaip\u0117da"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "19.93658",
+                    "50.06143"
+                ]
+            },
+            "properties": {
+                "identifier": "521a38e0b0622ae9d6a6f0bab519ef3bab60fd97",
+                "city_base_id": "Krak\u00f3w",
+                "latitude": "50.06143",
+                "longitude": "19.93658",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "965",
+                        "endDate": "1037",
+                        "preferredName": "Krak\u00f3w",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1038",
+                        "endDate": "2100",
+                        "preferredName": "Krak\u00f3w",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Krak\u00f3w",
+                        "language": "Polish"
+                    }
+                ],
+                "mapPoint": [
+                    149083519.50939023,
+                    90967175.89518607
+                ],
+                "wikipediaArticleName": "Krak\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "15.26816",
+                    "49.94839"
+                ]
+            },
+            "properties": {
+                "identifier": "60f2abc95d7d5038f9c712127f10006df8078953",
+                "city_base_id": "Kutn\u00e1 Hora",
+                "latitude": "49.94839",
+                "longitude": "15.26816",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1289",
+                        "endDate": "1749",
+                        "preferredName": "Kutn\u00e1 Hora",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1750",
+                        "endDate": "2100",
+                        "preferredName": "Kutn\u00e1 Hora",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kutn\u00e1 Hora",
+                        "language": "Czech"
+                    },
+                    {
+                        "name": "Kuttenberg",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    145602493.25522488,
+                    91098319.36135206
+                ],
+                "wikipediaArticleName": "Kutn\u00e1 Hora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "30.5238",
+                    "50.45466"
+                ]
+            },
+            "properties": {
+                "identifier": "f93561737f35933a2bb306077afd02e19276f363",
+                "city_base_id": "Kyiv",
+                "latitude": "50.45466",
+                "longitude": "30.5238",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "840",
+                        "endDate": "1000",
+                        "preferredName": "Kyiv",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1001",
+                        "endDate": "2100",
+                        "preferredName": "Kyiv",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Kyiv",
+                        "language": "Ukrainian"
+                    },
+                    {
+                        "name": "Kiev",
+                        "language": "Russian"
+                    },
+                    {
+                        "name": "Kij\u00f3w",
+                        "language": "Polish"
+                    }
+                ],
+                "mapPoint": [
+                    156977922.92181334,
+                    90508546.857454
+                ],
+                "wikipediaArticleName": "Kyiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "22.56667",
+                    "51.25"
+                ]
+            },
+            "properties": {
+                "identifier": "fecae71d7b0c2beceeddb3dcc01b452bb9a8d3df",
+                "city_base_id": "Lublin",
+                "latitude": "51.25",
+                "longitude": "22.56667",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1250",
+                        "endDate": "1473",
+                        "preferredName": "Lublin",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1474",
+                        "endDate": "1654",
+                        "preferredName": "Lublin",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1655",
+                        "endDate": "2100",
+                        "preferredName": "Lublin",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Lublin",
+                        "language": "Polish"
+                    }
+                ],
+                "mapPoint": [
+                    151044656.7551431,
+                    89569139.84028755
+                ],
+                "wikipediaArticleName": "Lublin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "24.02324",
+                    "49.83826"
+                ]
+            },
+            "properties": {
+                "identifier": "ffbde3de0e7e3634cede56dc2c423ed78acff493",
+                "city_base_id": "Lviv",
+                "latitude": "49.83826",
+                "longitude": "24.02324",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1250",
+                        "endDate": "1269",
+                        "preferredName": "Lviv",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1270",
+                        "endDate": "1339",
+                        "preferredName": "Lviv",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1340",
+                        "endDate": "1771",
+                        "preferredName": "Lw\u00f3w",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1772",
+                        "endDate": "1945",
+                        "preferredName": "Lemberg",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1946",
+                        "endDate": "2100",
+                        "preferredName": "L\u02b9viv",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Lviv",
+                        "language": "English"
+                    },
+                    {
+                        "name": "L\u02b9viv",
+                        "language": "Ukrainian"
+                    },
+                    {
+                        "name": "Lw\u00f3w",
+                        "language": "Polish"
+                    },
+                    {
+                        "name": "Lemberg",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    152130754.06665954,
+                    91225791.11592352
+                ],
+                "wikipediaArticleName": "Lviv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "19.0266",
+                    "54.03591"
+                ]
+            },
+            "properties": {
+                "identifier": "66d7685bc1886d6eb0f4df77099c6308923acfaa",
+                "city_base_id": "Malbork",
+                "latitude": "54.03591",
+                "longitude": "19.0266",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1274",
+                        "endDate": "1308",
+                        "preferredName": "Marienburg",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1309",
+                        "endDate": "1466",
+                        "preferredName": "Marienburg",
+                        "size": "2",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1467",
+                        "endDate": "1945",
+                        "preferredName": "Marienburg",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1946",
+                        "endDate": "2100",
+                        "preferredName": "Malbork",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Malbork",
+                        "language": "Polish"
+                    },
+                    {
+                        "name": "Marienburg",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    148404989.2420267,
+                    86144121.7764762
+                ],
+                "wikipediaArticleName": "Malbork"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "27.56667",
+                    "53.9"
+                ]
+            },
+            "properties": {
+                "identifier": "95487bf26933db99e0e99429e56fd6bca1adb6fd",
+                "city_base_id": "Minsk",
+                "latitude": "53.9",
+                "longitude": "27.56667",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1067",
+                        "endDate": "2100",
+                        "preferredName": "Minsk",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Minsk",
+                        "language": "Russian"
+                    }
+                ],
+                "mapPoint": [
+                    154772926.97736534,
+                    86316402.4136472
+                ],
+                "wikipediaArticleName": "Minsk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.7856",
+                    "55.4879"
+                ]
+            },
+            "properties": {
+                "identifier": "2f23db4ddda434876a5f3515fab5a4239b513a3a",
+                "city_base_id": "Polotsk",
+                "latitude": "55.4879",
+                "longitude": "28.7856",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "862",
+                        "endDate": "950",
+                        "preferredName": "Polotsk",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "951",
+                        "endDate": "1239",
+                        "preferredName": "Polotsk",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1240",
+                        "endDate": "2100",
+                        "preferredName": "Polotsk",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Polotsk",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    155681827.06176,
+                    84267391.57495697
+                ],
+                "wikipediaArticleName": "Polotsk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "16.92993",
+                    "52.40692"
+                ]
+            },
+            "properties": {
+                "identifier": "725e41fa6c4480e239c51c983693191707bf3b69",
+                "city_base_id": "Pozna\u0144",
+                "latitude": "52.40692",
+                "longitude": "16.92993",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "960",
+                        "endDate": "2100",
+                        "preferredName": "Pozna\u0144",
+                        "size": "3",
+                        "tagPosition": "1",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Pozna\u0144",
+                        "language": "Polish"
+                    },
+                    {
+                        "name": "Posen",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    146841598.77666134,
+                    88173186.62383626
+                ],
+                "wikipediaArticleName": "Pozna\u0144"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "22.76728",
+                    "49.78498"
+                ]
+            },
+            "properties": {
+                "identifier": "61c5bf3cfaddce5c577500b74ee9280747dd2724",
+                "city_base_id": "Przemy\u015bl",
+                "latitude": "49.78498",
+                "longitude": "22.76728",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "981",
+                        "endDate": "1650",
+                        "preferredName": "Przemy\u015bl",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1651",
+                        "endDate": "2100",
+                        "preferredName": "Przemy\u015bl",
+                        "size": "4",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Przemy\u015bl",
+                        "language": "Polish"
+                    }
+                ],
+                "mapPoint": [
+                    151194242.41299912,
+                    91287356.71692911
+                ],
+                "wikipediaArticleName": "Przemy\u015bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "28.3496",
+                    "57.8136"
+                ]
+            },
+            "properties": {
+                "identifier": "a20c7a34b2883bccc90aea38c0198ebc4f3e2936",
+                "city_base_id": "Pskov",
+                "latitude": "57.8136",
+                "longitude": "28.3496",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "903",
+                        "endDate": "2100",
+                        "preferredName": "Pskov",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Pskov",
+                        "language": "Russian"
+                    },
+                    {
+                        "name": "Pleskov",
+                        "language": "Russian"
+                    }
+                ],
+                "mapPoint": [
+                    155356721.89838225,
+                    81111656.88460812
+                ],
+                "wikipediaArticleName": "Pskov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "24.10589",
+                    "56.946"
+                ]
+            },
+            "properties": {
+                "identifier": "5120e1712b01d118a2b5d9b330977b4a402b2280",
+                "city_base_id": "Riga",
+                "latitude": "56.946",
+                "longitude": "24.10589",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1201",
+                        "endDate": "2100",
+                        "preferredName": "Riga",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Riga",
+                        "language": "English"
+                    }
+                ],
+                "mapPoint": [
+                    152192382.37343287,
+                    82311813.62615433
+                ],
+                "wikipediaArticleName": "Riga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "32.0401",
+                    "54.7818"
+                ]
+            },
+            "properties": {
+                "identifier": "9db34f2cadb88122617c7903ead5889618b585a6",
+                "city_base_id": "Smolensk",
+                "latitude": "54.7818",
+                "longitude": "32.0401",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "863",
+                        "endDate": "1053",
+                        "preferredName": "Smolensk",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1054",
+                        "endDate": "2100",
+                        "preferredName": "Smolensk",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Smolensk",
+                        "language": "Russian"
+                    }
+                ],
+                "mapPoint": [
+                    158108558.14940444,
+                    85188455.5572897
+                ],
+                "wikipediaArticleName": "Smolensk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "18.59814",
+                    "53.01375"
+                ]
+            },
+            "properties": {
+                "identifier": "7f0a59be2206e403d26294e78211fcbfd89850c1",
+                "city_base_id": "Toru\u0144",
+                "latitude": "53.01375",
+                "longitude": "18.59814",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1232",
+                        "endDate": "1917",
+                        "preferredName": "Thorn",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1918",
+                        "endDate": "2100",
+                        "preferredName": "Toru\u0144",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Toru\u0144",
+                        "language": "Polish"
+                    },
+                    {
+                        "name": "Thorn",
+                        "language": "German"
+                    }
+                ],
+                "mapPoint": [
+                    148085506.310144,
+                    87426304.62380102
+                ],
+                "wikipediaArticleName": "Toru\u0144"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "25.2798",
+                    "54.68916"
+                ]
+            },
+            "properties": {
+                "identifier": "f6f0ff35b74ea929fe6cb997664bdec5eb5313fc",
+                "city_base_id": "Vilnius",
+                "latitude": "54.68916",
+                "longitude": "25.2798",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1323",
+                        "endDate": "2100",
+                        "preferredName": "Vilnius",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Vilnius",
+                        "language": "Lithuanian"
+                    },
+                    {
+                        "name": "Wilno",
+                        "language": "Polish"
+                    },
+                    {
+                        "name": "Vilna",
+                        "language": "Latin"
+                    }
+                ],
+                "mapPoint": [
+                    153067713.11274666,
+                    85308100.78791255
+                ],
+                "wikipediaArticleName": "Vilnius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "30.2049",
+                    "55.1904"
+                ]
+            },
+            "properties": {
+                "identifier": "290d6fd25d00d82c5bf42ee1e0a2ee6a8ea2b5b7",
+                "city_base_id": "Vitebsk",
+                "latitude": "55.1904",
+                "longitude": "30.2049",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "950",
+                        "endDate": "1150",
+                        "preferredName": "Vitebsk",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1151",
+                        "endDate": "1319",
+                        "preferredName": "Vitebsk",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1320",
+                        "endDate": "2100",
+                        "preferredName": "Vitebsk",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Vitebsk",
+                        "language": "Unknown"
+                    },
+                    {
+                        "name": "Vitsyebsk",
+                        "language": "Unknown"
+                    }
+                ],
+                "mapPoint": [
+                    156740133.84704003,
+                    84657450.47444014
+                ],
+                "wikipediaArticleName": "Vitebsk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "21.01178",
+                    "52.22977"
+                ]
+            },
+            "properties": {
+                "identifier": "799d72af262ba3d8ca28a33d00c22ea0d4220e2e",
+                "city_base_id": "Warsaw",
+                "latitude": "52.22977",
+                "longitude": "21.01178",
+                "elevation": "",
+                "prefix": "modern",
+                "periods": [
+                    {
+                        "startDate": "1300",
+                        "endDate": "1412",
+                        "preferredName": "Warsaw",
+                        "size": "3",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1413",
+                        "endDate": "1595",
+                        "preferredName": "Warsaw",
+                        "size": "2",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    },
+                    {
+                        "startDate": "1596",
+                        "endDate": "2100",
+                        "preferredName": "Warsaw",
+                        "size": "1",
+                        "tagPosition": "0",
+                        "calcTagPosition": 0
+                    }
+                ],
+                "altNames": [
+                    {
+                        "name": "Warsaw",
+                        "language": "English"
+                    },
+                    {
+                        "name": "Warszawa",
+                        "language": "Polish"
+                    }
+                ],
+                "mapPoint": [
+                    149885246.73797688,
+                    88389281.0648633
+                ],
+                "wikipediaArticleName": "Warsaw"
             }
         }
     ]
